@@ -94,22 +94,6 @@ Then open:
 - Streamlit demo: [Open Streamlit App](https://tech-community-insights.streamlit.app/)
 - GitHub Pages demo: [Open GitHub Pages](https://mohammad-khalil0.github.io/Tech-Community-Insights/)
 
-## How To Get The Streamlit Demo Link
-
-1. Push this project to a GitHub repository.
-2. Go to [Streamlit Community Cloud](https://share.streamlit.io/).
-3. Sign in and connect your GitHub account.
-4. Click `Create app`.
-5. Select your repository, branch, and entry file: `dashboard.py`.
-6. In the `App URL` field, choose a custom subdomain if you want a cleaner public link.
-7. Click `Deploy`.
-
-After deployment finishes, Streamlit gives you a public link on the `streamlit.app` domain. If you choose your own subdomain, the link will look like:
-
-- [https://your-app-name.streamlit.app](https://your-app-name.streamlit.app)
-
-If you leave the subdomain blank, Streamlit auto-generates one based on your GitHub repo and app file path.
-
 ## Automation
 
 The GitHub Actions workflow in `.github/workflows/main.yml` is configured to:
@@ -138,3 +122,13 @@ Through this project, I practiced:
 ## Course Context
 
 This repository was developed as part of the `COSC482 Data Science & Web Scraping` course at `Rafik Hariri University (RHU)` during the `Fall 2025` semester.
+
+## Authors
+
+This project was completed by `Mohammad Khalil` and teammate `Mohammad Sati`.
+
+## Copyright
+
+Copyright © 2026. All rights reserved.
+
+See the [LICENSE](LICENSE) file for full terms.
