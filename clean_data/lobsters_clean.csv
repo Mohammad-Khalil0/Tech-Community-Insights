@@ -328,3 +328,4 @@ Debian SE Linux and PinTheft,4,0,https://etbe.coker.com.au/2026/05/24/debian-sel
 "libwce: the entropy layer of a wavelet codec, on its own",1,0,https://yogthos.net/posts/2026-05-24-libwce.html,https://lobste.rs/s/d3uwf1,Yogthos,2026-05-24 08:43:11-05:00,2026-05-24 15:48:08,"['graphics', 'programming', 'rust']",d3uwf1,hot,lobsters
 From AFSK to Goertzel,2,0,https://uart.cz/2959/from-afsk-to-goertzel/,https://lobste.rs/s/vqivdq,Bernerd,2026-05-24 09:22:54-05:00,2026-05-24 15:48:08,"['math', 'programming']",vqivdq,hot,lobsters
 Does bulk memmove speed up std::remove_if? (No.),4,1,https://quuxplusone.github.io/blog/2026/05/23/chunked-remove/,https://lobste.rs/s/rh9r9j,raymii,2026-05-24 00:17:04-05:00,2026-05-24 15:48:08,['c++'],rh9r9j,hot,lobsters
+fht-compositor: A dynamic tiling Wayland compositor,2,0,https://github.com/nferhat/fht-compositor,https://lobste.rs/s/rzs4bq,mrunix,2026-05-24 05:37:11-05:00,2026-05-24 20:40:09,['linux'],rzs4bq,hot,lobsters
