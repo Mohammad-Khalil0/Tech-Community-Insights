@@ -891,3 +891,9 @@ Updating Stacked Pull Requests with git rebase --onto,2,0,https://bd103.dev/blog
 "Godot 4.7: Lights, Camera, Action",5,0,https://godotengine.org/releases/4.7/,https://lobste.rs/s/heb0am,joshsharp,2026-06-19 03:26:25-05:00,2026-06-19 10:15:03,"['games', 'release']",heb0am,hot,lobsters
 Show your hands honor for the strange power they bring you,7,0,https://aresluna.org/show-your-hands-honor/,https://lobste.rs/s/ukxhyz,eBPF,2026-06-18 23:27:44-05:00,2026-06-19 10:15:03,"['design', 'historical']",ukxhyz,hot,lobsters
 Rethinking modularity in Ruby applications,1,0,https://noteflakes.com/articles/2026-06-18-syntropy-modules,https://lobste.rs/s/jtscci,noteflakes,2026-06-19 04:20:18-05:00,2026-06-19 10:15:03,"['ruby', 'web']",jtscci,hot,lobsters
+DiffsHub,6,2,https://diffshub.com/,https://lobste.rs/s/u0nv8q,quad,2026-06-19 05:36:25-05:00,2026-06-19 14:46:28,"['vcs', 'vibecoding']",u0nv8q,hot,lobsters
+Shutting Down Fornjot,6,1,https://fornjot.app/blog/shutting-down-fornjot/,https://lobste.rs/s/ggp2ov,dzervas,2026-06-19 06:28:45-05:00,2026-06-19 14:46:28,"['programming', 'rust']",ggp2ov,hot,lobsters
+Aspirational Clownmaxxing and Joey's cadillac todo list,2,0,https://charlesleifer.com/blog/aspirational-clownmaxxing-and-joey-s-cadillac-todo-list/,https://lobste.rs/s/dsy6r3,coleifer,2026-06-19 08:27:13-05:00,2026-06-19 14:46:28,['vibecoding'],dsy6r3,hot,lobsters
+Changes/UseKmsconVTConsole,2,2,https://fedoraproject.org/wiki/Changes/UseKmsconVTConsole,https://lobste.rs/s/8n2pnd,janus,2026-06-19 09:19:07-05:00,2026-06-19 14:46:28,"['graphics', 'linux']",8n2pnd,hot,lobsters
+So You Want To Define a Well-Known URI,2,0,https://mnot.net/blog/2026/well_known_uris,https://lobste.rs/s/hg9mkc,pushcx,2026-06-19 07:29:04-05:00,2026-06-19 14:46:28,['web'],hg9mkc,hot,lobsters
+WikiSpy,1,0,https://neal.fun/wiki-spy/,https://lobste.rs/s/9rbscj,derenrich,2026-06-19 09:32:07-05:00,2026-06-19 14:46:28,"['design', 'visualization']",9rbscj,hot,lobsters
