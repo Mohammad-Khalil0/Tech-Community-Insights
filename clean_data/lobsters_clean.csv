@@ -976,3 +976,7 @@ Matt’s Script Archive: The Scripts That Reshaped The Web,6,1,https://tedium.co
 It’s Only When You Look Back,2,0,https://www.markround.com/blog/2026/06/17/25-its-only-when-you-look-back/,https://lobste.rs/s/f2ixyf,mdr,2026-06-23 03:58:55-05:00,2026-06-23 09:24:53,['historical'],f2ixyf,hot,lobsters
 systemd-bsod.service,6,5,https://www.freedesktop.org/software/systemd/man/257/systemd-bsod.service.html,https://lobste.rs/s/nepr0y,orib,2026-06-22 17:31:20-05:00,2026-06-23 09:24:53,['programming'],nepr0y,hot,lobsters
 A tale of two path separators (2021),4,2,https://alexwlchan.net/2021/slashes/,https://lobste.rs/s/umm2jh,wezm,2026-06-22 21:03:34-05:00,2026-06-23 09:24:53,['mac'],umm2jh,hot,lobsters
+Record type inference for dummies,6,0,https://haskellforall.com/2026/06/record-type-inference-for-dummies,https://lobste.rs/s/ufml52,Gabriella439,2026-06-23 07:46:26-05:00,2026-06-23 14:31:13,['plt'],ufml52,hot,lobsters
+Vulnerability Reports Are Not Special Anymore,8,0,https://words.filippo.io/vuln-reports/,https://lobste.rs/s/bcjwwn,orib,2026-06-23 08:47:31-05:00,2026-06-23 14:31:13,['security'],bcjwwn,hot,lobsters
+Please keep code descriptions simple,3,4,https://akselmo.dev/posts/please-keep-code-descriptions-simple/,https://lobste.rs/s/y4hgjd,Aks,2026-06-23 05:29:40-05:00,2026-06-23 14:31:13,['programming'],y4hgjd,hot,lobsters
+FEXPRs vs. vtable: how LispE interpreter works,2,0,https://github.com/naver/lispe/wiki/2.7-FEXPR-vs.-vtable,https://lobste.rs/s/leh6g3,Claudius,2026-06-23 07:00:13-05:00,2026-06-23 14:31:13,"['c++', 'lisp']",leh6g3,hot,lobsters
