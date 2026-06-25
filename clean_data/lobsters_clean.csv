@@ -1020,3 +1020,9 @@ Why I wrote PEP 832 -- virtual environment discovery,2,0,https://snarky.ca/why-i
 The Xteink X4 E-Ink Reader,5,3,https://blog.omgmog.net/post/xteink-x4-e-ink-reader/,https://lobste.rs/s/oyurwh,adaszko,2026-06-25 01:20:45-05:00,2026-06-25 08:49:57,['hardware'],oyurwh,hot,lobsters
 Deno Desktop,5,0,https://ankursethi.com/blog/deno-desktop/,https://lobste.rs/s/elhkrh,abhin4v,2026-06-24 23:27:35-05:00,2026-06-25 08:49:57,['javascript'],elhkrh,hot,lobsters
 "Free-threaded Python: past, present, and future",5,0,https://lwn.net/SubscriberLink/1078367/eaa511915870fdb2/,https://lobste.rs/s/ekeur9,ngoldbaum,2026-06-24 20:14:12-05:00,2026-06-25 08:49:57,['python'],ekeur9,hot,lobsters
+New @bitCast Semantics and LLVM Backend Improvements,10,3,https://ziglang.org/devlog/2026/?2026-06-25#2026-06-25,https://lobste.rs/s/uge7mm,rcalixte,2026-06-25 06:21:00-05:00,2026-06-25 14:07:25,['zig'],uge7mm,hot,lobsters
+tropius: detect AI tropes in prose,5,3,https://tangled.org/desertthunder.dev/tropius,https://lobste.rs/s/schop7,op,2026-06-25 04:23:21-05:00,2026-06-25 14:07:25,['rust'],schop7,hot,lobsters
+Front-Panel Booting an ATmega88 Microcontroller,2,0,https://www.youtube.com/watch?v=S-2adBkW7Xo,https://lobste.rs/s/yfjhpn,tchebb,2026-06-25 08:40:48-05:00,2026-06-25 14:07:25,"['hardware', 'retrocomputing', 'video']",yfjhpn,hot,lobsters
+How ARM64 Instructions Are Really Encoded,1,0,https://medium.com/@tomas.pitner/how-arm64-instructions-are-really-encoded-c7ace7da442d,https://lobste.rs/s/skrixb,rrampage,2026-06-25 07:02:51-05:00,2026-06-25 14:07:25,['assembly'],skrixb,hot,lobsters
+font-family recommendations,1,1,https://chrismorgan.info/font-family,https://lobste.rs/s/madoeq,runxiyu,2026-06-25 08:57:07-05:00,2026-06-25 14:07:25,['css'],madoeq,hot,lobsters
+Can I texture 3D objects with oil paint?,1,0,https://www.youtube.com/watch?v=fdI1ZJtAJmI,https://lobste.rs/s/hxkgmg,pralkarz,2026-06-25 08:54:47-05:00,2026-06-25 14:07:25,"['art', 'video']",hxkgmg,hot,lobsters
