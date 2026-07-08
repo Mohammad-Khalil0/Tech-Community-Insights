@@ -1333,3 +1333,8 @@ Why we built yet another Postgres connection pooler,5,0,https://pgdog.dev/blog/w
 Git Hash Chain Malleability,2,3,https://arxiv.org/abs/2607.02820,https://lobste.rs/s/qlw9wg,Yogthos,2026-07-07 16:14:16-05:00,2026-07-08 01:54:24,"['programming', 'security']",qlw9wg,hot,lobsters
 OpenBSD through 7.9 has a use-after-free allowing local privilege escalation to root (CVE-2026-57589),2,0,https://nvd.nist.gov/vuln/detail/cve-2026-57589,https://lobste.rs/s/7hmu0w,fro,2026-07-07 20:02:05-05:00,2026-07-08 01:54:24,"['openbsd', 'security']",7hmu0w,hot,lobsters
 Notes on software quality,2,0,https://anthonyhobday.com/blog/20260410,https://lobste.rs/s/swqkt0,gnyeki,2026-07-07 19:42:40-05:00,2026-07-08 01:54:24,['practices'],swqkt0,hot,lobsters
+Jim's TrueType QR Code Font,14,0,https://qr.jim.sh/,https://lobste.rs/s/y0tvll,markerz,2026-07-07 22:58:54-05:00,2026-07-08 08:10:52,['programming'],y0tvll,hot,lobsters
+a software engineering interview question I like: computing the median,8,1,https://krisshamloo.com/blog/007,https://lobste.rs/s/8kxouk,sunflowerseastar,2026-07-07 20:49:39-05:00,2026-07-08 08:10:52,['programming'],8kxouk,hot,lobsters
+fastSwan: Nvidia ConnectX-7 by numbers,2,2,https://www.fastswan.org/Nvidia-ConnectX-7-Benchmark/,https://lobste.rs/s/0lgkpq,vbernat,2026-07-08 01:10:00-05:00,2026-07-08 08:10:52,['networking'],0lgkpq,hot,lobsters
+Licensing can be joyful (and legally dubious) (2024),3,0,https://ntietz.com/blog/licensing-joy-gal/,https://lobste.rs/s/9czcrx,thang,2026-07-07 23:30:17-05:00,2026-07-08 08:10:52,['law'],9czcrx,hot,lobsters
+Announcing the Save CTFs Fund,1,0,https://osec.io/blog/save-ctfs-fund/,https://lobste.rs/s/geibgn,freddyb,2026-07-08 02:58:42-05:00,2026-07-08 08:10:52,['security'],geibgn,hot,lobsters
