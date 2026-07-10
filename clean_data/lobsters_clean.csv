@@ -1386,3 +1386,4 @@ Superoptimizer -- A Look at the Smallest Program,1,0,https://dl.acm.org/doi/epdf
 Cpp2Rust: Automatic Translation of C++ to Safe Rust,9,4,https://github.com/Cpp2Rust/cpp2rust,https://lobste.rs/s/xyotoa,gnyeki,2026-07-09 22:24:53-05:00,2026-07-10 09:21:21,"['c++', 'rust']",xyotoa,hot,lobsters
 "Fast Image & Video Fidelity Metrics in C, Zig",4,1,https://github.com/halidecx/fmetrics,https://lobste.rs/s/gd15cf,gianni,2026-07-09 21:14:15-05:00,2026-07-10 09:21:21,['compsci'],gd15cf,hot,lobsters
 Let's build a simple interpreter for APL,2,0,https://mathspp.com/blog/lsbasi-apl-part1,https://lobste.rs/s/skiumt,veqq,2026-07-10 00:28:45-05:00,2026-07-10 09:21:21,['apl'],skiumt,hot,lobsters
+Two Ways To Design,3,0,https://wiki.c2.com/?TwoWaysToDesign,https://lobste.rs/s/ey7far,vrolfs,2026-07-10 07:01:41-05:00,2026-07-10 14:03:39,"['practices', 'web']",ey7far,hot,lobsters
