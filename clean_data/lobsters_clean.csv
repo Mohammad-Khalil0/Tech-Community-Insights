@@ -1405,3 +1405,12 @@ Working With AI: A Concrete Example,1,1,https://htmx.org/essays/working-with-ai/
 Madame Semver Will See You Now,1,0,https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html,https://lobste.rs/s/wjr8hw,Sietsebb,2026-07-11 07:24:51-05:00,2026-07-11 12:59:11,['satire'],wjr8hw,hot,lobsters
 Good Tools Are Invisible,3,0,https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/,https://lobste.rs/s/ydjxee,telemachus,,2026-07-11 18:48:19,"['editors', 'practices', 'vim']",ydjxee,hot,lobsters
 Handsum: An LQIP Image File Format,1,0,https://nigeltao.github.io/blog/2026/handsum.html,https://lobste.rs/s/gmzzeb,carlana,,2026-07-11 18:48:19,['programming'],gmzzeb,hot,lobsters
+Where did my segfault go?,19,4,https://rmpr.xyz/Where-did-my-segfault-go/,https://lobste.rs/s/tedtzz,rmpr,,2026-07-12 01:56:00,"['c', 'unix']",tedtzz,hot,lobsters
+Gamedev in Zig is actually pretty good (2025),10,0,https://www.youtube.com/watch?v=-xIFpg7sBVs,https://lobste.rs/s/y23kkm,jbauer,,2026-07-12 01:56:00,"['video', 'zig']",y23kkm,hot,lobsters
+"reaction: A daemon that scans program outputs for repeated patterns, and takes action",3,1,https://framagit.org/ppom/reaction,https://lobste.rs/s/zzdc8x,fanf,,2026-07-12 01:56:00,['security'],zzdc8x,hot,lobsters
+"Today I Rescued 7,234 Old GIFs",3,0,https://danq.me/2026/07/10/rescuing-7234-gifs/,https://lobste.rs/s/pdbktp,vrypan,,2026-07-12 01:56:00,"['retrocomputing', 'web']",pdbktp,hot,lobsters
+Odyssey Linux,2,0,https://odysseylinux.org/,https://lobste.rs/s/q4fx6x,sanxiyn,,2026-07-12 01:56:00,['linux'],q4fx6x,hot,lobsters
+gap: UI text diff,2,0,https://github.com/cdacamar/gap,https://lobste.rs/s/mynquj,miro,,2026-07-12 01:56:00,"['c++', 'vcs']",mynquj,hot,lobsters
+RISCBoy RISC-V homebrew portable game console,2,0,https://github.com/Wren6991/RISCBoy,https://lobste.rs/s/wsn0hl,classichasclass,,2026-07-12 01:56:00,['hardware'],wsn0hl,hot,lobsters
+The accessible contrast ratio colour grid thing,2,0,https://beeps.website/blog/2026-07-09-accessible-contrast-ratio-colour-grid-thing/,https://lobste.rs/s/hlokmr,FedericoSchonborn,,2026-07-12 01:56:00,['design'],hlokmr,hot,lobsters
+Full-Pipeline Inference Optimization for MiMo-V2.5 Series,1,0,https://mimo.xiaomi.com/blog/mimo-v2-5-inference,https://lobste.rs/s/srdtlp,sanxiyn,,2026-07-12 01:56:00,"['ai', 'performance']",srdtlp,hot,lobsters
