@@ -1424,3 +1424,7 @@ Data-directed programming in Haskell (SICP2.4.3),3,0,https://entropicthoughts.co
 ghostel.el - Terminal emulator powered by libghostty,2,1,https://dakra.github.io/ghostel/,https://lobste.rs/s/xgdsao,hoistbypetard,,2026-07-12 13:00:08,['emacs'],xgdsao,hot,lobsters
 Hacking Apple - SQL Injection to Remote Code Execution — ProjectDiscovery Blog,2,0,https://projectdiscovery.io/blog/hacking-apple-with-sql-injection,https://lobste.rs/s/axamxi,ni5arga,,2026-07-12 13:00:08,['security'],axamxi,hot,lobsters
 Make your own Windows 98 OEM Install,1,0,https://www.youtube.com/watch?v=zUm5eW_XGMU,https://lobste.rs/s/ksmsg3,jbauer,,2026-07-12 13:00:08,"['retrocomputing', 'video']",ksmsg3,hot,lobsters
+Evan's Jujutsu Tutorial,17,0,https://evmar.github.io/jjtut/,https://lobste.rs/s/beqyuc,evmar,,2026-07-12 18:54:00,['vcs'],beqyuc,hot,lobsters
+Slow Software: The Case for High-latency Systems Development,2,0,https://www.sigops.org/2026/slow-software-the-case-for-high-latency-systems-development/,https://lobste.rs/s/3v4hbc,typesanitizer,,2026-07-12 18:54:00,['practices'],3v4hbc,hot,lobsters
+Unauthenticated RCE in Motorola's MR2600 Router,2,0,https://mrbruh.com/motorola/,https://lobste.rs/s/s1jwea,raymii,,2026-07-12 18:54:00,['security'],s1jwea,hot,lobsters
+EF Core 11 makes your split queries faster,2,0,https://steven-giesel.com/blogPost/d4401fd0-805a-4703-9d9e-5fe3b57c25ea,https://lobste.rs/s/ovkyow,martinald,,2026-07-12 18:54:00,['dotnet'],ovkyow,hot,lobsters
