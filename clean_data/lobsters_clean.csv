@@ -1440,3 +1440,8 @@ Hacker Fables - A satirical cyberpunk novella you can read as a man page,5,0,htt
 "Introducing Bobbin: A diskless, API-only AppView for Tangled",3,0,https://blog.tangled.org/bobbin/,https://lobste.rs/s/uoiw3u,icy,,2026-07-13 08:52:47,"['api', 'release', 'rust']",uoiw3u,hot,lobsters
 WebExtension to query any HTML table with PRQL,1,0,https://avlasov.cabal.run/notes/001/index.html,https://lobste.rs/s/goqanz,aka_dude,,2026-07-13 08:52:47,"['browsers', 'databases', 'web']",goqanz,hot,lobsters
 Efficient deterministic simulation in the Cloud,2,0,https://youtu.be/DF3nGDi2-dc,https://lobste.rs/s/zzhzsp,typesanitizer,,2026-07-13 08:52:47,"['osdev', 'video']",zzhzsp,hot,lobsters
+crates.io: development update,13,1,https://blog.rust-lang.org/2026/07/13/crates-io-development-update/,https://lobste.rs/s/posxmd,ehamberg,,2026-07-13 14:10:45,['rust'],posxmd,hot,lobsters
+IPv6 over drainage pipe,18,0,https://chaos.social/@marble/116720125530089009,https://lobste.rs/s/4rbnnj,lvmbdv,,2026-07-13 14:10:45,"['culture', 'hardware', 'networking']",4rbnnj,hot,lobsters
+Engineering High-Performance Parsers with Data-Oriented Design,2,0,https://arshad.fyi/writings/engineering-high-performance-parsers,https://lobste.rs/s/4smkjv,sanxiyn,,2026-07-13 14:10:45,['performance'],4smkjv,hot,lobsters
+Syntax with Purpose in a Programming Language,2,2,https://www.youtube.com/watch?v=_HLZoeFREFo,https://lobste.rs/s/bovmc5,schonfinkel,,2026-07-13 14:10:45,"['ml', 'programming', 'rant', 'video']",bovmc5,hot,lobsters
+The Stob Cruft Index: a rolling computer gathers cruft,2,0,https://www.doc.ic.ac.uk/~susan/475/cruft.html,https://lobste.rs/s/deixes,lproven,,2026-07-13 14:10:45,"['historical', 'satire', 'windows']",deixes,hot,lobsters
