@@ -1462,3 +1462,10 @@ fred: A text editor that uses C for everything,5,2,https://www.youtube.com/watch
 Collection of clock designs,3,0,https://clocks.dev,https://lobste.rs/s/jfx8do,wherewhy,,2026-07-14 07:49:33,['design'],jfx8do,hot,lobsters
 From coder to curator,4,0,https://staltz.com/from-coder-to-curator,https://lobste.rs/s/xngweb,nolan,,2026-07-14 07:49:33,['vibecoding'],xngweb,hot,lobsters
 CSS-DOS — A computer made of CSS,3,0,https://css-dos.ahmedamer.co.uk/,https://lobste.rs/s/jvvfbe,outervale,,2026-07-14 07:49:33,"['css', 'vibecoding', 'web']",jvvfbe,hot,lobsters
+Job queues are deceptively tricky,10,5,https://typesanitizer.com/blog/job-queues.html,https://lobste.rs/s/k3frwc,typesanitizer,,2026-07-14 13:13:14,"['distributed', 'practices']",k3frwc,hot,lobsters
+Jurassic Park computers in excruciating detail,19,0,https://fabiensanglard.net/jurrasic_park_computers/index.html,https://lobste.rs/s/xv8dix,jbauer,,2026-07-14 13:13:14,['historical'],xv8dix,hot,lobsters
+6× faster binary search: from compiled code to mechanical sympathy,6,1,https://pythonspeed.com/articles/branchless-binary-search/,https://lobste.rs/s/czbhmr,itamarst,,2026-07-14 13:13:14,"['performance', 'rust']",czbhmr,hot,lobsters
+"git-absorb: git commit --fixup, but automatic",8,2,https://github.com/tummychow/git-absorb,https://lobste.rs/s/nprldj,krig,,2026-07-14 13:13:14,['vcs'],nprldj,hot,lobsters
+Hating AI in 2026,4,1,https://www.eamoncaddigan.net/posts/ai-in-2026/,https://lobste.rs/s/el8ocy,mtset,,2026-07-14 13:13:14,"['practices', 'vibecoding']",el8ocy,hot,lobsters
+Beautiful Type Erasure with C++26 Reflection,1,0,https://ryanjk5.github.io/posts/rjk-duck/,https://lobste.rs/s/6f2tzk,lcapaldo,,2026-07-14 13:13:14,['c++'],6f2tzk,hot,lobsters
+Tensor is the might,1,0,https://zserge.com/posts/tensor/,https://lobste.rs/s/uhzuf7,eatonphil,,2026-07-14 13:13:14,"['ai', 'c']",uhzuf7,hot,lobsters
