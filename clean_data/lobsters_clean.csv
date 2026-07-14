@@ -1469,3 +1469,11 @@ Jurassic Park computers in excruciating detail,19,0,https://fabiensanglard.net/j
 Hating AI in 2026,4,1,https://www.eamoncaddigan.net/posts/ai-in-2026/,https://lobste.rs/s/el8ocy,mtset,,2026-07-14 13:13:14,"['practices', 'vibecoding']",el8ocy,hot,lobsters
 Beautiful Type Erasure with C++26 Reflection,1,0,https://ryanjk5.github.io/posts/rjk-duck/,https://lobste.rs/s/6f2tzk,lcapaldo,,2026-07-14 13:13:14,['c++'],6f2tzk,hot,lobsters
 Tensor is the might,1,0,https://zserge.com/posts/tensor/,https://lobste.rs/s/uhzuf7,eatonphil,,2026-07-14 13:13:14,"['ai', 'c']",uhzuf7,hot,lobsters
+Too many words about DIDs,9,3,https://steveklabnik.com/writing/too-many-words-about-dids/,https://lobste.rs/s/86lwsv,icy,,2026-07-14 19:05:47,"['distributed', 'web']",86lwsv,hot,lobsters
+"whatcable: macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do",11,1,https://github.com/darrylmorley/whatcable,https://lobste.rs/s/tzzarv,fanf,,2026-07-14 19:05:47,"['hardware', 'mac']",tzzarv,hot,lobsters
+How my images are dithered,11,2,https://dead.garden/blog/how-my-images-are-dithered.html,https://lobste.rs/s/2gbb6l,abnercoimbre,,2026-07-14 19:05:47,['graphics'],2gbb6l,hot,lobsters
+"Measuring input latency on Linux: X11 vs Wayland, VRR, and DXVK",5,1,https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/,https://lobste.rs/s/pw5yuk,abhinav,,2026-07-14 19:05:47,"['games', 'linux']",pw5yuk,hot,lobsters
+Temper Language,5,1,https://temperlang.dev/,https://lobste.rs/s/in1oer,veqq,,2026-07-14 19:05:47,['plt'],in1oer,hot,lobsters
+"On keys, essences and performance",3,0,https://ebellani.github.io/blog/2026/on-keys-essences-and-performance/,https://lobste.rs/s/kry4v6,mmagueta,,2026-07-14 19:05:47,"['databases', 'performance']",kry4v6,hot,lobsters
+Verifiable AI inference,1,0,https://blog.vrypan.net/2026/07/14/verifiable-ai-inference/,https://lobste.rs/s/xkk9ja,vrypan,,2026-07-14 19:05:47,['ai'],xkk9ja,hot,lobsters
+A Hypervisor(-less) Denuvo bypass for Linux,3,0,https://cs.rin.ru/forum/viewtopic.php?f=10&t=159989,https://lobste.rs/s/k3xjvf,kwas,,2026-07-14 19:05:47,"['games', 'linux', 'virtualization']",k3xjvf,hot,lobsters
