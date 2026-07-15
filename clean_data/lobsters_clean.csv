@@ -1477,3 +1477,11 @@ Temper Language,5,1,https://temperlang.dev/,https://lobste.rs/s/in1oer,veqq,,202
 "On keys, essences and performance",3,0,https://ebellani.github.io/blog/2026/on-keys-essences-and-performance/,https://lobste.rs/s/kry4v6,mmagueta,,2026-07-14 19:05:47,"['databases', 'performance']",kry4v6,hot,lobsters
 Verifiable AI inference,1,0,https://blog.vrypan.net/2026/07/14/verifiable-ai-inference/,https://lobste.rs/s/xkk9ja,vrypan,,2026-07-14 19:05:47,['ai'],xkk9ja,hot,lobsters
 A Hypervisor(-less) Denuvo bypass for Linux,3,0,https://cs.rin.ru/forum/viewtopic.php?f=10&t=159989,https://lobste.rs/s/k3xjvf,kwas,,2026-07-14 19:05:47,"['games', 'linux', 'virtualization']",k3xjvf,hot,lobsters
+You should probably check on your smart appliances,17,7,https://xeiaso.net/notes/2026/check-your-smart-tv/,https://lobste.rs/s/slrak5,cadey,,2026-07-15 01:41:39,"['security', 'web']",slrak5,hot,lobsters
+qr-swastika-avoider v0.1.0,10,7,https://crates.io/crates/qr-swastika-avoider,https://lobste.rs/s/h7pett,eugeny,,2026-07-15 01:41:39,['rust'],h7pett,hot,lobsters
+How I use HTMX with Go,10,0,https://www.alexedwards.net/blog/how-i-use-htmx-with-go,https://lobste.rs/s/rg1wee,cgrinds,,2026-07-15 01:41:39,"['go', 'web']",rg1wee,hot,lobsters
+Native inotify in FreeBSD,6,1,https://klarasystems.com/articles/native-inotify-in-freebsd/,https://lobste.rs/s/b55q8b,fanf,,2026-07-15 01:41:39,['freebsd'],b55q8b,hot,lobsters
+The Memory Heist,3,0,https://ayush.digital/blog/the-memory-heist,https://lobste.rs/s/lelroo,videah,,2026-07-15 01:41:39,"['ai', 'security']",lelroo,hot,lobsters
+"A Trusty Boot Key (Ventoy Alternative), for Bastille Day",6,0,https://codeberg.org/aol/trusty-boot-key,https://lobste.rs/s/s8tyov,white-star,,2026-07-15 01:41:39,['linux'],s8tyov,hot,lobsters
+Emacs Docs: The modern documentation website Emacs deserves,4,3,https://emacsdocs.org,https://lobste.rs/s/fvupsy,chiply,,2026-07-15 01:41:39,['emacs'],fvupsy,hot,lobsters
+Generative colors with CSS,3,0,https://gomakethings.com/articles/generative-colors-with-css/,https://lobste.rs/s/ipiook,tomjakubowski,,2026-07-15 01:41:39,['css'],ipiook,hot,lobsters
