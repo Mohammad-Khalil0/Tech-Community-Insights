@@ -1517,3 +1517,10 @@ The Long Tail of Work Left Until ActivityPub Has E2EE,8,0,https://soatok.blog/20
 A Filtering engine and DB for unpropagated kernel security patches,2,0,https://patchless.natey.sh,https://lobste.rs/s/pfz6dj,dropalltables,,2026-07-16 07:58:41,"['linux', 'release', 'security']",pfz6dj,hot,lobsters
 The dailyprog puzzle safety net,3,0,https://blog.lvmbdv.dev/posts/the-puzzle-safety-net/,https://lobste.rs/s/etvwzv,lvmbdv,,2026-07-16 07:58:41,"['devops', 'programming', 'vibecoding']",etvwzv,hot,lobsters
 The Shape of Apps,4,0,https://parakeet.co/blog/the-shape-of-apps/,https://lobste.rs/s/47h4yu,outervale,,2026-07-16 07:58:41,"['design', 'mac']",47h4yu,hot,lobsters
+Guix: creating a package from a binary,11,10,https://aloysberger.com/posts/guix-packaging-a-binary-as-a-guix-beginner.html,https://lobste.rs/s/rvtn4v,aloys,,2026-07-16 13:24:50,['nix'],rvtn4v,hot,lobsters
+Forgejo v16.0 is available,25,2,https://forgejo.org/2026-07-release-v16-0/,https://lobste.rs/s/giyb8x,hugoarnal,,2026-07-16 13:24:50,['release'],giyb8x,hot,lobsters
+How Our Rust-to-Zig Rewrite is Going,21,0,https://rtfeldman.com/rust-to-zig,https://lobste.rs/s/axdfjx,rrampage,,2026-07-16 13:24:50,"['compilers', 'rust', 'zig']",axdfjx,hot,lobsters
+Bring modern package management to Meson's native wrap ecosystem,5,0,https://collider.ee/1.5.1/,https://lobste.rs/s/9b49zd,Mackou,,2026-07-16 13:24:50,"['c', 'c++', 'programming', 'python']",9b49zd,hot,lobsters
+The Day WhatsApp goes dark,15,2,https://マリウス.com/the-day-whatsapp-goes-dark/,https://lobste.rs/s/ktzzry,cyplo,,2026-07-16 13:24:50,['culture'],ktzzry,hot,lobsters
+WHOOP 4.0 without a subscription,2,1,https://github.com/OpenStrap/edge,https://lobste.rs/s/55rpwn,dominicm,,2026-07-16 13:24:50,"['hardware', 'reversing']",55rpwn,hot,lobsters
+What Memory Compiler Actually Means: From Bitcells to GDS Tiling,1,0,https://thecloudlet.github.io/technical/compiler/memory-compiler/,https://lobste.rs/s/xdoavp,thecloudlet,,2026-07-16 13:24:50,"['compilers', 'hardware']",xdoavp,hot,lobsters
