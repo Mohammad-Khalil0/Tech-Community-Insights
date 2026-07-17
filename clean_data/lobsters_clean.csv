@@ -1541,3 +1541,7 @@ We're building Postgres in Rust. Using the LLVM of databases,12,9,https://turso.
 Earth Rotation Records Spur October Vote to Avert Negative Leap Second,3,4,https://www.techtimes.com/articles/320185/20260711/earth-rotation-records-spur-october-vote-avert-negative-leap-second.htm,https://lobste.rs/s/jbw2ma,fanf,,2026-07-17 07:54:34,['science'],jbw2ma,hot,lobsters
 Country Draw,3,0,https://country-draw.vercel.app/,https://lobste.rs/s/agoj2o,dropalltables,,2026-07-17 07:54:34,"['art', 'games', 'web']",agoj2o,hot,lobsters
 PACT: Anonymous Credentials for the Web – Mozilla Hacks,2,0,https://hacks.mozilla.org/2026/06/pact-anonymous-credentials-for-the-web/,https://lobste.rs/s/6pdyiy,brn,,2026-07-17 07:54:34,"['privacy', 'security']",6pdyiy,hot,lobsters
+Freya 0.4 - Rust GUI library,3,0,https://freyaui.dev/posts/0.4,https://lobste.rs/s/x3xvou,obsoleszenz,,2026-07-17 13:08:55,"['graphics', 'release', 'rust', 'vibecoding']",x3xvou,hot,lobsters
+We are Changing our Developer Productivity Experiment Design,2,0,https://metr.org/blog/2026-02-24-uplift-update/,https://lobste.rs/s/u9lvze,pushcx,,2026-07-17 13:08:55,['vibecoding'],u9lvze,hot,lobsters
+"Battery packs: Let's talk about crates, baby",4,3,https://smallcultfollowing.com/babysteps/blog/2026/07/15/battery-packs/,https://lobste.rs/s/uc0gih,fanf,,2026-07-17 13:08:55,['rust'],uc0gih,hot,lobsters
+Unfolding trees breadth-first in Haskell (2025),1,0,https://blog.poisson.chat/posts/2025-03-30-breadth-first-unfolds.html,https://lobste.rs/s/1lai7k,abhin4v,,2026-07-17 13:08:55,['haskell'],1lai7k,hot,lobsters
