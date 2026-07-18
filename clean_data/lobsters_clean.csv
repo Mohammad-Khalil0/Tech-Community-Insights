@@ -1569,3 +1569,11 @@ neither gcc nor clang are compliant with standard c++,7,2,https://sebsite.pw/w/2
 "PowerShell over SSH in 2026: OpenSSH on Windows, Key Auth, and PowerShell 7 Remoting",2,0,https://mattmichie.com/2026/07/11/powershell-over-ssh-twenty-years-later/,https://lobste.rs/s/b6f3sf,jummo,,2026-07-18 12:55:53,['windows'],b6f3sf,hot,lobsters
 Cache Directory Tagging Specification,1,0,https://bford.info/cachedir/,https://lobste.rs/s/gm7cmo,lim,,2026-07-18 12:55:53,['programming'],gm7cmo,hot,lobsters
 The fediverse was right,0,0,https://blog.lvmbdv.dev/posts/the-fediverse-was-right/,https://lobste.rs/s/jiza2f,lvmbdv,,2026-07-18 12:55:53,"['culture', 'vcs', 'web']",jiza2f,hot,lobsters
+Reviewing AI Code Is Not A Viable Argument,11,5,https://softwaremaxims.com/blog/reviewing-ai-code,https://lobste.rs/s/5kgenk,Diana,,2026-07-18 18:51:19,"['practices', 'programming', 'vibecoding']",5kgenk,hot,lobsters
+"Goodbye, and thanks for all the Bikesheds",25,8,https://queue.acm.org/detail.cfm?id=3818307,https://lobste.rs/s/hvuumu,alethkit,,2026-07-18 18:51:19,['culture'],hvuumu,hot,lobsters
+APL Case Studies,4,0,https://www.dyalog.com/case-studies/index.htm,https://lobste.rs/s/oc7su3,veqq,,2026-07-18 18:51:19,['apl'],oc7su3,hot,lobsters
+Haunt 0.4.0 released,4,0,https://git.dthompson.us/haunt/commit/?id=100da093a804f04d3b10c9db49da663f2246c446,https://lobste.rs/s/bgtxi5,breatheoutbreathein,,2026-07-18 18:51:19,['lisp'],bgtxi5,hot,lobsters
+wp2shell: Pre Authentication RCE in WordPress Core,2,0,https://wp2shell.com/,https://lobste.rs/s/aipvbn,Helithumper,,2026-07-18 18:51:19,"['security', 'web']",aipvbn,hot,lobsters
+A better bitset for enum flags,1,0,https://www.elbeno.com/blog/?p=1836,https://lobste.rs/s/vwocht,raymii,,2026-07-18 18:51:19,['c++'],vwocht,hot,lobsters
+Half-Edge Data Structure. Part2,1,0,https://alexsyniakov.com/2026/07/07/half-edge-data-structure-part-2/,https://lobste.rs/s/7ieq88,LesleyLai,,2026-07-18 18:51:19,['graphics'],7ieq88,hot,lobsters
+The essence of architectural work - Part 4,1,0,https://www.ufried.com/blog/essence_of_architecture_4/,https://lobste.rs/s/6v4l7x,BinaryIgor,,2026-07-18 18:51:19,['practices'],6v4l7x,hot,lobsters
