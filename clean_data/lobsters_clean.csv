@@ -1563,3 +1563,9 @@ Regressive JPEGs,5,1,https://maurycyz.com/projects/bad_jpeg/,https://lobste.rs/s
 How does Pangram work?,2,0,https://pangram.substack.com/p/how-does-pangram-work,https://lobste.rs/s/femw5f,gnyeki,,2026-07-18 07:29:33,['ai'],femw5f,hot,lobsters
 DOSBox on OpenVMS (Alpha CPU),1,0,https://astr0baby.online/AXP/OpenVMS/DOSBOX/,https://lobste.rs/s/synvhi,raymii,,2026-07-18 07:29:33,['retrocomputing'],synvhi,hot,lobsters
 "Aurora DSQL: Scalable, Multi-Region OLTP",1,0,https://arxiv.org/abs/2607.13276,https://lobste.rs/s/pygp0p,typesanitizer,,2026-07-18 07:29:33,"['databases', 'distributed', 'pdf']",pygp0p,hot,lobsters
+GitRoot,13,1,https://gitroot.dev/,https://lobste.rs/s/z01edy,Hasnep,,2026-07-18 12:55:53,['vcs'],z01edy,hot,lobsters
+NextBSD project revived: Apple's FOSS user-space tools on the FreeBSD kernel,4,3,https://nextbsd.org/,https://lobste.rs/s/p9ubuz,lproven,,2026-07-18 12:55:53,"['freebsd', 'mac', 'osdev', 'vibecoding']",p9ubuz,hot,lobsters
+neither gcc nor clang are compliant with standard c++,7,2,https://sebsite.pw/w/20260708-badstdcxx.html,https://lobste.rs/s/z3hzjm,raymii,,2026-07-18 12:55:53,['c++'],z3hzjm,hot,lobsters
+"PowerShell over SSH in 2026: OpenSSH on Windows, Key Auth, and PowerShell 7 Remoting",2,0,https://mattmichie.com/2026/07/11/powershell-over-ssh-twenty-years-later/,https://lobste.rs/s/b6f3sf,jummo,,2026-07-18 12:55:53,['windows'],b6f3sf,hot,lobsters
+Cache Directory Tagging Specification,1,0,https://bford.info/cachedir/,https://lobste.rs/s/gm7cmo,lim,,2026-07-18 12:55:53,['programming'],gm7cmo,hot,lobsters
+The fediverse was right,0,0,https://blog.lvmbdv.dev/posts/the-fediverse-was-right/,https://lobste.rs/s/jiza2f,lvmbdv,,2026-07-18 12:55:53,"['culture', 'vcs', 'web']",jiza2f,hot,lobsters
