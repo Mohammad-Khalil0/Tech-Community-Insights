@@ -1559,3 +1559,7 @@ topcoat: A batteries-included framework for building web apps,4,0,https://github
 The Java Story | The Official Documentary,4,0,https://www.youtube.com/watch?v=ZqGSg4b_cZA,https://lobste.rs/s/31bikj,binjip978,,2026-07-18 01:45:07,"['java', 'video']",31bikj,hot,lobsters
 Classic console tech tricks,2,0,https://www.youtube.com/playlist?list=PLLM_oC5K01gS9rqn7PotAOE-fb0zrnvdu,https://lobste.rs/s/ecuwk1,FedericoSchonborn,,2026-07-18 01:45:07,"['games', 'retrocomputing', 'video']",ecuwk1,hot,lobsters
 Scala on Go,1,0,https://github.com/martianoff/gala,https://lobste.rs/s/dhnwz2,cgrinds,,2026-07-18 01:45:07,"['go', 'scala', 'vibecoding']",dhnwz2,hot,lobsters
+Regressive JPEGs,5,1,https://maurycyz.com/projects/bad_jpeg/,https://lobste.rs/s/ihel7n,lcamtuf,,2026-07-18 07:29:33,"['graphics', 'programming']",ihel7n,hot,lobsters
+How does Pangram work?,2,0,https://pangram.substack.com/p/how-does-pangram-work,https://lobste.rs/s/femw5f,gnyeki,,2026-07-18 07:29:33,['ai'],femw5f,hot,lobsters
+DOSBox on OpenVMS (Alpha CPU),1,0,https://astr0baby.online/AXP/OpenVMS/DOSBOX/,https://lobste.rs/s/synvhi,raymii,,2026-07-18 07:29:33,['retrocomputing'],synvhi,hot,lobsters
+"Aurora DSQL: Scalable, Multi-Region OLTP",1,0,https://arxiv.org/abs/2607.13276,https://lobste.rs/s/pygp0p,typesanitizer,,2026-07-18 07:29:33,"['databases', 'distributed', 'pdf']",pygp0p,hot,lobsters
