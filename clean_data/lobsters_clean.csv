@@ -1601,3 +1601,10 @@ Dependable C,7,8,https://dependablec.org/,https://lobste.rs/s/plztql,jado,,2026-
 "Running microVMs in Proxmox VE, The Easy Way",8,2,https://taoofmac.com/space/blog/2026/06/18/1845,https://lobste.rs/s/fdmitg,lproven,,2026-07-20 02:11:01,"['linux', 'virtualization']",fdmitg,hot,lobsters
 Cagire - Forth-based live coding sequencer,4,0,https://cagire.raphaelforment.fr,https://lobste.rs/s/u93mkb,veqq,,2026-07-20 02:11:01,['concatenative'],u93mkb,hot,lobsters
 The Zen of Parallel Programming,6,0,https://smolnero.com/posts/the-zen-of-parallel-programming,https://lobste.rs/s/m2shhj,lalitm,,2026-07-20 02:11:01,['practices'],m2shhj,hot,lobsters
+I wrote an API client for my water-cooled bed,6,2,https://tinkering.xyz/bedctl/,https://lobste.rs/s/op1k28,zmitchell,,2026-07-20 08:43:50,"['hardware', 'zig']",op1k28,hot,lobsters
+Claude found a counterexample to the Jacobian Conjecture,5,3,https://news.ycombinator.com/item?id=48973869,https://lobste.rs/s/rbvwz1,jmillikin,,2026-07-20 08:43:50,"['math', 'vibecoding']",rbvwz1,hot,lobsters
+email encryption,6,0,https://computer.rip/2026-07-19-email-encryption.html,https://lobste.rs/s/zvoqic,binjip978,,2026-07-20 08:43:50,"['cryptography', 'email']",zvoqic,hot,lobsters
+Who’s responsible for bug reports on old software versions?,4,2,https://pointieststick.com/2026/07/19/whos-responsible-for-bug-reports-on-old-software-versions/,https://lobste.rs/s/qyacql,riki,,2026-07-20 08:43:50,['linux'],qyacql,hot,lobsters
+Fuzzing for fun - unauthenticated denial of service in snac2,2,0,https://nullenvk.pl/posts/02-snac2-json/,https://lobste.rs/s/zjnc5o,ignaloidas,,2026-07-20 08:43:50,"['c', 'security']",zjnc5o,hot,lobsters
+Minimal Git CI using hooks,1,0,https://mccd.space/posts/26-06-29/simple-git-ci,https://lobste.rs/s/jr72dt,klingtnet,,2026-07-20 08:43:50,['programming'],jr72dt,hot,lobsters
+Scanline edge-flag algorithm for antialiasing,1,0,https://mlab.taik.fi/~kkallio/antialiasing/EdgeFlagAA.pdf,https://lobste.rs/s/a12cfy,xqb64,,2026-07-20 08:43:50,"['graphics', 'pdf']",a12cfy,hot,lobsters
