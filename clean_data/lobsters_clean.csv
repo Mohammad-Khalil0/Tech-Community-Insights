@@ -1640,3 +1640,10 @@ git --end-of-options,5,1,https://nesbitt.io/2026/07/21/end-of-options.html,https
 Thoughts On Integers (2023),3,0,https://blog.xoria.org/integers/,https://lobste.rs/s/s4gljc,abhin4v,,2026-07-21 13:20:22,['plt'],s4gljc,hot,lobsters
 GGG – Declarative SVG badge generation using Guile Scheme and SXML,1,0,https://codeberg.org/jjba23/ggg,https://lobste.rs/s/jpq033,jjba23,,2026-07-21 13:20:22,['lisp'],jpq033,hot,lobsters
 "Linux kernel will support $ORIGIN, sort of",2,0,https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of,https://lobste.rs/s/msg39b,ysun,,2026-07-21 13:20:22,"['c', 'linux', 'nix', 'osdev']",msg39b,hot,lobsters
+"lazy-tmux: restore tmux sessions lazily, with scrollback",4,0,https://lazy-tmux.xyz,https://lobste.rs/s/z1alry,alchemmist,,2026-07-21 19:06:18,"['go', 'release', 'show', 'unix']",z1alry,hot,lobsters
+Five moments in snapping history,12,1,https://unsung.aresluna.org/five-moments-in-snapping-history/,https://lobste.rs/s/e7x0ha,kwas,,2026-07-21 19:06:18,"['a11y', 'design']",e7x0ha,hot,lobsters
+Web-based Jujutsu revset explorer & debugger,3,1,https://juju.bi/tools/revset,https://lobste.rs/s/xroult,joshka,,2026-07-21 19:06:18,['vcs'],xroult,hot,lobsters
+Using Nagios for small business infrastructure monitoring,2,1,https://tech.chrishardie.com/2026/nagios-small-business-infrastructure-monitoring/,https://lobste.rs/s/wub9oc,robalex,,2026-07-21 19:06:18,['devops'],wub9oc,hot,lobsters
+Capture Clauses as Effects,3,1,https://blog.yoshuawuyts.com/capture-clauses-as-effects/#optimizing-for-writes,https://lobste.rs/s/nlhmco,aiono,,2026-07-21 19:06:18,"['plt', 'rust']",nlhmco,hot,lobsters
+“No AI” Statements Are Much More Than Mere Statements,2,0,https://journal.james-zhan.com/no-ai-statements/,https://lobste.rs/s/qozazh,FedericoSchonborn,,2026-07-21 19:06:18,['vibecoding'],qozazh,hot,lobsters
+Claude Is Not a Compiler,2,0,https://blog.exe.dev/claude-is-not-a-compiler,https://lobste.rs/s/jbe8ie,typesanitizer,,2026-07-21 19:06:18,['vibecoding'],jbe8ie,hot,lobsters
