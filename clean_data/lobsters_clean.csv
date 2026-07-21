@@ -1634,3 +1634,9 @@ KDE for Enterprise Needs a Strong PIM Infrastructure,3,1,https://ervin.ipsquad.n
 Why l (new runtime for k and q),4,0,https://lv1.sh/blog/why-l/,https://lobste.rs/s/wkm8tk,vlnn,,2026-07-21 08:10:51,['apl'],wkm8tk,hot,lobsters
 "Using a SSH bastion, but only when I'm touching grass",1,1,https://evertpot.com/ssh-tunnel-if-unresolvable/,https://lobste.rs/s/s13fc0,evert,,2026-07-21 08:10:51,['networking'],s13fc0,hot,lobsters
 30 to 70 PRs a Day: How We Managed to Not Wreck Our Systems,1,1,https://www.honeycomb.io/blog/30-70-prs-day-how-we-managed-not-wreck-systems,https://lobste.rs/s/daa59s,typesanitizer,,2026-07-21 08:10:51,"['practices', 'vibecoding']",daa59s,hot,lobsters
+GitHub suddenly rejected my SSH key (the fix was a .pub file?!),18,12,https://thorsell.io/2026/07/21/github-ssh-keys.html,https://lobste.rs/s/twqtlo,GLaDER,,2026-07-21 13:20:22,"['devops', 'vcs']",twqtlo,hot,lobsters
+Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot,3,2,https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html,https://lobste.rs/s/ivtjcv,jjba23,,2026-07-21 13:20:22,"['emacs', 'kotlin', 'scala']",ivtjcv,hot,lobsters
+git --end-of-options,5,1,https://nesbitt.io/2026/07/21/end-of-options.html,https://lobste.rs/s/cxz7vd,robalex,,2026-07-21 13:20:22,['vcs'],cxz7vd,hot,lobsters
+Thoughts On Integers (2023),3,0,https://blog.xoria.org/integers/,https://lobste.rs/s/s4gljc,abhin4v,,2026-07-21 13:20:22,['plt'],s4gljc,hot,lobsters
+GGG – Declarative SVG badge generation using Guile Scheme and SXML,1,0,https://codeberg.org/jjba23/ggg,https://lobste.rs/s/jpq033,jjba23,,2026-07-21 13:20:22,['lisp'],jpq033,hot,lobsters
+"Linux kernel will support $ORIGIN, sort of",2,0,https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of,https://lobste.rs/s/msg39b,ysun,,2026-07-21 13:20:22,"['c', 'linux', 'nix', 'osdev']",msg39b,hot,lobsters
