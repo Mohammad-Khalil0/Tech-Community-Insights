@@ -1647,3 +1647,12 @@ Using Nagios for small business infrastructure monitoring,2,1,https://tech.chris
 Capture Clauses as Effects,3,1,https://blog.yoshuawuyts.com/capture-clauses-as-effects/#optimizing-for-writes,https://lobste.rs/s/nlhmco,aiono,,2026-07-21 19:06:18,"['plt', 'rust']",nlhmco,hot,lobsters
 “No AI” Statements Are Much More Than Mere Statements,2,0,https://journal.james-zhan.com/no-ai-statements/,https://lobste.rs/s/qozazh,FedericoSchonborn,,2026-07-21 19:06:18,['vibecoding'],qozazh,hot,lobsters
 Claude Is Not a Compiler,2,0,https://blog.exe.dev/claude-is-not-a-compiler,https://lobste.rs/s/jbe8ie,typesanitizer,,2026-07-21 19:06:18,['vibecoding'],jbe8ie,hot,lobsters
+"OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test",16,5,https://openai.com/index/hugging-face-model-evaluation-security-incident/,https://lobste.rs/s/7nrek3,dustyweb,,2026-07-22 01:52:16,"['security', 'vibecoding']",7nrek3,hot,lobsters
+Bringing the modern web to the original iPad mini,7,1,https://seg6.space/posts/resurrecting-ipad-mini,https://lobste.rs/s/rkj3j4,seg6,,2026-07-22 01:52:16,"['browsers', 'objectivec', 'vibecoding']",rkj3j4,hot,lobsters
+COSMIC DE’s First Seven Months,11,2,https://system76.com/blog/post/cosmic-de-first-seven-months,https://lobste.rs/s/nv7xhn,RaphGL,,2026-07-22 01:52:16,['linux'],nv7xhn,hot,lobsters
+Free Ink · An open ecosystem for e-readers,9,0,https://freeink.org/,https://lobste.rs/s/rwdmjn,Yogthos,,2026-07-22 01:52:16,['hardware'],rwdmjn,hot,lobsters
+Cosy Language,10,1,https://cosy.com/y26/NL202603.html,https://lobste.rs/s/7v1k7i,veqq,,2026-07-22 01:52:16,"['apl', 'concatenative']",7v1k7i,hot,lobsters
+Your Agentic Workflow's Cache Keepalive Costs 8x Too Much,1,1,https://blog.mempko.com/keeping-the-kv-cache-warm-measuring-prompt-cache-eviction-across-anthropic-openai-and-google/,https://lobste.rs/s/jmuobj,mempko,,2026-07-22 01:52:16,['vibecoding'],jmuobj,hot,lobsters
+AP8L - APL for the Pico-8,5,0,https://www.lexaloffle.com/bbs/?tid=152582,https://lobste.rs/s/ovdlje,veqq,,2026-07-22 01:52:16,"['apl', 'retrocomputing']",ovdlje,hot,lobsters
+K2 Reference Manual (1998),4,2,https://web.archive.org/web/20050111142057/http://www.kx.com/technical/documents/kreflite.pdf,https://lobste.rs/s/9dpycz,veqq,,2026-07-22 01:52:16,"['apl', 'pdf']",9dpycz,hot,lobsters
+The Value of Domain Knowledge in Software,2,0,https://www.gustavwengel.dk/value-of-domain-knowledge,https://lobste.rs/s/ohl1dh,stip,,2026-07-22 01:52:16,['practices'],ohl1dh,hot,lobsters
