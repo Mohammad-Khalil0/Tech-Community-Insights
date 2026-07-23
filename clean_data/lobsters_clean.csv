@@ -1692,3 +1692,11 @@ Carbon Memory Safety first deep dive,3,1,https://drive.google.com/file/d/1tQlzpn
 Package Name Prefixes,2,1,https://nesbitt.io/2026/07/23/package-name-prefixes.html,https://lobste.rs/s/js37j1,hugoarnal,,2026-07-23 13:27:58,['programming'],js37j1,hot,lobsters
 Software rendering in 500 lines of bare C++,2,0,https://ssloy.github.io/tinyrenderer/,https://lobste.rs/s/p4xo2i,RaphGL,,2026-07-23 13:27:58,"['c++', 'graphics']",p4xo2i,hot,lobsters
 The first known runaway AI agent - or a very bad marketing stunt?,1,0,https://martinalderson.com/posts/huggingface-openai-exploit/,https://lobste.rs/s/nsnb4j,martinald,,2026-07-23 13:27:58,['vibecoding'],nsnb4j,hot,lobsters
+Everyone Should Know SIMD,23,0,https://mitchellh.com/writing/everyone-should-know-simd,https://lobste.rs/s/gpqa52,seg6,,2026-07-23 19:01:38,"['performance', 'zig']",gpqa52,hot,lobsters
+Silent Replacement of Trusted macOS App Executables,8,2,https://mysk.blog/2026/07/23/macos-overwrite-app-executables/,https://lobste.rs/s/dxaogf,juri,,2026-07-23 19:01:38,"['mac', 'security']",dxaogf,hot,lobsters
+How AI Is Changing Open Source,4,1,https://enblog.eischmann.cz/2026/07/23/how-ai-is-changing-open-source/,https://lobste.rs/s/uy8soh,FedericoSchonborn,,2026-07-23 19:01:38,['vibecoding'],uy8soh,hot,lobsters
+The PImpl idiom and the C++26 std::indirect type,5,0,https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/,https://lobste.rs/s/gtxmc4,raymii,,2026-07-23 19:01:38,['c++'],gtxmc4,hot,lobsters
+Spatial languages: writing code in 2D,5,4,https://shukla.io/blog/2026-07/cccx.html,https://lobste.rs/s/gb2xwu,janiczek,,2026-07-23 19:01:38,['plt'],gb2xwu,hot,lobsters
+How MVCC and Transactions Work in RocksDB,3,1,https://artem.krylysov.com/blog/2026/07/23/how-mvcc-and-transactions-work-in-rocksdb/,https://lobste.rs/s/6kkxbx,eatonphil,,2026-07-23 19:01:38,"['c++', 'databases']",6kkxbx,hot,lobsters
+Prompt Caching In Agents,3,0,https://earendil.com/posts/prompt-caching/,https://lobste.rs/s/kq9oh7,joonas,,2026-07-23 19:01:38,['ai'],kq9oh7,hot,lobsters
+agent-shell 0.63 updates,1,0,https://xenodium.com/agent-shell-0-63-updates,https://lobste.rs/s/oscswl,xenodium,,2026-07-23 19:01:38,"['emacs', 'math', 'vibecoding']",oscswl,hot,lobsters
