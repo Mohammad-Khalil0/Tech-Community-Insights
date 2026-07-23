@@ -1685,3 +1685,10 @@ Your analytics are lying to you,6,0,https://ankursethi.com/blog/your-analytics-a
 Pip 26.2: –only-deps solves 16 years of app deployment hacks,4,0,https://jamesoclaire.com/2026/07/23/pip-26-2-only-deps-solves-16-years-of-app-deployment-hacks/,https://lobste.rs/s/wh1vv3,dominicm,,2026-07-23 08:14:33,['python'],wh1vv3,hot,lobsters
 Algebraic effects and handlers in portable C99,3,3,https://github.com/koka-lang/libhandler,https://lobste.rs/s/nohrpm,aka_dude,,2026-07-23 08:14:33,['plt'],nohrpm,hot,lobsters
 What Rose Petals Teach Us about Induction,4,0,https://www.oranlooney.com/post/rose-petals/,https://lobste.rs/s/wwelib,calvin,,2026-07-23 08:14:33,"['ai', 'cogsci']",wwelib,hot,lobsters
+Justif: Knuth-Plass justification and microtypography for the web,26,5,https://justif.lyall.co/,https://lobste.rs/s/p1jpv1,lyall,,2026-07-23 13:27:58,"['design', 'show', 'web']",p1jpv1,hot,lobsters
+Wanix — Wasm-native Unix sandboxing for the web,6,2,https://wanix.dev/,https://lobste.rs/s/urhpbn,evacchi,,2026-07-23 13:27:58,['wasm'],urhpbn,hot,lobsters
+On Accountability,1,1,https://addisoncrump.info/research/on-accountability/,https://lobste.rs/s/mwelmm,addison,,2026-07-23 13:27:58,"['practices', 'vibecoding']",mwelmm,hot,lobsters
+Carbon Memory Safety first deep dive,3,1,https://drive.google.com/file/d/1tQlzpnbWZfn2WtTFMoJgF93QteByBBwm/view,https://lobste.rs/s/rdg7lw,nikola,,2026-07-23 13:27:58,"['plt', 'video']",rdg7lw,hot,lobsters
+Package Name Prefixes,2,1,https://nesbitt.io/2026/07/23/package-name-prefixes.html,https://lobste.rs/s/js37j1,hugoarnal,,2026-07-23 13:27:58,['programming'],js37j1,hot,lobsters
+Software rendering in 500 lines of bare C++,2,0,https://ssloy.github.io/tinyrenderer/,https://lobste.rs/s/p4xo2i,RaphGL,,2026-07-23 13:27:58,"['c++', 'graphics']",p4xo2i,hot,lobsters
+The first known runaway AI agent - or a very bad marketing stunt?,1,0,https://martinalderson.com/posts/huggingface-openai-exploit/,https://lobste.rs/s/nsnb4j,martinald,,2026-07-23 13:27:58,['vibecoding'],nsnb4j,hot,lobsters
