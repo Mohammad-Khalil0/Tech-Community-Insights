@@ -1678,3 +1678,10 @@ RefluXFS: A Linux Kernel Local Privilege Escalation to Root in XFS (CVE-2026-646
 Protecting our FLOSS commons from LLMs,6,0,https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html,https://lobste.rs/s/ax914v,FedericoSchonborn,,2026-07-23 01:59:53,['vibecoding'],ax914v,hot,lobsters
 "Frag Gap (CVE-2026-53362, CVE-2026-53366)",2,2,https://blog.qwerty.or.kr/en/posts/cdf3008a-c1a4-4eca-a373-aa3a2bcf1489/,https://lobste.rs/s/uibzl8,fro,,2026-07-23 01:59:53,"['linux', 'security']",uibzl8,hot,lobsters
 Taking OCaml and Eio for a spin,4,0,https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html,https://lobste.rs/s/mush3s,winter,,2026-07-23 01:59:53,['ml'],mush3s,hot,lobsters
+John C. Dvorak has died,24,3,http://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html,https://lobste.rs/s/ap3z0l,raymii,,2026-07-23 08:14:33,['person'],ap3z0l,hot,lobsters
+I Inspected My Take-Home Interview Project. It Was a Whole Operation,21,2,https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/,https://lobste.rs/s/5nhto6,trousers,,2026-07-23 08:14:33,['security'],5nhto6,hot,lobsters
+Calm technologies that excite me,13,3,https://abhi.now/blog/calm-technologies/,https://lobste.rs/s/fmyrgy,abhin4v,,2026-07-23 08:14:33,['hardware'],fmyrgy,hot,lobsters
+Your analytics are lying to you,6,0,https://ankursethi.com/blog/your-analytics-are-lying-to-you/,https://lobste.rs/s/n0hq44,gnyeki,,2026-07-23 08:14:33,['web'],n0hq44,hot,lobsters
+Pip 26.2: –only-deps solves 16 years of app deployment hacks,4,0,https://jamesoclaire.com/2026/07/23/pip-26-2-only-deps-solves-16-years-of-app-deployment-hacks/,https://lobste.rs/s/wh1vv3,dominicm,,2026-07-23 08:14:33,['python'],wh1vv3,hot,lobsters
+Algebraic effects and handlers in portable C99,3,3,https://github.com/koka-lang/libhandler,https://lobste.rs/s/nohrpm,aka_dude,,2026-07-23 08:14:33,['plt'],nohrpm,hot,lobsters
+What Rose Petals Teach Us about Induction,4,0,https://www.oranlooney.com/post/rose-petals/,https://lobste.rs/s/wwelib,calvin,,2026-07-23 08:14:33,"['ai', 'cogsci']",wwelib,hot,lobsters
