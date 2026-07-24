@@ -1700,3 +1700,9 @@ Spatial languages: writing code in 2D,5,4,https://shukla.io/blog/2026-07/cccx.ht
 How MVCC and Transactions Work in RocksDB,3,1,https://artem.krylysov.com/blog/2026/07/23/how-mvcc-and-transactions-work-in-rocksdb/,https://lobste.rs/s/6kkxbx,eatonphil,,2026-07-23 19:01:38,"['c++', 'databases']",6kkxbx,hot,lobsters
 Prompt Caching In Agents,3,0,https://earendil.com/posts/prompt-caching/,https://lobste.rs/s/kq9oh7,joonas,,2026-07-23 19:01:38,['ai'],kq9oh7,hot,lobsters
 agent-shell 0.63 updates,1,0,https://xenodium.com/agent-shell-0-63-updates,https://lobste.rs/s/oscswl,xenodium,,2026-07-23 19:01:38,"['emacs', 'math', 'vibecoding']",oscswl,hot,lobsters
+Jolt: running Clojure on Chez Scheme,9,1,https://yogthos.net/posts/2026-07-02-jolt.html,https://lobste.rs/s/btplc7,Yogthos,,2026-07-24 01:55:30,"['clojure', 'lisp', 'programming', 'vibecoding']",btplc7,hot,lobsters
+You should selfhost your mail (in 2026),10,2,https://blog.haschek.at/2026/you-should-selfhost-your-mail.html,https://lobste.rs/s/x3x2aw,cinemast,,2026-07-24 01:55:30,['email'],x3x2aw,hot,lobsters
+"Fil-C: Garbage In, Memory Safety Out",9,1,https://www.youtube.com/watch?v=5F-2Y1LPRek,https://lobste.rs/s/badu44,kristoff,,2026-07-24 01:55:30,"['c', 'c++', 'video']",badu44,hot,lobsters
+Software Should Work Worked,6,0,https://isaacvando.com/software-should-work-worked,https://lobste.rs/s/dto1e4,typesanitizer,,2026-07-24 01:55:30,['event'],dto1e4,hot,lobsters
+Improving std::simd::swizzle_dyn,4,0,https://shnatsel.github.io/improving-std-simd-swizzle-dyn/,https://lobste.rs/s/auk6ft,itamarst,,2026-07-24 01:55:30,"['rust', 'vibecoding']",auk6ft,hot,lobsters
+Whose freedom is it anyway?,3,0,https://collectivefutures.blog/whose-freedom-is-it-anyway/,https://lobste.rs/s/ucbssq,chobeat,,2026-07-24 01:55:30,['vibecoding'],ucbssq,hot,lobsters
