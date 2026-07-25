@@ -1734,3 +1734,9 @@ Microformats – building blocks for data-rich web pages,1,0,https://microformat
 We Are Not Special,11,3,https://www.hillelwayne.com/post/we-are-not-special/,https://lobste.rs/s/zfvln5,WilhelmVonWeiner,,2026-07-25 07:52:51,['practices'],zfvln5,hot,lobsters
 the perils of parsing type inference declarations in c,3,1,https://sebsite.pw/w/20260725-auto.html,https://lobste.rs/s/ypgw9x,raymii,,2026-07-25 07:52:51,['c'],ypgw9x,hot,lobsters
 I'm running the ICFP programming contest (2026),3,1,https://eieio.games/blog/im-running-the-icfp-programming-contest/,https://lobste.rs/s/yajc8q,abhin4v,,2026-07-25 07:52:51,"['event', 'programming']",yajc8q,hot,lobsters
+A shell colon does nothing. Use it anyway,14,1,https://refp.se/articles/your-shell-and-the-magic-colon,https://lobste.rs/s/eidh3u,refp,,2026-07-25 13:05:10,['programming'],eidh3u,hot,lobsters
+stinkpot: sqlite-backed shell history,4,1,https://tangled.org/oppi.li/stinkpot,https://lobste.rs/s/bvgaff,op,,2026-07-25 13:05:10,"['go', 'show']",bvgaff,hot,lobsters
+"Android May Soon Restrict On-Device ADB, Affecting Shizuku, libadb and Developers",6,0,https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/,https://lobste.rs/s/t5os1h,raymii,,2026-07-25 13:05:10,['android'],t5os1h,hot,lobsters
+Sending packets directly from BPF,4,0,https://lwn.net/Articles/1081696/,https://lobste.rs/s/3ttebv,ysun,,2026-07-25 13:05:10,"['linux', 'networking', 'osdev']",3ttebv,hot,lobsters
+Emacs Writing Machine,2,0,https://chainsawriot.com/postmannheim/2026/07/25/writeredeck.html,https://lobste.rs/s/pqkfur,rau,,2026-07-25 13:05:10,"['emacs', 'linux']",pqkfur,hot,lobsters
+Zig by Example,1,0,https://zigbyexample.neocities.org/,https://lobste.rs/s/s75zd9,hugoarnal,,2026-07-25 13:05:10,['zig'],s75zd9,hot,lobsters
