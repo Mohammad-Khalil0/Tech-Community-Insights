@@ -1731,3 +1731,6 @@ Postgres LISTEN/NOTIFY Actually Scales,9,1,https://www.dbos.dev/blog/postgres-li
 A Love Letter to Object Orientation,1,5,https://blog.mempko.com/a-love-letter-to-object-orientation/,https://lobste.rs/s/9mocvp,mempko,,2026-07-25 01:54:40,"['api', 'compsci', 'philosophy']",9mocvp,hot,lobsters
 weblings: Compiling Rust to WASM from inside WASM,3,0,https://github.com/AngelOnFira/weblings,https://lobste.rs/s/k5ygl4,wofo,,2026-07-25 01:54:40,"['compilers', 'rust']",k5ygl4,hot,lobsters
 Microformats – building blocks for data-rich web pages,1,0,https://microformats.org/,https://lobste.rs/s/fw69uj,rau,,2026-07-25 01:54:40,['web'],fw69uj,hot,lobsters
+We Are Not Special,11,3,https://www.hillelwayne.com/post/we-are-not-special/,https://lobste.rs/s/zfvln5,WilhelmVonWeiner,,2026-07-25 07:52:51,['practices'],zfvln5,hot,lobsters
+the perils of parsing type inference declarations in c,3,1,https://sebsite.pw/w/20260725-auto.html,https://lobste.rs/s/ypgw9x,raymii,,2026-07-25 07:52:51,['c'],ypgw9x,hot,lobsters
+I'm running the ICFP programming contest (2026),3,1,https://eieio.games/blog/im-running-the-icfp-programming-contest/,https://lobste.rs/s/yajc8q,abhin4v,,2026-07-25 07:52:51,"['event', 'programming']",yajc8q,hot,lobsters
