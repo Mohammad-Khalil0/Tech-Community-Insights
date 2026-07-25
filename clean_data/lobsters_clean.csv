@@ -1722,3 +1722,12 @@ Make an Origami Circuit Board,4,0,https://spectrum.ieee.org/origami-circuit-boar
 Query cycles: A compiler murder mystery,8,0,https://ferrous-systems.com/blog/query-cycles-a-compiler-murder-mystery/,https://lobste.rs/s/zobigz,hugoarnal,,2026-07-24 19:14:25,['rust'],zobigz,hot,lobsters
 ALP: Adaptive Lossless Floating-Point Compression,2,0,https://github.com/cwida/ALP,https://lobste.rs/s/g71xle,veqq,,2026-07-24 19:14:25,"['compsci', 'performance']",g71xle,hot,lobsters
 Extended Connectivity Fingerprint in APL,1,0,https://butwhyisthat.substack.com/p/ecfp,https://lobste.rs/s/9ytnkn,kcroarkin,,2026-07-24 19:14:25,"['apl', 'science']",9ytnkn,hot,lobsters
+Delightful integration tests in Rust,8,3,https://github.com/alexpusch/rust-magic-patterns/blob/master/delightful-integration-tests/Readme.md,https://lobste.rs/s/khaizc,alexpusch,,2026-07-25 01:54:40,['rust'],khaizc,hot,lobsters
+Systems and Delays (2026),7,0,https://martin.janiczek.cz/2026/07/24/systems-and-delays.html,https://lobste.rs/s/yia0pc,janiczek,,2026-07-25 01:54:40,['math'],yia0pc,hot,lobsters
+Watching Go's new garbage collector move through the heap,8,0,https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html,https://lobste.rs/s/u60zv9,eatonphil,,2026-07-25 01:54:40,"['dotnet', 'go', 'performance']",u60zv9,hot,lobsters
+Chrome registers a global shortcut for Gemini popup window,9,0,https://unsung.aresluna.org/chromes-breaking-and-entering/,https://lobste.rs/s/c76s0r,skycam,,2026-07-25 01:54:40,"['browsers', 'mac', 'windows']",c76s0r,hot,lobsters
+Postgres LISTEN/NOTIFY Actually Scales,9,1,https://www.dbos.dev/blog/postgres-listen-notify-scalability,https://lobste.rs/s/ighdht,typesanitizer,,2026-07-25 01:54:40,['databases'],ighdht,hot,lobsters
+2026 Stack Overflow Developer Survey,3,0,https://take.survey.stackoverflow.co/jfe/form/SV_4GHunpL3IfJ3rRc,https://lobste.rs/s/aibmo4,5d22b,,2026-07-25 01:54:40,['programming'],aibmo4,hot,lobsters
+A Love Letter to Object Orientation,1,5,https://blog.mempko.com/a-love-letter-to-object-orientation/,https://lobste.rs/s/9mocvp,mempko,,2026-07-25 01:54:40,"['api', 'compsci', 'philosophy']",9mocvp,hot,lobsters
+weblings: Compiling Rust to WASM from inside WASM,3,0,https://github.com/AngelOnFira/weblings,https://lobste.rs/s/k5ygl4,wofo,,2026-07-25 01:54:40,"['compilers', 'rust']",k5ygl4,hot,lobsters
+Microformats – building blocks for data-rich web pages,1,0,https://microformats.org/,https://lobste.rs/s/fw69uj,rau,,2026-07-25 01:54:40,['web'],fw69uj,hot,lobsters
