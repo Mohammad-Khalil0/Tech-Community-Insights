@@ -1757,3 +1757,7 @@ Dmitri Gaskin on jQuery,4,1,https://www.youtube.com/watch?v=8mwKq7_JlS8,https://
 Forth Moving Lisp Moving Forth,2,0,https://letoverlambda.com/textmode.cl/guest/chap8.html,https://lobste.rs/s/exipox,LenFalken,,2026-07-26 18:59:15,"['concatenative', 'programming']",exipox,hot,lobsters
 OpenLoco version 26.07  Release,1,0,https://openloco.io/news/2026/07/openloco-v26.07.html,https://lobste.rs/s/9fqugm,raymii,,2026-07-26 18:59:15,"['c++', 'games', 'release']",9fqugm,hot,lobsters
 Fast DEFLATE compression in Lean,1,1,https://kim-em.github.io/blog/2026-7-24-why-lean-is-faster-than-rust/,https://lobste.rs/s/1o4ba2,typesanitizer,,2026-07-26 18:59:15,"['formalmethods', 'performance', 'vibecoding']",1o4ba2,hot,lobsters
+Teaching Kids Forth,18,5,https://gracefulliberty.com/articles/teaching-kids-forth/,https://lobste.rs/s/n3dz7x,liberty,,2026-07-27 02:06:46,"['concatenative', 'education']",n3dz7x,hot,lobsters
+SQLite WAL Mode Can Lock Short-Lived Readers,4,5,https://hynek.me/til/sqlite-read-only-wal-locked/,https://lobste.rs/s/uusfyj,ubernostrum,,2026-07-27 02:06:46,['databases'],uusfyj,hot,lobsters
+Using ThinkPad T480 as a mobile phone,3,0,https://grego.site/blog/thinkphone,https://lobste.rs/s/xoxury,gnyeki,,2026-07-27 02:06:46,['hardware'],xoxury,hot,lobsters
+The secret life of data in Valkey,2,0,https://valkey.io/blog/secret-life-of-data/,https://lobste.rs/s/2vuexn,eatonphil,,2026-07-27 02:06:46,['databases'],2vuexn,hot,lobsters
