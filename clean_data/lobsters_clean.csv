@@ -1761,3 +1761,15 @@ Teaching Kids Forth,18,5,https://gracefulliberty.com/articles/teaching-kids-fort
 SQLite WAL Mode Can Lock Short-Lived Readers,4,5,https://hynek.me/til/sqlite-read-only-wal-locked/,https://lobste.rs/s/uusfyj,ubernostrum,,2026-07-27 02:06:46,['databases'],uusfyj,hot,lobsters
 Using ThinkPad T480 as a mobile phone,3,0,https://grego.site/blog/thinkphone,https://lobste.rs/s/xoxury,gnyeki,,2026-07-27 02:06:46,['hardware'],xoxury,hot,lobsters
 The secret life of data in Valkey,2,0,https://valkey.io/blog/secret-life-of-data/,https://lobste.rs/s/2vuexn,eatonphil,,2026-07-27 02:06:46,['databases'],2vuexn,hot,lobsters
+Make Reviews Possible Again With This One Simple Trick,1,0,https://silky.github.io/posts/reviews-one-simple-trick.html,https://lobste.rs/s/2shapa,noon,,2026-07-27 09:34:34,"['programming', 'vcs', 'vibecoding']",2shapa,hot,lobsters
+N-body gravity simulation in O(N),1,1,https://www.youtube.com/watch?v=FhMftauQZqU,https://lobste.rs/s/v1ejq9,linkdd,,2026-07-27 09:34:34,"['math', 'performance', 'programming', 'science', 'video']",v1ejq9,hot,lobsters
+What does GitHub’s security team even do?,1,3,https://orchidfiles.com/github-security-team/,https://lobste.rs/s/jnhyrh,dominicm,,2026-07-27 09:34:34,"['security', 'vcs']",jnhyrh,hot,lobsters
+A Fast Path for Fixed-Length Lists in Parquet,1,0,https://www.morling.dev/blog/fast-path-for-fixed-length-lists-in-parquet/,https://lobste.rs/s/duxghi,rmoff,,2026-07-27 09:34:34,['performance'],duxghi,hot,lobsters
+Being Linux Torvalds,1,6,https://antirez.com/news/171,https://lobste.rs/s/uwhqhi,j11g,,2026-07-27 09:34:34,['vibecoding'],uwhqhi,hot,lobsters
+"Functional programming from first principles, part 1 – motivation",1,0,https://www.endoflineblog.com/functional-programming-from-first-principles-part-1-motivation,https://lobste.rs/s/ajqxvq,kana,,2026-07-27 09:34:34,"['plt', 'programming']",ajqxvq,hot,lobsters
+On AI,1,0,https://jcs.org/2026/07/23/ai,https://lobste.rs/s/zljfgp,thang,,2026-07-27 09:34:34,['vibecoding'],zljfgp,hot,lobsters
+"PGSimCity: How PostgreSQL Works, in 3D",1,0,https://nikolays.github.io/PGSimCity/,https://lobste.rs/s/wewd0y,linkdd,,2026-07-27 09:34:34,['databases'],wewd0y,hot,lobsters
+DOOM running on a regex engine,1,0,https://4rh1t3ct0r7.github.io/doom-regex/,https://lobste.rs/s/mfccui,abareplace,,2026-07-27 09:34:34,"['compsci', 'retrocomputing']",mfccui,hot,lobsters
+History of John Backus's FP languages,1,0,https://softwarepreservation.computerhistory.org/FP/,https://lobste.rs/s/dmuqxg,mpweiher,,2026-07-27 09:34:34,['historical'],dmuqxg,hot,lobsters
+Interconverting std::function with copyable_function,1,0,https://quuxplusone.github.io/blog/2026/07/26/function-explosion/,https://lobste.rs/s/lhnggy,raymii,,2026-07-27 09:34:34,['c++'],lhnggy,hot,lobsters
+Authoritative dnsmasq in a MikroTik container,1,0,https://op-co.de/blog/posts/mikrotik_authoritative_dnsmasq/,https://lobste.rs/s/lwztjw,raymii,,2026-07-27 09:34:34,['networking'],lwztjw,hot,lobsters
