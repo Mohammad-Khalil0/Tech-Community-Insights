@@ -1773,3 +1773,11 @@ DOOM running on a regex engine,1,0,https://4rh1t3ct0r7.github.io/doom-regex/,htt
 History of John Backus's FP languages,1,0,https://softwarepreservation.computerhistory.org/FP/,https://lobste.rs/s/dmuqxg,mpweiher,,2026-07-27 09:34:34,['historical'],dmuqxg,hot,lobsters
 Interconverting std::function with copyable_function,1,0,https://quuxplusone.github.io/blog/2026/07/26/function-explosion/,https://lobste.rs/s/lhnggy,raymii,,2026-07-27 09:34:34,['c++'],lhnggy,hot,lobsters
 Authoritative dnsmasq in a MikroTik container,1,0,https://op-co.de/blog/posts/mikrotik_authoritative_dnsmasq/,https://lobste.rs/s/lwztjw,raymii,,2026-07-27 09:34:34,['networking'],lwztjw,hot,lobsters
+Most Googlebots are fake,12,7,https://digitalseams.com/blog/most-googlebots-are-fake,https://lobste.rs/s/h9hdzg,FedericoSchonborn,,2026-07-27 14:13:30,['networking'],h9hdzg,hot,lobsters
+How is the Bun Rewrite in Rust Going?,11,1,https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html,https://lobste.rs/s/vtev1n,FedericoSchonborn,,2026-07-27 14:13:30,['vibecoding'],vtev1n,hot,lobsters
+The Productivity Mirage,5,3,https://frantic.im/mirage,https://lobste.rs/s/gicomw,carlana,,2026-07-27 14:13:30,"['practices', 'programming']",gicomw,hot,lobsters
+Blogging Can Just Be Stating The Obvious,5,0,https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/,https://lobste.rs/s/yijxwe,rmoff,,2026-07-27 14:13:30,['education'],yijxwe,hot,lobsters
+A Voice From Nowhere,2,0,https://zanlib.dev/blog/a-voice-from-nowhere/,https://lobste.rs/s/jz5sd1,zanlib,,2026-07-27 14:13:30,['vibecoding'],jz5sd1,hot,lobsters
+The Design of Everyday Cryptography,3,0,https://www.dlp.rip/everyday-cryptography/,https://lobste.rs/s/fdqnii,Foxboron,,2026-07-27 14:13:30,"['api', 'cryptography']",fdqnii,hot,lobsters
+Digital circuit simulator in Haskell,2,0,https://entropicthoughts.com/sicp-3-3-digital-circuit-simulator-in-haskell,https://lobste.rs/s/bgxanw,j11g,,2026-07-27 14:13:30,['haskell'],bgxanw,hot,lobsters
+Conformance vs Comprehension,1,0,https://intertwingly.net/blog/2026/06/27/Conformance-vs-Comprehension.html,https://lobste.rs/s/lgutwh,adsouza,,2026-07-27 14:13:30,['vibecoding'],lgutwh,hot,lobsters
