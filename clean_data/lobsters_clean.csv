@@ -1835,3 +1835,11 @@ Copilot will propagate a malicious worm from one Word document to another,4,0,ht
 Sovereignty is a substrate,4,1,https://negroniventurestudios.com/2026/07/28/sovereignty-is-a-substrate/,https://lobste.rs/s/7pjq5g,fazalmajid,,2026-07-29 13:49:28,['hardware'],7pjq5g,hot,lobsters
 The Dark Night of Mathematics,3,0,https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics,https://lobste.rs/s/hrhb42,orib,,2026-07-29 13:49:28,"['math', 'philosophy']",hrhb42,hot,lobsters
 Overengineered calculator: Zig + QBE,1,0,https://tomekw.com/overengineered-calculator-zig-qbe/,https://lobste.rs/s/ozules,tomekw,,2026-07-29 13:49:28,"['compilers', 'zig']",ozules,hot,lobsters
+PostgreSQL MVCC: tradeoffs compared to other engines,15,8,https://boringsql.com/posts/mvcc-bad-bad/,https://lobste.rs/s/vjelns,pmbauer,,2026-07-29 19:00:10,['databases'],vjelns,hot,lobsters
+Some notes about Anthropic’s new results,14,2,https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/,https://lobste.rs/s/g9bkak,mantej,,2026-07-29 19:00:10,"['cryptography', 'vibecoding']",g9bkak,hot,lobsters
+A field day for Gleam’s language server | Gleam v.1.18.0 release,14,0,https://gleam.run/news/a-field-day-for-gleams-language-server/,https://lobste.rs/s/r9zgni,kamila,,2026-07-29 19:00:10,['gleam'],r9zgni,hot,lobsters
+basebrowserproject,10,2,https://mastodon.social/@sarahjamielewis/116965925134524215,https://lobste.rs/s/s78pit,iandavis,,2026-07-29 19:00:10,['browsers'],s78pit,hot,lobsters
+Setting timers in simple games (feat. the frame rule),5,3,https://lynn.github.io/blog/pico-timers/,https://lobste.rs/s/1efcss,abnercoimbre,,2026-07-29 19:00:10,['games'],1efcss,hot,lobsters
+First CHERIoT Silicon,4,1,https://cheriot.org/silicon/2026/03/04/cheriot-first-silicon.html,https://lobste.rs/s/l3sj7g,kaycebasques,,2026-07-29 19:00:10,['hardware'],l3sj7g,hot,lobsters
+const_cast: A Necessary Evil,2,2,https://www.elbeno.com/blog/?p=1858,https://lobste.rs/s/jisg7l,raymii,,2026-07-29 19:00:10,['c++'],jisg7l,hot,lobsters
+Flycheck 38: Might & Magic,4,0,https://emacsredux.com/blog/2026/07/29/flycheck-38/,https://lobste.rs/s/odojje,ehamberg,,2026-07-29 19:00:10,"['emacs', 'release']",odojje,hot,lobsters
