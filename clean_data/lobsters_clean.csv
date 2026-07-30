@@ -1848,3 +1848,6 @@ C++ float-to-int conversion can be undefined behavior,16,4,https://kttnr.net/blo
 The Difference Between a Button and a Link,4,0,https://unplannedobsolescence.com/blog/buttons-vs-links/,https://lobste.rs/s/hkemqm,abhin4v,,2026-07-30 08:10:06,['web'],hkemqm,hot,lobsters
 Man and the Computer - John G. Kemeny (1972),3,0,https://archive.org/details/mancomputerbyjoh0000john,https://lobste.rs/s/ndprns,veqq,,2026-07-30 08:10:06,"['pdf', 'philosophy']",ndprns,hot,lobsters
 Trellis: workspace tooling for Gleam monorepos,1,0,https://tylerbutler.com/trellis/,https://lobste.rs/s/0ogm7z,crowdhailer,,2026-07-30 08:10:06,['gleam'],0ogm7z,hot,lobsters
+deskhop: Fast Desktop Switching Device,9,6,https://github.com/hrvach/deskhop,https://lobste.rs/s/zk0qqe,dominicm,,2026-07-30 13:30:25,['hardware'],zk0qqe,hot,lobsters
+Building Progressively Enhanced Forms Using htmx,1,1,https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/,https://lobste.rs/s/4bvpqh,raffomania,,2026-07-30 13:30:25,"['javascript', 'web']",4bvpqh,hot,lobsters
+Logic for Programmers,2,0,https://logicforprogrammers.com/,https://lobste.rs/s/l03yv1,natfu,,2026-07-30 13:30:25,"['math', 'programming']",l03yv1,hot,lobsters
