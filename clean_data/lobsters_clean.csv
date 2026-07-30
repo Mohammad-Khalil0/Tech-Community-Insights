@@ -1851,3 +1851,11 @@ Trellis: workspace tooling for Gleam monorepos,1,0,https://tylerbutler.com/trell
 deskhop: Fast Desktop Switching Device,9,6,https://github.com/hrvach/deskhop,https://lobste.rs/s/zk0qqe,dominicm,,2026-07-30 13:30:25,['hardware'],zk0qqe,hot,lobsters
 Building Progressively Enhanced Forms Using htmx,1,1,https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/,https://lobste.rs/s/4bvpqh,raffomania,,2026-07-30 13:30:25,"['javascript', 'web']",4bvpqh,hot,lobsters
 Logic for Programmers,2,0,https://logicforprogrammers.com/,https://lobste.rs/s/l03yv1,natfu,,2026-07-30 13:30:25,"['math', 'programming']",l03yv1,hot,lobsters
+The AI Aesthetic,22,4,https://blog.jim-nielsen.com/2026/ai-aesthetic/,https://lobste.rs/s/wxmi0v,carlana,,2026-07-30 19:12:22,"['design', 'vibecoding']",wxmi0v,hot,lobsters
+A universal approach to mocking with continuations,6,1,https://crowdhailer.me/2026-07-30/a-universal-approach-to-mocking/,https://lobste.rs/s/01n0ss,crowdhailer,,2026-07-30 19:12:22,['gleam'],01n0ss,hot,lobsters
+Stacked pull requests are now in public preview,7,1,https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/,https://lobste.rs/s/pzl6f0,robinhundt,,2026-07-30 19:12:22,['vcs'],pzl6f0,hot,lobsters
+KindaRails2Shell - Critical RCE in Rails via Active Storage (CVE-2026-66066),4,3,https://ethiack.com/info-hub/research/kindarails2shell-rails-rce-cve-2026-66066,https://lobste.rs/s/kkobew,hoistbypetard,,2026-07-30 19:12:22,"['ruby', 'security']",kkobew,hot,lobsters
+Progress toward compiling Linux with gccrs,5,0,https://lwn.net/SubscriberLink/1083202/f1ba926cd57ac5c5/,https://lobste.rs/s/cpyuub,fanf,,2026-07-30 19:12:22,"['linux', 'rust']",cpyuub,hot,lobsters
+Scaling NumPy on Free-Threaded Python,4,0,https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python,https://lobste.rs/s/3s9cva,ngoldbaum,,2026-07-30 19:12:22,"['performance', 'python']",3s9cva,hot,lobsters
+Saturation: How Your Software Will Fail at Scale,3,0,https://www.youtube.com/watch?v=PHYCRubnmSM,https://lobste.rs/s/opbpro,jbauer,,2026-07-30 19:12:22,"['debugging', 'historical', 'video']",opbpro,hot,lobsters
+The State of Post-Quantum Cryptography,2,0,https://www.feistyduck.com/newsletter/issue_139_the_state_of_post-quantum_cryptography,https://lobste.rs/s/yruyze,fanf,,2026-07-30 19:12:22,['cryptography'],yruyze,hot,lobsters
