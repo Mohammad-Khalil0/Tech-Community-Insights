@@ -1863,3 +1863,8 @@ You have been mislead about lightbulbs,17,3,https://maurycyz.com/misc/tungsten/,
 GCC steering committee announces AI policy,8,6,https://lwn.net/Articles/1086041/,https://lobste.rs/s/fbqlpy,nemin,,2026-07-31 02:00:24,"['c', 'c++', 'vibecoding']",fbqlpy,hot,lobsters
 std.Io.Writer.Allocating ate all my memory,9,1,https://www.openmymind.net/std-io-writer-allocating-ate-my-memory/,https://lobste.rs/s/eelfmn,vpol,,2026-07-31 02:00:24,['zig'],eelfmn,hot,lobsters
 New keyboard: Alicjav2,3,0,https://marcin.juszkiewicz.com.pl/2026/07/29/new-keyboard-alicja-v2/,https://lobste.rs/s/4iadct,raymii,,2026-07-31 02:00:24,['hardware'],4iadct,hot,lobsters
+Correlated RNG,8,2,https://knivesforcats.online/correlated-rng/,https://lobste.rs/s/r2dy9y,fanf,,2026-07-31 08:38:58,['games'],r2dy9y,hot,lobsters
+How to speed up the Rust compiler in July 2026,7,0,https://nnethercote.github.io/2026/07/31/how-to-speed-up-the-rust-compiler-in-july-2026.html,https://lobste.rs/s/ycsivx,asb,,2026-07-31 08:38:58,"['compilers', 'performance', 'rust']",ycsivx,hot,lobsters
+C64 Demo Effects Explained: Rodents In The Attic,4,1,https://youtu.be/uZ1atMUOUMU,https://lobste.rs/s/zsq34k,fanf,,2026-07-31 08:38:58,"['art', 'graphics', 'retrocomputing', 'video']",zsq34k,hot,lobsters
+Private data in ATProto: Permissioned Data Proposal,2,0,https://github.com/bluesky-social/proposals/tree/main/0016-permissioned-data,https://lobste.rs/s/wixunw,himawari,,2026-07-31 08:38:58,['distributed'],wixunw,hot,lobsters
+vLLM for Baidu Kunlun,1,0,https://github.com/baidu/vLLM-Kunlun,https://lobste.rs/s/sbu76n,sanxiyn,,2026-07-31 08:38:58,"['ai', 'hardware']",sbu76n,hot,lobsters
