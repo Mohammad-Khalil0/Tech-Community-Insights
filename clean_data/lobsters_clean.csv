@@ -1873,3 +1873,16 @@ Stripe Just Wants a Number,11,7,https://blog.exe.dev/billable-facts,https://lobs
 Full flattening of nested data parallelism,7,0,https://futhark-lang.org/blog/2026-07-31-full-flattening.html,https://lobste.rs/s/91tzqg,athas,,2026-07-31 13:44:31,['programming'],91tzqg,hot,lobsters
 Project-Specific clangd Configuration with a Temporary Shell,1,0,https://felix-knorr.net/posts/2026-07-31-lsp-config.html,https://lobste.rs/s/j04gsk,KnorrFG,,2026-07-31 13:44:31,['programming'],j04gsk,hot,lobsters
 Derivations to Deployments: Practical Nix in Production - John Murray,1,0,https://www.youtube.com/watch?v=WaPOtisNu1k,https://lobste.rs/s/s94kc4,wofo,,2026-07-31 13:44:31,"['nix', 'video']",s94kc4,hot,lobsters
+Ruby Central's Destructive Legacy,29,4,https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/,https://lobste.rs/s/qvbkpa,soulcutter,,2026-07-31 19:10:51,['ruby'],qvbkpa,hot,lobsters
+Why I forked rand,31,8,https://casualhacks.net/blog/2026-07-27-why-i-forked-rand.html,https://lobste.rs/s/kvxee3,ollien,,2026-07-31 19:10:51,['rust'],kvxee3,hot,lobsters
+Guix shell now inside Emacs,5,0,https://tusharhero.codeberg.page/guix-shell-in-emacs.html,https://lobste.rs/s/uxsmk6,tusharhero,,2026-07-31 19:10:51,"['emacs', 'nix']",uxsmk6,hot,lobsters
+what the double-fork?,7,0,https://bower.sh/what-the-double-fork,https://lobste.rs/s/qwytlf,erock,,2026-07-31 19:10:51,['linux'],qwytlf,hot,lobsters
+Where .env Went Wrong,7,1,https://secretspec.dev/blog/where-env-went-wrong/,https://lobste.rs/s/xieltq,fzakaria,,2026-07-31 19:10:51,['nix'],xieltq,hot,lobsters
+The State of Chez Scheme in Debian,6,0,https://weinholt.se/articles/state-of-chezscheme-in-debian/,https://lobste.rs/s/ecd44o,FedericoSchonborn,,2026-07-31 19:10:51,"['linux', 'lisp']",ecd44o,hot,lobsters
+Dead Software Walking: The ongoing evolution of relayd(8) and httpd(8),3,2,https://rsadowski.de/posts/2026/dead-software-walking-relayd-and-httpd/,https://lobste.rs/s/i6e5wp,lim,,2026-07-31 19:10:51,"['openbsd', 'practices']",i6e5wp,hot,lobsters
+The Wheels We Keep Reinventing,3,2,https://blainsmith.com/articles/reinventing-the-wheel/,https://lobste.rs/s/nw7rzu,ggpsv,,2026-07-31 19:10:51,['practices'],nw7rzu,hot,lobsters
+"How We Built a Zero-Disk, S3-Tiered Storage Engine for SQLite",1,1,https://rivet.dev/blog/2026-07-31-how-we-built-the-first-zero-disk-s3-tiered-storage-engine-for-sqlite/,https://lobste.rs/s/6gl58y,nathanflurry,,2026-07-31 19:10:51,"['databases', 'rust']",6gl58y,hot,lobsters
+Accepting a messy git history,1,1,https://beza1e1.tuxen.de/git_two_users.html,https://lobste.rs/s/aj7msu,qznc,,2026-07-31 19:10:51,"['practices', 'vcs']",aj7msu,hot,lobsters
+Methinks it is a weasel,4,1,https://diatone.net/methinks,https://lobste.rs/s/8tnxna,orib,,2026-07-31 19:10:51,"['math', 'philosophy']",8tnxna,hot,lobsters
+Why we write our own C and C++ inference engines,2,1,https://localai.io/blog/why-we-write-our-own-engines/,https://lobste.rs/s/t7zdif,eatonphil,,2026-07-31 19:10:51,"['ai', 'c', 'c++']",t7zdif,hot,lobsters
+"DOOM, Emacs",3,0,https://github.com/minad/doom-on-emacs,https://lobste.rs/s/bgr7fh,Shorden,,2026-07-31 19:10:51,['emacs'],bgr7fh,hot,lobsters
