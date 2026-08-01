@@ -1890,3 +1890,7 @@ Why we write our own C and C++ inference engines,2,1,https://localai.io/blog/why
 Arch Linux disables AUR package adoption,5,0,https://lwn.net/Articles/1086489/,https://lobste.rs/s/0mixjj,Levitating,,2026-08-01 02:02:17,"['linux', 'security']",0mixjj,hot,lobsters
 Interactive Raylib with Common Lisp,6,0,https://www.youtube.com/watch?v=yeJRK_1rS4Y,https://lobste.rs/s/8fep9z,schonfinkel,,2026-08-01 02:02:17,"['emacs', 'games', 'graphics', 'lisp', 'video']",8fep9z,hot,lobsters
 Let's make the worst htmx ever,3,0,https://zserge.com/posts/worst-htmx-ever/,https://lobste.rs/s/9yyxpk,rslabbert,,2026-08-01 02:02:17,"['javascript', 'web']",9yyxpk,hot,lobsters
+Elevators,5,0,https://john.fun/elevators,https://lobste.rs/s/jxqf1w,markerz,,2026-08-01 08:06:40,"['compsci', 'math', 'performance', 'visualization']",jxqf1w,hot,lobsters
+marionette: deterministic simulation testing library,5,1,https://github.com/sb2bg/marionette,https://lobste.rs/s/qpamp4,miro,,2026-08-01 08:06:40,['zig'],qpamp4,hot,lobsters
+The development pipeline is a production system,2,0,https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system,https://lobste.rs/s/m0pytv,calvin,,2026-08-01 08:06:40,['practices'],m0pytv,hot,lobsters
+ST Rust drivers,7,0,https://blog.st.com/rust-mems-drivers/,https://lobste.rs/s/ogfqd0,kaycebasques,,2026-08-01 08:06:40,"['hardware', 'rust']",ogfqd0,hot,lobsters
