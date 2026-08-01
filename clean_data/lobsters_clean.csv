@@ -1896,3 +1896,10 @@ The development pipeline is a production system,2,0,https://sundry.jerryorr.com/
 ST Rust drivers,7,0,https://blog.st.com/rust-mems-drivers/,https://lobste.rs/s/ogfqd0,kaycebasques,,2026-08-01 08:06:40,"['hardware', 'rust']",ogfqd0,hot,lobsters
 Test the Email Verification Protocol with an origin trial,1,0,https://developer.chrome.com/blog/email-verification-protocol-origin-trial,https://lobste.rs/s/72ni5s,eatonphil,,2026-08-01 12:59:56,['browsers'],72ni5s,hot,lobsters
 Rewriting SupportMail's sharding system,1,0,https://supportmail.dev/blog/rewriting-supportmails-sharding-system,https://lobste.rs/s/jqh3qo,AccidentallyInvited,,2026-08-01 12:59:56,['scaling'],jqh3qo,hot,lobsters
+wiff,20,3,https://wezfurlong.org/wiff/,https://lobste.rs/s/tc82u0,jparise,,2026-08-01 18:57:22,"['practices', 'vcs', 'vibecoding']",tc82u0,hot,lobsters
+Norway's first adventure games,11,0,https://spillhistorie.no/2025/09/11/norways-first-adventure-games-part-1/,https://lobste.rs/s/vawkti,kqr,,2026-08-01 18:57:22,['games'],vawkti,hot,lobsters
+NetBSD 11.0 released,3,0,https://blog.netbsd.org/tnf/entry/netbsd_11_0_released,https://lobste.rs/s/pvrnor,jaypatelani,,2026-08-01 18:57:22,['netbsd'],pvrnor,hot,lobsters
+What Naur got wrong from The concept of mind,2,0,https://tssm.neocities.org/what-naur-got-wrong-from-the-concept-of-mind,https://lobste.rs/s/6yrhha,intarga,,2026-08-01 18:57:22,['philosophy'],6yrhha,hot,lobsters
+The Session You Cannot Take With You,8,0,https://earendil.com/posts/session-portability/,https://lobste.rs/s/8qv2cy,loige,,2026-08-01 18:57:22,['vibecoding'],8qv2cy,hot,lobsters
+"Patch In, Exploit Out: How deepsec Reconstructed the Pwn2Own Microsoft Edge Sandbox Escape",2,0,http://www.darknavy.org/blog/patch_in_exploit_out_how_deepsec_reconstructed_the_pwn2own_microsoft_edge_sandbox_escape/,https://lobste.rs/s/znf3q8,freddyb,,2026-08-01 18:57:22,"['security', 'vibecoding']",znf3q8,hot,lobsters
+rustgrep - structural grep for Rust source,6,3,https://radicle.network/nodes/radicle.dpc.pw/rad%3Az3wPTYCEHukxHQNU2fQ2b3eASNw8a,https://lobste.rs/s/xidxte,dpc_pw,,2026-08-01 18:57:22,"['rust', 'vibecoding']",xidxte,hot,lobsters
