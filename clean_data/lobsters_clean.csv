@@ -1894,3 +1894,5 @@ Elevators,5,0,https://john.fun/elevators,https://lobste.rs/s/jxqf1w,markerz,,202
 marionette: deterministic simulation testing library,5,1,https://github.com/sb2bg/marionette,https://lobste.rs/s/qpamp4,miro,,2026-08-01 08:06:40,['zig'],qpamp4,hot,lobsters
 The development pipeline is a production system,2,0,https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system,https://lobste.rs/s/m0pytv,calvin,,2026-08-01 08:06:40,['practices'],m0pytv,hot,lobsters
 ST Rust drivers,7,0,https://blog.st.com/rust-mems-drivers/,https://lobste.rs/s/ogfqd0,kaycebasques,,2026-08-01 08:06:40,"['hardware', 'rust']",ogfqd0,hot,lobsters
+Test the Email Verification Protocol with an origin trial,1,0,https://developer.chrome.com/blog/email-verification-protocol-origin-trial,https://lobste.rs/s/72ni5s,eatonphil,,2026-08-01 12:59:56,['browsers'],72ni5s,hot,lobsters
+Rewriting SupportMail's sharding system,1,0,https://supportmail.dev/blog/rewriting-supportmails-sharding-system,https://lobste.rs/s/jqh3qo,AccidentallyInvited,,2026-08-01 12:59:56,['scaling'],jqh3qo,hot,lobsters
