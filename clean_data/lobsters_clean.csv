@@ -1917,3 +1917,8 @@ sizeof is surprisingly difficult to parse in c,5,1,https://sebsite.pw/w/20260802
 FlickBoard,3,0,https://natkr.com/2026-08-02-flickboard/,https://lobste.rs/s/qktajv,natkr,,2026-08-02 08:08:20,"['android', 'show']",qktajv,hot,lobsters
 MkLinux and the pimped-out Apple Workgroup Server 9150,2,0,http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html,https://lobste.rs/s/7ay8gq,classichasclass,,2026-08-02 08:08:20,"['linux', 'mac', 'retrocomputing']",7ay8gq,hot,lobsters
 Twenty Years of Bigtable,2,0,https://dl.acm.org/doi/pdf/10.1145/3788853.3803095,https://lobste.rs/s/ooetqu,rrampage,,2026-08-02 08:08:20,"['databases', 'distributed', 'pdf']",ooetqu,hot,lobsters
+Prevent cognitive debt by manually retyping LLM-generated code,4,2,https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/,https://lobste.rs/s/ui2vor,abhin4v,,2026-08-02 13:02:30,['vibecoding'],ui2vor,hot,lobsters
+EPIPE on write might mean you're doing it wrong,7,0,https://rachelbythebay.com/w/2026/07/09/pipe/,https://lobste.rs/s/7emnqu,binjip978,,2026-08-02 13:02:30,"['php', 'unix']",7emnqu,hot,lobsters
+Mathematics Without Mathematicians,4,1,https://borretti.me/article/mathematics-without-mathematicians,https://lobste.rs/s/foagiq,rsaarelm,,2026-08-02 13:02:30,"['math', 'vibecoding']",foagiq,hot,lobsters
+Ten advances in mathematics and theoretical computer science,6,0,https://openai.com/index/ten-advances-in-mathematics/,https://lobste.rs/s/n6rg1c,mitsuhiko,,2026-08-02 13:02:30,"['math', 'vibecoding']",n6rg1c,hot,lobsters
+Where's your website?,0,0,https://www.arscyni.cc/file/warez_your_website.html,https://lobste.rs/s/uw1lfb,arsCynic,,2026-08-02 13:02:30,['culture'],uw1lfb,hot,lobsters
