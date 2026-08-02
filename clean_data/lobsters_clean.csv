@@ -1903,3 +1903,12 @@ What Naur got wrong from The concept of mind,2,0,https://tssm.neocities.org/what
 The Session You Cannot Take With You,8,0,https://earendil.com/posts/session-portability/,https://lobste.rs/s/8qv2cy,loige,,2026-08-01 18:57:22,['vibecoding'],8qv2cy,hot,lobsters
 "Patch In, Exploit Out: How deepsec Reconstructed the Pwn2Own Microsoft Edge Sandbox Escape",2,0,http://www.darknavy.org/blog/patch_in_exploit_out_how_deepsec_reconstructed_the_pwn2own_microsoft_edge_sandbox_escape/,https://lobste.rs/s/znf3q8,freddyb,,2026-08-01 18:57:22,"['security', 'vibecoding']",znf3q8,hot,lobsters
 rustgrep - structural grep for Rust source,6,3,https://radicle.network/nodes/radicle.dpc.pw/rad%3Az3wPTYCEHukxHQNU2fQ2b3eASNw8a,https://lobste.rs/s/xidxte,dpc_pw,,2026-08-01 18:57:22,"['rust', 'vibecoding']",xidxte,hot,lobsters
+An old-new take on argument parsing in Rust,18,4,https://jmmv.dev/2026/07/hello-getoptsargs.html,https://lobste.rs/s/vrd28h,jmmv,,2026-08-02 01:57:43,"['rust', 'unix']",vrd28h,hot,lobsters
+But can your calculator run Linux?,14,0,https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html,https://lobste.rs/s/voozor,raymii,,2026-08-02 01:57:43,"['hardware', 'linux']",voozor,hot,lobsters
+Resigning from Arch Linux,16,1,https://linderud.dev/blog/resigning-from-arch-linux/,https://lobste.rs/s/ectcmr,FedericoSchonborn,,2026-08-02 01:57:43,"['linux', 'person']",ectcmr,hot,lobsters
+Apple Screen Sharing Pre-Auth RCE,13,3,https://warez.sl0p.foo/apple-screensharing-rce/,https://lobste.rs/s/t1wy9l,fro,,2026-08-02 01:57:43,"['mac', 'security']",t1wy9l,hot,lobsters
+A week in Matrix,9,1,https://piegames.de/dumps/a-week-in-matrix/,https://lobste.rs/s/obipgm,PuercoPop,,2026-08-02 01:57:43,['distributed'],obipgm,hot,lobsters
+Postmortem for Lean Kernel Soundness Bug #14576,13,0,https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/,https://lobste.rs/s/ojcl8j,banna,,2026-08-02 01:57:43,['plt'],ojcl8j,hot,lobsters
+LLMs won't break symmetric crypto,13,0,https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto,https://lobste.rs/s/tstkqk,mantej,,2026-08-02 01:57:43,"['cryptography', 'vibecoding']",tstkqk,hot,lobsters
+European Search Perspective,3,0,https://www.eu-searchperspective.com/,https://lobste.rs/s/2xyz5h,merlinscholz,,2026-08-02 01:57:43,['web'],2xyz5h,hot,lobsters
+The Fixi Project,2,0,https://fixiproject.org/docs.html,https://lobste.rs/s/xcw9eq,lim,,2026-08-02 01:57:43,['web'],xcw9eq,hot,lobsters
