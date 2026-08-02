@@ -1912,3 +1912,8 @@ Postmortem for Lean Kernel Soundness Bug #14576,13,0,https://leodemoura.github.i
 LLMs won't break symmetric crypto,13,0,https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto,https://lobste.rs/s/tstkqk,mantej,,2026-08-02 01:57:43,"['cryptography', 'vibecoding']",tstkqk,hot,lobsters
 European Search Perspective,3,0,https://www.eu-searchperspective.com/,https://lobste.rs/s/2xyz5h,merlinscholz,,2026-08-02 01:57:43,['web'],2xyz5h,hot,lobsters
 The Fixi Project,2,0,https://fixiproject.org/docs.html,https://lobste.rs/s/xcw9eq,lim,,2026-08-02 01:57:43,['web'],xcw9eq,hot,lobsters
+"Atom is better than RSS, in ways that matter",11,6,https://chrismorgan.info/atom%3Erss,https://lobste.rs/s/80cn4r,bitshift,,2026-08-02 08:08:20,['web'],80cn4r,hot,lobsters
+sizeof is surprisingly difficult to parse in c,5,1,https://sebsite.pw/w/20260802-sizeof.html,https://lobste.rs/s/hozhli,raymii,,2026-08-02 08:08:20,['c'],hozhli,hot,lobsters
+FlickBoard,3,0,https://natkr.com/2026-08-02-flickboard/,https://lobste.rs/s/qktajv,natkr,,2026-08-02 08:08:20,"['android', 'show']",qktajv,hot,lobsters
+MkLinux and the pimped-out Apple Workgroup Server 9150,2,0,http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html,https://lobste.rs/s/7ay8gq,classichasclass,,2026-08-02 08:08:20,"['linux', 'mac', 'retrocomputing']",7ay8gq,hot,lobsters
+Twenty Years of Bigtable,2,0,https://dl.acm.org/doi/pdf/10.1145/3788853.3803095,https://lobste.rs/s/ooetqu,rrampage,,2026-08-02 08:08:20,"['databases', 'distributed', 'pdf']",ooetqu,hot,lobsters
