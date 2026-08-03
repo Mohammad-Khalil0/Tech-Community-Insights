@@ -1949,3 +1949,12 @@ Going Backward,3,0,https://antonz.org/going-backward/,https://lobste.rs/s/zxhcbu
 Modelling Actors with Redex: Part I,1,0,https://eighty-twenty.org/2016/08/18/redex-iswim,https://lobste.rs/s/rsrjaq,tonyg,,2026-08-03 14:19:17,"['distributed', 'plt']",rsrjaq,hot,lobsters
 This Month in KDE Linux: July 2026,3,0,https://blogs.kde.org/2026/08/03/this-month-in-kde-linux-july-2026/,https://lobste.rs/s/ykdhx3,FedericoSchonborn,,2026-08-03 14:19:17,['linux'],ykdhx3,hot,lobsters
 Gleam for Python Programmers,2,2,https://third-bit.com/gl4py/,https://lobste.rs/s/x4mu5m,pushcx,,2026-08-03 14:19:17,"['gleam', 'python']",x4mu5m,hot,lobsters
+help wanted,76,4,https://lake.computer/blog/help-wanted/,https://lobste.rs/s/a355zh,lake,,2026-08-03 19:21:38,"['rant', 'satire', 'vibecoding']",a355zh,hot,lobsters
+Reliability Lessons From SQLite,11,0,https://www.youtube.com/watch?v=V_qzqY1bb7I,https://lobste.rs/s/kprcuc,dgv,,2026-08-03 19:21:38,"['practices', 'video']",kprcuc,hot,lobsters
+SQLite Critical CVEs or LLM Slop?,10,0,https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/,https://lobste.rs/s/9nxwpi,ubernostrum,,2026-08-03 19:21:38,['security'],9nxwpi,hot,lobsters
+Wireguard For Plan 9,8,0,http://shithub.us/moody/wg/HEAD/info.html,https://lobste.rs/s/fse0eh,orib,,2026-08-03 19:21:38,"['osdev', 'release']",fse0eh,hot,lobsters
+Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years,3,1,https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase,https://lobste.rs/s/stoy9n,veqq,,2026-08-03 19:21:38,"['c', 'retrocomputing']",stoy9n,hot,lobsters
+"bonsai: A library for building dynamic webapps, using Js_of_ocaml",6,1,https://github.com/janestreet/bonsai,https://lobste.rs/s/mdm2yk,SoapDog,,2026-08-03 19:21:38,"['ml', 'web']",mdm2yk,hot,lobsters
+Projects I Wouldn't Use Python For in 2026,2,2,https://menno.io/posts/not-python-2026/,https://lobste.rs/s/ib4tko,abnercoimbre,,2026-08-03 19:21:38,['python'],ib4tko,hot,lobsters
+Rust: Don't Panic,5,0,https://www.youtube.com/watch?v=usRlRCNIOG0,https://lobste.rs/s/qpubrj,Arya,,2026-08-03 19:21:38,"['rust', 'video']",qpubrj,hot,lobsters
+Categorization with NLP,1,0,https://softwaremaniacs.org/blog/2026/07/30/categorization-with-nlp/en/,https://lobste.rs/s/vyy2jf,isagalaev,,2026-08-03 19:21:38,"['kotlin', 'python']",vyy2jf,hot,lobsters
