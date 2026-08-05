@@ -1987,3 +1987,7 @@ designing a query system,7,1,https://bal-e.org/speed/krabby/2026/query-system-de
 Don't stop early: Case-folding source code at memory speed,5,1,https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/,https://lobste.rs/s/qsgcgz,fanf,,2026-08-05 01:48:12,"['performance', 'rust']",qsgcgz,hot,lobsters
 irken: A tiny hackable full-featured IRC client,7,2,https://codeberg.org/dlowe/irken,https://lobste.rs/s/12aef8,dzwdz,,2026-08-05 01:48:12,['programming'],12aef8,hot,lobsters
 "we finally learned to center a div, then browsers added sidebars",1,3,https://seg6.space/posts/center-div/,https://lobste.rs/s/ikkudb,seg6,,2026-08-05 01:48:12,"['browsers', 'css', 'design']",ikkudb,hot,lobsters
+rust-lang/rust is adopting an LLM policy,17,2,https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/,https://lobste.rs/s/czvkjy,wezm,,2026-08-05 08:21:52,"['rust', 'vibecoding']",czvkjy,hot,lobsters
+Nehir: a tiling window manager for macOS,4,4,https://github.com/apphane-dev/nehir,https://lobste.rs/s/6ohotl,fanf,,2026-08-05 08:21:52,['mac'],6ohotl,hot,lobsters
+"Gödel, Escher, Elisp: The Beauty of Macros",7,1,https://www.chiply.dev/post-elisp-macros-are-beautiful,https://lobste.rs/s/rqjjkq,rau,,2026-08-05 08:21:52,"['emacs', 'lisp']",rqjjkq,hot,lobsters
+Amélie (2023),9,0,https://www.maxhaesslein.de/visual/objects/amelie/,https://lobste.rs/s/dvswet,wezm,,2026-08-05 08:21:52,['art'],dvswet,hot,lobsters
