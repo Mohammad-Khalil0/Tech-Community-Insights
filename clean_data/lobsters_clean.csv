@@ -1982,3 +1982,8 @@ No Meat Proxy,14,0,https://nomeatproxy.com/,https://lobste.rs/s/jtgaol,kamila,,2
 "Security is Hard, Y’all",3,0,https://textslashplain.com/2026/08/04/security-is-hard-yall/,https://lobste.rs/s/qoptbx,kevincox,,2026-08-04 19:20:10,['security'],qoptbx,hot,lobsters
 Taming the Steam arm64 client (on pmOS),3,0,https://blog.drakulix.de/taming-the-steam-arm64-client-on-pmos/,https://lobste.rs/s/dpn8yn,craftyguy,,2026-08-04 19:20:10,"['games', 'linux']",dpn8yn,hot,lobsters
 A Revised Haskell 2010 Language Report,2,0,https://blog.haskell.org/revised-haskell-2010-report/,https://lobste.rs/s/illv4o,Hecate,,2026-08-04 19:20:10,['haskell'],illv4o,hot,lobsters
+"Born Against, or why hobby programming communities are aggressively against LLM usage",17,2,https://blog.fogus.me/llm/born-against.html,https://lobste.rs/s/3d3wbr,j11g,,2026-08-05 01:48:12,['vibecoding'],3d3wbr,hot,lobsters
+designing a query system,7,1,https://bal-e.org/speed/krabby/2026/query-system-design/,https://lobste.rs/s/awdorz,fanf,,2026-08-05 01:48:12,"['compilers', 'rust']",awdorz,hot,lobsters
+Don't stop early: Case-folding source code at memory speed,5,1,https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/,https://lobste.rs/s/qsgcgz,fanf,,2026-08-05 01:48:12,"['performance', 'rust']",qsgcgz,hot,lobsters
+irken: A tiny hackable full-featured IRC client,7,2,https://codeberg.org/dlowe/irken,https://lobste.rs/s/12aef8,dzwdz,,2026-08-05 01:48:12,['programming'],12aef8,hot,lobsters
+"we finally learned to center a div, then browsers added sidebars",1,3,https://seg6.space/posts/center-div/,https://lobste.rs/s/ikkudb,seg6,,2026-08-05 01:48:12,"['browsers', 'css', 'design']",ikkudb,hot,lobsters
