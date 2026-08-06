@@ -2023,3 +2023,13 @@ The following is a valid DOS COM executable,5,1,https://oldbytes.space/@glorious
 The LuaJIT NYI That Silently Poisoned an Unrelated Hot Loop,4,0,https://streamhpc.com/blog/2026-08-05/the-luajit-nyi-that-silently-poisoned-an-unrelated-hot-loop/,https://lobste.rs/s/qls9sm,Snektron,,2026-08-06 13:44:43,"['lua', 'performance']",qls9sm,hot,lobsters
 a 3D SVG Renderer that projects textures without rasterization,4,0,https://seve.blog/p/i-made-a-3d-svg-renderer-that-projects,https://lobste.rs/s/uwaoor,juliethefoxcoon,,2026-08-06 13:44:43,"['css', 'web']",uwaoor,hot,lobsters
 Fiddler Web Debugger in 2026,4,1,https://textslashplain.com/2026/08/05/fiddler-in-2026/,https://lobste.rs/s/osw0v8,ema-pe,,2026-08-06 13:44:43,"['law', 'networking', 'windows']",osw0v8,hot,lobsters
+Zig's Io.Threaded is Neat,24,3,https://matklad.github.io/2026/08/06/neat-io-threaded.html,https://lobste.rs/s/aegq82,nickmonad,,2026-08-06 23:51:26,['zig'],aegq82,hot,lobsters
+Taste Is All That's Left,16,13,https://notashelf.dev/posts/taste-is-all-thats-left,https://lobste.rs/s/4qfkrz,pbsds,,2026-08-06 23:51:26,['vibecoding'],4qfkrz,hot,lobsters
+schrodingers-toctou: The binary you run is not the program you wrote,9,8,https://github.com/xoreaxeaxeax/schrodingers-toctou,https://lobste.rs/s/bmnusu,juri,,2026-08-06 23:51:26,"['c', 'compilers', 'security', 'vibecoding']",bmnusu,hot,lobsters
+How to Make a Nintendo 64 Game in 2026,17,2,https://phoboslab.org/log/2026/08/xibalba64-making-of,https://lobste.rs/s/j8ytwa,rrampage,,2026-08-06 23:51:26,"['c', 'games', 'graphics', 'retrocomputing']",j8ytwa,hot,lobsters
+Zapscape - Guest to host escape in KVM/x86,8,0,https://github.com/V4bel/Zapscape,https://lobste.rs/s/2hatf3,rrampage,,2026-08-06 23:51:26,"['linux', 'security', 'virtualization']",2hatf3,hot,lobsters
+Super Mario Derivations,3,1,https://fzakaria.com/2026/08/05/super-mario-derivations,https://lobste.rs/s/psnmvz,npiazza,,2026-08-06 23:51:26,"['games', 'nix', 'retrocomputing']",psnmvz,hot,lobsters
+"celld — Durable Objects, self-hosted",4,0,https://celld.dev/,https://lobste.rs/s/hd7qxs,loige,,2026-08-06 23:51:26,['rust'],hd7qxs,hot,lobsters
+cl-forth: Forth 2012 Standard in CL,6,0,https://github.com/gmpalter/cl-forth,https://lobste.rs/s/vfnwot,veqq,,2026-08-06 23:51:26,"['concatenative', 'lisp']",vfnwot,hot,lobsters
+"Crubit, C++/Rust Bidirectional Interop Tool",4,1,https://crubit.rs,https://lobste.rs/s/9ofzvx,kaycebasques,,2026-08-06 23:51:26,"['c++', 'rust']",9ofzvx,hot,lobsters
+the web server deployment model breaks at hobby scale,2,1,https://w.on-t.work/web-deployment-model,https://lobste.rs/s/rn4inr,PuercoPop,,2026-08-06 23:51:26,['web'],rn4inr,hot,lobsters
