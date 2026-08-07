@@ -2037,3 +2037,8 @@ I got a 1998 CD-ROM world atlas running on Windows 11,4,1,https://trevmex.com/po
 AI-generated vulnerability patches require human review,3,1,https://1password.com/blog/why-ai-generated-patches-still-require-human-review,https://lobste.rs/s/rkh2ux,ubernostrum,,2026-08-07 02:12:31,['security'],rkh2ux,hot,lobsters
 A shell exclamation mark is not for yelling. Be lazy,11,4,https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark,https://lobste.rs/s/0mjyep,seb,,2026-08-07 07:01:57,['unix'],0mjyep,hot,lobsters
 I'm leaving OpenAI to build Jurassic Park,6,0,https://taylor.town/leaving-openai,https://lobste.rs/s/ch83co,j11g,,2026-08-07 07:01:57,['satire'],ch83co,hot,lobsters
+From constraint models to playable puzzle games,4,0,https://zayenz.se/blog/post/constraint-generated-puzzle-games/,https://lobste.rs/s/mqzspg,mzl,,2026-08-07 12:42:53,['programming'],mqzspg,hot,lobsters
+Some ways to navigate through 'git blame' over time in GNU Emacs,9,0,https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsGitBlameOverTime,https://lobste.rs/s/hhuk8a,mattofr,,2026-08-07 12:42:53,['emacs'],hhuk8a,hot,lobsters
+Introducing Kitesurf: The agent-first browser that runs in V8 isolates on Cloudflare Workers,4,5,https://blog.cloudflare.com/kitesurf/,https://lobste.rs/s/9bxkgi,sanxiyn,,2026-08-07 12:42:53,"['browsers', 'rust', 'vibecoding']",9bxkgi,hot,lobsters
+Nix Evaluation Is a Scheduling Problem,6,0,https://notashelf.dev/posts/evix,https://lobste.rs/s/z0rmil,abhin4v,,2026-08-07 12:42:53,['nix'],z0rmil,hot,lobsters
+What is a product?,2,1,https://rogix.dev/what-is-a-product,https://lobste.rs/s/3tlse7,lalitm,,2026-08-07 12:42:53,['vibecoding'],3tlse7,hot,lobsters
