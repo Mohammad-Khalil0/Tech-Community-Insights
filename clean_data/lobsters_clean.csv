@@ -2052,3 +2052,4 @@ REpsych: Psychological warfare in reverse engineering,3,0,https://github.com/xor
 Domain-specific hyperspecialization (for SAT),2,1,https://c.mov/lymphosat/,https://lobste.rs/s/cccby7,nelhage,,2026-08-08 01:00:03,"['formalmethods', 'vibecoding']",cccby7,hot,lobsters
 Concurrency vs. Throughput: why more parallelism can make databases slower,1,1,https://planetscale.com/blog/concurrency-vs-throughput-vitess-mysql,https://lobste.rs/s/pe58bh,typesanitizer,,2026-08-08 01:00:03,"['databases', 'performance']",pe58bh,hot,lobsters
 BasicSync: A simple app for running Syncthing on Android,1,0,https://github.com/chenxiaolong/BasicSync,https://lobste.rs/s/ekxllh,tffr,,2026-08-08 01:00:03,['android'],ekxllh,hot,lobsters
+The Nixpkgs core team has disbanded,21,2,https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413,https://lobste.rs/s/9cv8me,kevinc,,2026-08-08 06:36:52,['nix'],9cv8me,hot,lobsters
