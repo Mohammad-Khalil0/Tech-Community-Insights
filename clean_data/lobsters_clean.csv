@@ -2044,3 +2044,11 @@ Nix Evaluation Is a Scheduling Problem,6,0,https://notashelf.dev/posts/evix,http
 What is a product?,2,1,https://rogix.dev/what-is-a-product,https://lobste.rs/s/3tlse7,lalitm,,2026-08-07 12:42:53,['vibecoding'],3tlse7,hot,lobsters
 How a device finds encrypted DNS by itself,6,0,https://blog.dundns.eu/posts/ddr-encrypted-dns-discovery/,https://lobste.rs/s/gycikc,amir,,2026-08-07 18:42:05,['networking'],gycikc,hot,lobsters
 AI & The University,3,0,https://www.youtube.com/watch?v=ZUk2TKZIo7s,https://lobste.rs/s/9jwbty,jbauer,,2026-08-07 18:42:05,"['education', 'vibecoding', 'video']",9jwbty,hot,lobsters
+Am I the problem? Interviewing another team to find out,30,5,https://www.macchaffee.com/blog/2026/am-i-the-problem/,https://lobste.rs/s/c30jsd,cetera,,2026-08-08 01:00:03,['practices'],c30jsd,hot,lobsters
+PS3 emulation is fast on ARM now,15,3,https://www.youtube.com/watch?v=-aI_XEwmKFk,https://lobste.rs/s/ykzv1a,tjf,,2026-08-08 01:00:03,"['assembly', 'performance', 'video']",ykzv1a,hot,lobsters
+Assembly Hall of Shame: Racing to the bottom of CPU performance,12,0,https://github.com/xoreaxeaxeax/asm-hall-of-shame,https://lobste.rs/s/hw1y12,mrunix,,2026-08-08 01:00:03,['hardware'],hw1y12,hot,lobsters
+"social media rabbit holes, clusters, and the relative mixing times of random walks",3,0,https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html,https://lobste.rs/s/hmi3v1,bobpoekert,,2026-08-08 01:00:03,['ai'],hmi3v1,hot,lobsters
+REpsych: Psychological warfare in reverse engineering,3,0,https://github.com/xoreaxeaxeax/repsych,https://lobste.rs/s/ufvii3,veqq,,2026-08-08 01:00:03,['compilers'],ufvii3,hot,lobsters
+Domain-specific hyperspecialization (for SAT),2,1,https://c.mov/lymphosat/,https://lobste.rs/s/cccby7,nelhage,,2026-08-08 01:00:03,"['formalmethods', 'vibecoding']",cccby7,hot,lobsters
+Concurrency vs. Throughput: why more parallelism can make databases slower,1,1,https://planetscale.com/blog/concurrency-vs-throughput-vitess-mysql,https://lobste.rs/s/pe58bh,typesanitizer,,2026-08-08 01:00:03,"['databases', 'performance']",pe58bh,hot,lobsters
+BasicSync: A simple app for running Syncthing on Android,1,0,https://github.com/chenxiaolong/BasicSync,https://lobste.rs/s/ekxllh,tffr,,2026-08-08 01:00:03,['android'],ekxllh,hot,lobsters
