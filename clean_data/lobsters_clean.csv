@@ -2065,3 +2065,12 @@ robot.villas – RSS-to-Mastodon Bridge,1,0,https://robot.villas,https://lobste.
 OpenSSH Key Structure Guide,1,0,https://sshref.dev/,https://lobste.rs/s/lnxdje,BD103,,2026-08-08 18:24:47,['security'],lnxdje,hot,lobsters
 experiments with isolation on blue pill,1,0,https://l0puh.github.io/log/2026/08/04/experiments_with_isolation/,https://lobste.rs/s/bbkpzc,kaycebasques,,2026-08-08 18:24:47,"['assembly', 'c', 'hardware', 'security']",bbkpzc,hot,lobsters
 Some Moral and Technical Consequences of Automation (1960),1,0,https://www.cs.umd.edu/users/gasarch/BLOGPAPERS/moral.pdf,https://lobste.rs/s/rgzoku,veqq,,2026-08-08 18:24:47,"['pdf', 'philosophy']",rgzoku,hot,lobsters
+Code was never the hard part is an insult to all programmers,12,14,https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers,https://lobste.rs/s/iixlsm,typesanitizer,,2026-08-09 01:03:28,"['practices', 'vibecoding']",iixlsm,hot,lobsters
+Systemd Dynamic Users (2020),9,0,https://ethulhu.co.uk/systemd-dynamicuser,https://lobste.rs/s/kjuxof,BD103,,2026-08-09 01:03:28,['systemd'],kjuxof,hot,lobsters
+The Object Model in Livelymerge,5,2,https://www.inkandswitch.com/livelymerge/notebook/lm-03/,https://lobste.rs/s/tiwdxn,arcade,,2026-08-09 01:03:28,['plt'],tiwdxn,hot,lobsters
+Revision Prompting improves industrial LLM processes,2,1,https://revisionprompting.info/,https://lobste.rs/s/wkx6jf,roberthoenig,,2026-08-09 01:03:28,['ai'],wkx6jf,hot,lobsters
+The FastLanes Unified Transport Layout,1,0,https://blog.dave.tf/post/fastlanes-utl/,https://lobste.rs/s/1ubzuf,danderson,,2026-08-09 01:03:28,"['databases', 'performance']",1ubzuf,hot,lobsters
+faaah (Filesystem As An AI Handler),1,0,https://github.com/sebastiancarlos/faaah,https://lobste.rs/s/lxy0ea,sebastiancarlos,,2026-08-09 01:03:28,"['show', 'vibecoding']",lxy0ea,hot,lobsters
+Multistack Concatenative Programming Languages,3,0,https://www.sheeeeeeeep.art/multistack-catlangs.html,https://lobste.rs/s/lv7kzs,intarga,,2026-08-09 01:03:28,"['concatenative', 'plt']",lv7kzs,hot,lobsters
+DREI: WYSIWYG Emacs for HTML,1,0,https://speechcode.com/blog/drei,https://lobste.rs/s/rgzrct,tusharhero,,2026-08-09 01:03:28,['emacs'],rgzrct,hot,lobsters
+Turning molecules into reliable electronic devices,2,0,https://news.mit.edu/2026/turning-molecules-into-reliable-electronic-devices-0803,https://lobste.rs/s/gurxoe,mempko,,2026-08-09 01:03:28,"['hardware', 'science']",gurxoe,hot,lobsters
