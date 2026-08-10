@@ -2091,3 +2091,10 @@ Relying on Go,11,3,https://antonz.org/relying-on-go/,https://lobste.rs/s/1ygxcp,
 On Arch Linux scripts and hooks,4,0,https://devblog.archlinux.page/2026/on-scripts-and-hooks/,https://lobste.rs/s/0mrntr,hugoarnal,,2026-08-09 18:27:23,['programming'],0mrntr,hot,lobsters
 postmarketOS in 2026-07: libcamera 0.7.2,3,0,https://postmarketos.org/blog/2026/08/06/pmOS-update-2026-07/,https://lobste.rs/s/a5pnxx,funderscore,,2026-08-09 18:27:23,"['linux', 'mobile']",a5pnxx,hot,lobsters
 Getting off the Modernization Treadmill,3,0,https://www.youtube.com/watch?v=vRJVw8Di-4s,https://lobste.rs/s/ogtybl,ggpsv,,2026-08-09 18:27:23,"['practices', 'video', 'web']",ogtybl,hot,lobsters
+IRC technology news from the first half of 2026,37,5,https://www.ilmarilauhakangas.fi/irc_technology_news_from_the_first_half_of_2026/,https://lobste.rs/s/u0ks1k,donio,,2026-08-10 01:05:25,['networking'],u0ks1k,hot,lobsters
+I got an email about resistance,15,3,https://www.seangoedecke.com/i-got-an-email-about-resistance/,https://lobste.rs/s/vowt4d,untitaker,,2026-08-10 01:05:25,"['culture', 'vibecoding']",vowt4d,hot,lobsters
+nixpkgs-multiverse: every version that ever existed,4,2,https://fzakaria.com/2026/08/09/nixpkgs-multiverse-every-version-that-ever-existed,https://lobste.rs/s/09l5py,domenkozar,,2026-08-10 01:05:25,['nix'],09l5py,hot,lobsters
+SQLite with a Fine-Toothed Comb (2016),3,1,https://blog.regehr.org/archives/1292,https://lobste.rs/s/ahyxwp,lucic71,,2026-08-10 01:05:25,['c'],ahyxwp,hot,lobsters
+Commit message test plans,4,2,https://blog.waleedkhan.name/commit-message-test-plans/,https://lobste.rs/s/abl0xo,jez,,2026-08-10 01:05:25,['testing'],abl0xo,hot,lobsters
+Profile-guided optimization in Go,1,0,https://lemire.me/blog/2026/08/09/profile-guided-optimization-in-go/,https://lobste.rs/s/noa9x5,prattmic,,2026-08-10 01:05:25,"['go', 'performance']",noa9x5,hot,lobsters
+Crashing Through Defenses: Exploiting Segfaults and Chaining around Intel CET,1,0,https://github.com/signal-sfop/sfop/blob/main/SFOP_s%26p_paper.pdf,https://lobste.rs/s/sh2bax,fro,,2026-08-10 01:05:25,"['pdf', 'security']",sh2bax,hot,lobsters
