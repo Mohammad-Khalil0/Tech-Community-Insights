@@ -2098,3 +2098,6 @@ SQLite with a Fine-Toothed Comb (2016),3,1,https://blog.regehr.org/archives/1292
 Commit message test plans,4,2,https://blog.waleedkhan.name/commit-message-test-plans/,https://lobste.rs/s/abl0xo,jez,,2026-08-10 01:05:25,['testing'],abl0xo,hot,lobsters
 Profile-guided optimization in Go,1,0,https://lemire.me/blog/2026/08/09/profile-guided-optimization-in-go/,https://lobste.rs/s/noa9x5,prattmic,,2026-08-10 01:05:25,"['go', 'performance']",noa9x5,hot,lobsters
 Crashing Through Defenses: Exploiting Segfaults and Chaining around Intel CET,1,0,https://github.com/signal-sfop/sfop/blob/main/SFOP_s%26p_paper.pdf,https://lobste.rs/s/sh2bax,fro,,2026-08-10 01:05:25,"['pdf', 'security']",sh2bax,hot,lobsters
+IBM i (OS/400) The Database Operating System,3,0,https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/,https://lobste.rs/s/ssljs6,calvin,,2026-08-10 07:14:25,['osdev'],ssljs6,hot,lobsters
+Undo/redo systems and collaborative editing (2024),2,1,https://dev.to/isaachagoel/you-dont-know-undoredo-4hol,https://lobste.rs/s/wew6tz,fractalbeauty,,2026-08-10 07:14:25,['programming'],wew6tz,hot,lobsters
+Make the PDS Your Own: Customization and Metrics,1,0,https://atproto.com/blog/pds-customization-and-metrics,https://lobste.rs/s/tykvbi,himawari,,2026-08-10 07:14:25,['distributed'],tykvbi,hot,lobsters
