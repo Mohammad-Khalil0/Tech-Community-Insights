@@ -2101,3 +2101,13 @@ Crashing Through Defenses: Exploiting Segfaults and Chaining around Intel CET,1,
 IBM i (OS/400) The Database Operating System,3,0,https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/,https://lobste.rs/s/ssljs6,calvin,,2026-08-10 07:14:25,['osdev'],ssljs6,hot,lobsters
 Undo/redo systems and collaborative editing (2024),2,1,https://dev.to/isaachagoel/you-dont-know-undoredo-4hol,https://lobste.rs/s/wew6tz,fractalbeauty,,2026-08-10 07:14:25,['programming'],wew6tz,hot,lobsters
 Make the PDS Your Own: Customization and Metrics,1,0,https://atproto.com/blog/pds-customization-and-metrics,https://lobste.rs/s/tykvbi,himawari,,2026-08-10 07:14:25,['distributed'],tykvbi,hot,lobsters
+Toggles Considered Harmful,31,6,https://ignorethecode.net/blog/2026/08/09/toggles_considered_harmful/,https://lobste.rs/s/ulinck,wezm,,2026-08-10 12:49:13,['design'],ulinck,hot,lobsters
+Firefox Containers Preview,9,2,https://blog.mozilla.org/en/firefox/firefox-containers-preview/,https://lobste.rs/s/ja2gzr,freddyb,,2026-08-10 12:49:13,['browsers'],ja2gzr,hot,lobsters
+Fast Haskell Scripts on GitHub Actions,2,5,https://abhinavsarkar.net/posts/fast-haskell-scripts-on-github-actions/,https://lobste.rs/s/guqk6b,abhin4v,,2026-08-10 12:49:13,"['haskell', 'nix']",guqk6b,hot,lobsters
+How do programming languages impact token efficiency and correctness?,5,3,https://danluu.com/pl-tokens/,https://lobste.rs/s/4waghh,ndr,,2026-08-10 12:49:13,"['ai', 'vibecoding']",4waghh,hot,lobsters
+Light/Dark/System Theme Setting Design,4,2,https://vale.rocks/micros/20260810-0330,https://lobste.rs/s/rgpvd6,artemisSystem,,2026-08-10 12:49:13,"['design', 'web']",rgpvd6,hot,lobsters
+an ambiguity in c89 which will never be fixed,5,0,https://sebsite.pw/w/20260810-c89ambiguity.html,https://lobste.rs/s/p3mmqr,raymii,,2026-08-10 12:49:13,['c'],p3mmqr,hot,lobsters
+Easy Sandboxing on Linux with Bubblewrap,2,1,https://bxt.rs/blog/easy-sandboxing-on-linux-with-bubblewrap/,https://lobste.rs/s/stehhb,FedericoSchonborn,,2026-08-10 12:49:13,"['linux', 'security']",stehhb,hot,lobsters
+The Promise None of Them Kept,2,0,https://webframp.com/posts/the-promise-none-of-them-kept/,https://lobste.rs/s/sjxzgt,aae,,2026-08-10 12:49:13,"['devops', 'vibecoding']",sjxzgt,hot,lobsters
+LLMs and xfwl4,1,1,https://www.spurint.org/journal/2026/07/llms-and-xfwl4,https://lobste.rs/s/32ptwj,FedericoSchonborn,,2026-08-10 12:49:13,['vibecoding'],32ptwj,hot,lobsters
+Django is moving to an annual release cycle,1,0,https://www.djangoproject.com/weblog/2026/aug/10/annual-release-cycle/,https://lobste.rs/s/cn7jyo,ggpsv,,2026-08-10 12:49:13,"['python', 'release', 'web']",cn7jyo,hot,lobsters
