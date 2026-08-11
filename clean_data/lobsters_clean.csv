@@ -2118,3 +2118,12 @@ Gtk+Adwaita Markdown Editor in ~600 lines,3,0,https://gist.github.com/aziis98/36
 nixpkgs isn't doing too hot,14,3,https://foxgirl.engineering/blog/nixpkgs-not-hot/,https://lobste.rs/s/olo2k9,mei,,2026-08-10 18:44:09,"['culture', 'nix']",olo2k9,hot,lobsters
 We're not done with point clouds,2,0,https://claytonwramsey.com/blog/mvt/,https://lobste.rs/s/ctwrrt,claytonwramsey,,2026-08-10 18:44:09,"['performance', 'rust']",ctwrrt,hot,lobsters
 Re-balancing Deflate Compression Levels (2016),2,2,https://blog.klauspost.com/rebalancing-deflate-compression-levels/,https://lobste.rs/s/edtmqj,typesanitizer,,2026-08-10 18:44:09,['programming'],edtmqj,hot,lobsters
+Chicken Scheme 6.0 released,5,0,https://code.call-cc.org/releases/6.0.0/NEWS,https://lobste.rs/s/gxhfny,eatonphil,,2026-08-11 01:04:35,"['lisp', 'release']",gxhfny,hot,lobsters
+The mathematical beauty of hyperbezier curves,10,0,https://linebender.org/blog/hyperbezier/,https://lobste.rs/s/dd80wh,edwardloveall,,2026-08-11 01:04:35,"['math', 'visualization']",dd80wh,hot,lobsters
+Remaking Party House,2,2,https://herecomesthemoon.net/2026/08/remaking-party-house/,https://lobste.rs/s/gkuj8b,mond,,2026-08-11 01:04:35,"['games', 'vibecoding']",gkuj8b,hot,lobsters
+Watch out for cache read costs,3,0,https://martinalderson.com/posts/watch-out-for-cache-read-costs/,https://lobste.rs/s/bgvipl,martinald,,2026-08-11 01:04:35,['vibecoding'],bgvipl,hot,lobsters
+Restricting trait implementability and field mutability,8,1,https://blog.rust-lang.org/inside-rust/2026/08/10/call-for-testing-impl-and-mut-restrictions/,https://lobste.rs/s/9j3n3b,isuffix,,2026-08-11 01:04:35,['rust'],9j3n3b,hot,lobsters
+Dark mode toggles: two states are enough,9,12,https://lea.verou.me/blog/2026/dark-mode-toggles/,https://lobste.rs/s/nkoni1,arcade,,2026-08-11 01:04:35,"['design', 'rant']",nkoni1,hot,lobsters
+A C++ toolchain from 357 bytes in Bazel,8,0,https://fzakaria.com/2026/08/01/a-c++-toolchain-from-357-bytes-in-bazel,https://lobste.rs/s/pq7dtk,dv,,2026-08-11 01:04:35,['programming'],pq7dtk,hot,lobsters
+Making Need For Speed 2015 with Game Maker,4,2,https://www.youtube.com/watch?v=ffGqjOBowIc,https://lobste.rs/s/kwo9cn,linkdd,,2026-08-11 01:04:35,"['games', 'programming', 'video']",kwo9cn,hot,lobsters
+Moving integer division to floating-point is trivial,4,1,http://marc-b-reynolds.github.io/math/2026/08/10/IntDivByFP.html,https://lobste.rs/s/nvmbfe,polywolf,,2026-08-11 01:04:35,['math'],nvmbfe,hot,lobsters
