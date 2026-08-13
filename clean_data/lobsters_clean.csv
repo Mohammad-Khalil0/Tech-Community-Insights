@@ -2175,3 +2175,7 @@ A critical review of Xilem in 2026,12,2,https://hackmd.io/@s_haMSbyTAOWfoXc1aYNU
 GitHub Stacks in Jujutsu,2,0,https://alan.norbauer.com/articles/github-stacks-with-jujutsu/,https://lobste.rs/s/keiw21,altano,,2026-08-13 01:13:38,['vcs'],keiw21,hot,lobsters
 Decrypting Flume Water Monitor Traffic,5,0,https://lithostech.com/2026/08/decrypting-flume-water-monitor-traffic/,https://lobste.rs/s/g94aro,hibachrach,,2026-08-13 01:13:38,"['hardware', 'security']",g94aro,hot,lobsters
 I found a KVM guest-to-host heap corruption bug and someone else got there first,3,0,https://blog.himanshuanand.com/2026/08/i-found-a-kvm-guest-to-host-heap-corruption-bug-and-someone-else-got-there-first/,https://lobste.rs/s/octplv,fro,,2026-08-13 01:13:38,"['linux', 'security']",octplv,hot,lobsters
+python's pre-declared constants are kinda weird,10,1,https://sebsite.pw/w/20260801-pythonconstants.html,https://lobste.rs/s/62kxco,seb,,2026-08-13 07:14:34,['python'],62kxco,hot,lobsters
+Does anyone run Postgres without PgBouncer?,4,4,https://brandur.org/fragments/postgres-without-pgbouncer,https://lobste.rs/s/xic1nn,carlana,,2026-08-13 07:14:34,['databases'],xic1nn,hot,lobsters
+How should Futhark expose irregular arrays to the programmer?,3,0,https://futhark-lang.org/blog/2026-08-12-flatmap.html,https://lobste.rs/s/p4oxjz,veqq,,2026-08-13 07:14:34,"['apl', 'plt']",p4oxjz,hot,lobsters
+beszel,1,0,https://github.com/henrygd/beszel,https://lobste.rs/s/6dw7pl,indigo,,2026-08-13 07:14:34,['devops'],6dw7pl,hot,lobsters
