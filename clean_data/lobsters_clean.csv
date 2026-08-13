@@ -2179,3 +2179,9 @@ python's pre-declared constants are kinda weird,10,1,https://sebsite.pw/w/202608
 Does anyone run Postgres without PgBouncer?,4,4,https://brandur.org/fragments/postgres-without-pgbouncer,https://lobste.rs/s/xic1nn,carlana,,2026-08-13 07:14:34,['databases'],xic1nn,hot,lobsters
 How should Futhark expose irregular arrays to the programmer?,3,0,https://futhark-lang.org/blog/2026-08-12-flatmap.html,https://lobste.rs/s/p4oxjz,veqq,,2026-08-13 07:14:34,"['apl', 'plt']",p4oxjz,hot,lobsters
 beszel,1,0,https://github.com/henrygd/beszel,https://lobste.rs/s/6dw7pl,indigo,,2026-08-13 07:14:34,['devops'],6dw7pl,hot,lobsters
+Why vibe code in Lisp?,5,1,http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html,https://lobste.rs/s/tkzdj2,rau,,2026-08-13 12:50:53,"['lisp', 'vibecoding']",tkzdj2,hot,lobsters
+What’s new in Flutter 3.47,4,1,https://flutter.dev/blog/whats-new-in-flutter-3-47,https://lobste.rs/s/p02oa2,heavyrain266,,2026-08-13 12:50:53,['release'],p02oa2,hot,lobsters
+"SQLite: How it works, by Richard Hipp (2024)",4,1,https://www.youtube.com/watch?v=ZSKLA81tBis,https://lobste.rs/s/v2xrcm,przemoc,,2026-08-13 12:50:53,"['databases', 'video']",v2xrcm,hot,lobsters
+"A secure-ish Pi setup with permission, sandbox, and auto-review",1,0,https://ptgamr.substack.com/p/a-pi-setup-with-permission-sandbox,https://lobste.rs/s/h1jpd4,ptgamr,,2026-08-13 12:50:53,['vibecoding'],h1jpd4,hot,lobsters
+On Hacking,3,1,https://stallman.org/articles/on-hacking.html,https://lobste.rs/s/0o3xpp,var0xyz,,2026-08-13 12:50:53,"['historical', 'philosophy']",0o3xpp,hot,lobsters
+Digitizing super 8 film yourself,1,1,https://nibblestew.blogspot.com/2026/08/digitizing-super-8-film-yourself.html,https://lobste.rs/s/saesgf,FedericoSchonborn,,2026-08-13 12:50:53,['retrocomputing'],saesgf,hot,lobsters
