@@ -2201,3 +2201,10 @@ OxiSH: SSH server written in Rust,4,0,https://github.com/djc/oxish,https://lobst
 Logging into a Linux machine from a flip phone over Bluetooth (2020),4,0,https://www.youtube.com/watch?v=eETHOyuSiMA,https://lobste.rs/s/4d7o9o,rebeca,,2026-08-14 07:12:02,"['linux', 'video']",4d7o9o,hot,lobsters
 Write for people,5,0,https://newsletter.vickiboykis.com/archive/write-for-people/,https://lobste.rs/s/0fokml,carlana,,2026-08-14 07:12:02,"['practices', 'vibecoding']",0fokml,hot,lobsters
 OWASP Top 10 CI/CD Security Risks,2,0,https://owasp.org/www-project-top-10-ci-cd-security-risks/,https://lobste.rs/s/qhxzrd,typesanitizer,,2026-08-14 07:12:02,['security'],qhxzrd,hot,lobsters
+Comments in the code vs PR description,7,5,https://devblogs.microsoft.com/oldnewthing/20260812-00/?p=112607,https://lobste.rs/s/2dsufc,abareplace,,2026-08-14 12:44:40,"['practices', 'vcs']",2dsufc,hot,lobsters
+The Art of CHIP-8,7,3,https://beyondloom.com/blog/artofchip8.html,https://lobste.rs/s/aqmagt,abhin4v,,2026-08-14 12:44:40,['retrocomputing'],aqmagt,hot,lobsters
+SlopScan: Displays a slop score when viewing public git repositories,4,1,https://addons.mozilla.org/en-US/firefox/addon/slopscan/,https://lobste.rs/s/lf4syc,aka_dude,,2026-08-14 12:44:40,"['browsers', 'vibecoding']",lf4syc,hot,lobsters
+Curl Performance,4,0,https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/,https://lobste.rs/s/avjfxw,dhruvp,,2026-08-14 12:44:40,['performance'],avjfxw,hot,lobsters
+I Made the World's First Link Compressor,5,1,https://www.youtube.com/watch?v=TOr1Vvji6jA,https://lobste.rs/s/ybo5gr,Vaelatern,,2026-08-14 12:44:40,"['programming', 'video']",ybo5gr,hot,lobsters
+Computing graph dominators,2,1,https://neugierig.org/software/blog/2026/08/dominators.html,https://lobste.rs/s/fliek2,fanf,,2026-08-14 12:44:40,['compsci'],fliek2,hot,lobsters
+Speeding Up (small) Ruby Hashes,4,0,https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html,https://lobste.rs/s/zoexyi,zem,,2026-08-14 12:44:40,"['performance', 'ruby']",zoexyi,hot,lobsters
