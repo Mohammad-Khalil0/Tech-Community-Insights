@@ -8552,3 +8552,29 @@ How Compaction Works in Pi,181,74,https://earendil.com/posts/compaction-in-pi/,2
 "Where did the old web go? We followed 657,607 links to find out",199,191,https://0.mk/blog/link-rot,2026-08-14 12:44:49.861126
 Blog about things you don't understand yet,124,39,https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/,2026-08-14 12:44:50.002198
 Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes,232,161,https://github.com/systemd/systemd/issues/40262,2026-08-14 12:44:50.137834
+Qwen 3.8 27B,414,306,https://huggingface.co/Qwen/Qwen3.8-27B-FP8,2026-08-14 18:42:22.448577
+Count Binface receives over a quarter of votes in Clacton by-election,187,99,https://www.bbc.com/news/articles/ce97mm3vvemo,2026-08-14 18:42:22.508834
+Seven books I keep close because I love them,179,71,https://blog.plover.com/2026/08/02/,2026-08-14 18:42:22.568447
+RustDesk now supports true unattended remote access on Wayland,90,32,https://rustdesk.com/blog/unattended-remote-access-wayland/,2026-08-14 18:42:22.628467
+Why does Opus 5 feel worse to work with?,502,468,https://mun-logadan.github.io/why-does-opus-5-feel-worse/,2026-08-14 18:42:22.689992
+GLM-5.3: Frontier coding with emergent cyber capabilities,941,475,https://z.ai/blog/glm-5.3,2026-08-14 18:42:22.750049
+Introducing Toast 1,114,33,https://www.mixedbread.com/blog/toast-1,2026-08-14 18:42:22.816890
+AI by Hand,62,4,https://www.byhand.ai/,2026-08-14 18:42:22.878939
+Maximizing the value of your Claude Code sessions,45,23,https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions,2026-08-14 18:42:22.959555
+Ultraviolet Bird Photography,43,7,https://uvbirds.com/,2026-08-14 18:42:23.021801
+Forbidden City Cabbage,26,2,https://www.cnn.com/2025/11/10/style/jadeite-cabbage-taiwan-forbidden-city-curio-hnk-intl,2026-08-14 18:42:23.105126
+I turned my RSS feeds into an e-ink newspaper to stop reading on my phone,68,27,https://heyjonny.dev/posts/rss-to-eink-newspaper/,2026-08-14 18:42:23.172854
+Every Fucking Website (2020),577,338,https://lxe.github.io/everywebsite/,2026-08-14 18:42:23.262314
+Moving integer division to floating-point is trivial,12,0,http://marc-b-reynolds.github.io/math/2026/08/10/IntDivByFP.html,2026-08-14 18:42:23.347838
+RayforceDB – a pure C analytics database with a Lisp-like syntax,24,14,https://rayforcedb.com/,2026-08-14 18:42:23.426979
+France's top court blocks social media ban for under-15s,126,62,https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/,2026-08-14 18:42:23.494020
+"Don't classify, hallucinate",176,74,https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications,2026-08-14 18:42:23.557316
+"In Australia, a home battery boom has helped cut wholesale power prices",242,185,https://e360.yale.edu/digest/australia-home-batteries,2026-08-14 18:42:23.619571
+DeepSeek peak/off-peak pricing update,212,112,https://api-docs.deepseek.com/news/news260813/,2026-08-14 18:42:23.727004
+Show HN: LuaCAD – Parametric CAD Scripted in Lua,32,6,https://luacad.ad-si.com,2026-08-14 18:42:23.812054
+A Contract-Grade Verifier for LLM-Generated GPU Kernels,7,0,https://arxiv.org/abs/2608.12700,2026-08-14 18:42:23.876847
+Google is making private AI practical with homomorphic encryption,86,63,https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/,2026-08-14 18:42:23.939150
+AI Model Atlas – visualizing populations of ML models as interconnected 3D graph,31,4,https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0,2026-08-14 18:42:23.998395
+"Self-hosted web push Cloudflare Worker, works on iOS",41,15,https://kukuroo.cc/,2026-08-14 18:42:24.062194
+"Gödel, Escher, Elisp: The Beauty of Macros",56,18,https://www.chiply.dev/post-elisp-macros-are-beautiful,2026-08-14 18:42:24.144997
+Discrete Fourier Transform by Hand,15,1,https://www.byhand.ai/p/28-discrete-fourier-transform,2026-08-14 18:42:24.207417

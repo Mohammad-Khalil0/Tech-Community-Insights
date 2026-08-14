@@ -2208,3 +2208,10 @@ Curl Performance,4,0,https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/,
 I Made the World's First Link Compressor,5,1,https://www.youtube.com/watch?v=TOr1Vvji6jA,https://lobste.rs/s/ybo5gr,Vaelatern,,2026-08-14 12:44:40,"['programming', 'video']",ybo5gr,hot,lobsters
 Computing graph dominators,2,1,https://neugierig.org/software/blog/2026/08/dominators.html,https://lobste.rs/s/fliek2,fanf,,2026-08-14 12:44:40,['compsci'],fliek2,hot,lobsters
 Speeding Up (small) Ruby Hashes,4,0,https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html,https://lobste.rs/s/zoexyi,zem,,2026-08-14 12:44:40,"['performance', 'ruby']",zoexyi,hot,lobsters
+Introducing Bluesky Protocol Services,8,0,https://atproto.com/blog/introducing-bluesky-protocol-services,https://lobste.rs/s/t4bkix,olex,,2026-08-14 18:42:18,['web'],t4bkix,hot,lobsters
+There Is Still No Silver Bullet,4,0,https://cekrem.github.io/posts/there-is-still-no-silver-bullet/,https://lobste.rs/s/pf0hfr,gered,,2026-08-14 18:42:18,"['programming', 'vibecoding']",pf0hfr,hot,lobsters
+Unexpected (to me) behaviour in Lisp sub-typing,3,0,https://simondobson.org/2026/08/07/strange-behaviour-in-lisp-sub-typing/,https://lobste.rs/s/zkgab8,abnercoimbre,,2026-08-14 18:42:18,['lisp'],zkgab8,hot,lobsters
+Thunderbird’s Desktop Calendar Visual Redesign,2,0,https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/,https://lobste.rs/s/lxuwtv,wonk,,2026-08-14 18:42:18,"['design', 'email']",lxuwtv,hot,lobsters
+Find out who’s tracking you with DecryptAds,2,0,https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/,https://lobste.rs/s/dfel1t,darleaf,,2026-08-14 18:42:18,"['privacy', 'web']",dfel1t,hot,lobsters
+Guilt-Driven Development,2,0,https://markuseliasson.se/article/guilt-driven-development,https://lobste.rs/s/klffhr,typesanitizer,,2026-08-14 18:42:18,['practices'],klffhr,hot,lobsters
+A long division story,15,0,https://kolja.rs/algorithm-d,https://lobste.rs/s/d857ms,me,,2026-08-14 18:42:18,"['compsci', 'math']",d857ms,hot,lobsters
