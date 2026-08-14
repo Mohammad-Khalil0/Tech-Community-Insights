@@ -2191,3 +2191,10 @@ Unlocking _everything_ on the CPU with DRAM scrambling,7,0,https://github.com/xo
 Let Them Write RFCs,4,2,https://ohadravid.github.io/posts/2026-08-let-them-write-rfcs/,https://lobste.rs/s/nyk5kd,ohrv,,2026-08-13 18:51:49,"['practices', 'vibecoding']",nyk5kd,hot,lobsters
 I want extern fil-c,4,0,https://domenkozar.com/2026/08/13/i-want-extern-fil-c/,https://lobste.rs/s/tssf5y,fzakaria,,2026-08-13 18:51:49,"['c', 'rust']",tssf5y,hot,lobsters
 Adopting Memory-Safety and Fine-Grained Compartmentalisation with CHERI,3,0,https://www.infoq.com/presentations/cheri-memory-safety-compartmentalization/,https://lobste.rs/s/lt89di,fanf,,2026-08-13 18:51:49,"['hardware', 'security', 'transcript', 'video']",lt89di,hot,lobsters
+C3 0.8.3 Feature flags,6,2,https://c3-lang.org/blog/c3_0_8_3_feature_flags/,https://lobste.rs/s/e9v9qi,LowByteFox,,2026-08-14 01:12:00,"['programming', 'release']",e9v9qi,hot,lobsters
+A preview of Roc 0.1.0,6,0,https://youtu.be/a7qEOtkkDb8,https://lobste.rs/s/utpgi9,skykanin,,2026-08-14 01:12:00,"['compsci', 'video']",utpgi9,hot,lobsters
+"Let's not call it tech debt, it's just mess",4,1,https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/,https://lobste.rs/s/dnlhah,jdh,,2026-08-14 01:12:00,['practices'],dnlhah,hot,lobsters
+The SvelteKit 3 Release Candidate is here,6,0,https://svelte.dev/blog/sveltekit-3-release-candidate,https://lobste.rs/s/avlnjl,cinemast,,2026-08-14 01:12:00,['web'],avlnjl,hot,lobsters
+Write a SQL Optimizer using Egg (2023),3,1,https://rustmagazine.org/issue-2/write-a-sql-optimizer-using-egg,https://lobste.rs/s/iarwcp,fractalbeauty,,2026-08-14 01:12:00,"['databases', 'performance', 'rust']",iarwcp,hot,lobsters
+OxiSH: SSH server written in Rust,4,0,https://github.com/djc/oxish,https://lobste.rs/s/xi7txx,wofo,,2026-08-14 01:12:00,['rust'],xi7txx,hot,lobsters
+"ZOOMSDAY, Zoom Zero-Click Vulnerabilities Via Annotation",5,0,https://a.security/blog/asecurity-zoomsday,https://lobste.rs/s/juj7bi,vaguelytagged,,2026-08-14 01:12:00,"['security', 'vibecoding']",juj7bi,hot,lobsters
