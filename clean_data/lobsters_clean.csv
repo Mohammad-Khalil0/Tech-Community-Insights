@@ -2224,3 +2224,8 @@ Firefox is now the last major browser that still supports uBlock Origin,5,0,http
 RVA23 vs ARMv9 a Small Experiment,4,0,https://gist.github.com/camel-cdr/3a7aed17e017e8cab675ad696c7d14af,https://lobste.rs/s/lhkquh,matklad,,2026-08-15 06:23:04,['assembly'],lhkquh,hot,lobsters
 An Anecdote Against Slop Artifacts,5,0,https://www.markusde.ca/pages/noslop.html,https://lobste.rs/s/7tjseu,meithecatte,,2026-08-15 06:23:04,"['formalmethods', 'vibecoding']",7tjseu,hot,lobsters
 Improving system safety with Temporal Logic of Actions (TLA+),1,0,https://depot.dev/blog/tla-verification,https://lobste.rs/s/ues1ak,juri,,2026-08-15 06:23:04,"['formalmethods', 'vibecoding']",ues1ak,hot,lobsters
+"Serokell’s Work on GHC: Dependent Types, Part 5",4,1,https://serokell.io/blog/serokell-s-work-on-ghc-dependent-types-part-5,https://lobste.rs/s/fsbumg,ehamberg,,2026-08-15 12:20:19,['haskell'],fsbumg,hot,lobsters
+nixpkgs-multiverse: fast mode,3,1,https://fzakaria.com/2026/08/14/nixpkgs-multiverse-fast-mode,https://lobste.rs/s/1r13yd,vbernat,,2026-08-15 12:20:19,['nix'],1r13yd,hot,lobsters
+The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software (2005),2,0,http://www.gotw.ca/publications/concurrency-ddj.htm,https://lobste.rs/s/xnxzhd,pushcx,,2026-08-15 12:20:19,['performance'],xnxzhd,hot,lobsters
+Demystifying Type (and some Un-Paradoxing),3,0,https://sifter.org/~simon/journal/20260814.html,https://lobste.rs/s/ex5nww,rsaarelm,,2026-08-15 12:20:19,['plt'],ex5nww,hot,lobsters
+How 2004 RuneScape fit a multiplayer RPG into 56k dial-up,2,0,https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/,https://lobste.rs/s/bedqru,Yogthos,,2026-08-15 12:20:19,"['games', 'networking', 'programming']",bedqru,hot,lobsters
