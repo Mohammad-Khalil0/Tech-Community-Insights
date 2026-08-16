@@ -2243,3 +2243,8 @@ What do you think of LazyPromise as a lightweight alternative to Effect?,1,1,htt
 Aiki reaches recursive self-interpretation,2,1,https://decuser.github.io/posts/aiki-alpha-mileston26-update/,https://lobste.rs/s/qlvnlu,decuser,,2026-08-16 06:25:01,"['go', 'plt', 'release']",qlvnlu,hot,lobsters
 What's missing to have reproducible builds on PyPI,3,0,https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/,https://lobste.rs/s/rexoqj,ubernostrum,,2026-08-16 06:25:01,['python'],rexoqj,hot,lobsters
 Software Engineering fundamentals matter more than ever,1,0,https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/,https://lobste.rs/s/iuqkgi,Yogthos,,2026-08-16 06:25:01,"['programming', 'vibecoding']",iuqkgi,hot,lobsters
+"Haskell: origins, evolution, and future",6,0,https://www.youtube.com/watch?v=MQeIerDsReA&t=673s,https://lobste.rs/s/5rh6fs,ehamberg,,2026-08-16 12:21:34,"['haskell', 'video']",5rh6fs,hot,lobsters
+A Tour of Magit's Status Interface,2,0,https://heiwiper.com/posts/magit-status-tour/,https://lobste.rs/s/bhhcf3,tusharhero,,2026-08-16 12:21:34,"['emacs', 'vcs']",bhhcf3,hot,lobsters
+Monitoring SystemD services with Healthchecks.io,1,0,https://passbe.com/2022/healthchecks-io-systemd-checks/,https://lobste.rs/s/dxfl0r,tffr,,2026-08-16 12:21:34,['systemd'],dxfl0r,hot,lobsters
+On Knowledge Representation,2,0,https://sifter.org/~simon/journal/20130713.h.html,https://lobste.rs/s/fk1u5s,zzkt,,2026-08-16 12:21:34,"['philosophy', 'plt', 'programming']",fk1u5s,hot,lobsters
+The essence of architectural work - Part 5,1,0,https://www.ufried.com/blog/essence_of_architecture_5/,https://lobste.rs/s/cdzcx4,BinaryIgor,,2026-08-16 12:21:34,['practices'],cdzcx4,hot,lobsters
