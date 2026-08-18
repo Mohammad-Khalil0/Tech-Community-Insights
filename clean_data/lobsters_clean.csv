@@ -2288,3 +2288,7 @@ AI;DR (AI; Didn’t Read),9,4,https://www.rickmanelius.com/p/aidr-ai-didnt-read,
 We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility,6,5,https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/,https://lobste.rs/s/flcpeu,alcides,,2026-08-18 00:44:13,"['ai', 'art']",flcpeu,hot,lobsters
 How AI text watermarking works: a visual guide,5,0,https://declaude.org/watermarking/,https://lobste.rs/s/5odlru,n1000,,2026-08-18 00:44:13,['vibecoding'],5odlru,hot,lobsters
 A practical workflow for LLM-assisted development,1,0,https://yogthos.net/posts/2026-08-17-llm-workflow.html,https://lobste.rs/s/bx8zu1,Yogthos,,2026-08-18 00:44:13,['vibecoding'],bx8zu1,hot,lobsters
+The benchmarkpocalypse,9,2,https://danluu.com/benchpocalypse/,https://lobste.rs/s/wlofzl,nolan,,2026-08-18 06:28:02,"['performance', 'vibecoding']",wlofzl,hot,lobsters
+Actual Budget,2,4,https://actualbudget.org/,https://lobste.rs/s/tfjoxv,pyfisch,,2026-08-18 06:28:02,"['finance', 'javascript']",tfjoxv,hot,lobsters
+Why BQN Wins,3,0,https://github.com/codereport/max-odd-binary/blob/main/WHY_BQN_WINS.md,https://lobste.rs/s/lqelb1,veqq,,2026-08-18 06:28:02,"['apl', 'performance']",lqelb1,hot,lobsters
+Retrofitting a build system into a compiler,4,0,https://www.dra27.uk/blog/platform/2025/09/25/building-with-effects.html,https://lobste.rs/s/izkimy,tmcgilchrist,,2026-08-18 06:28:02,"['compilers', 'ml']",izkimy,hot,lobsters
