@@ -2327,3 +2327,12 @@ a filename when none exists,8,3,https://daniel.haxx.se/blog/2024/08/19/a-filenam
 Fargate Is Not Firecracker (2024),8,0,https://justingarrison.com/blog/2024-02-08-fargate-is-not-firecracker/,https://lobste.rs/s/qrbu3o,frogulis,,2026-08-19 12:27:49,"['devops', 'virtualization']",qrbu3o,hot,lobsters
 Liquid Types as a behavioural sandbox for agents,2,0,https://wiki.alcidesfonseca.com/blog/aeonbox-logical-guardrails-for-agents/,https://lobste.rs/s/9oy4ao,alcides,,2026-08-19 12:27:49,"['ai', 'plt']",9oy4ao,hot,lobsters
 Palomar – a registry of Lean verified mathematics,4,0,https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/,https://lobste.rs/s/rjxezi,darichey,,2026-08-19 12:27:49,"['formalmethods', 'math']",rjxezi,hot,lobsters
+Why I still hand write my commit messages,10,8,https://www.jvt.me/posts/2026/08/17/hand-write-commits/,https://lobste.rs/s/kj1bvt,JamieTanna,,2026-08-19 18:21:30,"['practices', 'vcs']",kj1bvt,hot,lobsters
+Plain Text Accounting is Pretty Cool,7,3,https://sumnerevans.com/posts/money/plain-text-accounting/,https://lobste.rs/s/i4lxyt,abnercoimbre,,2026-08-19 18:21:30,['finance'],i4lxyt,hot,lobsters
+Introducing Microlighter,9,0,https://daverupert.com/2026/08/microlighter/,https://lobste.rs/s/lxo74i,carlana,,2026-08-19 18:21:30,['javascript'],lxo74i,hot,lobsters
+"capri: Type-safe, atomic Gleam bindings for Khepri, the modern distributed database for the BEAM",2,1,https://capri.hexdocs.pm/,https://lobste.rs/s/3tbpsd,reesericci,,2026-08-19 18:21:30,"['databases', 'distributed', 'erlang', 'gleam', 'show']",3tbpsd,hot,lobsters
+SQLite for Everything,7,0,https://joecode.com/2026-08-19-sqlite3/,https://lobste.rs/s/gmherj,ggpsv,,2026-08-19 18:21:30,['databases'],gmherj,hot,lobsters
+Go 1.27 is released - The Go Programming Language,4,0,https://go.dev/blog/go1.27,https://lobste.rs/s/smrw3n,binjip978,,2026-08-19 18:21:30,"['go', 'release']",smrw3n,hot,lobsters
+Extreme Programming: A Gentle Introduction,3,1,http://www.extremeprogramming.org/,https://lobste.rs/s/qmx2sh,regulator,,2026-08-19 18:21:30,['practices'],qmx2sh,hot,lobsters
+Opinions About Compiler Building,3,1,https://programmingsimplicity.substack.com/p/opinions-about-compiler-building,https://lobste.rs/s/vt7qpp,surprisetalk,,2026-08-19 18:21:30,"['compilers', 'plt']",vt7qpp,hot,lobsters
+Geolocating Random Islet Image Using Geometry & CUDA GPU Programming,4,0,https://yassa9.github.io/osint/gralhix-004/,https://lobste.rs/s/th7q3y,dhruvp,,2026-08-19 18:21:30,['programming'],th7q3y,hot,lobsters
