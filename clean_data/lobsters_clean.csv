@@ -2306,3 +2306,10 @@ Shading Motion,8,0,https://blog.maximeheckel.com/posts/shading-motion/,https://l
 Fairphone 6 + PostmarketOS working main camera,7,1,https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera,https://lobste.rs/s/hisxut,sjamaan,,2026-08-18 18:24:34,"['hardware', 'mobile']",hisxut,hot,lobsters
 Why I reimplemented LVM (with worse guarantees),3,0,https://depot.dev/blog/why-i-reimplemented-lvm,https://lobste.rs/s/khm6np,eatonphil,,2026-08-18 18:24:34,"['linux', 'performance']",khm6np,hot,lobsters
 "CSS-in-JS Arena Bamboo, StyleX and Panda on Pixel-Identical Apps",1,0,https://github.com/gajus/css-in-js-arena,https://lobste.rs/s/wj7pei,gajus,,2026-08-18 18:24:34,"['css', 'performance']",wj7pei,hot,lobsters
+Kakoune code editor,15,4,https://kakoune.org/,https://lobste.rs/s/3dqrwr,olex,,2026-08-19 00:44:15,['editors'],3dqrwr,hot,lobsters
+Mastodon 5.0: Laying the foundation,4,1,https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/,https://lobste.rs/s/m0okh1,consteval,,2026-08-19 00:44:15,"['design', 'web']",m0okh1,hot,lobsters
+Experiment in reducing target directory size on nightly,7,0,https://blog.rust-lang.org/inside-rust/2026/08/18/reducing-target-dir-size-on-nightly/,https://lobste.rs/s/omsqyf,BD103,,2026-08-19 00:44:15,['rust'],omsqyf,hot,lobsters
+When str.lower() is a security vulnerability in Python,4,1,https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability,https://lobste.rs/s/ap9w8i,ubernostrum,,2026-08-19 00:44:15,"['python', 'security']",ap9w8i,hot,lobsters
+Odin's New Inline Assembly Templates,3,0,https://odin-lang.org/docs/inline-asm/,https://lobste.rs/s/loltt2,gingerBill,,2026-08-19 00:44:15,"['assembly', 'plt', 'programming']",loltt2,hot,lobsters
+Organizing in Layer 8 – Building Tech in Democratic Socialists of America,5,0,https://www.youtube.com/watch?v=-koLM6yT5FY,https://lobste.rs/s/aqwiot,chobeat,,2026-08-19 00:44:15,"['practices', 'video']",aqwiot,hot,lobsters
+Hyper-Customized One-Off Software for Cheap,2,1,https://blog.gnoack.org/post/hyper-customized-one-off-software,https://lobste.rs/s/tmlrxs,eliseomartelli,,2026-08-19 00:44:15,['vibecoding'],tmlrxs,hot,lobsters
