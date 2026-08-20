@@ -2336,3 +2336,9 @@ Go 1.27 is released - The Go Programming Language,4,0,https://go.dev/blog/go1.27
 Extreme Programming: A Gentle Introduction,3,1,http://www.extremeprogramming.org/,https://lobste.rs/s/qmx2sh,regulator,,2026-08-19 18:21:30,['practices'],qmx2sh,hot,lobsters
 Opinions About Compiler Building,3,1,https://programmingsimplicity.substack.com/p/opinions-about-compiler-building,https://lobste.rs/s/vt7qpp,surprisetalk,,2026-08-19 18:21:30,"['compilers', 'plt']",vt7qpp,hot,lobsters
 Geolocating Random Islet Image Using Geometry & CUDA GPU Programming,4,0,https://yassa9.github.io/osint/gralhix-004/,https://lobste.rs/s/th7q3y,dhruvp,,2026-08-19 18:21:30,['programming'],th7q3y,hot,lobsters
+Sing-song: a speakable encoding for long numbers and keys,5,11,https://blog.vrypan.net/2026/08/19/260819-sing-song/,https://lobste.rs/s/wvwqro,vrypan,,2026-08-20 00:44:00,['programming'],wvwqro,hot,lobsters
+Ploopy A+ (external trackball),16,0,https://blog.ploopy.co/the-aplus-is-finally-here-499,https://lobste.rs/s/vpmzvx,hawski,,2026-08-20 00:44:00,['hardware'],vpmzvx,hot,lobsters
+Reclaim the terminal,3,0,https://nishantjosh.dev/blogs/reclaim-the-terminal/,https://lobste.rs/s/7v1wvd,nishantjosh,,2026-08-20 00:44:00,"['rust', 'unix']",7v1wvd,hot,lobsters
+Packing Malware in Rosetta 2,2,0,https://kernelkennel.com/blog/summercon2026-rosetta/,https://lobste.rs/s/ppvyr1,ombredog,,2026-08-20 00:44:00,"['mac', 'security']",ppvyr1,hot,lobsters
+Easy to use Entity Component System (ECS) crafted with Odin,2,0,https://github.com/helioscout/moecs,https://lobste.rs/s/hdef54,modev,,2026-08-20 00:44:00,"['games', 'programming']",hdef54,hot,lobsters
+Go 1.27 Release Notes,6,0,https://go.dev/doc/go1.27,https://lobste.rs/s/q0wkpe,olex,,2026-08-20 00:44:00,"['go', 'release']",q0wkpe,hot,lobsters
