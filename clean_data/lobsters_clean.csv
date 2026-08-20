@@ -2343,3 +2343,11 @@ Packing Malware in Rosetta 2,2,0,https://kernelkennel.com/blog/summercon2026-ros
 Easy to use Entity Component System (ECS) crafted with Odin,2,0,https://github.com/helioscout/moecs,https://lobste.rs/s/hdef54,modev,,2026-08-20 00:44:00,"['games', 'programming']",hdef54,hot,lobsters
 Go 1.27 Release Notes,6,0,https://go.dev/doc/go1.27,https://lobste.rs/s/q0wkpe,olex,,2026-08-20 00:44:00,"['go', 'release']",q0wkpe,hot,lobsters
 Goroutines 101: A basic walkthrough,1,0,https://func25.dev/posts/go-goroutines-basics/,https://lobste.rs/s/ixxtwz,func25,,2026-08-20 06:30:14,['go'],ixxtwz,hot,lobsters
+"What Zig felt like, coming from Rust",17,4,https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/,https://lobste.rs/s/oaybfe,nickmonad,,2026-08-20 12:30:14,"['rust', 'zig']",oaybfe,hot,lobsters
+Rust Supply-Chain Attack: arrayref 0.3.10 and the proc-macro1 Typosquat,7,1,https://www.stepsecurity.io/blog/arrayref-rust-crate-supply-chain-attack,https://lobste.rs/s/dns8du,ohrv,,2026-08-20 12:30:14,"['rust', 'security']",dns8du,hot,lobsters
+Understanding the limitations of Pubsub systems,8,3,https://dl.acm.org/doi/pdf/10.1145/3713082.3730397,https://lobste.rs/s/psxjb4,typesanitizer,,2026-08-20 12:30:14,"['distributed', 'pdf']",psxjb4,hot,lobsters
+"Reverse-engineering Find My People to stalk ̶m̶y̶ ̶e̶x̶ a friend, cause I can",7,0,https://zerotistic.blog/posts/find-my-people-linux/,https://lobste.rs/s/ope7za,yashgarg,,2026-08-20 12:30:14,['reversing'],ope7za,hot,lobsters
+"If this is true, the hyperscalers are toast",2,1,https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers,https://lobste.rs/s/xgxp9m,mattofr,,2026-08-20 12:30:14,['ai'],xgxp9m,hot,lobsters
+Parsing IP addresses in C# at crazy speeds,3,0,https://lemire.me/blog/2026/08/19/parsing-ip-addresses-in-c-at-crazy-speeds/,https://lobste.rs/s/fboohk,raymii,,2026-08-20 12:30:14,['dotnet'],fboohk,hot,lobsters
+raylib examples in Jolt,1,0,https://raylib-jlt.b12n.app/,https://lobste.rs/s/qoosh8,Yogthos,,2026-08-20 12:30:14,"['clojure', 'graphics']",qoosh8,hot,lobsters
+How a joke domain purchase turned into geopolitical warfare,1,0,https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/,https://lobste.rs/s/sfi9te,zzkt,,2026-08-20 12:30:14,['security'],sfi9te,hot,lobsters
