@@ -9280,3 +9280,29 @@ Vomit: Clean up Claude 5's token output with a separate LLM,266,261,https://gith
 Show HN: Huzzah – a novel approach to coding with AI,334,178,https://www.danielvaughn.dev/posts/huzzah/,2026-08-21 12:29:27.652551
 Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces (2025),259,210,https://arxiv.org/abs/2504.09762,2026-08-21 12:29:27.804078
 Linux 7.2,267,113,https://www.igalia.com/2026/08/19/Linux-72-Released.html,2026-08-21 12:29:27.973462
+Kagi added a setting for removing paywalled links from search results,731,265,https://kagi.com/changelog#11296,2026-08-21 18:24:31.065893
+Kobo can run apps now,102,32,https://bandarlabs.github.io/Cobalt/,2026-08-21 18:24:31.190634
+Felony Bench,150,61,https://www.felonybench.com/,2026-08-21 18:24:31.302941
+DeepSeek-v4-flash-vision-exp,384,126,https://api-docs.deepseek.com/guides/vision/,2026-08-21 18:24:31.431168
+I accidentally logged hundreds of thousands of phone calls to military bases,231,31,https://lina.sh/blog/hijacking-e164-arpa,2026-08-21 18:24:31.542907
+When the shortage is the strategy,25,11,https://nooneshappy.com/article/when-the-shortage-is-the-strategy/,2026-08-21 18:24:31.659536
+How we made a text-to-speech model respond in sub-50 ms,25,7,https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/,2026-08-21 18:24:31.777670
+New Worlds: We are living in the future of J.G. Ballard or William Gibson,142,88,https://precastreinforced.co.uk/2026/08/16/new-worlds/,2026-08-21 18:24:31.887849
+LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers,1,0,https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6,2026-08-21 18:24:31.995307
+Rebuilding our Electron meeting-recording engine in Swift,17,1,https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift,2026-08-21 18:24:32.111588
+I ran Photoshop on a £0.60 computer chip,17,1,https://pointinthecloud.com/2026-08-19-144600.html,2026-08-21 18:24:32.224911
+"AI boosted homework scores, then exam scores dropped: study",49,133,https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning,2026-08-21 18:24:32.345032
+What happens when a GPU reads memory,35,4,https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory,2026-08-21 18:24:32.457293
+Does whispering to agents in docs help?,19,4,https://passo.uno/if-you-are-an-agent-read-this/,2026-08-21 18:24:32.578752
+Quantifying the honey bee dance floor,10,1,https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341456,2026-08-21 18:24:32.694269
+"Kodak's ""pre-invented"" lunar orbiter camera; or, the fate of SAMOS readout",32,0,https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/,2026-08-21 18:24:32.804124
+Another better lower bound for n=17 square packing,11,1,http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html,2026-08-21 18:24:32.913908
+"Building an (almost) fully self-hosted, sandboxed, agentic software factory",24,16,https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/,2026-08-21 18:24:33.029294
+Galactic Compass 2: now with new augmented reality mode,5,1,https://interconnected.org/home/2026/08/21/galactic,2026-08-21 18:24:33.142679
+The road to ACID transactions in Cassandra 6,36,1,https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html,2026-08-21 18:24:33.259222
+Radiation damage to Hubble has been 4.3 years out of phase with the Solar cycle,78,26,https://arxiv.org/abs/2608.18214,2026-08-21 18:24:33.372181
+Decayfmt – a file format that corrupts itself a little every time you open it,16,3,https://github.com/aravpanwar/decayfmt,2026-08-21 18:24:33.483363
+How orchids inspired the work of Charles Darwin,6,0,https://lithub.com/how-orchids-inspired-the-groundbreaking-work-of-charles-darwin/,2026-08-21 18:24:33.592425
+DuckDB V2 PEG-based SQL parser,49,5,https://duckdb.org/2026/08/20/duckdb-20-peg-parser,2026-08-21 18:24:33.711471
+Code Obfuscation via Local Mixing,24,1,https://vitalik.eth.limo/general/2026/08/21/obfuscation_part_iii_local_mixing.html,2026-08-21 18:24:33.830347
+"Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",16,6,https://github.com/proliferate-ai/proliferate,2026-08-21 18:24:33.938185
