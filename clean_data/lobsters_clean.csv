@@ -2388,3 +2388,9 @@ Exim 4.100 released,5,0,https://lists.exim.org/lurker/message/20260820.154633.91
 Zero-Knowledge Proof of Wasta with Applications in Lebanon,9,1,https://eprint.gacr.info/2025/003.pdf,https://lobste.rs/s/gwktul,nrposner,,2026-08-22 06:24:42,"['cryptography', 'pdf', 'satire']",gwktul,hot,lobsters
 The cool things of Gleam,1,0,https://a.baez.link/3mtdbbp2dmc27,https://lobste.rs/s/lzgbrv,giacomo_cavalieri,,2026-08-22 06:24:42,['gleam'],lzgbrv,hot,lobsters
 Emacs Arbitrary Code Execution Returns,1,0,https://eshelyaron.com/posts/2026-08-06-emacs-arbitrary-code-execution-returns.html,https://lobste.rs/s/jdjb2a,rrampage,,2026-08-22 06:24:42,"['emacs', 'security']",jdjb2a,hot,lobsters
+OTel Isn't Going Well (And I Made A Spreadsheet About It),14,2,https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/,https://lobste.rs/s/ubeyqf,pondidum,,2026-08-22 12:21:17,['distributed'],ubeyqf,hot,lobsters
+Turning My CASIO F-91W Into a Contactless Payment Device,12,1,https://hackernoon.com/how-i-hacked-and-turned-my-casio-f-91w-into-a-contactless-payment-device,https://lobste.rs/s/bhzp2z,yashgarg,,2026-08-22 12:21:17,['hardware'],bhzp2z,hot,lobsters
+Stop Making TUIs,5,5,https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/,https://lobste.rs/s/kyb21s,tusharhero,,2026-08-22 12:21:17,['vibecoding'],kyb21s,hot,lobsters
+Compile-Time Improvements in LLVM 23,7,1,https://aengelke.net/llvm23-ct.html,https://lobste.rs/s/ku4v3b,MaskRay,,2026-08-22 12:21:17,['compilers'],ku4v3b,hot,lobsters
+The Schrödinger Email,2,0,https://yashgarg.dev/posts/the-schrodinger-email/,https://lobste.rs/s/qtsnvd,yashgarg,,2026-08-22 12:21:17,['email'],qtsnvd,hot,lobsters
+Robot comment classifier,1,0,https://entropicthoughts.com/ai-comment-classifier,https://lobste.rs/s/ilfiqa,kqr,,2026-08-22 12:21:17,"['ai', 'practices', 'vibecoding']",ilfiqa,hot,lobsters
