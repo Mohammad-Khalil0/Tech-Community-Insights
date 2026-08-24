@@ -2429,3 +2429,7 @@ My DIY DEF CON Choker Has a Screen On It,5,0,https://www.scd31.com/posts/defcon-
 Declarative WebGPU with S-expressions,2,0,https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/,https://lobste.rs/s/hypo37,HugoDaniel,,2026-08-24 00:46:14,"['graphics', 'web']",hypo37,hot,lobsters
 RSoC 2026: EEVDF for Redox,5,0,https://www.redox-os.org/news/rsoc-eevdf/,https://lobste.rs/s/p92osu,gnafuthegreat,,2026-08-24 00:46:14,"['osdev', 'rust']",p92osu,hot,lobsters
 "Critical Coldcard flaw: what happened, who is affected, and what to do",1,0,https://wizardsardine.com/blog/coldcard-rng-vulnerability/,https://lobste.rs/s/vni2id,janus,,2026-08-24 00:46:14,"['cryptography', 'merkle-trees', 'security']",vni2id,hot,lobsters
+"Everything I own, owned",5,2,https://schlarp.com/posts/everything-i-own-owned/,https://lobste.rs/s/vcdk2q,wonk,,2026-08-24 06:39:17,"['security', 'vibecoding']",vcdk2q,hot,lobsters
+offgrid electric car (2025),9,0,https://joeyh.name/blog/entry/offgrid_electric_car/,https://lobste.rs/s/slaivx,gnyeki,,2026-08-24 06:39:17,['hardware'],slaivx,hot,lobsters
+Adding JIT-compilation to a toy interpreter with libgccjit,5,0,https://gcc.gnu.org/onlinedocs/jit/intro/tutorial04.html,https://lobste.rs/s/pkktjt,rtpg,,2026-08-24 06:39:17,['compilers'],pkktjt,hot,lobsters
+SVG Filter Effects: Creating Texture with <feTurbulence> (2019),3,1,https://tympanus.net/codrops/2019/02/19/svg-filter-effects-creating-texture-with-feturbulence/,https://lobste.rs/s/jxloti,typesanitizer,,2026-08-24 06:39:17,"['design', 'web']",jxloti,hot,lobsters
