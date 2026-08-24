@@ -2433,3 +2433,9 @@ RSoC 2026: EEVDF for Redox,5,0,https://www.redox-os.org/news/rsoc-eevdf/,https:/
 offgrid electric car (2025),9,0,https://joeyh.name/blog/entry/offgrid_electric_car/,https://lobste.rs/s/slaivx,gnyeki,,2026-08-24 06:39:17,['hardware'],slaivx,hot,lobsters
 Adding JIT-compilation to a toy interpreter with libgccjit,5,0,https://gcc.gnu.org/onlinedocs/jit/intro/tutorial04.html,https://lobste.rs/s/pkktjt,rtpg,,2026-08-24 06:39:17,['compilers'],pkktjt,hot,lobsters
 SVG Filter Effects: Creating Texture with <feTurbulence> (2019),3,1,https://tympanus.net/codrops/2019/02/19/svg-filter-effects-creating-texture-with-feturbulence/,https://lobste.rs/s/jxloti,typesanitizer,,2026-08-24 06:39:17,"['design', 'web']",jxloti,hot,lobsters
+Your executable is a SQLite database,54,7,https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database,https://lobste.rs/s/8ttu5n,jummo,,2026-08-24 12:30:49,"['databases', 'linux']",8ttu5n,hot,lobsters
+Emacs 31.1 released,8,0,https://lists.gnu.org/archive/html/info-gnu-emacs/2026-08/msg00004.html,https://lobste.rs/s/rehaa3,dutchie,,2026-08-24 12:30:49,"['emacs', 'release']",rehaa3,hot,lobsters
+Building certgrep.sh: a free certificate transparency search engine,3,1,https://haveibeensquatted.com/blog/building-certgrep,https://lobste.rs/s/ihethb,juxhin,,2026-08-24 12:30:49,['security'],ihethb,hot,lobsters
+3 constraints before I build anything,6,0,https://jordanlord.co.uk/blog/3-constraints/,https://lobste.rs/s/xlorxi,schmudde,,2026-08-24 12:30:49,['practices'],xlorxi,hot,lobsters
+Control and complexity: tension in systems design,1,0,https://ferd.ca/control-and-complexity-tension-in-systems-design.html,https://lobste.rs/s/3vg7ts,ferd,,2026-08-24 12:30:49,['practices'],3vg7ts,hot,lobsters
+"Tiny, Untyped Monads (2024)",3,0,https://text.marvinborner.de/2024-11-18-00.html,https://lobste.rs/s/gj556c,abhin4v,,2026-08-24 12:30:49,['javascript'],gj556c,hot,lobsters
