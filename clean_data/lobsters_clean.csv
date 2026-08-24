@@ -2421,3 +2421,11 @@ It's OK. Do Your Thing,6,0,https://buttondown.com/carlton/archive/its-ok-do-your
 clicky: A clickwheel iPod emulator,2,1,https://github.com/daniel5151/clicky,https://lobste.rs/s/hdz6bx,jeanthomas,,2026-08-23 18:17:31,['retrocomputing'],hdz6bx,hot,lobsters
 Are 15% of all commits fixes? (2025),1,1,https://carvalho.sh/posts/2025-07-29-are-15-of-all-commits-fixes/,https://lobste.rs/s/9hb9ou,rebeca,,2026-08-23 18:17:31,['practices'],9hb9ou,hot,lobsters
 A Friendly Introduction to Racket,2,1,https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/,https://lobste.rs/s/nxeygh,Kratacoa,,2026-08-23 18:17:31,['lisp'],nxeygh,hot,lobsters
+Replicating Reddit's best feature on other forums,21,5,https://xavd.id/blog/post/highlighting-users/,https://lobste.rs/s/ll6pak,xavdid,,2026-08-24 00:46:14,['culture'],ll6pak,hot,lobsters
+The text mode lie: why modern TUIs are a nightmare for accessibility,4,2,https://www.osnews.com/story/144892/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility/,https://lobste.rs/s/9i36rv,natfu,,2026-08-24 00:46:14,"['a11y', 'design']",9i36rv,hot,lobsters
+tmp.0ut volume 5,7,1,https://tmpout.sh/5/,https://lobste.rs/s/xiwynb,ehamberg,,2026-08-24 00:46:14,"['linux', 'reversing', 'security']",xiwynb,hot,lobsters
+Wild AI-related reliability incidents are coming,8,0,https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/,https://lobste.rs/s/jzr2ey,nolan,,2026-08-24 00:46:14,"['devops', 'vibecoding']",jzr2ey,hot,lobsters
+My DIY DEF CON Choker Has a Screen On It,5,0,https://www.scd31.com/posts/defcon-choker,https://lobste.rs/s/ft1wfv,ThinkChaos,,2026-08-24 00:46:14,['hardware'],ft1wfv,hot,lobsters
+Declarative WebGPU with S-expressions,2,0,https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/,https://lobste.rs/s/hypo37,HugoDaniel,,2026-08-24 00:46:14,"['graphics', 'web']",hypo37,hot,lobsters
+RSoC 2026: EEVDF for Redox,5,0,https://www.redox-os.org/news/rsoc-eevdf/,https://lobste.rs/s/p92osu,gnafuthegreat,,2026-08-24 00:46:14,"['osdev', 'rust']",p92osu,hot,lobsters
+"Critical Coldcard flaw: what happened, who is affected, and what to do",1,0,https://wizardsardine.com/blog/coldcard-rng-vulnerability/,https://lobste.rs/s/vni2id,janus,,2026-08-24 00:46:14,"['cryptography', 'merkle-trees', 'security']",vni2id,hot,lobsters
