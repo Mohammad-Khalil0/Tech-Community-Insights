@@ -2452,3 +2452,13 @@ distributed identity,5,0,https://jyn.dev/distributed-identity/,https://lobste.rs
 The changing role of finite-state model checking,3,1,https://ahelwer.ca/post/2026-08-24-finite-state-future/,https://lobste.rs/s/3hoiw8,ahelwer,,2026-08-25 00:45:53,"['formalmethods', 'testing']",3hoiw8,hot,lobsters
 "POP-2000, a lingua-franca POP-2 dialect",5,0,https://hitogata.neocities.org/POP-2000,https://lobste.rs/s/w0d3um,Internet_Janitor,,2026-08-25 06:31:44,"['concatenative', 'plt']",w0d3um,hot,lobsters
 Hot Chips 2026: CUDA targets RISC-V,5,0,https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc,https://lobste.rs/s/nfmlwp,classichasclass,,2026-08-25 06:31:44,['hardware'],nfmlwp,hot,lobsters
+"MNT Station - A modular, open hardware desktop computer and server",11,5,https://www.crowdsupply.com/mnt-research/mnt-station,https://lobste.rs/s/jjspxh,hawski,,2026-08-25 12:31:01,['hardware'],jjspxh,hot,lobsters
+Migrating from Codeberg Pages to an OpenBSD VPS,6,1,https://nemin.hu/vps/index.html,https://lobste.rs/s/4wh5ng,nemin,,2026-08-25 12:31:01,"['openbsd', 'web']",4wh5ng,hot,lobsters
+Solving the 1+N query problem,7,7,https://acadia.engineering/blog/solving-the-1-plus-N-query-problem,https://lobste.rs/s/k5feqe,giacomo_cavalieri,,2026-08-25 12:31:01,['databases'],k5feqe,hot,lobsters
+An interactive introduction to the spanning tree protocol,3,1,https://vincent.bernat.ch/en/blog/2026-spanning-tree,https://lobste.rs/s/ivr1bw,vbernat,,2026-08-25 12:31:01,['networking'],ivr1bw,hot,lobsters
+Porffor goes alpha August 11th,7,0,https://honk.foo/porffor-alpha/,https://lobste.rs/s/9w5eos,giacomo_cavalieri,,2026-08-25 12:31:01,"['compilers', 'javascript']",9w5eos,hot,lobsters
+"Galaxium, a WebGPU universe explorer",3,0,https://galaxium.app,https://lobste.rs/s/gxcqxj,guillaumec,,2026-08-25 12:31:01,['wasm'],gxcqxj,hot,lobsters
+Hunting Down a Go Runtime Bug on 32-bit Embedded Systems,1,0,https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/,https://lobste.rs/s/apjhyj,rw-rw-rw-,,2026-08-25 12:31:01,"['go', 'linux']",apjhyj,hot,lobsters
+Another look at SQLite's WAL-Reset bug,3,0,https://theconsensus.dev/p/2026/08/23/another-look-at-sqlite-wal-reset.html,https://lobste.rs/s/b15udy,ohrv,,2026-08-25 12:31:01,['databases'],b15udy,hot,lobsters
+A Design Space Exploration of Async/Await,4,0,https://arxiv.org/pdf/2608.20677,https://lobste.rs/s/4haxto,asb,,2026-08-25 12:31:01,"['pdf', 'plt']",4haxto,hot,lobsters
+Haskell diagrams: Tessellations,3,0,https://mgarletmilani.com/blog/2026-06-03-tessellations/,https://lobste.rs/s/fyps8w,abhin4v,,2026-08-25 12:31:01,"['art', 'haskell']",fyps8w,hot,lobsters
