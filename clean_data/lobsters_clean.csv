@@ -2450,3 +2450,5 @@ Routeup – stable local HTTPS URLs and opt-in public tunnels,5,1,https://routeu
 kudu - easily manage VMs on Linux,3,0,https://github.com/pythops/kudu,https://lobste.rs/s/uodrjx,pythops,,2026-08-25 00:45:53,"['rust', 'virtualization']",uodrjx,hot,lobsters
 distributed identity,5,0,https://jyn.dev/distributed-identity/,https://lobste.rs/s/al6sdh,hugoarnal,,2026-08-25 00:45:53,"['distributed', 'vcs']",al6sdh,hot,lobsters
 The changing role of finite-state model checking,3,1,https://ahelwer.ca/post/2026-08-24-finite-state-future/,https://lobste.rs/s/3hoiw8,ahelwer,,2026-08-25 00:45:53,"['formalmethods', 'testing']",3hoiw8,hot,lobsters
+"POP-2000, a lingua-franca POP-2 dialect",5,0,https://hitogata.neocities.org/POP-2000,https://lobste.rs/s/w0d3um,Internet_Janitor,,2026-08-25 06:31:44,"['concatenative', 'plt']",w0d3um,hot,lobsters
+Hot Chips 2026: CUDA targets RISC-V,5,0,https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc,https://lobste.rs/s/nfmlwp,classichasclass,,2026-08-25 06:31:44,['hardware'],nfmlwp,hot,lobsters
