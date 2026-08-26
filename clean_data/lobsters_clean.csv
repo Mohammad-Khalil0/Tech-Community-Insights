@@ -2474,3 +2474,6 @@ AI Review Loops Don't Always Stabilise,4,1,https://kevinmahoney.co.uk/articles/a
 "maiao: Gerrit-style stacked diffs for GitHub, Cursor Origin, GitLab, Codeberg and more",2,0,https://github.com/runetes/maiao,https://lobste.rs/s/2hsncr,joaoqalves,,2026-08-26 00:47:09,"['show', 'vcs']",2hsncr,hot,lobsters
 Fuzzing The Gleam Compiler,4,0,https://www.kurz.net/posts/fuzzing-gleam-compiler,https://lobste.rs/s/vddo8h,w0nder1ng,,2026-08-26 00:47:09,"['gleam', 'testing']",vddo8h,hot,lobsters
 AI At Home Part 2: Multi GPU Drifting,6,0,https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html,https://lobste.rs/s/qc6pjd,nc,,2026-08-26 00:47:09,"['ai', 'linux']",qc6pjd,hot,lobsters
+the beauty in dsl-able languages,6,2,https://w.on-t.work/dslable,https://lobste.rs/s/8emue2,FedericoSchonborn,,2026-08-26 06:33:09,"['kotlin', 'plt']",8emue2,hot,lobsters
+mold: A Massively Parallel Linker,2,0,https://arxiv.org/abs/2608.23228,https://lobste.rs/s/e291dc,rrampage,,2026-08-26 06:33:09,"['compilers', 'pdf', 'performance']",e291dc,hot,lobsters
+Lively Merge | Collaborative programming kernels,3,1,https://www.inkandswitch.com/livelymerge/notebook/,https://lobste.rs/s/kp1khy,natfu,,2026-08-26 06:33:09,"['compsci', 'javascript', 'rust']",kp1khy,hot,lobsters
