@@ -2470,3 +2470,7 @@ Replacing a Rust Enum with a 64-bit Word Made My Interpreter 17% Faster,6,1,http
 Run OpenBSD on DigitalOcean for $4/month,2,0,https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/,https://lobste.rs/s/za8vwp,wally,,2026-08-25 18:26:36,"['openbsd', 'unix']",za8vwp,hot,lobsters
 The XY Problem,3,4,https://xyproblem.info/,https://lobste.rs/s/useg7x,ncoop57,,2026-08-25 18:26:36,['practices'],useg7x,hot,lobsters
 "The Sync Heap: Delete First, Ask Questions Later",3,0,https://arxiv.org/pdf/2608.07134,https://lobste.rs/s/a371nr,dcreager,,2026-08-25 18:26:36,"['compsci', 'pdf']",a371nr,hot,lobsters
+AI Review Loops Don't Always Stabilise,4,1,https://kevinmahoney.co.uk/articles/ai-review-loops/,https://lobste.rs/s/52povq,kpm,,2026-08-26 00:47:09,"['practices', 'vibecoding']",52povq,hot,lobsters
+"maiao: Gerrit-style stacked diffs for GitHub, Cursor Origin, GitLab, Codeberg and more",2,0,https://github.com/runetes/maiao,https://lobste.rs/s/2hsncr,joaoqalves,,2026-08-26 00:47:09,"['show', 'vcs']",2hsncr,hot,lobsters
+Fuzzing The Gleam Compiler,4,0,https://www.kurz.net/posts/fuzzing-gleam-compiler,https://lobste.rs/s/vddo8h,w0nder1ng,,2026-08-26 00:47:09,"['gleam', 'testing']",vddo8h,hot,lobsters
+AI At Home Part 2: Multi GPU Drifting,6,0,https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html,https://lobste.rs/s/qc6pjd,nc,,2026-08-26 00:47:09,"['ai', 'linux']",qc6pjd,hot,lobsters
