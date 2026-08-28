@@ -2514,3 +2514,6 @@ The Server Called Paranoia: Defend Autistici/Inventati Before September 25,9,0,h
 A Million Kakapos,3,1,https://blog.mempko.com/a-million-kakapos/,https://lobste.rs/s/ir1jkh,mempko,,2026-08-27 17:22:15,"['culture', 'finance']",ir1jkh,hot,lobsters
 What happens when a GPU reads memory,4,0,https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory,https://lobste.rs/s/bkcjsa,eatonphil,,2026-08-27 17:22:15,"['graphics', 'hardware', 'performance']",bkcjsa,hot,lobsters
 Float Bloat: vector serialization gone wrong,1,0,https://bonsai.io/blog/float-bloat/,https://lobste.rs/s/m31l5c,binarymax,,2026-08-27 17:22:15,['programming'],m31l5c,hot,lobsters
+Ardour 9.8 released,3,0,https://ardour.org/whatsnew.html,https://lobste.rs/s/tz0865,sebastiancarlos,,2026-08-28 01:57:22,"['linux', 'release']",tz0865,hot,lobsters
+Understanding useMemo and useCallback,4,1,https://www.joshwcomeau.com/react/usememo-and-usecallback/,https://lobste.rs/s/mb9xc7,BinaryIgor,,2026-08-28 01:57:22,['web'],mb9xc7,hot,lobsters
+Symmetries in boolean scans,4,0,https://ap29600.github.io/boolean_scans.html,https://lobste.rs/s/hzbkr2,jmiven,,2026-08-28 01:57:22,"['apl', 'performance']",hzbkr2,hot,lobsters
