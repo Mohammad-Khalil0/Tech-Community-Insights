@@ -2553,3 +2553,8 @@ Wrapping GTK4 in 800 lines of Clojure with Jolt,1,0,https://yogthos.net/posts/20
 Civic Hygiene (2013),3,0,https://shkspr.mobi/blog/2013/11/civic-hygiene/,https://lobste.rs/s/tnmkfp,lim,,2026-08-29 20:13:20,['privacy'],tnmkfp,hot,lobsters
 Reviving An SD Card With Shorted Capacitors,6,0,https://hackaday.com/2026/08/28/reviving-an-sd-card-with-shorted-capacitors/,https://lobste.rs/s/s8x8xq,metahost,,2026-08-29 20:13:20,['hardware'],s8x8xq,hot,lobsters
 On 'scaling up' and being the right size,5,2,https://tzovar.as/scaling-up-and-on-being-the-right-size/,https://lobste.rs/s/fdhkf3,koala,,2026-08-29 20:13:20,"['culture', 'practices']",fdhkf3,hot,lobsters
+What GLM-5.3 Flash running on Chinese hardware actually means,5,4,https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/,https://lobste.rs/s/wsbhcr,martinald,,2026-08-30 02:41:31,"['hardware', 'vibecoding']",wsbhcr,hot,lobsters
+Introducing ReactOS 0.4.16,16,1,https://reactos.org/project-news/reactos-0416-released/,https://lobste.rs/s/flcppv,bb010g,,2026-08-30 02:41:31,"['osdev', 'release']",flcppv,hot,lobsters
+Functional State Machines in Rust: Typestate and Newtype Patterns,3,1,https://dl.acm.org/doi/epdf/10.1145/3830438.3830958,https://lobste.rs/s/udkuqc,anex9d,,2026-08-30 02:41:31,['rust'],udkuqc,hot,lobsters
+Bug blindness,2,0,https://danluu.com/bug-blind/,https://lobste.rs/s/n1jlxt,nolan,,2026-08-30 02:41:31,['practices'],n1jlxt,hot,lobsters
+Omnipresent availability risks in cloud software,1,0,https://surfingcomplexity.blog/2026/08/29/omnipresent-availability-risks-in-cloud-software/,https://lobste.rs/s/m3brob,azhenley,,2026-08-30 02:41:31,['distributed'],m3brob,hot,lobsters

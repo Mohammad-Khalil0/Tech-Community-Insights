@@ -10,9 +10,9 @@ COMPREHENSIVE ANALYSIS REPORT
 5. **Title Length Impact**: Correlation between title length and engagement: 0.05
 
  SUMMARY STATISTICS:
--Total Posts Analyzed: 8722
--Platform Distribution: {'hacker_news': 6168, 'lobsters': 2554}
--Average Upvotes: 74.2
+-Total Posts Analyzed: 8739
+-Platform Distribution: {'hacker_news': 6180, 'lobsters': 2559}
+-Average Upvotes: 74.1
 -Average Comments: 36.6
 -Maximum Upvotes: 2146
 -Maximum Comments: 1557
