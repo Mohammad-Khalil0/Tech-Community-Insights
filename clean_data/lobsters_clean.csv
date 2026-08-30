@@ -2558,3 +2558,10 @@ Introducing ReactOS 0.4.16,16,1,https://reactos.org/project-news/reactos-0416-re
 Functional State Machines in Rust: Typestate and Newtype Patterns,3,1,https://dl.acm.org/doi/epdf/10.1145/3830438.3830958,https://lobste.rs/s/udkuqc,anex9d,,2026-08-30 02:41:31,['rust'],udkuqc,hot,lobsters
 Bug blindness,2,0,https://danluu.com/bug-blind/,https://lobste.rs/s/n1jlxt,nolan,,2026-08-30 02:41:31,['practices'],n1jlxt,hot,lobsters
 Omnipresent availability risks in cloud software,1,0,https://surfingcomplexity.blog/2026/08/29/omnipresent-availability-risks-in-cloud-software/,https://lobste.rs/s/m3brob,azhenley,,2026-08-30 02:41:31,['distributed'],m3brob,hot,lobsters
+There's no such thing as Just a Tool,29,1,https://deadsimpletech.com/blog/no-such-thing-as-just-a-tool,https://lobste.rs/s/9y9jo6,kirch,,2026-08-30 10:58:02,['philosophy'],9y9jo6,hot,lobsters
+Rust Function Overloading - Call for Experimentation,4,2,https://blog.rust-lang.org/inside-rust/2026/08/19/overloading-experiment/,https://lobste.rs/s/rikfb5,madsmtm,,2026-08-30 10:58:02,['rust'],rikfb5,hot,lobsters
+California Passes AB-1856 For Open-Source Relief Over Age Verification,8,0,https://www.phoronix.com/news/California-AB-1856-Passes,https://lobste.rs/s/pcldcc,lonami,,2026-08-30 10:58:02,['law'],pcldcc,hot,lobsters
+Gram Editor 3.3.0 Released,6,0,https://gram-editor.com/posts/release-3.3.0/,https://lobste.rs/s/rr2irk,patchunwrap,,2026-08-30 10:58:02,"['editors', 'rust']",rr2irk,hot,lobsters
+Prompt Injection in Claude Code Opus 5 Auto Mode,3,2,https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/,https://lobste.rs/s/ktbweg,skycam,,2026-08-30 10:58:02,['vibecoding'],ktbweg,hot,lobsters
+On Taste,1,0,https://www.mattiryttylainen.com/posts/on-taste,https://lobste.rs/s/s7ulwg,calpaterson,,2026-08-30 10:58:02,['vibecoding'],s7ulwg,hot,lobsters
+The essence of architectural work - Part 6,1,0,https://www.ufried.com/blog/essence_of_architecture_6/,https://lobste.rs/s/kgtvxb,BinaryIgor,,2026-08-30 10:58:02,['practices'],kgtvxb,hot,lobsters
