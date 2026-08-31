@@ -2588,3 +2588,13 @@ Could Cargo's scheduler be better?,6,0,https://spirali.github.io/blog/cargo-sche
 Rootless Docker and Its Hidden Security Trade-Offs,10,3,https://www.kenmuse.com/blog/rootless-docker-and-its-hidden-security-trade-offs/,https://lobste.rs/s/lssato,WilhelmVonWeiner,,2026-08-31 12:16:10,['security'],lssato,hot,lobsters
 Executable Emoji,5,1,https://martypc.blogspot.com/2026/08/executable-emoji.html,https://lobste.rs/s/zxggzb,abhin4v,,2026-08-31 12:16:10,['assembly'],zxggzb,hot,lobsters
 bibliograph: An AppView for interfacing with bibliographic information on ATProto,1,0,https://github.com/olamaelcu/bibliograph,https://lobste.rs/s/ofoukh,jalcine,,2026-08-31 12:16:10,"['javascript', 'vibecoding']",ofoukh,hot,lobsters
+"RangeFrom, Part 2..: What I think is wrong about the design",9,4,https://erk.dev/2026/08/30/rangefrom-part-2,https://lobste.rs/s/hyn2bt,valdemar,,2026-08-31 22:13:46,['rust'],hyn2bt,hot,lobsters
+On not becoming a cyborg,17,2,https://nolanlawson.com/2026/08/31/on-not-becoming-a-cyborg/,https://lobste.rs/s/uxqdfr,cgrinds,,2026-08-31 22:13:46,['vibecoding'],uxqdfr,hot,lobsters
+Are We Legacy Computing Yet?,5,2,https://arewelegacycomputingyet.com/,https://lobste.rs/s/x1b4va,pushcx,,2026-08-31 22:13:46,['retrocomputing'],x1b4va,hot,lobsters
+Bootstrappable builds: how and why,9,3,https://lwn.net/Articles/1088279/,https://lobste.rs/s/xygw0y,pushcx,,2026-08-31 22:13:46,"['lisp', 'nix']",xygw0y,hot,lobsters
+Cancelation Terminology,16,0,https://matklad.github.io/2026/08/31/cancelation-terminology.html,https://lobste.rs/s/49hbhi,vulcan,,2026-08-31 22:13:46,['programming'],49hbhi,hot,lobsters
+Any user process can escalate to root,7,2,https://www.vesto.me/2026/08/31/any-process-escalate-root.html,https://lobste.rs/s/q2zziq,ntietz,,2026-08-31 22:13:46,['security'],q2zziq,hot,lobsters
+Kale: A Transformation-Safe Spreadsheet System,7,0,https://arxiv.org/abs/2608.26345,https://lobste.rs/s/tkrcrg,yonkeltron,,2026-08-31 22:13:46,"['compsci', 'design', 'pdf']",tkrcrg,hot,lobsters
+V0.1.0.0 of ghcup-gtk released,2,0,https://discourse.haskell.org/t/v0-1-0-0-of-ghcup-gtk-released/14631,https://lobste.rs/s/gt1cow,Hecate,,2026-08-31 22:13:46,['haskell'],gt1cow,hot,lobsters
+C++26: Standard Library Hardening Experiments,6,0,https://www.cppstories.com/2026/hardening-experiments/,https://lobste.rs/s/qtakqk,lcapaldo,,2026-08-31 22:13:46,['c++'],qtakqk,hot,lobsters
+Privilege escalation from IIS AppPool to NT Authority/SYSTEM,7,0,https://www.mannulinux.org/2026/08/Privilege-escalation-from-IIS-AppPool-to-NT-AuthoritySYSTEM-via-AD-CS-RPC-endpoint.html,https://lobste.rs/s/gqk57d,hoistbypetard,,2026-08-31 22:13:46,"['security', 'windows']",gqk57d,hot,lobsters
