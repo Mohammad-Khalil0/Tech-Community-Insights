@@ -2598,3 +2598,5 @@ Kale: A Transformation-Safe Spreadsheet System,7,0,https://arxiv.org/abs/2608.26
 V0.1.0.0 of ghcup-gtk released,2,0,https://discourse.haskell.org/t/v0-1-0-0-of-ghcup-gtk-released/14631,https://lobste.rs/s/gt1cow,Hecate,,2026-08-31 22:13:46,['haskell'],gt1cow,hot,lobsters
 C++26: Standard Library Hardening Experiments,6,0,https://www.cppstories.com/2026/hardening-experiments/,https://lobste.rs/s/qtakqk,lcapaldo,,2026-08-31 22:13:46,['c++'],qtakqk,hot,lobsters
 Privilege escalation from IIS AppPool to NT Authority/SYSTEM,7,0,https://www.mannulinux.org/2026/08/Privilege-escalation-from-IIS-AppPool-to-NT-AuthoritySYSTEM-via-AD-CS-RPC-endpoint.html,https://lobste.rs/s/gqk57d,hoistbypetard,,2026-08-31 22:13:46,"['security', 'windows']",gqk57d,hot,lobsters
+Janet 1.42.0,6,0,https://github.com/janet-lang/janet/releases/tag/v1.42.0,https://lobste.rs/s/jbgnwk,veqq,,2026-09-01 02:48:54,"['lisp', 'release']",jbgnwk,hot,lobsters
+CSS is Still Awesome,6,1,https://jasonsantamaria.com/blog/css-is-still-awesome,https://lobste.rs/s/b75vrk,untrusem,,2026-09-01 02:48:54,['css'],b75vrk,hot,lobsters
