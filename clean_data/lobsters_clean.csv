@@ -2636,3 +2636,12 @@ ESP32 as counter-surveillance platform,2,0,https://www.youtube.com/watch?v=PcK-T
 "Bye Bye Perspective API: Lessons for Measurement Infrastructure in NLP, CSS and LLM Evaluation",2,0,https://arxiv.org/abs/2604.25580,https://lobste.rs/s/us078z,355E3B,,2026-09-02 15:41:57,['ai'],us078z,hot,lobsters
 A note on subscription prices from LWN,1,0,https://lwn.net/Articles/1090585/,https://lobste.rs/s/krcehd,zg,,2026-09-02 15:41:57,['linux'],krcehd,hot,lobsters
 Solving the Flat Cube,2,0,https://mathenchant.wordpress.com/2026/08/19/solving-the-flat-cube/,https://lobste.rs/s/dtllfk,fanf,,2026-09-02 15:41:57,"['games', 'math']",dtllfk,hot,lobsters
+I Don’t Have a Smartphone…,25,2,https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html,https://lobste.rs/s/nh1uij,cgrinds,,2026-09-02 20:20:02,['a11y'],nh1uij,hot,lobsters
+Dependent if expressions without dependent types,7,0,https://haskellforall.com/2026/09/dependent-if-expressions,https://lobste.rs/s/yomxcl,Gabriella439,,2026-09-02 20:20:02,['plt'],yomxcl,hot,lobsters
+"Static Allocation, Constant Work",7,1,https://matklad.github.io/2026/09/02/static-allocation-constant-work.html,https://lobste.rs/s/m4iwq4,cgrinds,,2026-09-02 20:20:02,['zig'],m4iwq4,hot,lobsters
+Implementing FMA and finding bugs in C and Rust standard libraries,9,1,https://shnatsel.github.io/implementing-fma-finding-bugs-in-std/,https://lobste.rs/s/qq9jpo,itamarst,,2026-09-02 20:20:02,"['c', 'rust']",qq9jpo,hot,lobsters
+TinyGo 0.42 - Recover Is Real,7,0,https://tinygo.org/blog/2026/tinygo-0.42-recover-is-real/,https://lobste.rs/s/qi1bxu,datboi,,2026-09-02 20:20:02,"['go', 'release']",qi1bxu,hot,lobsters
+Goroutine Leak Profiles,4,0,https://go.dev/blog/goroutine-leak-profiles,https://lobste.rs/s/dpfpr3,olex,,2026-09-02 20:20:02,['go'],dpfpr3,hot,lobsters
+Revisiting Joel's Test - exe.dev blog,2,4,https://blog.exe.dev/revisiting-joel,https://lobste.rs/s/jyrcwk,jacky,,2026-09-02 20:20:02,['vibecoding'],jyrcwk,hot,lobsters
+Let's build a compressor from scratch,1,0,https://ochagavia.nl/blog/lets-build-a-compressor-from-scratch/,https://lobste.rs/s/3y9lbw,wofo,,2026-09-02 20:20:02,"['compsci', 'programming', 'rust']",3y9lbw,hot,lobsters
+The holy grail of nixpkgs: version ranges,2,0,https://fzakaria.com/2026/09/01/the-holy-grail-of-nixpkgs-version-ranges,https://lobste.rs/s/echox4,diktomat,,2026-09-02 20:20:02,['nix'],echox4,hot,lobsters
