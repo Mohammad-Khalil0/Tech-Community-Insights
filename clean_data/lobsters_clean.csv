@@ -2679,3 +2679,11 @@ Lua-async,6,1,https://neovim.io/doc/user/lua-async/,https://lobste.rs/s/r58i7h,a
 No more issues,2,4,https://stitcher.io/blog/no-more-issues,https://lobste.rs/s/qgxznz,splitbrain,,2026-09-04 10:14:19,['vibecoding'],qgxznz,hot,lobsters
 The Incomplete Guide to Lazy Evaluation in Haskell (2015),2,0,https://apfelmus.nfshost.com/articles/lazy-eval.html,https://lobste.rs/s/ybk8hr,abhin4v,,2026-09-04 10:14:19,['haskell'],ybk8hr,hot,lobsters
 Hillingar - MirageOS Unikernels on NixOS,2,0,https://ryan.freumh.org/hillingar.html,https://lobste.rs/s/ifyeuo,sjamaan,,2026-09-04 10:14:19,"['ml', 'nix', 'osdev', 'security']",ifyeuo,hot,lobsters
+Discovery of a new OpenAI agent message board,12,6,https://collusion.wiki/,https://lobste.rs/s/baiwkq,addison,,2026-09-04 15:30:07,['vibecoding'],baiwkq,hot,lobsters
+smolts: a pedagogical IDE for a teaching language,7,0,https://eighty-twenty.org/2026/09/04/smolts,https://lobste.rs/s/hr2txa,tonyg,,2026-09-04 15:30:07,"['education', 'plt']",hr2txa,hot,lobsters
+Collider: An experimental Minecraft server,4,2,https://github.com/Nozistance/collider,https://lobste.rs/s/fdbblk,NoahTheDuke,,2026-09-04 15:30:07,['clojure'],fdbblk,hot,lobsters
+Bug triaging help needed,7,0,https://pointieststick.com/2026/09/03/bug-triaging-help-needed/,https://lobste.rs/s/sunmyh,thang,,2026-09-04 15:30:07,['linux'],sunmyh,hot,lobsters
+Inserting State Transitions in Postgres,4,0,https://thoughtbot.com/blog/inserting-state-transitions-in-postgres,https://lobste.rs/s/asjmva,danlamanna,,2026-09-04 15:30:07,['databases'],asjmva,hot,lobsters
+"FORCE_COLOR: Keep Your Command Line Colorful, Even when Piping - Retain Text Colors in Logs, Output Streams, and More",2,9,https://force-color.org/,https://lobste.rs/s/qnjllv,pzel,,2026-09-04 15:30:07,['a11y'],qnjllv,hot,lobsters
+Is AI ruining my brain?,3,0,https://thoughtbot.com/blog/is-ai-ruining-my-brain,https://lobste.rs/s/utloro,MatheusRich,,2026-09-04 15:30:07,['vibecoding'],utloro,hot,lobsters
+The tech behind the RSA-260 crack,2,2,https://www.scientificamerican.com/article/whats-the-tech-behind-the-record-breaking-rsa-260-crack/,https://lobste.rs/s/rp64xt,robalex,,2026-09-04 15:30:07,['cryptography'],rp64xt,hot,lobsters
