@@ -2687,3 +2687,10 @@ Inserting State Transitions in Postgres,4,0,https://thoughtbot.com/blog/insertin
 "FORCE_COLOR: Keep Your Command Line Colorful, Even when Piping - Retain Text Colors in Logs, Output Streams, and More",2,9,https://force-color.org/,https://lobste.rs/s/qnjllv,pzel,,2026-09-04 15:30:07,['a11y'],qnjllv,hot,lobsters
 Is AI ruining my brain?,3,0,https://thoughtbot.com/blog/is-ai-ruining-my-brain,https://lobste.rs/s/utloro,MatheusRich,,2026-09-04 15:30:07,['vibecoding'],utloro,hot,lobsters
 The tech behind the RSA-260 crack,2,2,https://www.scientificamerican.com/article/whats-the-tech-behind-the-record-breaking-rsa-260-crack/,https://lobste.rs/s/rp64xt,robalex,,2026-09-04 15:30:07,['cryptography'],rp64xt,hot,lobsters
+jank reimagines C++ errors and gets an official native package repo,6,0,https://jank-lang.org/blog/2026-09-04-better-and-better/,https://lobste.rs/s/rhjedr,jeaye,,2026-09-04 20:05:28,"['c++', 'clojure', 'compilers', 'plt']",rhjedr,hot,lobsters
+Babashka 1.13.220 gets FFI,4,1,https://blog.michielborkent.nl/babashka-ffi.html,https://lobste.rs/s/o8bp2s,borkdude,,2026-09-04 20:05:28,['clojure'],o8bp2s,hot,lobsters
+"The new Go JSON API: twice as fast, or 1.5x slower?",7,0,https://lemire.me/blog/2026/08/29/the-new-go-json-api-twice-as-fast-or-1-5x-slower/,https://lobste.rs/s/67ygvv,weberc2,,2026-09-04 20:05:28,"['go', 'performance']",67ygvv,hot,lobsters
+A preview of the future Intel Architecture documentation,3,4,https://intel.github.io/SDM/announcement/2026/08/20/announce-preview.html,https://lobste.rs/s/cywxla,bakkot,,2026-09-04 20:05:28,"['formalmethods', 'hardware']",cywxla,hot,lobsters
+FLT: Anthropic has beaten me to it,4,0,https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/,https://lobste.rs/s/5iacaa,lalitm,,2026-09-04 20:05:28,"['math', 'vibecoding']",5iacaa,hot,lobsters
+deft: A gradual type system for Janet,5,0,https://codeberg.org/zzkt/deft,https://lobste.rs/s/bqfbqk,e3bc54b2,,2026-09-04 20:05:28,['lisp'],bqfbqk,hot,lobsters
+Imperial Colors Manifesto,12,6,https://qum.cz/imperial_colors/,https://lobste.rs/s/5y7ije,FedericoSchonborn,,2026-09-04 20:05:28,"['design', 'satire']",5y7ije,hot,lobsters
