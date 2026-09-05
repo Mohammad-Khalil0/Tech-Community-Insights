@@ -2694,3 +2694,6 @@ A preview of the future Intel Architecture documentation,3,4,https://intel.githu
 FLT: Anthropic has beaten me to it,4,0,https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/,https://lobste.rs/s/5iacaa,lalitm,,2026-09-04 20:05:28,"['math', 'vibecoding']",5iacaa,hot,lobsters
 deft: A gradual type system for Janet,5,0,https://codeberg.org/zzkt/deft,https://lobste.rs/s/bqfbqk,e3bc54b2,,2026-09-04 20:05:28,['lisp'],bqfbqk,hot,lobsters
 Imperial Colors Manifesto,12,6,https://qum.cz/imperial_colors/,https://lobste.rs/s/5y7ije,FedericoSchonborn,,2026-09-04 20:05:28,"['design', 'satire']",5y7ije,hot,lobsters
+Stop Thinking of LLMs as Next-Token Predictors,6,3,https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html,https://lobste.rs/s/fiirrs,square_usual,,2026-09-05 02:11:45,['vibecoding'],fiirrs,hot,lobsters
+Exploring Mojo’s raw pointer type,4,0,https://melodyogonna.substack.com/p/exploring-mojos-raw-pointer-type,https://lobste.rs/s/f4jtaf,melodyogonna,,2026-09-05 02:11:45,['programming'],f4jtaf,hot,lobsters
+MISRust: Mapping MISRA-C++ Coding Guidelines to the Rust Programming Language,1,1,https://arxiv.org/abs/2605.23490,https://lobste.rs/s/naoawd,sanxiyn,,2026-09-05 02:11:45,['rust'],naoawd,hot,lobsters
