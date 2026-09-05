@@ -2705,3 +2705,10 @@ Knowing Where to Type ‘Zero’ (2015),5,0,https://randomascii.wordpress.com/20
 NYC PIT Crew,4,1,https://www.nyc.gov/content/pitcrew/pages/,https://lobste.rs/s/svyytg,lim,,2026-09-05 14:18:22,['job'],svyytg,hot,lobsters
 Gleam and BEAM- Looking beyond the JVM,3,0,https://vimeo.com/1223666800,https://lobste.rs/s/5wzkwm,kamila,,2026-09-05 14:18:22,"['gleam', 'java', 'video']",5wzkwm,hot,lobsters
 "AI handles incidents, engineers lose touch with their systems",3,0,https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems,https://lobste.rs/s/gbv3vr,typesanitizer,,2026-09-05 14:18:22,"['practices', 'vibecoding']",gbv3vr,hot,lobsters
+zopt: low-ceremony command line parsing for Zig,15,9,https://codeberg.org/hgrsd/zopt,https://lobste.rs/s/64n3wp,hgrsd,,2026-09-05 19:45:16,"['show', 'zig']",64n3wp,hot,lobsters
+Pointing at the error: compiler-style diagnostics in uutils coreutils,7,2,https://uutils.org/blog/2026-08-error-diagnostics/,https://lobste.rs/s/job3jy,mpweiher,,2026-09-05 19:45:16,['unix'],job3jy,hot,lobsters
+Rust SIMD on the GPU,10,0,https://vectorware.com/blog/simd-on-gpu/,https://lobste.rs/s/omhoxh,nrposner,,2026-09-05 19:45:16,"['performance', 'rust']",omhoxh,hot,lobsters
+Anatomy of a Test,2,0,https://jonathan-frere.com/posts/anatomy-of-a-test/,https://lobste.rs/s/kcklzg,Johz,,2026-09-05 19:45:16,"['practices', 'testing']",kcklzg,hot,lobsters
+It matters who teaches you,2,0,https://bastiangruber.ca/posts/it-matters-who-teaches-you/,https://lobste.rs/s/dxjvcc,gruberb,,2026-09-05 19:45:16,['education'],dxjvcc,hot,lobsters
+C++26: std::hive,3,0,https://www.sandordargo.com/blog/2026/09/02/cpp26-hive,https://lobste.rs/s/f2ele4,raymii,,2026-09-05 19:45:16,['c++'],f2ele4,hot,lobsters
+Formalizing Fermat's Last Theorem,4,2,https://www.anthropic.com/research/formalizing-fermats-last-theorem,https://lobste.rs/s/ccl4ag,ni5arga,,2026-09-05 19:45:16,"['math', 'vibecoding']",ccl4ag,hot,lobsters
