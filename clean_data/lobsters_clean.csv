@@ -2712,3 +2712,7 @@ Anatomy of a Test,2,0,https://jonathan-frere.com/posts/anatomy-of-a-test/,https:
 It matters who teaches you,2,0,https://bastiangruber.ca/posts/it-matters-who-teaches-you/,https://lobste.rs/s/dxjvcc,gruberb,,2026-09-05 19:45:16,['education'],dxjvcc,hot,lobsters
 C++26: std::hive,3,0,https://www.sandordargo.com/blog/2026/09/02/cpp26-hive,https://lobste.rs/s/f2ele4,raymii,,2026-09-05 19:45:16,['c++'],f2ele4,hot,lobsters
 Formalizing Fermat's Last Theorem,4,2,https://www.anthropic.com/research/formalizing-fermats-last-theorem,https://lobste.rs/s/ccl4ag,ni5arga,,2026-09-05 19:45:16,"['math', 'vibecoding']",ccl4ag,hot,lobsters
+The revolt of the reader,14,4,https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/,https://lobste.rs/s/xnqxqe,prattmic,,2026-09-06 02:07:17,"['practices', 'vibecoding']",xnqxqe,hot,lobsters
+"M2: Episode 1 (or, Asahi Linux on M3)",4,0,https://asahilinux.org/2026/09/m2-episode-1/,https://lobste.rs/s/ben6a4,kreeft,,2026-09-06 02:07:17,"['linux', 'mac', 'release']",ben6a4,hot,lobsters
+Large-Language Models as a Cognitive Virus,4,0,https://arxiv.org/abs/2609.03344,https://lobste.rs/s/qnnvq2,Corbin,,2026-09-06 02:07:17,"['cogsci', 'pdf', 'vibecoding', 'visualization']",qnnvq2,hot,lobsters
+Controlling when CSS custom property values are computed,2,0,https://jakearchibald.com/2026/css-custom-property-compute-time/,https://lobste.rs/s/eqc1s5,typesanitizer,,2026-09-06 02:07:17,['css'],eqc1s5,hot,lobsters
