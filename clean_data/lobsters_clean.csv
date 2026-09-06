@@ -2716,3 +2716,10 @@ The revolt of the reader,14,4,https://bcantrill.dtrace.org/2026/09/05/the-revolt
 "M2: Episode 1 (or, Asahi Linux on M3)",4,0,https://asahilinux.org/2026/09/m2-episode-1/,https://lobste.rs/s/ben6a4,kreeft,,2026-09-06 02:07:17,"['linux', 'mac', 'release']",ben6a4,hot,lobsters
 Large-Language Models as a Cognitive Virus,4,0,https://arxiv.org/abs/2609.03344,https://lobste.rs/s/qnnvq2,Corbin,,2026-09-06 02:07:17,"['cogsci', 'pdf', 'vibecoding', 'visualization']",qnnvq2,hot,lobsters
 Controlling when CSS custom property values are computed,2,0,https://jakearchibald.com/2026/css-custom-property-compute-time/,https://lobste.rs/s/eqc1s5,typesanitizer,,2026-09-06 02:07:17,['css'],eqc1s5,hot,lobsters
+Debian Code Search: Fast TurboPFor with Go SIMD,9,0,https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/,https://lobste.rs/s/ceuque,stapelberg,,2026-09-06 09:58:33,"['go', 'performance']",ceuque,hot,lobsters
+Beyond ORMs,3,3,https://noteflakes.com/articles/2026-09-05-beyond-orms,https://lobste.rs/s/rcddma,noteflakes,,2026-09-06 09:58:33,"['databases', 'ruby']",rcddma,hot,lobsters
+How To: Federated Stars,5,3,https://domaindrivenarchitecture.org/blog/2024-06-05-howto-federated-stars/,https://lobste.rs/s/1kdrx2,tusharhero,,2026-09-06 09:58:33,['vcs'],1kdrx2,hot,lobsters
+"Any Nix package, live in your browser",8,0,https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser,https://lobste.rs/s/i9zp2x,diktomat,,2026-09-06 09:58:33,['nix'],i9zp2x,hot,lobsters
+There's No Limit to How Bad Code Can Get,7,3,https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/,https://lobste.rs/s/rfn2mn,rau,,2026-09-06 09:58:33,['practices'],rfn2mn,hot,lobsters
+Terence Tao on “prematurely solving [a maths] problem by purely AI-powered methods”,4,0,https://mathstodon.xyz/@tao/117207856734787448,https://lobste.rs/s/nohdoj,tmcb,,2026-09-06 09:58:33,"['ai', 'math']",nohdoj,hot,lobsters
+How is this frame of Animal Well rendered?,4,0,https://www.youtube.com/watch?v=HtaleVLNws8,https://lobste.rs/s/qjhtae,juliethefoxcoon,,2026-09-06 09:58:33,"['games', 'graphics', 'video']",qjhtae,hot,lobsters
