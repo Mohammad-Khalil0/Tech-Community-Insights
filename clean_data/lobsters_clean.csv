@@ -2746,3 +2746,7 @@ The shortest IPv6 addresses,1,0,https://ache.one/notes/vanity-ipv6,https://lobst
 rep.rs - A fitness challenge for Rust developers,1,0,https://rep.rs/,https://lobste.rs/s/ogwucp,orhun,,2026-09-07 11:08:34,['rust'],ogwucp,hot,lobsters
 Demystifying complex configurations,2,0,https://guix.gnu.org/blog/2026/demystifying-complex-configurations//,https://lobste.rs/s/awrzbh,FedericoSchonborn,,2026-09-07 11:08:34,['nix'],awrzbh,hot,lobsters
 Hammock Driven Development (2010),2,0,https://youtu.be/f84n5oFoZBc,https://lobste.rs/s/0htvw0,gunduzc,,2026-09-07 11:08:34,"['practices', 'video']",0htvw0,hot,lobsters
+Two Tiny Utils for the Result Pattern,7,2,https://daviddalbusco.com/blog/tiny-utils-for-the-result-pattern,https://lobste.rs/s/8csfoa,confusedalex,,2026-09-07 16:55:49,['javascript'],8csfoa,hot,lobsters
+"GEM for Linux provides a classic graphical desktop with windows, menus, dialogs & a 68K emulator",7,0,https://github.com/triglav-os/gem,https://lobste.rs/s/5yga7r,lproven,,2026-09-07 16:55:49,"['osdev', 'retrocomputing', 'vibecoding']",5yga7r,hot,lobsters
+How well do agents use test/verification techniques?,3,0,https://danluu.com/agentic-testing/,https://lobste.rs/s/adrda9,hwayne,,2026-09-07 16:55:49,"['testing', 'vibecoding']",adrda9,hot,lobsters
+Signing TLS handshakes inside a TPM,2,0,https://bschaatsbergen.com/posts/go-tpm-tls/,https://lobste.rs/s/vospwq,fs111,,2026-09-07 16:55:49,"['go', 'security']",vospwq,hot,lobsters
