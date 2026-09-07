@@ -2750,3 +2750,8 @@ Two Tiny Utils for the Result Pattern,7,2,https://daviddalbusco.com/blog/tiny-ut
 "GEM for Linux provides a classic graphical desktop with windows, menus, dialogs & a 68K emulator",7,0,https://github.com/triglav-os/gem,https://lobste.rs/s/5yga7r,lproven,,2026-09-07 16:55:49,"['osdev', 'retrocomputing', 'vibecoding']",5yga7r,hot,lobsters
 How well do agents use test/verification techniques?,3,0,https://danluu.com/agentic-testing/,https://lobste.rs/s/adrda9,hwayne,,2026-09-07 16:55:49,"['testing', 'vibecoding']",adrda9,hot,lobsters
 Signing TLS handshakes inside a TPM,2,0,https://bschaatsbergen.com/posts/go-tpm-tls/,https://lobste.rs/s/vospwq,fs111,,2026-09-07 16:55:49,"['go', 'security']",vospwq,hot,lobsters
+bzip3: A better and stronger spiritual successor to BZip2,12,2,https://github.com/iczelia/bzip3,https://lobste.rs/s/9coxwz,mrunix,,2026-09-07 20:57:01,"['compsci', 'performance']",9coxwz,hot,lobsters
+Rust debugging survey 2026 results,15,0,https://blog.rust-lang.org/2026/09/07/rust-debugging-survey-2026-results/,https://lobste.rs/s/ku4hwg,ettolrach,,2026-09-07 20:57:01,['rust'],ku4hwg,hot,lobsters
+The Dataflow Model Revisited,8,0,https://www.vldb.org/pvldb/vol19/p4953-fernandez-moctezuma.pdf,https://lobste.rs/s/r5b28u,pushcx,,2026-09-07 20:57:01,"['databases', 'pdf']",r5b28u,hot,lobsters
+What every kernel programmer should know about Jump Labels,3,2,https://walac.github.io/jumplabels/,https://lobste.rs/s/6xfpvw,vinipsmaker,,2026-09-07 20:57:01,['c'],6xfpvw,hot,lobsters
+Conquering Entropy: Cultivating Trust,1,0,https://kaeruct.github.io/posts/2026/09/06/conquering-entropy-cultivating-trust/,https://lobste.rs/s/ift0hu,kaeruct,,2026-09-07 20:57:01,"['practices', 'vibecoding']",ift0hu,hot,lobsters
