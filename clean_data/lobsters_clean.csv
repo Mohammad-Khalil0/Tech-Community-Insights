@@ -2757,3 +2757,16 @@ What every kernel programmer should know about Jump Labels,3,2,https://walac.git
 Conquering Entropy: Cultivating Trust,1,0,https://kaeruct.github.io/posts/2026/09/06/conquering-entropy-cultivating-trust/,https://lobste.rs/s/ift0hu,kaeruct,,2026-09-07 20:57:01,"['practices', 'vibecoding']",ift0hu,hot,lobsters
 Hardening Container Images,8,0,https://www.grepular.com/Hardening_Container_Images,https://lobste.rs/s/8hz82r,pushcx,,2026-09-08 02:16:10,['devops'],8hz82r,hot,lobsters
 How to bring up the Linux Kernel on a new platform,3,0,https://werwolv.net/posts/linux_bringup/,https://lobste.rs/s/a2kz9j,rrampage,,2026-09-08 02:16:10,"['hardware', 'linux', 'wasm']",a2kz9j,hot,lobsters
+I changed my license to EUPL,46,13,https://bergie.iki.fi/blog/eupl/,https://lobste.rs/s/4ntizu,knedl,,2026-09-08 10:20:17,['law'],4ntizu,hot,lobsters
+Jellyfin 12.0,24,4,https://jellyfin.org/posts/jellyfin-release-12.0,https://lobste.rs/s/blba3b,lilac,,2026-09-08 10:20:17,['release'],blba3b,hot,lobsters
+Bitap: my favorite string matching algorithm,9,1,https://jo3-l.dev/posts/bitap/,https://lobste.rs/s/aguhup,jo3_l,,2026-09-08 10:20:17,['compsci'],aguhup,hot,lobsters
+The state of European cloud providers in 2026,12,3,https://crescentro.se/posts/euro-cloud-providers-2026/,https://lobste.rs/s/6licoy,morj,,2026-09-08 10:20:17,['scaling'],6licoy,hot,lobsters
+Emacs Bedrock 2.0 Released,19,1,https://lambdaland.org/posts/2026-09-06-bedrock-v2/,https://lobste.rs/s/sukgeg,jmmv,,2026-09-08 10:20:17,['emacs'],sukgeg,hot,lobsters
+I’ve factored the RSA keys of a Certificate Authority…from the 90s,15,0,https://mcpherrin.ca/2026/09/07/rsa.html,https://lobste.rs/s/wl0mln,zg,,2026-09-08 10:20:17,['security'],wl0mln,hot,lobsters
+My Nix Config Is Intimate,14,0,https://www.scd31.com/posts/nix-files-are-intimate,https://lobste.rs/s/aepn8g,arcade,,2026-09-08 10:20:17,['nix'],aepn8g,hot,lobsters
+"Statement on finite-time blowup for forced 3D Euler, and OpenAI's conduct",5,2,https://cims.nyu.edu/~tristanb/statement.pdf,https://lobste.rs/s/b7k94m,pie_flavor,2026-09-08 03:14:40-05:00,2026-09-08 10:20:17,"['math', 'pdf', 'vibecoding']",b7k94m,hot,lobsters
+Type inference has usability problems (2019),3,4,https://austinhenley.com/blog/typeinference.html,https://lobste.rs/s/mfhss4,abhin4v,,2026-09-08 10:20:17,['plt'],mfhss4,hot,lobsters
+How to get a free .arpa domain,3,0,https://hawksley.dev/blog/get-free-arpa-domain,https://lobste.rs/s/eu78rh,freddyb,,2026-09-08 10:20:17,['networking'],eu78rh,hot,lobsters
+This Month in Ladybird - August 2026,4,0,https://ladybird.org/newsletter/2026-08-31/,https://lobste.rs/s/npyzwy,spikewall,,2026-09-08 10:20:17,['browsers'],npyzwy,hot,lobsters
+Antiquated HTML Snippets and Artefacts,3,0,https://vale.rocks/posts/html-relics,https://lobste.rs/s/bzwyib,fs111,,2026-09-08 10:20:17,"['historical', 'web']",bzwyib,hot,lobsters
+Surviving Black Friday: 329 billion requests with Falcon,1,0,https://www.youtube.com/watch?v=NMruXY3TrpI,https://lobste.rs/s/2trvg4,noteflakes,,2026-09-08 10:20:17,"['ruby', 'video']",2trvg4,hot,lobsters
