@@ -2777,3 +2777,7 @@ CERN's migration path from CentOS Linux to Debian,6,0,https://lwn.net/Subscriber
 The Depths of JavaScript: Minesweeper in 247 Bytes,4,0,https://yui.dev/blog/minesweeper-in-247-bytes,https://lobste.rs/s/dlxqqr,rrampage,,2026-09-08 15:43:33,['javascript'],dlxqqr,hot,lobsters
 Replacing startplasma with shell scripts or dinit (Part 1),4,0,https://cukic.co/2026/09/07/startplasma-with-shell-scripts-or-dinit,https://lobste.rs/s/nsx2dk,FedericoSchonborn,,2026-09-08 15:43:33,['linux'],nsx2dk,hot,lobsters
 pigeon: my experimental PHY (Part 0/12),2,0,https://k3xec.com/pigeon/,https://lobste.rs/s/m6q3ww,Foxboron,,2026-09-08 15:43:33,['networking'],m6q3ww,hot,lobsters
+On the Navier–Stokes Millennium Prize Problem,12,6,https://openai.com/index/navier-stokes-solution/,https://lobste.rs/s/hczzuo,ni5arga,,2026-09-08 20:31:54,"['math', 'vibecoding']",hczzuo,hot,lobsters
+"Finite-time blowup with smooth forcing for 3D incompressible Euler, Boussinesq, and IPM",13,22,https://mastodon.social/@tristanbuckmaster/117233413705701198,https://lobste.rs/s/ki3ylq,soulware,,2026-09-08 20:31:54,"['math', 'vibecoding']",ki3ylq,hot,lobsters
+Serving Web from volatile Dial-up IP,5,0,https://blog.mro.name/2026/09/web-from-dial-up/,https://lobste.rs/s/uhzuen,untrusem,,2026-09-08 20:31:54,['networking'],uhzuen,hot,lobsters
+NetBSD GSoC 2026 Testing Compat Linux Syscall testing,3,0,https://blog.netbsd.org/tnf/entry/gsoc2026_testing_compat_linux_2,https://lobste.rs/s/im7lnc,jaypatelani,,2026-09-08 20:31:54,['netbsd'],im7lnc,hot,lobsters
