@@ -2824,3 +2824,14 @@ How CHERIoT Provides Strong and Usable Isolation Without an MMU,3,0,https://queu
 Bad Vibes Coding,2,0,https://spectrecollie.com/2026/09/05/bad-vibes-coding/,https://lobste.rs/s/ifvdvx,FedericoSchonborn,,2026-09-10 15:34:11,"['games', 'vibecoding']",ifvdvx,hot,lobsters
 Package Manager Trends,2,0,https://nesbitt.io/2026/09/10/package-manager-trends.html,https://lobste.rs/s/qwbyxh,hugoarnal,,2026-09-10 15:34:11,"['programming', 'security']",qwbyxh,hot,lobsters
 A quick overview of atomics in C,1,0,https://lemire.me/blog/2026/09/09/a-quick-overview-of-atomics-in-c/,https://lobste.rs/s/ek3yvp,raymii,,2026-09-10 15:34:11,['c'],ek3yvp,hot,lobsters
+What algorithm did Windows XP use to choose your initial user picture?,12,3,https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683,https://lobste.rs/s/izt4a2,hoistbypetard,,2026-09-10 20:16:04,"['historical', 'windows']",izt4a2,hot,lobsters
+Forgejo 16.0.4 has a critical security bug fix (RCE - Remote Code Execution),10,3,https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md,https://lobste.rs/s/b3cqyr,brn,,2026-09-10 20:16:04,['security'],b3cqyr,hot,lobsters
+"It's not the YAML spec's fault, but",11,2,https://slugcat.systems/post/26-09-10-yaml-spec/,https://lobste.rs/s/bsvc7a,calvin,,2026-09-10 20:16:04,['programming'],bsvc7a,hot,lobsters
+Native is now the future of mobile at Shopify (2026),10,3,https://shopify.engineering/back-to-native,https://lobste.rs/s/l3enhd,dayanruben,,2026-09-10 20:16:04,"['mobile', 'vibecoding']",l3enhd,hot,lobsters
+What comes after git,9,2,https://ersc.io/blog/what-comes-after-git,https://lobste.rs/s/ez6ivp,ucirello,,2026-09-10 20:16:04,"['vcs', 'vibecoding']",ez6ivp,hot,lobsters
+The terrible menu bar in the Windows 11 Notepad,20,2,https://blog.yuo.be/2026/09/10/the-terrible-menu-bar-in-the-windows-11-notepad/,https://lobste.rs/s/ol8vsp,FedericoSchonborn,,2026-09-10 20:16:04,"['rant', 'windows']",ol8vsp,hot,lobsters
+My HTML Boilerplate,8,0,https://vale.rocks/posts/html-boilerplate,https://lobste.rs/s/6tcc4t,FedericoSchonborn,,2026-09-10 20:16:04,['web'],6tcc4t,hot,lobsters
+Conversations with JJ,7,0,https://laurmaedje.github.io/posts/jj/,https://lobste.rs/s/nbmbxj,isuffix,,2026-09-10 20:16:04,['vcs'],nbmbxj,hot,lobsters
+JEP 544: Ahead-of-Time Code Compilation,5,0,https://openjdk.org/jeps/544,https://lobste.rs/s/whzj8z,robinheghan,,2026-09-10 20:16:04,['java'],whzj8z,hot,lobsters
+Making Social Media Social,4,0,https://tante.cc/2026/09/10/making-social-media-social/,https://lobste.rs/s/39c9xe,itamarst,,2026-09-10 20:16:04,['security'],39c9xe,hot,lobsters
+Gleam Gathering 2027,1,1,https://gleamgathering.com/,https://lobste.rs/s/y3teyg,crowdhailer,,2026-09-10 20:16:04,"['event', 'gleam']",y3teyg,hot,lobsters
