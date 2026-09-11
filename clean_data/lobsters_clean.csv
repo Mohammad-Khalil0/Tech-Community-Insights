@@ -2835,3 +2835,7 @@ Conversations with JJ,7,0,https://laurmaedje.github.io/posts/jj/,https://lobste.
 JEP 544: Ahead-of-Time Code Compilation,5,0,https://openjdk.org/jeps/544,https://lobste.rs/s/whzj8z,robinheghan,,2026-09-10 20:16:04,['java'],whzj8z,hot,lobsters
 Making Social Media Social,4,0,https://tante.cc/2026/09/10/making-social-media-social/,https://lobste.rs/s/39c9xe,itamarst,,2026-09-10 20:16:04,['security'],39c9xe,hot,lobsters
 Gleam Gathering 2027,1,1,https://gleamgathering.com/,https://lobste.rs/s/y3teyg,crowdhailer,,2026-09-10 20:16:04,"['event', 'gleam']",y3teyg,hot,lobsters
+Fastly Speedtest Test,6,1,https://speed.edgecompute.app/,https://lobste.rs/s/twkkac,ysun,,2026-09-11 02:14:12,"['networking', 'wasm']",twkkac,hot,lobsters
+Soft-deprecating re.match(),10,0,https://hugovk.dev/blog/2026/soft-deprecating-re.match/,https://lobste.rs/s/u7dr96,ubernostrum,,2026-09-11 02:14:12,['python'],u7dr96,hot,lobsters
+Optimizing a Spin-Lock,2,0,https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/,https://lobste.rs/s/khpkda,dalvrosa,,2026-09-11 02:14:12,['c++'],khpkda,hot,lobsters
+Antiquated CSS and why we needed it,7,0,https://blog.omgmog.net/post/antiquated-css/,https://lobste.rs/s/i22m5l,FedericoSchonborn,,2026-09-11 02:14:12,['css'],i22m5l,hot,lobsters
