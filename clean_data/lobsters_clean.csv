@@ -2839,3 +2839,7 @@ Fastly Speedtest Test,6,1,https://speed.edgecompute.app/,https://lobste.rs/s/twk
 Soft-deprecating re.match(),10,0,https://hugovk.dev/blog/2026/soft-deprecating-re.match/,https://lobste.rs/s/u7dr96,ubernostrum,,2026-09-11 02:14:12,['python'],u7dr96,hot,lobsters
 Optimizing a Spin-Lock,2,0,https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/,https://lobste.rs/s/khpkda,dalvrosa,,2026-09-11 02:14:12,['c++'],khpkda,hot,lobsters
 Antiquated CSS and why we needed it,7,0,https://blog.omgmog.net/post/antiquated-css/,https://lobste.rs/s/i22m5l,FedericoSchonborn,,2026-09-11 02:14:12,['css'],i22m5l,hot,lobsters
+Models Don't Go Rogue,12,0,https://mail.cyberneticforests.com/models-dont-go-rogue/,https://lobste.rs/s/0i492m,Yogthos,,2026-09-11 10:18:30,"['security', 'vibecoding']",0i492m,hot,lobsters
+An untrusted site can freeze a Mac using WebGPU,10,1,https://auberon.xyz/blog/posts/deathray/,https://lobste.rs/s/l0sqnt,hoistbypetard,,2026-09-11 10:18:30,"['browsers', 'security']",l0sqnt,hot,lobsters
+DiffOS is For Freedom,5,1,https://www.diffos.org/,https://lobste.rs/s/mfx8ja,FedericoSchonborn,,2026-09-11 10:18:30,['linux'],mfx8ja,hot,lobsters
+Reverse engineering an ASIC,2,0,https://kjartanvandriel.github.io/asic/,https://lobste.rs/s/5nmyv0,rrampage,,2026-09-11 10:18:30,"['hardware', 'reversing']",5nmyv0,hot,lobsters
