@@ -2879,3 +2879,10 @@ Optimizing a single Rust Clippy lint by 3133X,9,0,https://blog.goose.love/posts/
 a better way of blocking macOS updates,1,0,https://zoey-on-github.github.io/blog/updates.html,https://lobste.rs/s/betbip,juliethefoxcoon,,2026-09-13 02:18:30,['mac'],betbip,hot,lobsters
 Everyone should slow down AI development except for me,5,0,https://xeiaso.net/notes/2026/everyone-slowdown-but-me/,https://lobste.rs/s/fmkm3v,classichasclass,,2026-09-13 02:18:30,"['ai', 'satire']",fmkm3v,hot,lobsters
 Microcode in Intel's 8087 floating-point chip: the scale instruction,4,0,https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html,https://lobste.rs/s/6xdgjr,bitshift,,2026-09-13 02:18:30,"['hardware', 'historical', 'reversing']",6xdgjr,hot,lobsters
+From Git to Fossil (2025),6,2,https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html,https://lobste.rs/s/pomjkm,heavyrain266,,2026-09-13 10:51:26,['vcs'],pomjkm,hot,lobsters
+heol,8,0,https://wiki.xxiivv.com/site/heol.html,https://lobste.rs/s/pr1po9,FedericoSchonborn,,2026-09-13 10:51:26,['lisp'],pr1po9,hot,lobsters
+A Dick Smith VZ200 without the Dick Smith,6,0,http://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html,https://lobste.rs/s/jwlzd3,classichasclass,,2026-09-13 10:51:26,['retrocomputing'],jwlzd3,hot,lobsters
+Opusfived,19,0,https://opusfived.dev/,https://lobste.rs/s/scyufg,FedericoSchonborn,,2026-09-13 10:51:26,"['satire', 'vibecoding']",scyufg,hot,lobsters
+The night 142 of my servers went up in the clouds Physically,2,0,https://exquisite.tube/w/nQbc54t4G7YGaqiryZ7mg1,https://lobste.rs/s/pbmvov,jaypatelani,,2026-09-13 10:51:26,['netbsd'],pbmvov,hot,lobsters
+Lua Pattern Tester,3,0,https://iamreiyn.github.io/lua-pattern-tester/,https://lobste.rs/s/m4pjtg,FedericoSchonborn,,2026-09-13 10:51:26,['lua'],m4pjtg,hot,lobsters
+Metacarp,3,0,https://blog.veitheller.de/Metacarp.html,https://lobste.rs/s/3nk1lh,jtm,,2026-09-13 10:51:26,"['compilers', 'lisp']",3nk1lh,hot,lobsters
