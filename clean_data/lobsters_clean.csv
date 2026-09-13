@@ -2875,3 +2875,7 @@ Make it anyway,5,0,https://www.joelotter.com/posts/2026/09/make-it-anyway/,https
 Why do companies stop using Haskell?,3,0,https://www.youtube.com/watch?v=2PebXEak24M,https://lobste.rs/s/pwoxht,vaibhavsagar,,2026-09-12 19:55:39,"['haskell', 'historical', 'video']",pwoxht,hot,lobsters
 A Few Good Ideas in Programming Languages,3,0,https://prydt.xyz/blog/a-few-good-ideas-in-pl/,https://lobste.rs/s/er0hfp,anex9d,,2026-09-12 19:55:39,['plt'],er0hfp,hot,lobsters
 js65 - Advanced 6502 assembler with patching support based on ca65 syntax,2,0,https://jsnesx.github.io/js65/,https://lobste.rs/s/24gxd3,JordiGH,,2026-09-12 19:55:39,"['assembly', 'release']",24gxd3,hot,lobsters
+Optimizing a single Rust Clippy lint by 3133X,9,0,https://blog.goose.love/posts/making-a-clippy-lint-faster-by-3133x/,https://lobste.rs/s/jtmyg2,lsh,,2026-09-13 02:18:30,['rust'],jtmyg2,hot,lobsters
+a better way of blocking macOS updates,1,0,https://zoey-on-github.github.io/blog/updates.html,https://lobste.rs/s/betbip,juliethefoxcoon,,2026-09-13 02:18:30,['mac'],betbip,hot,lobsters
+Everyone should slow down AI development except for me,5,0,https://xeiaso.net/notes/2026/everyone-slowdown-but-me/,https://lobste.rs/s/fmkm3v,classichasclass,,2026-09-13 02:18:30,"['ai', 'satire']",fmkm3v,hot,lobsters
+Microcode in Intel's 8087 floating-point chip: the scale instruction,4,0,https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html,https://lobste.rs/s/6xdgjr,bitshift,,2026-09-13 02:18:30,"['hardware', 'historical', 'reversing']",6xdgjr,hot,lobsters
