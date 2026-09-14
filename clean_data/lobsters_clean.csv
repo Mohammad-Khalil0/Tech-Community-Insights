@@ -2900,3 +2900,9 @@ Switching to GNU Guix: A Beginner's Perspective,13,3,https://whhone.com/posts/sw
 Golang developers should try Odin,11,18,https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/,https://lobste.rs/s/ytc27d,cgrinds,,2026-09-13 20:02:52,['programming'],ytc27d,hot,lobsters
 This PCB is brought to you by Fable 5,3,3,https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/,https://lobste.rs/s/yedfbj,LolPython,,2026-09-13 20:02:52,"['hardware', 'vibecoding']",yedfbj,hot,lobsters
 Nobody pays for open source. We can force them to,7,8,https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/,https://lobste.rs/s/oqkml5,giacomo_cavalieri,,2026-09-13 20:02:52,['culture'],oqkml5,hot,lobsters
+"Anecdotally, programmers dislike reduce",9,8,https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/,https://lobste.rs/s/dhn991,aphaelion,,2026-09-14 02:35:57,"['clojure', 'programming']",dhn991,hot,lobsters
+"Writing a Guix service from scratch, as a beginner",6,4,https://aloysberger.com/posts/writing-a-guix-service-from-scratch-as-a-beginner.html,https://lobste.rs/s/f4arrs,aloys,,2026-09-14 02:35:57,['nix'],f4arrs,hot,lobsters
+The case against JPEG XL,4,0,https://giannirosato.com/blog/post/case-against-jxl,https://lobste.rs/s/e1lcnf,gianni,,2026-09-14 02:35:57,['compsci'],e1lcnf,hot,lobsters
+Purely Functional Operating Systems,4,0,https://eighty-twenty.org/2022/06/23/henderson-functional-operating-systems-1982,https://lobste.rs/s/jlmeib,andyc,,2026-09-14 02:35:57,"['osdev', 'programming']",jlmeib,hot,lobsters
+GEFS: The File Shredder of the Future,8,0,https://exquisite.tube/w/3QQimMdswWJxrsPaJtak2u,https://lobste.rs/s/vxkb8z,PuercoPop,,2026-09-14 02:35:57,"['openbsd', 'osdev', 'video']",vxkb8z,hot,lobsters
+"Sorry, Wrong Number: Debugging a Crash under Wine (2022)",4,0,https://blog.jchw.dev/wrong-number/,https://lobste.rs/s/sr1qmw,LolPython,,2026-09-14 02:35:57,"['debugging', 'linux']",sr1qmw,hot,lobsters
