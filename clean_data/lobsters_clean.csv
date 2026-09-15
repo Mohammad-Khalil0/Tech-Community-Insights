@@ -2938,3 +2938,10 @@ How I Wrote a Forth (Without Knowing How),4,0,https://vtrlx.ca/w/2026-09-10-how-
 Simpler time map plots (2017),4,1,https://lepisma.xyz/2017/06/25/simple-time-maps/,https://lobste.rs/s/ixjmzm,abhin4v,,2026-09-15 15:58:01,['visualization'],ixjmzm,hot,lobsters
 Postgres development activity,3,0,https://vondra.me/posts/postgres-development-activity/,https://lobste.rs/s/3wmby2,fanf,,2026-09-15 15:58:01,"['databases', 'practices']",3wmby2,hot,lobsters
 IBM Built the Cold War’s Most Powerful Code Breaker for the NSA,3,0,https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm,https://lobste.rs/s/pwofca,fanf,,2026-09-15 15:58:01,"['cryptography', 'historical']",pwofca,hot,lobsters
+GEFS on OpenBSD: A very early preview,22,3,https://marc.info/?l=openbsd-tech&m=178948744271633&w=2,https://lobste.rs/s/buzdkb,jbauer,,2026-09-15 20:41:42,['openbsd'],buzdkb,hot,lobsters
+From Intern to Software Architect,4,0,https://chauhankiran.blogspot.com/2026/09/levels.html,https://lobste.rs/s/jsvadf,chauhankiran,,2026-09-15 20:41:42,['practices'],jsvadf,hot,lobsters
+Performance Improvements in .NET 11,6,0,https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/,https://lobste.rs/s/udwhz2,jbe_,,2026-09-15 20:41:42,"['dotnet', 'performance']",udwhz2,hot,lobsters
+Trying to Make a Loop Auto-Vectorize,4,1,https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/,https://lobste.rs/s/4nhhax,fanf,,2026-09-15 20:41:42,"['assembly', 'performance', 'rust']",4nhhax,hot,lobsters
+How much of F-Droid is LLM generated?,3,0,https://tintotint.eu/whacky-corner/f-droid_slop/,https://lobste.rs/s/acwuxy,lobo,,2026-09-15 20:41:42,['vibecoding'],acwuxy,hot,lobsters
+Swift 6.4 Released,2,0,https://www.swift.org/blog/swift-6.4-released/,https://lobste.rs/s/ptegb0,kevinc,,2026-09-15 20:41:42,['swift'],ptegb0,hot,lobsters
+Subnormal floating-point numbers are expensive… on Intel processors,2,0,https://lemire.me/blog/2026/09/15/subnormal-floating-point-numbers-are-expensive-on-intel-processors/,https://lobste.rs/s/hv3l4v,kevincox,,2026-09-15 20:41:42,"['hardware', 'performance']",hv3l4v,hot,lobsters
