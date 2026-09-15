@@ -2922,3 +2922,7 @@ Do You Still Read the Code?,3,0,https://zanlib.dev/blog/do-you-still-read-the-co
 A Letter from a Machine Learning Engineer,4,0,https://nemin.hu/llm-letter/index.html,https://lobste.rs/s/ta2ojd,nemin,,2026-09-14 21:13:22,['ai'],ta2ojd,hot,lobsters
 How my e-reader lost its stripes,4,0,https://www.serpentine.com/posts/2026/x3-stripes/,https://lobste.rs/s/w6aktj,Helithumper,,2026-09-14 21:13:22,"['graphics', 'hardware', 'vibecoding']",w6aktj,hot,lobsters
 How I use a single .zshrc file on macOS and Windows (WSL2),1,1,https://talkoren.com/blog/single-zshrc-macos-windows-wsl2/,https://lobste.rs/s/9ukost,Dew,,2026-09-14 21:13:22,"['ask', 'mac', 'windows']",9ukost,hot,lobsters
+A New Equal-Area Map for Interactive Computer Use (natively zooms to Mercator),5,4,https://www.benjoffe.com/map,https://lobste.rs/s/zttri6,benjoffe,,2026-09-15 02:39:38,"['math', 'web']",zttri6,hot,lobsters
+"GDScript: The Good, Bad, and Ugly Parts",3,0,https://azhdarchid.com/gdscript-good-bad-ugly/,https://lobste.rs/s/q5dgu6,misty,,2026-09-15 02:39:38,"['games', 'programming']",q5dgu6,hot,lobsters
+Dropping eBPF CPU Cost by About 90% With Memoization,2,0,https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/,https://lobste.rs/s/a66b7j,ache,,2026-09-15 02:39:38,"['linux', 'performance']",a66b7j,hot,lobsters
+"Kythe, a pluggable, language-agnostic ecosystem for building tools that work with code",3,0,https://kythe.io,https://lobste.rs/s/uqezny,kaycebasques,,2026-09-15 02:39:38,"['editors', 'plt']",uqezny,hot,lobsters
