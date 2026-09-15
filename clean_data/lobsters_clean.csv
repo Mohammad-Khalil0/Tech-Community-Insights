@@ -2926,3 +2926,9 @@ A New Equal-Area Map for Interactive Computer Use (natively zooms to Mercator),5
 "GDScript: The Good, Bad, and Ugly Parts",3,0,https://azhdarchid.com/gdscript-good-bad-ugly/,https://lobste.rs/s/q5dgu6,misty,,2026-09-15 02:39:38,"['games', 'programming']",q5dgu6,hot,lobsters
 Dropping eBPF CPU Cost by About 90% With Memoization,2,0,https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/,https://lobste.rs/s/a66b7j,ache,,2026-09-15 02:39:38,"['linux', 'performance']",a66b7j,hot,lobsters
 "Kythe, a pluggable, language-agnostic ecosystem for building tools that work with code",3,0,https://kythe.io,https://lobste.rs/s/uqezny,kaycebasques,,2026-09-15 02:39:38,"['editors', 'plt']",uqezny,hot,lobsters
+Coreutils - rejected feature requests,8,0,https://www.gnu.org/software/coreutils/rejected_requests.html,https://lobste.rs/s/zbcua4,ryan-duve,,2026-09-15 10:44:31,"['programming', 'unix']",zbcua4,hot,lobsters
+A Nix store is three functions,9,0,https://fzakaria.com/2026/09/11/a-nix-store-is-three-functions,https://lobste.rs/s/9zytkh,skycam,,2026-09-15 10:44:31,['nix'],9zytkh,hot,lobsters
+Stalling installing,4,0,https://adactio.com/journal/22757,https://lobste.rs/s/pgzlof,opale,,2026-09-15 10:44:31,"['browsers', 'web']",pgzlof,hot,lobsters
+CSS-Tricks in Limbo,2,0,https://vale.rocks/micros/20260915-0135,https://lobste.rs/s/lgcmoo,FedericoSchonborn,,2026-09-15 10:44:31,"['css', 'web']",lgcmoo,hot,lobsters
+The terminal should not own the work,2,0,https://lezli01.is-a.dev/vincent/docs/why/the-terminal-should-not-own-the-work.html,https://lobste.rs/s/m1zfy8,sspaeti,,2026-09-15 10:44:31,"['linux', 'programming']",m1zfy8,hot,lobsters
+Type Systems You Might Not Know (But Will Love),3,0,https://www.wearedevelopers.com/videos/100067-type-systems-you-might-not-know-but-will-love,https://lobste.rs/s/89pcze,abhin4v,,2026-09-15 10:44:31,"['plt', 'video']",89pcze,hot,lobsters
