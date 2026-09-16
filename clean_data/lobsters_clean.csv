@@ -2959,3 +2959,7 @@ Apple Reference Image: A New Approach for Verified Photography,6,4,https://secur
 When adding a fractional part to a number fixes your shader,1,0,https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/,https://lobste.rs/s/ue8rof,crocidb,,2026-09-16 10:33:00,['graphics'],ue8rof,hot,lobsters
 Reinventing issue tracking: Local-first and Git-native,1,1,https://blog.manganin.dev/blog/reinventing-issue-tracking/,https://lobste.rs/s/4tb4nk,matklad,,2026-09-16 10:33:00,"['practices', 'vcs']",4tb4nk,hot,lobsters
 Unsizing unsized values,8,0,https://hackmd.io/@WorldSEnder/Hkyqni6Ofl,https://lobste.rs/s/5uovkh,fanf,,2026-09-16 10:33:00,['rust'],5uovkh,hot,lobsters
+Forgery of C2PA on a Pixel 10,10,3,https://www.hackerfactor.com/blog/index.php?/archives/1102-C2PA-and-Pixel-Glitter-Milk.html,https://lobste.rs/s/tgrvxh,lvig,,2026-09-16 15:50:26,"['cryptography', 'security']",tgrvxh,hot,lobsters
+The smallest possible Linux distribution,4,2,https://distrowatch.com/weekly.php?issue=20260914#qa,https://lobste.rs/s/zwhnko,linkdd,,2026-09-16 15:50:26,['linux'],zwhnko,hot,lobsters
+Simple and Efficient Row-Level Security,6,0,https://acadia.engineering/blog/simple-and-efficient-row-level-security,https://lobste.rs/s/nhdqgh,giacomo_cavalieri,,2026-09-16 15:50:26,['databases'],nhdqgh,hot,lobsters
+Why i'm still bearish on LLMs after Navier-Stokes,1,2,https://dank.systems/posts/2026-09-15-ai-bear.html,https://lobste.rs/s/cianny,andyc,,2026-09-16 15:50:26,['ai'],cianny,hot,lobsters
