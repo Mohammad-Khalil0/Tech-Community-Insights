@@ -2977,3 +2977,5 @@ C++26: Trivial infinite loops are no longer undefined behaviour,8,5,https://www.
 Style Guide for Online Hypertext (1992),4,4,https://www.w3.org/Provider/Style/,https://lobste.rs/s/7ehqzv,lim,,2026-09-17 02:38:11,['web'],7ehqzv,hot,lobsters
 Reversing Factorio's RNG,5,0,https://gegell.github.io/posts/factorio-rng/,https://lobste.rs/s/phbfog,fancybone,,2026-09-17 02:38:11,"['games', 'math', 'reversing']",phbfog,hot,lobsters
 Why .tar.gz files can't be combined with cat,3,0,https://alexwlchan.net/2026/cat-confusion/,https://lobste.rs/s/lox1su,gavinmorrow,,2026-09-17 02:38:11,['programming'],lox1su,hot,lobsters
+Tilia—a new formatter for Haskell,5,1,https://markkarpov.com/post/announcing-tilia.html,https://lobste.rs/s/jbxpqz,abhin4v,,2026-09-17 10:42:49,['haskell'],jbxpqz,hot,lobsters
+XApp — Apps that work everywhere,2,3,https://xapp-project.org/,https://lobste.rs/s/zeeat3,rcalixte,,2026-09-17 10:42:49,['linux'],zeeat3,hot,lobsters
