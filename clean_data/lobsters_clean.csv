@@ -2973,3 +2973,7 @@ Original Sony PlayStation 2 security chip ‘broken wide open’ after 26 years,
 OSRS Wiki and RuneLite are increasingly under strain from low-effort AI development,7,0,https://oldschool.runescape.wiki/w/User:Cook_Me_Plox/OSRS_Wiki_and_RuneLite_are_increasingly_under_strain_from_low-effort_AI_development,https://lobste.rs/s/aml2pc,matthew2,,2026-09-16 20:41:40,['vibecoding'],aml2pc,hot,lobsters
 Gothub lists,4,0,https://gothub.org/lists.html,https://lobste.rs/s/wo4fuj,gonzalo,,2026-09-16 20:41:40,"['openbsd', 'vcs']",wo4fuj,hot,lobsters
 type declaration syntax,2,2,https://citrons.xyz/journal/2026-09-09,https://lobste.rs/s/qphopj,abnercoimbre,,2026-09-16 20:41:40,"['c', 'programming']",qphopj,hot,lobsters
+C++26: Trivial infinite loops are no longer undefined behaviour,8,5,https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops,https://lobste.rs/s/uvrata,raymii,,2026-09-17 02:38:11,['c++'],uvrata,hot,lobsters
+Style Guide for Online Hypertext (1992),4,4,https://www.w3.org/Provider/Style/,https://lobste.rs/s/7ehqzv,lim,,2026-09-17 02:38:11,['web'],7ehqzv,hot,lobsters
+Reversing Factorio's RNG,5,0,https://gegell.github.io/posts/factorio-rng/,https://lobste.rs/s/phbfog,fancybone,,2026-09-17 02:38:11,"['games', 'math', 'reversing']",phbfog,hot,lobsters
+Why .tar.gz files can't be combined with cat,3,0,https://alexwlchan.net/2026/cat-confusion/,https://lobste.rs/s/lox1su,gavinmorrow,,2026-09-17 02:38:11,['programming'],lox1su,hot,lobsters
