@@ -2979,3 +2979,13 @@ Reversing Factorio's RNG,5,0,https://gegell.github.io/posts/factorio-rng/,https:
 Why .tar.gz files can't be combined with cat,3,0,https://alexwlchan.net/2026/cat-confusion/,https://lobste.rs/s/lox1su,gavinmorrow,,2026-09-17 02:38:11,['programming'],lox1su,hot,lobsters
 Tilia—a new formatter for Haskell,5,1,https://markkarpov.com/post/announcing-tilia.html,https://lobste.rs/s/jbxpqz,abhin4v,,2026-09-17 10:42:49,['haskell'],jbxpqz,hot,lobsters
 XApp — Apps that work everywhere,2,3,https://xapp-project.org/,https://lobste.rs/s/zeeat3,rcalixte,,2026-09-17 10:42:49,['linux'],zeeat3,hot,lobsters
+I expected better from Google,30,7,https://www.minitap.ai/blog/i-expected-better-from-google,https://lobste.rs/s/11uiiv,FedericoSchonborn,,2026-09-17 15:56:50,['vibecoding'],11uiiv,hot,lobsters
+"The Golden Spike, and Resurrecting the Vale(n) Programming Language",8,0,https://verdagon.dev/blog/golden-spike-reviving-vale-valen,https://lobste.rs/s/fjnkn4,Verdagon,,2026-09-17 15:56:50,"['plt', 'rust']",fjnkn4,hot,lobsters
+Your Donations at Work: One Year of Sponsored Servo Development,19,0,https://servo.org/blog/2026/09/15/one-year-of-sponsorship/,https://lobste.rs/s/oigetg,op,,2026-09-17 15:56:50,"['browsers', 'web']",oigetg,hot,lobsters
+My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it,10,1,https://jakeasmith.com/blog/http-build-url/,https://lobste.rs/s/mc3zgo,calvin,,2026-09-17 15:56:50,['php'],mc3zgo,hot,lobsters
+On learning programming in an age of LLMs,5,0,https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/,https://lobste.rs/s/hp1xkh,abareplace,,2026-09-17 15:56:50,['vibecoding'],hp1xkh,hot,lobsters
+I Don't Like LLMs,3,0,https://martinfowler.com/articles/2026-dont-like-llms.html,https://lobste.rs/s/pkj7mf,cameron,,2026-09-17 15:56:50,['vibecoding'],pkj7mf,hot,lobsters
+Developing provably correct Rust code with Verus,6,0,https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus,https://lobste.rs/s/yyijiq,rajtilakjee,,2026-09-17 15:56:50,['rust'],yyijiq,hot,lobsters
+"Trust, but benchmark: How we let an AI agent optimize Elasticsearch",3,0,https://www.elastic.co/search-labs/blog/ai-code-optimization-elasticsearch-agent-harness,https://lobste.rs/s/iul1vv,eatonphil,,2026-09-17 15:56:50,"['databases', 'performance', 'testing', 'vibecoding']",iul1vv,hot,lobsters
+HarnessTax: How Much Does the Harness Matter for Coding Agents?,2,0,https://harnesstax.github.io/,https://lobste.rs/s/iq4dwz,motor_toni,,2026-09-17 15:56:50,['ai'],iq4dwz,hot,lobsters
+Everybody's Lost Their Minds,4,0,https://www.netmeister.org/blog/everybodys-lost-their-minds.html,https://lobste.rs/s/rok1za,j11g,,2026-09-17 15:56:50,"['ai', 'culture']",rok1za,hot,lobsters
