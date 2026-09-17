@@ -2989,3 +2989,7 @@ Developing provably correct Rust code with Verus,6,0,https://www.amazon.science/
 "Trust, but benchmark: How we let an AI agent optimize Elasticsearch",3,0,https://www.elastic.co/search-labs/blog/ai-code-optimization-elasticsearch-agent-harness,https://lobste.rs/s/iul1vv,eatonphil,,2026-09-17 15:56:50,"['databases', 'performance', 'testing', 'vibecoding']",iul1vv,hot,lobsters
 HarnessTax: How Much Does the Harness Matter for Coding Agents?,2,0,https://harnesstax.github.io/,https://lobste.rs/s/iq4dwz,motor_toni,,2026-09-17 15:56:50,['ai'],iq4dwz,hot,lobsters
 Everybody's Lost Their Minds,4,0,https://www.netmeister.org/blog/everybodys-lost-their-minds.html,https://lobste.rs/s/rok1za,j11g,,2026-09-17 15:56:50,"['ai', 'culture']",rok1za,hot,lobsters
+Be alert: targeted attacks on prominent Rustaceans,20,1,https://blog.rust-lang.org/2026/09/17/targeted-attacks/,https://lobste.rs/s/uz30ed,itamarst,,2026-09-17 20:47:37,"['rust', 'security']",uz30ed,hot,lobsters
+Labeled matches: why is this not in every regex engine?,7,3,https://iev.ee/blog/categorize-everything-all-at-once/,https://lobste.rs/s/7d6sh9,iev,,2026-09-17 20:47:37,"['performance', 'rust']",7d6sh9,hot,lobsters
+jemalloc 5.4.0 release,4,0,https://github.com/jemalloc/jemalloc/releases/tag/5.4.0,https://lobste.rs/s/eiqamo,gaffneyc,,2026-09-17 20:47:37,['release'],eiqamo,hot,lobsters
+Who owns my stack?,3,0,https://chrisamico.com/blog/2026-09-12/who-owns-my-stack/,https://lobste.rs/s/x0ntfl,carlana,,2026-09-17 20:47:37,['programming'],x0ntfl,hot,lobsters
