@@ -3002,3 +3002,8 @@ Not In My Git Yard: Catching Backdoors at Commit and Release Time,3,0,https://ar
 The C++20’s u8/char8_t Backward-Compatibility Fiasco,1,0,https://giodicanio.com/2026/09/11/the-c-plus-plus-20-s-u8-char8_t-fiasco/,https://lobste.rs/s/ltjgvl,raymii,,2026-09-18 10:18:22,['c++'],ltjgvl,hot,lobsters
 Flet : Build cross-platform apps in Python,1,0,https://flet.dev/,https://lobste.rs/s/eeykfl,dhruvp,,2026-09-18 10:18:22,"['programming', 'vibecoding']",eeykfl,hot,lobsters
 Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint,1,1,https://prismml.com/news/bonsai-2-27b,https://lobste.rs/s/r9wkkk,mpweiher,,2026-09-18 10:18:22,['vibecoding'],r9wkkk,hot,lobsters
+Typst makes big strides,19,1,https://lwn.net/Articles/1092993/,https://lobste.rs/s/j4oyxa,isuffix,,2026-09-18 15:31:11,"['a11y', 'programming']",j4oyxa,hot,lobsters
+I don't like passkeys,14,0,https://hawksley.dev/blog/i-dont-like-passkeys,https://lobste.rs/s/4a7qly,eduard,,2026-09-18 15:31:11,['security'],4a7qly,hot,lobsters
+Release v0.29.0 · warp-tech/warpgate,2,4,https://github.com/warp-tech/warpgate/releases/tag/v0.29.0,https://lobste.rs/s/riugyt,eugeny,,2026-09-18 15:31:11,['release'],riugyt,hot,lobsters
+Hacking OpenAI,6,0,https://www.hacktron.ai/blog/hacking-openai,https://lobste.rs/s/htziuj,freddyb,,2026-09-18 15:31:11,"['security', 'vibecoding']",htziuj,hot,lobsters
+"A quartet of Linux local root vulns: DirtyAH6, PPPoEject, TUNderflow, and DiagSpill",4,2,https://seclists.org/oss-sec/2026/q3/822,https://lobste.rs/s/7d3zs8,buherator,,2026-09-18 15:31:11,"['linux', 'security']",7d3zs8,hot,lobsters
