@@ -3033,3 +3033,9 @@ I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Calle
 What happens to TLDs when their country stops existing? (2022),2,0,https://astrid.tech/2022/04/05/0/dead-tlds/,https://lobste.rs/s/q75kgo,gavinmorrow,,2026-09-19 15:05:50,['web'],q75kgo,hot,lobsters
 Consistent Hashing Proofs,1,0,https://ch.terabyteoff.com/,https://lobste.rs/s/eplmed,klingtnet,,2026-09-19 15:05:50,"['compsci', 'math']",eplmed,hot,lobsters
 The Implications of Linguistic Illegibility for LLM Security,3,2,https://arxiv.org/abs/2609.02852,https://lobste.rs/s/bkjmjg,Corbin,,2026-09-19 15:05:50,"['pdf', 'security', 'vibecoding']",bkjmjg,hot,lobsters
+AI Is an Elite Crime Spree,20,3,https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree,https://lobste.rs/s/blmlco,jcd,,2026-09-19 19:48:48,['law'],blmlco,hot,lobsters
+Faster JSON parsing with SVE2 on ARM processors,6,1,https://lemire.me/blog/2026/09/18/faster-json-parsing-with-sve2-on-arm-processors/,https://lobste.rs/s/1auq61,fanf,,2026-09-19 19:48:48,"['assembly', 'performance']",1auq61,hot,lobsters
+Secure VMs for Kubernetes: Hardening Kata containers,2,0,https://srcreigh.ca/posts/auditable-kata/,https://lobste.rs/s/yfz406,srcreigh,,2026-09-19 19:48:48,"['devops', 'security', 'vibecoding', 'virtualization']",yfz406,hot,lobsters
+Thread-identity switcheroo for io_uring,2,0,https://lwn.net/SubscriberLink/1094303/50affb2e7bd3e698/,https://lobste.rs/s/rpc7qb,vinipsmaker,,2026-09-19 19:48:48,"['linux', 'performance']",rpc7qb,hot,lobsters
+Laya — 33ms Multilingual System 1 Decision Engine,1,2,https://laya.convaiinnovations.com/,https://lobste.rs/s/ojukrw,elbart,,2026-09-19 19:48:48,"['ai', 'science']",ojukrw,hot,lobsters
+we have a year to fix security everywhere,1,1,https://jyn.dev/a-year-to-fix-security/,https://lobste.rs/s/re9wk8,apropos,,2026-09-19 19:48:48,['security'],re9wk8,hot,lobsters
