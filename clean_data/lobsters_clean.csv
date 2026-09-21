@@ -3074,3 +3074,14 @@ Creating a Blog in Gemini://,1,0,https://brennan.day/creating-a-blog-in-gemini/,
 Skia compositor for WPE WebKit and WebKitGTK,1,0,https://blogs.igalia.com/carlosgc/2026/09/21/skia-compositor-for-wpe-webkit-and-webkitgtk/,https://lobste.rs/s/gexhnh,FedericoSchonborn,,2026-09-21 11:33:25,"['browsers', 'graphics']",gexhnh,hot,lobsters
 Overview of AOOSTAR WTR Pro on *BSD,1,0,https://www.tumfatig.net/2026/overview-of-aoostar-wtr-pro-on-bsd/,https://lobste.rs/s/sp4dnk,zk,,2026-09-21 11:33:25,"['freebsd', 'hardware', 'linux', 'netbsd', 'openbsd']",sp4dnk,hot,lobsters
 Coding Theory: A Playful Introduction,1,0,https://paramrathour.github.io/blog/coding-theory/,https://lobste.rs/s/gyavex,anex9d,,2026-09-21 11:33:25,['compsci'],gyavex,hot,lobsters
+Do you use :visited on links?,18,17,https://kevquirk.com/do-you-use-visited-on-links,https://lobste.rs/s/34xsdg,confusedalex,,2026-09-21 17:31:17,"['a11y', 'web']",34xsdg,hot,lobsters
+"Textbook review: Is Parallel Programming Hard, And, If So, What Can You Do About It?",9,0,https://ahelwer.ca/post/2026-09-21-concurrency-textbook/,https://lobste.rs/s/73ei6g,ahelwer,,2026-09-21 17:31:17,['programming'],73ei6g,hot,lobsters
+"Squalk: an old-school forum engine built on Nostr (NIP-29 groups, NIP-7D threads)",8,0,https://github.com/dtonon/squalk,https://lobste.rs/s/haq46t,daniele,,2026-09-21 17:31:17,"['distributed', 'show', 'web']",haq46t,hot,lobsters
+Markdown in /src,6,8,https://htmx.org/essays/markdown-in-src/,https://lobste.rs/s/xooho4,facundoolano,,2026-09-21 17:31:17,"['practices', 'vibecoding']",xooho4,hot,lobsters
+Canonical announces Zephyr 26.04 LTS,9,0,https://canonical.com/blog/zephyr-lts-announcement,https://lobste.rs/s/lz0qfv,doyougnu,,2026-09-21 17:31:17,"['hardware', 'osdev']",lz0qfv,hot,lobsters
+Making a game for the GBA and PC from the same codebase,4,0,https://mattgreer.dev/blog/making-a-game-for-gba-and-pc/,https://lobste.rs/s/xvkvhh,abnercoimbre,,2026-09-21 17:31:17,['games'],xvkvhh,hot,lobsters
+Running an Optimal Trace,2,0,https://anishathalye.com/optimal-trace/,https://lobste.rs/s/jbbxgy,anishathalye,,2026-09-21 17:31:17,"['compsci', 'show']",jbbxgy,hot,lobsters
+tobi: keep commands running in detachable sessions across your devices,2,0,https://tangled.org/ptr.pet/tobi,https://lobste.rs/s/lp2qvh,op,,2026-09-21 17:31:17,"['go', 'unix']",lp2qvh,hot,lobsters
+A Continual learning model trained from scratch on 8GB VRAM laptop with batch-1 stream of data,1,0,https://github.com/volotat/mini-AGI/,https://lobste.rs/s/gxjhqo,Yogthos,,2026-09-21 17:31:17,['ai'],gxjhqo,hot,lobsters
+Designing silicon from scratch,1,0,https://youtu.be/q6ytRHaTEXI,https://lobste.rs/s/hbnuds,fanf,,2026-09-21 17:31:17,"['hardware', 'video']",hbnuds,hot,lobsters
+Relation algebra is not relational algebra,1,0,https://remy.wang/blog/ra-ra.html,https://lobste.rs/s/t5fquc,aphaelion,,2026-09-21 17:31:17,"['databases', 'math']",t5fquc,hot,lobsters
