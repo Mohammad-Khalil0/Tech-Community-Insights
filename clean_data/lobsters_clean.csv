@@ -3090,3 +3090,9 @@ rift - a tiling window manager for macos,5,1,https://github.com/acsandmann/rift/
 Attention is all you have,9,0,https://alicegg.tech/2026/09/21/attention,https://lobste.rs/s/fbo41b,dustyweb,,2026-09-21 21:28:26,['culture'],fbo41b,hot,lobsters
 Lifestreams: a storage model for personal data (1996),3,2,https://www.ee.columbia.edu/~dpwe/papers/FreeG96-lifestreams.pdf,https://lobste.rs/s/xb9tkn,calvin,,2026-09-21 21:28:26,"['compsci', 'design', 'pdf']",xb9tkn,hot,lobsters
 Windows Exploitation Techniques: Dangling COM Object Registrations,3,0,https://projectzero.google/2026/09/windows-dangling-com.html,https://lobste.rs/s/1somoo,ni5arga,,2026-09-21 21:28:26,['security'],1somoo,hot,lobsters
+Named and Optional Arguments are Awesome,16,5,https://botahamec.dev/named-optional-args,https://lobste.rs/s/xlbphk,jado,,2026-09-22 02:35:37,"['plt', 'rust']",xlbphk,hot,lobsters
+"evocation - Call forth the blue-green flame of computation from the universe, weave its energies into a fabric, that we may share our blood with it",9,2,https://code.irenes.space/evocation/tree/README.txt,https://lobste.rs/s/kpegs1,lorddimwit,,2026-09-22 02:35:37,"['concatenative', 'plt']",kpegs1,hot,lobsters
+stack unwinding can lead to leakless code execution,3,1,https://pepsipu.com/blog/2026-09-dwarf/,https://lobste.rs/s/0d6gcs,jado,,2026-09-22 02:35:37,['security'],0d6gcs,hot,lobsters
+Deterministic Hypervisors For Cheap,3,0,https://redvice.org/2026/deterministic-hypervisor/,https://lobste.rs/s/hirktz,fanf,,2026-09-22 02:35:37,"['osdev', 'vibecoding']",hirktz,hot,lobsters
+Why 0xCAFEBABE?,3,0,https://www.artima.com/insidejvm/whyCAFEBABE.html,https://lobste.rs/s/2ym3yg,connorboyle,,2026-09-22 02:35:37,"['historical', 'java']",2ym3yg,hot,lobsters
+Ju! Ju! Tsu,4,0,https://arialdo.codeberg.page/ju-ju-tsu/,https://lobste.rs/s/d4wq0w,ehamberg,,2026-09-22 02:35:37,"['book', 'vcs']",d4wq0w,hot,lobsters
