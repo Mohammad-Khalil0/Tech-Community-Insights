@@ -3175,3 +3175,10 @@ RAM: the forgotten history,5,2,https://blog.coredump.cx/p/memory-the-forgotten-h
 Platform-independent SIMD in Go,4,0,https://go.dev/blog/simd-experiment,https://lobste.rs/s/sfdf3h,cgrinds,,2026-09-25 02:41:54,['go'],sfdf3h,hot,lobsters
 Launching FreeBSD/EC2 desktop AMIs,2,0,https://www.daemonology.net/blog/2026-09-24-Launching-FreeBSD-EC2-desktop-AMIs.html,https://lobste.rs/s/ufor73,fuzzy,,2026-09-25 02:41:54,['freebsd'],ufor73,hot,lobsters
 Introducing Lev,1,0,https://yogthos.net/posts/2026-09-24-introducing-lev.html,https://lobste.rs/s/zcbk0r,Yogthos,,2026-09-25 02:41:54,"['ai', 'clojure']",zcbk0r,hot,lobsters
+Lobsters: Rename vibecoding to llms (Greasemonkey script),26,5,https://greasyfork.org/en/scripts?by=1646191,https://lobste.rs/s/68n22g,joshka,,2026-09-25 10:53:12,"['meta', 'vibecoding']",68n22g,hot,lobsters
+"File Notification Attacks: Side-Channel Leakage from the File-Notification System on Linux, Android, Windows, and macOS",12,3,https://inoti.fyi/,https://lobste.rs/s/x6yjrc,sneela,,2026-09-25 10:53:12,['security'],x6yjrc,hot,lobsters
+Goodbye Google,17,0,https://robert.ocallahan.org/2026/09/goodbye-google.html,https://lobste.rs/s/sxlf4a,classichasclass,,2026-09-25 10:53:12,"['ai', 'person']",sxlf4a,hot,lobsters
+Understanding NvPCRs in systemd v262,4,0,https://katexochen.aro.bz/posts/systemd-v262-nvpcrs/,https://lobste.rs/s/ya3cl7,katexochen,,2026-09-25 10:53:12,['security'],ya3cl7,hot,lobsters
+Every package is already installed,8,0,https://fzakaria.com/2026/09/24/every-package-is-already-installed,https://lobste.rs/s/wqzbpw,vbernat,,2026-09-25 10:53:12,"['nix', 'vibecoding']",wqzbpw,hot,lobsters
+Remembering Johannes Doerfert,8,1,https://blog.llvm.org/posts/2026-09-24-rememberingjohannesdoerfert/,https://lobste.rs/s/cuxdjq,asb,,2026-09-25 10:53:12,['culture'],cuxdjq,hot,lobsters
+Paranoia-Sans: A conspiratorial typeface,4,1,https://github.com/flegfleg/Paranoia-Sans,https://lobste.rs/s/uc2ovf,jeanthomas,,2026-09-25 10:53:12,"['art', 'satire']",uc2ovf,hot,lobsters
