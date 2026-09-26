@@ -3209,3 +3209,10 @@ Go concurrency distilled,8,0,https://antonz.org/go-concurrency-distilled/,https:
 Infecting the Steam Link with NixOS,3,0,https://feyor.sh/blog/infecting-the-steam-link-with-nixos/,https://lobste.rs/s/wpv5ed,Shorden,,2026-09-26 15:26:41,"['hardware', 'nix']",wpv5ed,hot,lobsters
 Tuning a Server for Benchmarking,2,0,https://david.alvarezrosa.com/posts/tuning-a-server-for-benchmarking/,https://lobste.rs/s/fejuat,dalvrosa,,2026-09-26 15:26:41,"['linux', 'performance']",fejuat,hot,lobsters
 The Graveyard of Good Ideas,1,0,https://www.youtube.com/watch?v=ovlQ81rBc-4,https://lobste.rs/s/6dcgr9,daveliepmann,,2026-09-26 15:26:41,"['historical', 'video']",6dcgr9,hot,lobsters
+The JavaScript Pun: tagged template literal,6,0,https://shukla.io/blog/2026-09/pun.html,https://lobste.rs/s/rtcnc8,binroot,,2026-09-26 20:25:56,['javascript'],rtcnc8,hot,lobsters
+"Wrong, not broken",4,5,https://aws.amazon.com/blogs/aws-insights/wrong-not-broken/,https://lobste.rs/s/aokbai,sp6370,,2026-09-26 20:25:56,"['testing', 'vibecoding']",aokbai,hot,lobsters
+Can we have reachability properties in TLA⁺?,4,0,https://ahelwer.ca/post/2026-09-26-reachability/,https://lobste.rs/s/8pjbtj,ahelwer,,2026-09-26 20:25:56,['formalmethods'],8pjbtj,hot,lobsters
+Reverse-engineering the vintage Intel 8087's tangent algorithm: more than CORDIC,3,1,http://www.righto.com/2026/09/8087-tangent-cordic.html,https://lobste.rs/s/5soxba,calvin,,2026-09-26 20:25:56,"['hardware', 'historical', 'reversing']",5soxba,hot,lobsters
+Dissecting House of Apple 2 on modern glibc,2,0,https://jazho76.github.io/house_of_apple_2/,https://lobste.rs/s/uhlr9z,fro,,2026-09-26 20:25:56,"['linux', 'security']",uhlr9z,hot,lobsters
+AI Agents Push Humans Out of the Loop,2,0,https://arxiv.org/abs/2608.23642,https://lobste.rs/s/iqqqbg,typesanitizer,,2026-09-26 20:25:56,['vibecoding'],iqqqbg,hot,lobsters
+Revealing the details of how OpenAI agents hacked Hugging Face,2,0,https://swarmtraces.org/,https://lobste.rs/s/70f3hi,rajtilakjee,,2026-09-26 20:25:56,"['ai', 'security']",70f3hi,hot,lobsters
