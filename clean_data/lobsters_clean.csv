@@ -3204,3 +3204,8 @@ The state of SIMD in Rust in 2026,4,0,https://shnatsel.github.io/state-of-simd-r
 There is more to code review than (automatable) detection,2,0,https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/,https://lobste.rs/s/ivunna,giacomo_cavalieri,,2026-09-26 10:33:47,"['practices', 'vibecoding']",ivunna,hot,lobsters
 Suggestion to replace LibreOffice with Collabora as default on Fedora,1,0,https://www.phoronix.com/news/Fedora-Discuss-Collabora-Office,https://lobste.rs/s/mitm2h,jonatan,,2026-09-26 10:33:47,['linux'],mitm2h,hot,lobsters
 Reinventing the wheel to draw wide tree hierarchies,6,0,https://lonami.dev/blog/tree-node-positioning/,https://lobste.rs/s/9ry4yi,Sharparam,,2026-09-26 10:33:47,['visualization'],9ry4yi,hot,lobsters
+"If we do not stop to help each other, what do we become?",36,2,https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/,https://lobste.rs/s/p3iq7v,j11g,,2026-09-26 15:26:41,['culture'],p3iq7v,hot,lobsters
+Go concurrency distilled,8,0,https://antonz.org/go-concurrency-distilled/,https://lobste.rs/s/rucvky,cgrinds,,2026-09-26 15:26:41,['go'],rucvky,hot,lobsters
+Infecting the Steam Link with NixOS,3,0,https://feyor.sh/blog/infecting-the-steam-link-with-nixos/,https://lobste.rs/s/wpv5ed,Shorden,,2026-09-26 15:26:41,"['hardware', 'nix']",wpv5ed,hot,lobsters
+Tuning a Server for Benchmarking,2,0,https://david.alvarezrosa.com/posts/tuning-a-server-for-benchmarking/,https://lobste.rs/s/fejuat,dalvrosa,,2026-09-26 15:26:41,"['linux', 'performance']",fejuat,hot,lobsters
+The Graveyard of Good Ideas,1,0,https://www.youtube.com/watch?v=ovlQ81rBc-4,https://lobste.rs/s/6dcgr9,daveliepmann,,2026-09-26 15:26:41,"['historical', 'video']",6dcgr9,hot,lobsters
