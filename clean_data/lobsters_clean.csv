@@ -3216,3 +3216,10 @@ Reverse-engineering the vintage Intel 8087's tangent algorithm: more than CORDIC
 Dissecting House of Apple 2 on modern glibc,2,0,https://jazho76.github.io/house_of_apple_2/,https://lobste.rs/s/uhlr9z,fro,,2026-09-26 20:25:56,"['linux', 'security']",uhlr9z,hot,lobsters
 AI Agents Push Humans Out of the Loop,2,0,https://arxiv.org/abs/2608.23642,https://lobste.rs/s/iqqqbg,typesanitizer,,2026-09-26 20:25:56,['vibecoding'],iqqqbg,hot,lobsters
 Revealing the details of how OpenAI agents hacked Hugging Face,2,0,https://swarmtraces.org/,https://lobste.rs/s/70f3hi,rajtilakjee,,2026-09-26 20:25:56,"['ai', 'security']",70f3hi,hot,lobsters
+"Rusty thoughts on Parse, don't validate",9,1,https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/,https://lobste.rs/s/uvmajz,carlana,,2026-09-27 02:45:08,"['programming', 'rust']",uvmajz,hot,lobsters
+This is a modern motherfucking website,12,1,https://modernmotherfuckingwebsite.dreamstation.systems/,https://lobste.rs/s/zoproh,FedericoSchonborn,,2026-09-27 02:45:08,"['satire', 'web']",zoproh,hot,lobsters
+Teaching GPU programming in p5.js: now with compute shaders,2,0,https://www.davepagurek.com/blog/p5-compute-shaders/,https://lobste.rs/s/zsdlcz,davepagurek,,2026-09-27 02:45:08,['graphics'],zsdlcz,hot,lobsters
+Deploying Guix images on Linode,3,0,https://dthompson.us/posts/deploying-guix-images-on-linode.html,https://lobste.rs/s/mf2lic,FedericoSchonborn,,2026-09-27 02:45:08,"['networking', 'nix']",mf2lic,hot,lobsters
+Honeypot on the boykisser forum,1,1,https://blog.boykisser.nl/2026/09/26/honeypot-on-the-boykisser-forum/,https://lobste.rs/s/0rcuoj,FedericoSchonborn,,2026-09-27 02:45:08,"['networking', 'security']",0rcuoj,hot,lobsters
+The lost atomic update on LoongArch LA664,4,0,https://jia.je/hardware/2026/09/24/loongson-cpu-erratum-en/,https://lobste.rs/s/duu1z0,classichasclass,,2026-09-27 02:45:08,"['hardware', 'vibecoding']",duu1z0,hot,lobsters
+Turn GLM-5.3-Flash into a Jev-like System One model,1,0,https://www.privatemode.ai/blog/system-one-from-glm-flash,https://lobste.rs/s/kznfdx,Yogthos,,2026-09-27 02:45:08,['ai'],kznfdx,hot,lobsters
