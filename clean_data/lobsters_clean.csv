@@ -3266,3 +3266,10 @@ It’s Time to Investigate the AI Labs,18,2,https://calnewport.com/its-time-to-i
 Thoughts on Flash (2010),3,1,https://web.archive.org/web/20100501010616/http://www.apple.com/hotnews/thoughts-on-flash/,https://lobste.rs/s/t8bsws,janus,,2026-09-29 03:28:20,['mac'],t8bsws,hot,lobsters
 Intuitive equals familiar,5,2,https://dl.acm.org/doi/10.1145/182987.584629,https://lobste.rs/s/kmlhg1,fanf,,2026-09-29 03:28:20,"['design', 'pdf']",kmlhg1,hot,lobsters
 Adding Floating-Point Decimals for Fun and Profit,1,0,https://blog.vero.site/post/float,https://lobste.rs/s/bm2juk,abhin4v,,2026-09-29 03:28:20,['math'],bm2juk,hot,lobsters
+CoW — a stacking window manager for Wayland,17,1,https://cow-wm.codeberg.page/cow/,https://lobste.rs/s/tyivfg,hawski,,2026-09-29 11:52:15,"['freebsd', 'linux']",tyivfg,hot,lobsters
+My experience writing automated tests for a SPA,11,1,https://reecoute.fr/tech_blog/2026-09-28_my-experience-writing-automated-tests-for-a-spa,https://lobste.rs/s/vlywx2,motet-a,,2026-09-29 11:52:15,"['testing', 'web']",vlywx2,hot,lobsters
+Switching To Emacs as a Neovim User,11,1,https://eliasebner.com/blog/thoughts/switching-to-emacs-as-a-neovim-user/,https://lobste.rs/s/bctr1m,tusharhero,,2026-09-29 11:52:15,"['emacs', 'vim']",bctr1m,hot,lobsters
+MotifCentral - All Things Motif/Xt/Xlib,5,0,https://motif-central.org/,https://lobste.rs/s/otexs4,hawski,,2026-09-29 11:52:15,"['graphics', 'unix']",otexs4,hot,lobsters
+Deterministic Concurrency,3,0,https://www.youtube.com/watch?v=25x0UuSCKuU,https://lobste.rs/s/wuiaba,tomas,,2026-09-29 11:52:15,"['distributed', 'video']",wuiaba,hot,lobsters
+AI Didn’t Make Programming Easier. It Just Made It Differently Difficult,3,0,https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/,https://lobste.rs/s/qhszda,remmelt,,2026-09-29 11:52:15,"['ai', 'programming']",qhszda,hot,lobsters
+Prototyping a Small Genetic Algorithms Library inHaskell (2019),1,0,https://anekstein.com/posts/2019-11-15.html,https://lobste.rs/s/xdk1cp,abhin4v,,2026-09-29 11:52:15,['haskell'],xdk1cp,hot,lobsters
