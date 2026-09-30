@@ -3304,3 +3304,8 @@ Songhive — A fully self-hosted and federated music platform,1,0,https://blog.f
 "attezt: device attestation, PKCS11 and ACME",3,1,https://media.ccc.de/v/all-systems-go-2026-414-attezt-device-attestation-pkcs11-and-acme#t=30,https://lobste.rs/s/obix99,hoistbypetard,,2026-09-30 17:19:12,"['security', 'video']",obix99,hot,lobsters
 A no-cost audio upgrade for my workstation,4,0,https://mit.teil.space/rane-sl3.html,https://lobste.rs/s/qjnmeg,FedericoSchonborn,,2026-09-30 17:19:12,"['hardware', 'nix']",qjnmeg,hot,lobsters
 "Join Ordering, Part 1: The Shape of the Search Space",3,0,https://deferworks.org/posts/join-ordering/,https://lobste.rs/s/phvgme,eatonphil,,2026-09-30 17:19:12,['databases'],phvgme,hot,lobsters
+Finding Bugs,4,1,https://matklad.github.io/2026/09/19/finding-bugs.html,https://lobste.rs/s/2r2sg8,hwayne,,2026-09-30 21:42:19,"['rust', 'testing']",2r2sg8,hot,lobsters
+Branch Target Reuse: Spectre-v2 Attacks in JIT Engines,6,0,https://www.vusec.net/projects/btr/,https://lobste.rs/s/y3ppje,fro,,2026-09-30 21:42:19,['security'],y3ppje,hot,lobsters
+We used a database as a message queue. Now we use Kafka,2,1,https://www.tigrisdata.com/blog/quick-fdb-kafka/,https://lobste.rs/s/0xfpgo,billy,,2026-09-30 21:42:19,"['databases', 'distributed']",0xfpgo,hot,lobsters
+Qt 6.12 LTS Released,4,0,https://www.qt.io/blog/qt-6.12-released,https://lobste.rs/s/3ixiwz,rcalixte,,2026-09-30 21:42:19,['release'],3ixiwz,hot,lobsters
+Back to Backups: A Year in Review,6,0,https://signal.org/blog/backup-improvements/,https://lobste.rs/s/rhkwg1,kmaasrud,,2026-09-30 21:42:19,['release'],rhkwg1,hot,lobsters
