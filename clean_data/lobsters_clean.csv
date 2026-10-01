@@ -3309,3 +3309,6 @@ Branch Target Reuse: Spectre-v2 Attacks in JIT Engines,6,0,https://www.vusec.net
 We used a database as a message queue. Now we use Kafka,2,1,https://www.tigrisdata.com/blog/quick-fdb-kafka/,https://lobste.rs/s/0xfpgo,billy,,2026-09-30 21:42:19,"['databases', 'distributed']",0xfpgo,hot,lobsters
 Qt 6.12 LTS Released,4,0,https://www.qt.io/blog/qt-6.12-released,https://lobste.rs/s/3ixiwz,rcalixte,,2026-09-30 21:42:19,['release'],3ixiwz,hot,lobsters
 Back to Backups: A Year in Review,6,0,https://signal.org/blog/backup-improvements/,https://lobste.rs/s/rhkwg1,kmaasrud,,2026-09-30 21:42:19,['release'],rhkwg1,hot,lobsters
+EDG C/C++ Compiler Project,11,8,https://github.com/edgcpp/compiler,https://lobste.rs/s/nwdxko,aw1621107,,2026-10-01 03:19:02,"['c', 'c++', 'compilers']",nwdxko,hot,lobsters
+ASM Bots: Core War in real 8086 machine code,3,1,https://asmbots.io,https://lobste.rs/s/yj721w,sirbrightool,,2026-10-01 03:19:02,"['games', 'retrocomputing', 'show']",yj721w,hot,lobsters
+Rust to WGSL transpiler `wgsl-rs` released,2,0,https://renderling.xyz/articles/wgsl-rs-beta-release.html,https://lobste.rs/s/enijty,schell,,2026-10-01 03:19:02,"['graphics', 'plt', 'rust']",enijty,hot,lobsters
