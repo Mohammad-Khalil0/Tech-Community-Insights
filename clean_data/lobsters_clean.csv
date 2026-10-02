@@ -3331,3 +3331,10 @@ Lists that keep track of their reversal,7,0,https://grim.cargocut.org/a/rev-list
 How to make a text box: A crash course in Unicode and OpenType,5,0,https://www.youtube.com/watch?v=7Tr0ty9-yeQ,https://lobste.rs/s/tslwlq,rrampage,,2026-10-01 22:10:43,"['c', 'graphics', 'video']",tslwlq,hot,lobsters
 We Should be Able to Change our Languages,3,0,https://jimmyhmiller.com/change-our-languages,https://lobste.rs/s/oeflod,arcade,,2026-10-01 22:10:43,['plt'],oeflod,hot,lobsters
 Waterfox 6.7.5 Adds a Built-in Feed Reader,3,0,https://www.waterfox.com/releases/6.7.5/,https://lobste.rs/s/gmjegm,chai,,2026-10-02 03:19:50,"['browsers', 'release']",gmjegm,hot,lobsters
+@storyteller-platform/epub v1.0.0 release,3,0,https://storyteller-platform.dev/blog/20261001_epub_v1,https://lobste.rs/s/gx0wiv,smoores,,2026-10-02 11:38:46,"['javascript', 'release']",gx0wiv,hot,lobsters
+Generic Const Args and You,4,0,https://blog.rust-lang.org/inside-rust/2026/10/02/generic-const-args-and-you/,https://lobste.rs/s/6jcvdn,ettolrach,,2026-10-02 11:38:46,['rust'],6jcvdn,hot,lobsters
+sixteenth RacketCon this weekend,3,1,https://con.racket-lang.org/,https://lobste.rs/s/auypcd,pfmaggi,,2026-10-02 11:38:46,"['event', 'lisp']",auypcd,hot,lobsters
+The hidden design compromises of Docker layers,1,0,https://loige.co/hidden-design-compromises-of-docker-layers/,https://lobste.rs/s/uuu6us,loige,,2026-10-02 11:38:46,"['programming', 'virtualization']",uuu6us,hot,lobsters
+"Readable Regular Expressions for JavaScript/TypeScript, Inspired by Emacs' rx",2,0,https://rahuljuliato.com/posts/emacs-rx-in-typescript,https://lobste.rs/s/3hdied,confusedalex,,2026-10-02 11:38:46,"['emacs', 'javascript']",3hdied,hot,lobsters
+Thrust vs. Steer (or: Yet Another Anecdotal Case of the Dunning-Kruger Effect),2,0,https://write.as/tmcb/thrust-vs-steer-or-yet-another-anecdotal-case-of-the-dunning-kruger-effect,https://lobste.rs/s/kp2tg8,tmcb,,2026-10-02 11:38:46,"['ai', 'vibecoding']",kp2tg8,hot,lobsters
+GIMP - Interview with LiamQuin,2,1,https://www.gimp.org/news/2026/10/01/liam-quin-interview-lgm2017/,https://lobste.rs/s/1eukia,j11g,,2026-10-02 11:38:46,"['culture', 'graphics']",1eukia,hot,lobsters
