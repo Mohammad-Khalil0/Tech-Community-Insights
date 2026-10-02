@@ -3345,3 +3345,9 @@ The Four Horsemen of Agentic Coding,2,0,https://distantprovince.substack.com/p/t
 Advice to a beginning software engineer,3,0,https://www.seangoedecke.com/advice-to-a-beginning-software-engineer/,https://lobste.rs/s/fidpdw,yashgarg,,2026-10-02 17:07:21,['vibecoding'],fidpdw,hot,lobsters
 "GitHub repository landing pages now show an accessibility tab, if provided",2,0,https://ericwbailey.website/published/github-repository-landing-pages-now-show-an-accessibility-tab-if-provided/,https://lobste.rs/s/2nyapq,jdh,,2026-10-02 17:07:21,['a11y'],2nyapq,hot,lobsters
 JetBrains Air: Building a System of Products for Agentic Software Development,2,0,https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/,https://lobste.rs/s/p1yw6k,cgrinds,,2026-10-02 17:07:21,['vibecoding'],p1yw6k,hot,lobsters
+Zig 0.17.0 Release Notes,13,0,https://ziglang.org/download/0.17.0/release-notes.html,https://lobste.rs/s/wcmfft,saccharin,,2026-10-02 21:38:15,['zig'],wcmfft,hot,lobsters
+Updates to Full Disk Access in macOS,6,8,https://developer.apple.com/news/?id=p6zjojqw,https://lobste.rs/s/9ipypq,videah,,2026-10-02 21:38:15,"['mac', 'security']",9ipypq,hot,lobsters
+Keeping Futhark off the GPU,4,0,https://futhark-lang.org/blog/2026-10-02-cpu_function.html,https://lobste.rs/s/8f5elm,fanf,,2026-10-02 21:38:15,['plt'],8f5elm,hot,lobsters
+Driving the GDEH0154D67 e-paper display with Rust,2,0,https://sgt.hootr.club/blog/driving-gdeh0154d67-with-rust/,https://lobste.rs/s/bghff5,steinuil,,2026-10-02 21:38:15,['hardware'],bghff5,hot,lobsters
+Klassik Revives the KDE 3 Desktop on Modern Plasma 6,3,0,https://linuxiac.com/klassik-revives-the-kde-3-desktop-on-modern-plasma-6/,https://lobste.rs/s/qmcuiv,fs111,,2026-10-02 21:38:15,['design'],qmcuiv,hot,lobsters
+Debian 13 as a dual WAN router,3,2,https://www.tqdev.com/2026-dual-wan-router-debian-13/,https://lobste.rs/s/jh245o,j11g,,2026-10-02 21:38:15,['networking'],jh245o,hot,lobsters
