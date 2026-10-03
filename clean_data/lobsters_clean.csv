@@ -3359,3 +3359,9 @@ Upstream Rust maintenance report,4,0,https://kobzol.github.io/rust/2026/09/30/st
 Rust for CPython (Python Language Summit 2026),1,1,https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/,https://lobste.rs/s/cpf8w6,blin,,2026-10-03 10:52:07,"['python', 'rust']",cpf8w6,hot,lobsters
 Grow and control a swarm,1,0,https://nohope.io,https://lobste.rs/s/e90dzr,wherewhy,,2026-10-03 10:52:07,['games'],e90dzr,hot,lobsters
 Problems and solutions to the modern desktop (Make tmux the OS),1,0,https://matduggan.com/what-does-my-dream-os-ui-look-like/,https://lobste.rs/s/gjlxiz,raoulmillais,,2026-10-03 10:52:07,"['ios', 'osdev', 'windows']",gjlxiz,hot,lobsters
+"How to Hack Time, With C2PA",6,0,https://www.da.vidbuchanan.co.uk/blog/hacking-time.html,https://lobste.rs/s/u8uvlr,retr0id,,2026-10-03 15:28:57,"['cryptography', 'security']",u8uvlr,hot,lobsters
+Two-Stack Sliding-Window Aggregation,8,1,https://orlp.net/blog/two-stack-sliding-window-aggregation/,https://lobste.rs/s/49glor,fanf,,2026-10-03 15:28:57,['compsci'],49glor,hot,lobsters
+"The Era of Software Quality, or the Era of Ostriches?",3,4,https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/,https://lobste.rs/s/elziso,calvin,,2026-10-03 15:28:57,"['practices', 'vibecoding']",elziso,hot,lobsters
+Writing the Cyclone Scheme Compiler (2017),5,0,https://justinethier.github.io/cyclone/docs/Writing-the-Cyclone-Scheme-Compiler-Revised-2017,https://lobste.rs/s/hlnjbj,fanf,,2026-10-03 15:28:57,['lisp'],hlnjbj,hot,lobsters
+Greg Kroah-Hartman - Security in the LLM Age,5,0,https://www.youtube.com/watch?v=NnV_cWeoo5Q,https://lobste.rs/s/rghh9w,dimonomid,,2026-10-03 15:28:57,"['security', 'vibecoding', 'video']",rghh9w,hot,lobsters
+Announcing Cloudflare OHTTP Gateway,2,0,https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/,https://lobste.rs/s/l5ev1t,freddyb,,2026-10-03 15:28:57,['web'],l5ev1t,hot,lobsters
