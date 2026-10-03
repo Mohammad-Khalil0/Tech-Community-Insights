@@ -3354,3 +3354,8 @@ Debian 13 as a dual WAN router,3,2,https://www.tqdev.com/2026-dual-wan-router-de
 I got targeted: Trying to get your credentials via a git post-checkout hook,17,0,https://frankwiles.com/posts/i-got-targeted/,https://lobste.rs/s/cd5gdk,frankwiles,,2026-10-03 03:05:16,"['security', 'vcs']",cd5gdk,hot,lobsters
 Lobsters Interview with Sjamaan,16,1,https://alexalejandre.com/interviews/peter-bex/,https://lobste.rs/s/0egeug,veqq,,2026-10-03 03:05:16,"['interview', 'lisp']",0egeug,hot,lobsters
 gVisor is being donated to CNCF,1,0,https://gvisor.dev/blog/2026/10/02/gvisor-cncf/,https://lobste.rs/s/asoxjl,carlana,,2026-10-03 03:05:16,['devops'],asoxjl,hot,lobsters
+The Era of Programming Languages Exploration is upon Us,3,1,https://kirancodes.me/posts/log-end-of-pl.html,https://lobste.rs/s/1rmsib,abhin4v,,2026-10-03 10:52:07,"['plt', 'vibecoding']",1rmsib,hot,lobsters
+Upstream Rust maintenance report,4,0,https://kobzol.github.io/rust/2026/09/30/stf-august-september-2026.html,https://lobste.rs/s/cdkmaf,isuffix,,2026-10-03 10:52:07,"['compilers', 'performance', 'rust']",cdkmaf,hot,lobsters
+Rust for CPython (Python Language Summit 2026),1,1,https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/,https://lobste.rs/s/cpf8w6,blin,,2026-10-03 10:52:07,"['python', 'rust']",cpf8w6,hot,lobsters
+Grow and control a swarm,1,0,https://nohope.io,https://lobste.rs/s/e90dzr,wherewhy,,2026-10-03 10:52:07,['games'],e90dzr,hot,lobsters
+Problems and solutions to the modern desktop (Make tmux the OS),1,0,https://matduggan.com/what-does-my-dream-os-ui-look-like/,https://lobste.rs/s/gjlxiz,raoulmillais,,2026-10-03 10:52:07,"['ios', 'osdev', 'windows']",gjlxiz,hot,lobsters
