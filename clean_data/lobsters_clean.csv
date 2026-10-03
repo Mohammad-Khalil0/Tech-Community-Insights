@@ -3351,3 +3351,6 @@ Keeping Futhark off the GPU,4,0,https://futhark-lang.org/blog/2026-10-02-cpu_fun
 Driving the GDEH0154D67 e-paper display with Rust,2,0,https://sgt.hootr.club/blog/driving-gdeh0154d67-with-rust/,https://lobste.rs/s/bghff5,steinuil,,2026-10-02 21:38:15,['hardware'],bghff5,hot,lobsters
 Klassik Revives the KDE 3 Desktop on Modern Plasma 6,3,0,https://linuxiac.com/klassik-revives-the-kde-3-desktop-on-modern-plasma-6/,https://lobste.rs/s/qmcuiv,fs111,,2026-10-02 21:38:15,['design'],qmcuiv,hot,lobsters
 Debian 13 as a dual WAN router,3,2,https://www.tqdev.com/2026-dual-wan-router-debian-13/,https://lobste.rs/s/jh245o,j11g,,2026-10-02 21:38:15,['networking'],jh245o,hot,lobsters
+I got targeted: Trying to get your credentials via a git post-checkout hook,17,0,https://frankwiles.com/posts/i-got-targeted/,https://lobste.rs/s/cd5gdk,frankwiles,,2026-10-03 03:05:16,"['security', 'vcs']",cd5gdk,hot,lobsters
+Lobsters Interview with Sjamaan,16,1,https://alexalejandre.com/interviews/peter-bex/,https://lobste.rs/s/0egeug,veqq,,2026-10-03 03:05:16,"['interview', 'lisp']",0egeug,hot,lobsters
+gVisor is being donated to CNCF,1,0,https://gvisor.dev/blog/2026/10/02/gvisor-cncf/,https://lobste.rs/s/asoxjl,carlana,,2026-10-03 03:05:16,['devops'],asoxjl,hot,lobsters
