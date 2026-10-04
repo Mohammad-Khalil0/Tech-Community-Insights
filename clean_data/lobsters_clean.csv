@@ -3384,3 +3384,9 @@ Flatpak from the CLI sucks,5,0,https://kowalski7cc.xyz/blog/flatpak-from-the-cli
 "Obelisk 0.42: Durable Agents, Layered Sandboxes",1,0,https://obeli.sk/blog/announcing-obelisk-0-42/,https://lobste.rs/s/g0q8ub,tomas,,2026-10-04 16:13:16,"['release', 'vibecoding', 'wasm']",g0q8ub,hot,lobsters
 Improving and Stabilizing the racoon2 IKE Daemon in NetBSD,3,0,https://blog.netbsd.org/tnf/entry/gsoc2026_racoon2,https://lobste.rs/s/wbpt5y,jaypatelani,,2026-10-04 16:13:16,['netbsd'],wbpt5y,hot,lobsters
 A Mere Mortal's Introduction to JIT Vulnerabilities in JavaScript Engines,1,0,https://trustfoundry.net/blog/jit-vulnerabilities-javascript-engines,https://lobste.rs/s/hucih9,juliethefoxcoon,,2026-10-04 16:13:16,"['javascript', 'reversing', 'security']",hucih9,hot,lobsters
+ncdu: NCurses Disk Usage (an updated fork),6,3,https://github.com/rcalixte/ncdu,https://lobste.rs/s/dsoh2w,rcalixte,,2026-10-04 20:42:22,"['release', 'zig']",dsoh2w,hot,lobsters
+Hacking the Go compiler to efficiently map IPv4 to IPv6,7,0,https://vincent.bernat.ch/en/blog/2026-go-netip-addrto6,https://lobste.rs/s/ul9krj,fanf,,2026-10-04 20:42:22,"['compilers', 'go']",ul9krj,hot,lobsters
+Self-hosted HTTP tunnels with SSH and nginx,5,1,https://vincent.bernat.ch/en/blog/2026-http-over-ssh,https://lobste.rs/s/jba52r,gioele,,2026-10-04 20:42:22,['networking'],jba52r,hot,lobsters
+Iroh global content discovery,3,1,https://www.iroh.computer/blog/iroh-global-content-discovery,https://lobste.rs/s/eoibah,sanqui,,2026-10-04 20:42:22,['distributed'],eoibah,hot,lobsters
+Thoreau BASIC,2,3,https://thoreaubasic.com/,https://lobste.rs/s/x5ug70,isagalaev,,2026-10-04 20:42:22,"['retrocomputing', 'vibecoding']",x5ug70,hot,lobsters
+Protocol-aware recovery for consensus-based storage (2018),1,0,https://www.usenix.org/system/files/conference/fast18/fast18-alagappan.pdf,https://lobste.rs/s/4bzboj,typesanitizer,,2026-10-04 20:42:22,"['databases', 'distributed', 'pdf']",4bzboj,hot,lobsters
