@@ -3368,3 +3368,9 @@ Announcing Cloudflare OHTTP Gateway,2,0,https://blog.cloudflare.com/announcing-c
 An Update on Orion for Linux and Windows,4,0,https://blog.kagi.com/update-orion-linux-windows,https://lobste.rs/s/xruas8,BryceWray,,2026-10-03 20:24:31,"['browsers', 'linux', 'windows']",xruas8,hot,lobsters
 Deploy Ruby on Rails on a VPS,1,0,https://rubymadscience.com/guides/deploy-ruby-on-rails-on-a-vps/,https://lobste.rs/s/etfgye,rebeca,,2026-10-03 20:24:31,"['practices', 'ruby']",etfgye,hot,lobsters
 BSides Orlando 2026 Badge,1,0,https://github.com/bsidesorlando/2026-badge,https://lobste.rs/s/opwgtj,Helithumper,,2026-10-03 20:24:31,"['hardware', 'security']",opwgtj,hot,lobsters
+Why don’t more developers use the platform?,12,3,https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/,https://lobste.rs/s/srduzv,nolan,,2026-10-04 03:33:45,['web'],srduzv,hot,lobsters
+Rust's derive often implies inline,7,1,https://yossarian.net/til/post/rust-s-derive-often-implies-inline/,https://lobste.rs/s/dldhpw,yossarian,,2026-10-04 03:33:45,['rust'],dldhpw,hot,lobsters
+System-level ad-blocking in Android,7,4,https://kevinboone.me/adblock.html,https://lobste.rs/s/hk0ohb,robalex,,2026-10-04 03:33:45,['android'],hk0ohb,hot,lobsters
+"Rust, In Sickness & In Health",9,0,https://www.youtube.com/watch?v=3kbPyuAtk7g,https://lobste.rs/s/hfq43j,dbremner,,2026-10-04 03:33:45,"['rust', 'video']",hfq43j,hot,lobsters
+"Customization: Optimizing Compiler Technology for SELF, a Dynamically-Typed Object-Oriented Programming Language (1989)",4,0,https://dl.acm.org/doi/epdf/10.1145/74818.74831,https://lobste.rs/s/dqp0oc,calvin,,2026-10-04 03:33:45,"['compilers', 'pdf', 'performance', 'plt']",dqp0oc,hot,lobsters
+Why I recommend Renovate over any other dependency update tools (2024),3,1,https://www.jvt.me/posts/2024/04/12/use-renovate/,https://lobste.rs/s/kt0yxd,janus,,2026-10-04 03:33:45,['programming'],kt0yxd,hot,lobsters
