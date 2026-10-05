@@ -3391,3 +3391,17 @@ Iroh global content discovery,3,1,https://www.iroh.computer/blog/iroh-global-con
 Thoreau BASIC,2,3,https://thoreaubasic.com/,https://lobste.rs/s/x5ug70,isagalaev,,2026-10-04 20:42:22,"['retrocomputing', 'vibecoding']",x5ug70,hot,lobsters
 Protocol-aware recovery for consensus-based storage (2018),1,0,https://www.usenix.org/system/files/conference/fast18/fast18-alagappan.pdf,https://lobste.rs/s/4bzboj,typesanitizer,,2026-10-04 20:42:22,"['databases', 'distributed', 'pdf']",4bzboj,hot,lobsters
 Refinement E-Graphs,1,0,https://www.philipzucker.com/refinement_egraph/,https://lobste.rs/s/9bufek,philzook,,2026-10-05 03:15:00,"['compilers', 'formalmethods']",9bufek,hot,lobsters
+Flirt is now Open-Source,19,3,https://blog.buenzli.dev/flirt-is-open-source/,https://lobste.rs/s/9iztqv,senekor,,2026-10-05 13:08:12,['vcs'],9iztqv,hot,lobsters
+Claude Says,23,8,https://ohhfishal.net/Posts/claude,https://lobste.rs/s/7faqgg,lr0,,2026-10-05 13:08:12,['vibecoding'],7faqgg,hot,lobsters
+"Friendship ended with Deno, now Node is my best friend",13,7,https://dbushell.com/2026/10/03/deno-to-node/,https://lobste.rs/s/a9kwzv,FedericoSchonborn,,2026-10-05 13:08:12,['nodejs'],a9kwzv,hot,lobsters
+Using docker-compose with Podman rootless,3,0,https://elou.world/en/tutorial/podman-docker-compose,https://lobste.rs/s/tpxwfe,Exagone313,,2026-10-05 13:08:12,"['devops', 'linux', 'systemd', 'virtualization']",tpxwfe,hot,lobsters
+Broadcasting conglomerates are attempting a takeover of over-the-air television. We must defend it,5,3,https://place.reeseric.ci/writings/2026-10-04/,https://lobste.rs/s/r81dwi,reesericci,,2026-10-05 13:08:12,['culture'],r81dwi,hot,lobsters
+"A new, bespoke static site generator to replace Jekyll",3,0,https://nullprogram.com/blog/2026/10/04/,https://lobste.rs/s/yj99wd,j11g,,2026-10-05 13:08:12,"['c', 'vibecoding']",yj99wd,hot,lobsters
+Reverse Engineering Comanche Terrain Maps,1,0,https://pikuma.com/blog/comanche-maps-reverse-engineering,https://lobste.rs/s/qcafwq,gustavo-pezzi,,2026-10-05 13:08:12,"['games', 'programming', 'retrocomputing']",qcafwq,hot,lobsters
+Factor Overview,2,0,https://re.factorcode.org/2026/10/factor-overview.html,https://lobste.rs/s/bwtzhy,kryptiskt,,2026-10-05 13:08:12,['concatenative'],bwtzhy,hot,lobsters
+Tufte's Razor: an interactive guide to the data-ink ratio,2,0,https://tuftesrazor.scienceux.org/,https://lobste.rs/s/hmu7ym,vbernat,,2026-10-05 13:08:12,['visualization'],hmu7ym,hot,lobsters
+From: anyone@icloud.com - Spoofing Arbitrary Apple iCloud Identities,4,0,https://sec-consult.com/blog/detail/from-anyoneicloudcom-spoofing-arbitrary-apple-icloud-identities/,https://lobste.rs/s/jpwrmk,ni5arga,,2026-10-05 13:08:12,['security'],jpwrmk,hot,lobsters
+Implementing Undo,5,0,https://www.youtube.com/watch?v=S6PqsZ65Mg4,https://lobste.rs/s/eulzvm,lr0,,2026-10-05 13:08:12,"['programming', 'video']",eulzvm,hot,lobsters
+We ported the original Doom to SQL,2,0,https://cedardb.com/blog/sqldoom/,https://lobste.rs/s/qf2mtz,dimonomid,,2026-10-05 13:08:12,"['databases', 'games']",qf2mtz,hot,lobsters
+Hooking into the Go Toolchain,1,0,https://internals-for-interns.com/posts/hooking-into-the-go-toolchain/,https://lobste.rs/s/iqn5el,darccio,,2026-10-05 13:08:12,['go'],iqn5el,hot,lobsters
+Ephemeral testing,1,0,https://lemire.me/blog/2026/10/05/ephemeral-testing/,https://lobste.rs/s/ymannf,EvanHahn,,2026-10-05 13:08:12,"['testing', 'vibecoding']",ymannf,hot,lobsters
