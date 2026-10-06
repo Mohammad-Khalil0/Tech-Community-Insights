@@ -3415,3 +3415,5 @@ You don't need an effect system,8,0,https://burningwitness.github.io/blog/posts/
 spoonful: static site generator written in Nix,5,0,https://tangled.org/poacher.dev/spoonful,https://lobste.rs/s/az2lgv,op,,2026-10-05 23:30:53,"['nix', 'web']",az2lgv,hot,lobsters
 Nix on the Steam Frame,8,0,https://johns.codes/blog/nix-on-steam-frame,https://lobste.rs/s/1m4kx1,Jrmurr,,2026-10-05 23:30:53,['nix'],1m4kx1,hot,lobsters
 Dostoevsky: Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores via Adaptive Removal of Superfluous Merging,3,0,https://nivdayan.github.io/dostoevsky.pdf,https://lobste.rs/s/oevwp5,typesanitizer,,2026-10-05 23:30:53,"['databases', 'pdf']",oevwp5,hot,lobsters
+Open Source as We Know It Is Dead,7,3,https://jross.me/open-source-as-we-know-it-is-dead/,https://lobste.rs/s/1hnx0k,nolan,,2026-10-06 04:02:12,"['vcs', 'vibecoding']",1hnx0k,hot,lobsters
+How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers,3,0,https://blog.cloudflare.com/containers-cross-tenant-vulnerability/,https://lobste.rs/s/gm2ziy,ni5arga,,2026-10-06 04:02:12,['security'],gm2ziy,hot,lobsters
