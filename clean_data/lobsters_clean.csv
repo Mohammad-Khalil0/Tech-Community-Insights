@@ -3472,3 +3472,13 @@ Property Testing with Agent Swarms,3,1,https://recursion.wtf/posts/agents-and-pr
 Gentoo infrastructure sponsors wanted,4,0,https://www.gentoo.org/news/2026/10/07/infrastructure-sponsors-wanted.html,https://lobste.rs/s/jmqi5h,gmem,,2026-10-08 12:32:08,['linux'],jmqi5h,hot,lobsters
 Beyond the &,4,0,https://lwn.net/SubscriberLink/1096028/7524dbcae1be7205/,https://lobste.rs/s/wks0s9,gignico,,2026-10-08 12:32:08,['rust'],wks0s9,hot,lobsters
 `specialArgs` considered harmful,1,0,https://ysun.co/special/,https://lobste.rs/s/t4fwqd,ysun,,2026-10-08 12:32:08,['nix'],t4fwqd,hot,lobsters
+Ending the Casuarina Linux Experiment,18,3,https://casuarina.org/news/ending-the-casuarina-linux-experiment/,https://lobste.rs/s/sdlhhs,FedericoSchonborn,,2026-10-08 22:41:45,['linux'],sdlhhs,hot,lobsters
+Navier-Stokes lost in translation: Why Lean verification of AI autoformalisation does not guarantee correct natural language proofs,9,4,https://arxiv.org/abs/2610.08144,https://lobste.rs/s/axmhji,Corbin,,2026-10-08 22:41:45,"['formalmethods', 'math', 'pdf', 'reversing', 'vibecoding']",axmhji,hot,lobsters
+The Missing Piece in Rust Error Handling,18,3,https://mcmah309.github.io/posts/the-missing-piece-in-rust-error-handling/,https://lobste.rs/s/3vfu09,snej,,2026-10-08 22:41:45,['rust'],3vfu09,hot,lobsters
+Extending Guix,15,1,https://guix.gnu.org/en/blog/2026/extending-guix/,https://lobste.rs/s/qfzzmi,tusharhero,,2026-10-08 22:41:45,['nix'],qfzzmi,hot,lobsters
+64-Day Certificate Lifetimes Coming Feb 2027,8,0,https://letsencrypt.org/2026/10/07/64-day-certs.html,https://lobste.rs/s/dcrosf,fanf,,2026-10-08 22:41:45,"['devops', 'security']",dcrosf,hot,lobsters
+Beauty in DVD Menus,9,1,https://vale.rocks/posts/dvd-menus,https://lobste.rs/s/9mykk7,kaycebasques,,2026-10-08 22:41:45,['art'],9mykk7,hot,lobsters
+The history of the Hetzner Cloud network stack,10,1,https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/,https://lobste.rs/s/aco14q,eatonphil,,2026-10-08 22:41:45,['networking'],aco14q,hot,lobsters
+The Performance Cost of RwLock in Our Read-Heavy Workload,8,3,https://pranitha.dev/posts/rwlock-vs-lockfree/,https://lobste.rs/s/pioj21,ohrv,,2026-10-08 22:41:45,"['performance', 'rust']",pioj21,hot,lobsters
+Thinking will become a hobby,5,12,https://www.spinellis.gr/blog/20261008/?li261008,https://lobste.rs/s/mosbat,adamo,,2026-10-08 22:41:45,"['philosophy', 'vibecoding']",mosbat,hot,lobsters
+Rolling the Root Key (Update),2,0,https://ispcol.potaroo.net/2026-10/kskroll.html,https://lobste.rs/s/ibtc9r,robalex,,2026-10-08 22:41:45,['networking'],ibtc9r,hot,lobsters
