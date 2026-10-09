@@ -3482,3 +3482,5 @@ The history of the Hetzner Cloud network stack,10,1,https://www.hetzner.com/blog
 The Performance Cost of RwLock in Our Read-Heavy Workload,8,3,https://pranitha.dev/posts/rwlock-vs-lockfree/,https://lobste.rs/s/pioj21,ohrv,,2026-10-08 22:41:45,"['performance', 'rust']",pioj21,hot,lobsters
 Thinking will become a hobby,5,12,https://www.spinellis.gr/blog/20261008/?li261008,https://lobste.rs/s/mosbat,adamo,,2026-10-08 22:41:45,"['philosophy', 'vibecoding']",mosbat,hot,lobsters
 Rolling the Root Key (Update),2,0,https://ispcol.potaroo.net/2026-10/kskroll.html,https://lobste.rs/s/ibtc9r,robalex,,2026-10-08 22:41:45,['networking'],ibtc9r,hot,lobsters
+Bevy 0.20,18,1,https://bevy.org/news/bevy-0-20/,https://lobste.rs/s/3gikyb,BD103,,2026-10-09 03:50:01,"['games', 'release', 'rust']",3gikyb,hot,lobsters
+B-Trees Are Back: Engineering Fast and Pageable Node Layouts,3,0,https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/papers/btrees-are-back.pdf,https://lobste.rs/s/gvbqdy,fanf,,2026-10-09 03:50:01,"['databases', 'pdf']",gvbqdy,hot,lobsters
