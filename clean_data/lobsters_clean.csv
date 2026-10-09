@@ -3484,3 +3484,10 @@ Thinking will become a hobby,5,12,https://www.spinellis.gr/blog/20261008/?li2610
 Rolling the Root Key (Update),2,0,https://ispcol.potaroo.net/2026-10/kskroll.html,https://lobste.rs/s/ibtc9r,robalex,,2026-10-08 22:41:45,['networking'],ibtc9r,hot,lobsters
 Bevy 0.20,18,1,https://bevy.org/news/bevy-0-20/,https://lobste.rs/s/3gikyb,BD103,,2026-10-09 03:50:01,"['games', 'release', 'rust']",3gikyb,hot,lobsters
 B-Trees Are Back: Engineering Fast and Pageable Node Layouts,3,0,https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/papers/btrees-are-back.pdf,https://lobste.rs/s/gvbqdy,fanf,,2026-10-09 03:50:01,"['databases', 'pdf']",gvbqdy,hot,lobsters
+Programming Isn’t Special,13,0,https://blog.glyph.im/2026/10/programming-isnt-special.html,https://lobste.rs/s/ily7as,hugoarnal,,2026-10-09 12:20:39,['art'],ily7as,hot,lobsters
+Reducing undefined behavior in the C language,4,2,https://lwn.net/Articles/1095811/,https://lobste.rs/s/dstt3o,fanf,,2026-10-09 12:20:39,['c'],dstt3o,hot,lobsters
+"There are many themes, but this one is yours",1,1,https://earendil.com/posts/system-theme/,https://lobste.rs/s/3zcaxw,mitsuhiko,,2026-10-09 12:20:39,"['a11y', 'design']",3zcaxw,hot,lobsters
+en-html.org is a Scam Site,3,1,https://etbe.coker.com.au/2026/10/09/en-html-org-scam-site/,https://lobste.rs/s/85k8am,edwintorok,,2026-10-09 12:20:39,"['security', 'web']",85k8am,hot,lobsters
+Deeper dive: Keyboard differences between Windows and Macs,4,0,https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/,https://lobste.rs/s/m2ixv3,seb,,2026-10-09 12:20:39,"['mac', 'windows']",m2ixv3,hot,lobsters
+Demoting i686 Windows targets to std-only,11,1,https://blog.rust-lang.org/2026/10/02/demoting-i686-windows-targets-to-std-only/,https://lobste.rs/s/kfla2w,madsmtm,,2026-10-09 12:20:39,"['rust', 'windows']",kfla2w,hot,lobsters
+"A minimal kernel in Swift, running in QEMU",1,0,https://carette.xyz/posts/minimal_swift_kernel_on_qemu/,https://lobste.rs/s/myb8wf,hashemi,,2026-10-09 12:20:39,"['osdev', 'swift']",myb8wf,hot,lobsters
