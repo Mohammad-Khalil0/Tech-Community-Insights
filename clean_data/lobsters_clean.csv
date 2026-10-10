@@ -3503,3 +3503,6 @@ Spinlocks Considered Harmful (2020),8,1,https://matklad.github.io/2020/01/02/spi
 HIP and ROCm as first-class citizens in Guix,9,0,https://hpc.guix.info/blog/2026/10/hip-and-rocm-as-first-class-citizens/,https://lobste.rs/s/os95xc,untrusem,,2026-10-09 22:03:22,['nix'],os95xc,hot,lobsters
 Lifeguard: A static analyzer for Python lazy imports compatibility,1,0,https://github.com/Facebook/lifeguard,https://lobste.rs/s/qwqne6,zem,,2026-10-09 22:03:22,['python'],qwqne6,hot,lobsters
 Equality Saturation: An “Incomplete” Project,3,0,https://blog.sigplan.org/2026/10/01/equality-saturation-an-incomplete-project/,https://lobste.rs/s/5n7zxa,dbremner,,2026-10-09 22:03:22,['compilers'],5n7zxa,hot,lobsters
+No Man Is an Island,4,0,https://borretti.me/article/no-man-is-an-island,https://lobste.rs/s/nxspz6,facundoolano,,2026-10-10 03:33:41,"['philosophy', 'vibecoding']",nxspz6,hot,lobsters
+The importance of communities around software,7,0,https://lumi.codeberg.page/blog/software-community.html,https://lobste.rs/s/o8xo9z,stilic,,2026-10-10 03:33:41,['culture'],o8xo9z,hot,lobsters
+A Practical Guide to “Plug&Pwn” for Pentesters and Defenders,3,0,https://blog.scrt.ch/2026/10/06/a-practical-guide-to-plugpwn-for-pentesters-and-defenders/,https://lobste.rs/s/yrcmjj,7tehdt3cnw6kir6o,,2026-10-10 03:33:41,['security'],yrcmjj,hot,lobsters
