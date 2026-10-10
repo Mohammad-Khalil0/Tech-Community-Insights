@@ -3517,3 +3517,6 @@ Iframes that finally fit their content,4,0,https://alfy.blog/2026/10/09/iframe-t
 culpert - rust heap profiling with span awareness and regression tooling,1,0,https://github.com/rupert648/culpert,https://lobste.rs/s/a1ser9,pert,,2026-10-10 16:40:13,"['performance', 'rust', 'vibecoding']",a1ser9,hot,lobsters
 dasSDL3: Idiomatic SDL3 bindings for daslang,1,0,https://spiiin.github.io/blog/339855472/,https://lobste.rs/s/ptnq74,spiiin,,2026-10-10 16:40:13,['graphics'],ptnq74,hot,lobsters
 Reporting vulnerabilities to Estonian companies,1,0,https://www.youtube.com/watch?v=4gcSlBORoTI,https://lobste.rs/s/roij3t,hugoarnal,,2026-10-10 16:40:13,"['security', 'video']",roij3t,hot,lobsters
+"SNTPings, draw on a canvas using ICMPv6",5,0,https://pings.utwente.io/,https://lobste.rs/s/5zbbd0,Levitating,,2026-10-10 20:56:10,"['education', 'networking']",5zbbd0,hot,lobsters
+Kiesel Devlog #15: Release 0.4.0,4,0,https://linus.dev/posts/kiesel-devlog-15/,https://lobste.rs/s/4zmka2,FedericoSchonborn,,2026-10-10 20:56:10,"['javascript', 'zig']",4zmka2,hot,lobsters
+Why 'externalized' proofs of cyclic trait impls does not work,4,0,https://smallcultfollowing.com/babysteps/blog/2026/10/10/modular-vs-external-proofs/,https://lobste.rs/s/gytcvn,fanf,,2026-10-10 20:56:10,['rust'],gytcvn,hot,lobsters
