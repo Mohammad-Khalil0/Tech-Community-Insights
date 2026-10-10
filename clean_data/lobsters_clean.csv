@@ -3506,3 +3506,8 @@ Equality Saturation: An “Incomplete” Project,3,0,https://blog.sigplan.org/20
 No Man Is an Island,4,0,https://borretti.me/article/no-man-is-an-island,https://lobste.rs/s/nxspz6,facundoolano,,2026-10-10 03:33:41,"['philosophy', 'vibecoding']",nxspz6,hot,lobsters
 The importance of communities around software,7,0,https://lumi.codeberg.page/blog/software-community.html,https://lobste.rs/s/o8xo9z,stilic,,2026-10-10 03:33:41,['culture'],o8xo9z,hot,lobsters
 A Practical Guide to “Plug&Pwn” for Pentesters and Defenders,3,0,https://blog.scrt.ch/2026/10/06/a-practical-guide-to-plugpwn-for-pentesters-and-defenders/,https://lobste.rs/s/yrcmjj,7tehdt3cnw6kir6o,,2026-10-10 03:33:41,['security'],yrcmjj,hot,lobsters
+"oh, apparently it's not possible to portably check for string-to-float conversion errors in standard c",18,0,https://sebsite.pw/w/20261009-strtod.html,https://lobste.rs/s/rb2ulg,seb,,2026-10-10 11:38:56,['c'],rb2ulg,hot,lobsters
+There's little that's inevitable about AI,5,0,https://deadsimpletech.com/blog/llms-arent-inevitable,https://lobste.rs/s/lgxq91,cgrinds,,2026-10-10 11:38:56,['vibecoding'],lgxq91,hot,lobsters
+Adding Go's defer to the TypeScript Compiler,3,4,https://healeycodes.com/adding-defer-to-the-typescript-compiler,https://lobste.rs/s/skpliy,nemin,,2026-10-10 11:38:56,"['compilers', 'go', 'javascript']",skpliy,hot,lobsters
+1-click MMI execution in Android,3,1,https://karansaini.com/mmi-android/,https://lobste.rs/s/txa6dj,rrampage,,2026-10-10 11:38:56,"['android', 'security']",txa6dj,hot,lobsters
+Voxlocal: a minimal voice agent written in Rust,1,1,https://samkhawase.com/blog/voxlocal-minimal-voice-agent/,https://lobste.rs/s/gqaqgq,flyingsnake,,2026-10-10 11:38:56,"['ai', 'programming', 'rust']",gqaqgq,hot,lobsters
