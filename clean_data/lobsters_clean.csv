@@ -3520,3 +3520,8 @@ Reporting vulnerabilities to Estonian companies,1,0,https://www.youtube.com/watc
 "SNTPings, draw on a canvas using ICMPv6",5,0,https://pings.utwente.io/,https://lobste.rs/s/5zbbd0,Levitating,,2026-10-10 20:56:10,"['education', 'networking']",5zbbd0,hot,lobsters
 Kiesel Devlog #15: Release 0.4.0,4,0,https://linus.dev/posts/kiesel-devlog-15/,https://lobste.rs/s/4zmka2,FedericoSchonborn,,2026-10-10 20:56:10,"['javascript', 'zig']",4zmka2,hot,lobsters
 Why 'externalized' proofs of cyclic trait impls does not work,4,0,https://smallcultfollowing.com/babysteps/blog/2026/10/10/modular-vs-external-proofs/,https://lobste.rs/s/gytcvn,fanf,,2026-10-10 20:56:10,['rust'],gytcvn,hot,lobsters
+Consistency is not a localized property,4,1,https://n-the-loop.com/blog/consistency-is-not-a-localized-property/,https://lobste.rs/s/rhy5zp,b--man,,2026-10-11 03:06:38,"['ai', 'databases', 'programming']",rhy5zp,hot,lobsters
+Making np.searchsorted up to 25× Faster in NumPy 2.5,2,3,https://blog.scientific-python.org/numpy/searchsorted/,https://lobste.rs/s/fbs3k7,itamarst,,2026-10-11 03:06:38,['performance'],fbs3k7,hot,lobsters
+Inside a 1980s filter chip that uses switched capacitors,5,0,http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html,https://lobste.rs/s/mbyawi,calvin,,2026-10-11 03:06:38,"['hardware', 'historical', 'reversing']",mbyawi,hot,lobsters
+"Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation",3,0,https://arxiv.org/html/2610.05978v1,https://lobste.rs/s/t2fxpt,Yogthos,,2026-10-11 03:06:38,['ai'],t2fxpt,hot,lobsters
+The 2D physics prototype behind GTA’s vehicles,2,0,https://patkerr.co.uk/2d-vehicles/,https://lobste.rs/s/9ros7d,linkdd,,2026-10-11 03:06:38,['games'],9ros7d,hot,lobsters
