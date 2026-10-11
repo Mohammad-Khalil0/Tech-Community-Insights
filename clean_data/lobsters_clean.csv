@@ -3535,3 +3535,8 @@ I'm still around.. I'm just not writing here,25,12,https://rachelbythebay.com/w/
 Arena Allocators in C,1,0,https://eliasebner.com/blog/guides/arena-allocators-in-c/,https://lobste.rs/s/zziknb,eliasebner,,2026-10-11 17:06:06,['c'],zziknb,hot,lobsters
 What we ended up doing about alias propagation,1,0,https://futhark-lang.org/blog/2026-10-11-what-we-did-about-aliasing.html,https://lobste.rs/s/lwwtpu,fanf,,2026-10-11 17:06:06,"['plt', 'vibecoding']",lwwtpu,hot,lobsters
 Hacking the Eufy Doorbell and Base Station,1,1,https://adepts.of0x.cc/Eufy-DoorBell-hacking/,https://lobste.rs/s/e84scc,hoistbypetard,,2026-10-11 17:06:06,"['hardware', 'security']",e84scc,hot,lobsters
+"I'm sorry, but you still have to think",15,1,https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/,https://lobste.rs/s/k2natg,dimonomid,,2026-10-11 21:17:39,['vibecoding'],k2natg,hot,lobsters
+The wild west of polyglot docs sites,4,0,https://technicalwriting.dev/blog/2026/10/polyglot/index.html,https://lobste.rs/s/wyxufm,kaycebasques,,2026-10-11 21:17:39,"['c', 'c++', 'practices', 'python', 'rust']",wyxufm,hot,lobsters
+D-Bus Hell,6,2,https://dbushell.com/2026/10/11/d-bus-hell/,https://lobste.rs/s/qgybwb,isuffix,,2026-10-11 21:17:39,"['person', 'satire']",qgybwb,hot,lobsters
+"The next-gen borrow checker, a drop-in replacement for Rust borrow checking",2,0,https://gist.github.com/FlameyosSnowy/a49a35ba006238be55d8c3e410c31061,https://lobste.rs/s/sqftld,wofo,,2026-10-11 21:17:39,"['compilers', 'plt', 'rust']",sqftld,hot,lobsters
+Making React Context Cheap with React Compiler,1,0,https://jjenzz.com/making-react-context-cheap/,https://lobste.rs/s/lxsu0m,frontsideair,,2026-10-11 21:17:39,"['javascript', 'web']",lxsu0m,hot,lobsters
