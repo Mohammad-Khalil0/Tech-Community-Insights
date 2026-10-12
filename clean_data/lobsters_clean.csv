@@ -3540,3 +3540,9 @@ The wild west of polyglot docs sites,4,0,https://technicalwriting.dev/blog/2026/
 D-Bus Hell,6,2,https://dbushell.com/2026/10/11/d-bus-hell/,https://lobste.rs/s/qgybwb,isuffix,,2026-10-11 21:17:39,"['person', 'satire']",qgybwb,hot,lobsters
 "The next-gen borrow checker, a drop-in replacement for Rust borrow checking",2,0,https://gist.github.com/FlameyosSnowy/a49a35ba006238be55d8c3e410c31061,https://lobste.rs/s/sqftld,wofo,,2026-10-11 21:17:39,"['compilers', 'plt', 'rust']",sqftld,hot,lobsters
 Making React Context Cheap with React Compiler,1,0,https://jjenzz.com/making-react-context-cheap/,https://lobste.rs/s/lxsu0m,frontsideair,,2026-10-11 21:17:39,"['javascript', 'web']",lxsu0m,hot,lobsters
+"Highlights from I spent 6 years developing a game in Rust and it just shipped, AMA (2024)",7,1,https://gamesbymason.com/blog/2024/6-years-in-rust-ama/#what-made-you-decide-to-use-rust,https://lobste.rs/s/dodzdb,PuercoPop,,2026-10-12 03:29:47,"['games', 'rust']",dodzdb,hot,lobsters
+'AI' is Not a Tool,5,0,https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e,https://lobste.rs/s/ikk8ie,regulator,,2026-10-12 03:29:47,['vibecoding'],ikk8ie,hot,lobsters
+Tello's GameSir T1d controller as a Linux Xbox controller,2,0,https://blog.jacq.cc/guides/gamesir-t1d-linux-gamepad/,https://lobste.rs/s/dxftjg,rj-xy,,2026-10-12 03:29:47,"['linux', 'python']",dxftjg,hot,lobsters
+Refurb weekend II: Alpha Micro Eagle 300 and friends,1,0,https://oldvcr.blogspot.com/2026/10/refurb-weekend-ii-alpha-micro-eagle-300.html,https://lobste.rs/s/cthze7,classichasclass,,2026-10-12 03:29:47,['retrocomputing'],cthze7,hot,lobsters
+When LLM Decompilers Recompile More and Preserve Less,1,0,https://arxiv.org/abs/2609.05370,https://lobste.rs/s/uzfa4k,juliethefoxcoon,,2026-10-12 03:29:47,"['reversing', 'vibecoding']",uzfa4k,hot,lobsters
+CSS for underlines,1,0,https://www.rubenerd.au/css-for-underlines/,https://lobste.rs/s/ezucf0,thombles,,2026-10-12 03:29:47,['css'],ezucf0,hot,lobsters
