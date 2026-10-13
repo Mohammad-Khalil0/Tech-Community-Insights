@@ -3566,3 +3566,6 @@ Speeding up the Unreal editor by… not using unnecessarily secure hash methods,
 A modern web app in c,2,2,https://prophitt.me/writing/a-modern-web-app-in-c,https://lobste.rs/s/cjdy6d,thasso,,2026-10-12 23:59:27,"['c', 'web']",cjdy6d,hot,lobsters
 512 bytes at a time: reconstructing IBM i save-file checksums,4,0,https://blog.silentsignal.eu/2026/10/06/512-bytes-at-a-time-reconstructing-IBM-i-save-file-checksums/,https://lobste.rs/s/i1lyv7,calvin,,2026-10-12 23:59:27,['reversing'],i1lyv7,hot,lobsters
 ESP32 As Your Raspberry Pi’s Linux Wireless Co-processor,4,0,https://hackaday.com/2026/10/07/esp32-as-your-raspberry-pis-linux-wireless-co-processor/,https://lobste.rs/s/x1ucie,hoistbypetard,,2026-10-12 23:59:27,"['hardware', 'networking']",x1ucie,hot,lobsters
+Vi Hart's Big Navier-Stokes Post,13,1,https://www.patreon.com/vihart/posts/vi-harts-big-171939430,https://lobste.rs/s/j30pg4,archagon,,2026-10-13 05:54:05,"['ai', 'math']",j30pg4,hot,lobsters
+Who is vfmaddrnd231pd??,4,0,https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/,https://lobste.rs/s/2h9opx,valdemar,,2026-10-13 05:54:05,['assembly'],2h9opx,hot,lobsters
+"DataCube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals (1997)",1,0,https://arxiv.org/pdf/cs/0701155,https://lobste.rs/s/rji3qe,typesanitizer,,2026-10-13 05:54:05,"['databases', 'pdf']",rji3qe,hot,lobsters
