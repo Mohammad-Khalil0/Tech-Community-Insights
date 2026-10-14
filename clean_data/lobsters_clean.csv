@@ -3600,3 +3600,13 @@ Linux Lockdown and Hibernation (again),3,0,https://codon.org.uk/~mjg59/blog/p/li
 A UAF turned RCE,2,1,https://daniel.haxx.se/blog/2026/10/14/a-uaf-turned-rce/,https://lobste.rs/s/g46xkj,olliej,,2026-10-14 10:55:00,['security'],g46xkj,hot,lobsters
 My Game's Procedural Dialogue System,1,0,https://www.youtube.com/watch?v=NaW0d7Tghw0,https://lobste.rs/s/stmtap,juliethefoxcoon,,2026-10-14 10:55:00,"['games', 'video']",stmtap,hot,lobsters
 Pulsar at ESUG 2026 (new Smalltalk IDE),1,0,https://blog.lorenzano.eu/pulsar-at-esug-2026/,https://lobste.rs/s/ghw8rp,mpweiher,,2026-10-14 10:55:00,['editors'],ghw8rp,hot,lobsters
+Introducing Firefox Enterprise,58,18,https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/,https://lobste.rs/s/7xg9rm,viccuad,,2026-10-14 16:14:03,"['browsers', 'release', 'web']",7xg9rm,hot,lobsters
+BotStopper from Techaro,10,8,https://botstopper.net,https://lobste.rs/s/qgvj4p,gmem,,2026-10-14 16:14:03,['devops'],qgvj4p,hot,lobsters
+Plasma 6.8 released (KDE's 30th birthday),25,1,https://kde.org/announcements/plasma/6/6.8.0/,https://lobste.rs/s/d1c8zn,joshsharp,,2026-10-14 16:14:03,"['linux', 'release']",d1c8zn,hot,lobsters
+yet another place where a linux man page is inaccurate,18,0,https://sebsite.pw/w/20261014-initstate.html,https://lobste.rs/s/tsjuje,nutmeg,,2026-10-14 16:14:03,"['c', 'linux']",tsjuje,hot,lobsters
+Factor 0.102 now available,8,1,https://re.factorcode.org/2026/10/factor-0-102-now-available.html,https://lobste.rs/s/a4ljnh,toastal,,2026-10-14 16:14:03,"['concatenative', 'release']",a4ljnh,hot,lobsters
+Awesome Gaming on Linux Without Cheating,4,1,https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2,https://lobste.rs/s/x9fqa4,calvin,,2026-10-14 16:14:03,"['games', 'linux', 'security']",x9fqa4,hot,lobsters
+ZXC: Lossless compression built for ultra-fast decode,4,0,https://libzxc.org/,https://lobste.rs/s/mf3tmv,xyproto,,2026-10-14 16:14:03,['compsci'],mf3tmv,hot,lobsters
+OpenFatigue™ — Open is the new closed,11,0,https://openfatigue.ai/,https://lobste.rs/s/plbei0,kngl,,2026-10-14 16:14:03,"['ai', 'satire', 'vibecoding']",plbei0,hot,lobsters
+GitLab warns of max severity code execution vulnerability,3,0,https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/,https://lobste.rs/s/tehays,janus,,2026-10-14 16:14:03,"['security', 'vcs']",tehays,hot,lobsters
+What I Self-Host | Aspirational Self Hosting Guide,1,1,https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/,https://lobste.rs/s/j4tlzg,tonymet,,2026-10-14 16:14:03,"['devops', 'linux', 'osdev', 'web']",j4tlzg,hot,lobsters
