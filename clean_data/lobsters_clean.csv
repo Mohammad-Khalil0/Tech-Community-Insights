@@ -3592,3 +3592,11 @@ Nixpkgs for the frontend impaired,5,3,https://fzakaria.com/2026/10/12/nixpkgs-fo
 Please stop hashing the public key first (or: ML-DSA's µ annoys me),3,1,https://blog.erincandescent.net/2026/10/mu-annoys-me/,https://lobste.rs/s/xatiaj,tris,,2026-10-14 02:52:55,['cryptography'],xatiaj,hot,lobsters
 Bru: Send and read SMS from the browser,3,0,https://sverre.me/projects/bru/,https://lobste.rs/s/a0jmkh,wezm,,2026-10-14 02:52:55,['android'],a0jmkh,hot,lobsters
 The 2026 Maintainers Summit,4,0,https://lwn.net/SubscriberLink/1099594/fba1c2268c3e2fb5/,https://lobste.rs/s/fppgkl,calvin,,2026-10-14 02:52:55,"['linux', 'practices', 'vibecoding']",fppgkl,hot,lobsters
+Apple: Switch to Safari (from Chrome),15,11,https://www.apple.com/safari/switch/,https://lobste.rs/s/dyypvf,classichasclass,,2026-10-14 10:55:00,['browsers'],dyypvf,hot,lobsters
+Fancy Curl Sites,10,3,https://nytpu.com/gemlog/2026-03-18,https://lobste.rs/s/zitobg,seb,,2026-10-14 10:55:00,['web'],zitobg,hot,lobsters
+Compiler bootstrapping depends on more than you might think,6,2,https://utcc.utoronto.ca/~cks/space/blog/programming/CompilerBootstrappingVsOSChanges,https://lobste.rs/s/6vs8a0,abhin4v,,2026-10-14 10:55:00,['compilers'],6vs8a0,hot,lobsters
+Ledger confirms spy chip implant behind wallet crypto thefts,3,2,https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/,https://lobste.rs/s/cwota8,csomar,,2026-10-14 10:55:00,"['cryptography', 'security']",cwota8,hot,lobsters
+Linux Lockdown and Hibernation (again),3,0,https://codon.org.uk/~mjg59/blog/p/linux-lockdown-and-hibernation-again/,https://lobste.rs/s/rrazyb,binjip978,,2026-10-14 10:55:00,"['linux', 'security']",rrazyb,hot,lobsters
+A UAF turned RCE,2,1,https://daniel.haxx.se/blog/2026/10/14/a-uaf-turned-rce/,https://lobste.rs/s/g46xkj,olliej,,2026-10-14 10:55:00,['security'],g46xkj,hot,lobsters
+My Game's Procedural Dialogue System,1,0,https://www.youtube.com/watch?v=NaW0d7Tghw0,https://lobste.rs/s/stmtap,juliethefoxcoon,,2026-10-14 10:55:00,"['games', 'video']",stmtap,hot,lobsters
+Pulsar at ESUG 2026 (new Smalltalk IDE),1,0,https://blog.lorenzano.eu/pulsar-at-esug-2026/,https://lobste.rs/s/ghw8rp,mpweiher,,2026-10-14 10:55:00,['editors'],ghw8rp,hot,lobsters
