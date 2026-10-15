@@ -3624,3 +3624,14 @@ We found a Tencent agent fleet,14,1,https://swarmcha.se/posts/chinese-agent-flee
 An Emulator Writer's HOWTO for Static Binary Translation,4,2,https://www.gtoal.com/sbt/,https://lobste.rs/s/yista4,spc476,,2026-10-15 10:36:45,"['assembly', 'programming']",yista4,hot,lobsters
 The Ferranti files: 40 years of Sinclair secrets unearthed,4,1,https://youtu.be/jiW3P1rJRMc,https://lobste.rs/s/cyp6lv,fanf,,2026-10-15 10:36:45,"['hardware', 'historical', 'video']",cyp6lv,hot,lobsters
 ArenaAllocators don't play nicely with ArrayLists,2,0,https://www.openmymind.net/Arena-Allocators-and-ArrayLists/,https://lobste.rs/s/huk6zu,lvig,,2026-10-15 10:36:45,['zig'],huk6zu,hot,lobsters
+JPEG XL vs AVIF for web use-cases,8,2,https://jakearchibald.com/2026/jpeg-xl-vs-avif/,https://lobste.rs/s/uejdwj,jaffathecake,,2026-10-15 16:01:29,"['compsci', 'web']",uejdwj,hot,lobsters
+Sunsetting decomp.dev,17,0,https://decomp.dev/,https://lobste.rs/s/kaerns,FedericoSchonborn,,2026-10-15 16:01:29,"['games', 'vibecoding']",kaerns,hot,lobsters
+The Costa GUI,19,0,https://costa.jacobpalm.dk,https://lobste.rs/s/uqugjk,FedericoSchonborn,,2026-10-15 16:01:29,['retrocomputing'],uqugjk,hot,lobsters
+Microsoft Defender for Linux,9,3,https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/secure-linux-desktops-with-microsoft-defender/4560822,https://lobste.rs/s/46dcms,alemi,,2026-10-15 16:01:29,['linux'],46dcms,hot,lobsters
+"sslx: A fast, modern alternative to OpenSSL's CLI",9,4,https://github.com/glincker/sslx,https://lobste.rs/s/p7tf7i,gmem,,2026-10-15 16:01:29,"['security', 'vibecoding']",p7tf7i,hot,lobsters
+Libreboot 26.10 “Ominous Olive” released with full UEFI support,7,2,https://libreboot.org/news/libreboot2610.html,https://lobste.rs/s/9xticb,runxiyu,,2026-10-15 16:01:29,['release'],9xticb,hot,lobsters
+End-to-end encrypted relays for OCapN,7,0,https://spritely.institute/news/end-to-end-encrypted-relays-for-ocapn.html,https://lobste.rs/s/yxnovw,untrusem,,2026-10-15 16:01:29,['distributed'],yxnovw,hot,lobsters
+My C23 Conventions,2,0,https://abner.page/post/c23-conventions-1/,https://lobste.rs/s/umdbht,abnercoimbre,,2026-10-15 16:01:29,['c'],umdbht,hot,lobsters
+The geometric model of maintenance,7,0,https://entropicthoughts.com/geometric-model-of-maintenance,https://lobste.rs/s/bpvpbe,lcapaldo,,2026-10-15 16:01:29,['programming'],bpvpbe,hot,lobsters
+Everyone is doing Git on S3 wrong,6,2,https://enroute.sh/blog/everyone-is-doing-git-on-s3-wrong,https://lobste.rs/s/ydo1wi,typesanitizer,,2026-10-15 16:01:29,"['distributed', 'performance', 'vcs']",ydo1wi,hot,lobsters
+Remote Attestation Should Not Be Tolerated,7,1,https://lumi.codeberg.page/blog/remote-attestation.html,https://lobste.rs/s/s8bo3z,stilic,,2026-10-15 16:01:29,"['culture', 'security']",s8bo3z,hot,lobsters
