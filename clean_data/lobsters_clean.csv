@@ -3615,3 +3615,5 @@ Anthropic's Scion is heavily inspired by Mononoke · sunshowers,5,0,https://suns
 Package managers have an integrity problem,6,0,https://blog.trailofbits.com/2026/10/14/package-managers-have-an-integrity-problem/,https://lobste.rs/s/lmx2hi,equeue,,2026-10-14 21:08:40,['security'],lmx2hi,hot,lobsters
 The DelightQL Query Language,2,0,https://delightql.org,https://lobste.rs/s/ireiaf,reverendpaco,,2026-10-14 21:08:40,"['databases', 'rust', 'show', 'vibecoding']",ireiaf,hot,lobsters
 Building a Linearizable Log on READ COMMITTED Isolation,5,2,https://materialize.com/blog/building-a-linearizable-log-on-read-committed/,https://lobste.rs/s/sj09ps,eatonphil,,2026-10-14 21:08:40,['databases'],sj09ps,hot,lobsters
+Fixing C Strings With String Views,7,2,https://eliasebner.com/blog/guides/fixing-strings-in-c/,https://lobste.rs/s/5j4bwx,eliasebner,,2026-10-15 02:31:54,['c'],5j4bwx,hot,lobsters
+ito - build terminal ui in lua,2,4,https://uji.sh/ito,https://lobste.rs/s/9lqyul,nishantjosh,,2026-10-15 02:31:54,"['lua', 'rust', 'vibecoding']",9lqyul,hot,lobsters
