@@ -3617,3 +3617,10 @@ The DelightQL Query Language,2,0,https://delightql.org,https://lobste.rs/s/ireia
 Building a Linearizable Log on READ COMMITTED Isolation,5,2,https://materialize.com/blog/building-a-linearizable-log-on-read-committed/,https://lobste.rs/s/sj09ps,eatonphil,,2026-10-14 21:08:40,['databases'],sj09ps,hot,lobsters
 Fixing C Strings With String Views,7,2,https://eliasebner.com/blog/guides/fixing-strings-in-c/,https://lobste.rs/s/5j4bwx,eliasebner,,2026-10-15 02:31:54,['c'],5j4bwx,hot,lobsters
 ito - build terminal ui in lua,2,4,https://uji.sh/ito,https://lobste.rs/s/9lqyul,nishantjosh,,2026-10-15 02:31:54,"['lua', 'rust', 'vibecoding']",9lqyul,hot,lobsters
+Haxy on Haxy,10,0,https://try.haxy.net/haxy:haxy,https://lobste.rs/s/bcaopz,krig,,2026-10-15 10:36:45,"['practices', 'vcs', 'zig']",bcaopz,hot,lobsters
+Haxy.net is live! — HAXY (git forge) devlog,7,1,https://youtu.be/89yAiqYEwKg,https://lobste.rs/s/o0ixth,jeffective,,2026-10-15 10:36:45,"['vcs', 'video']",o0ixth,hot,lobsters
+Furifont: furigana built into the font,6,2,https://furifont.antfu.me/,https://lobste.rs/s/ixoasm,hongminhee,,2026-10-15 10:36:45,['design'],ixoasm,hot,lobsters
+We found a Tencent agent fleet,14,1,https://swarmcha.se/posts/chinese-agent-fleet-full-report,https://lobste.rs/s/wcoes4,unlobito,,2026-10-15 10:36:45,"['security', 'vibecoding']",wcoes4,hot,lobsters
+An Emulator Writer's HOWTO for Static Binary Translation,4,2,https://www.gtoal.com/sbt/,https://lobste.rs/s/yista4,spc476,,2026-10-15 10:36:45,"['assembly', 'programming']",yista4,hot,lobsters
+The Ferranti files: 40 years of Sinclair secrets unearthed,4,1,https://youtu.be/jiW3P1rJRMc,https://lobste.rs/s/cyp6lv,fanf,,2026-10-15 10:36:45,"['hardware', 'historical', 'video']",cyp6lv,hot,lobsters
+ArenaAllocators don't play nicely with ArrayLists,2,0,https://www.openmymind.net/Arena-Allocators-and-ArrayLists/,https://lobste.rs/s/huk6zu,lvig,,2026-10-15 10:36:45,['zig'],huk6zu,hot,lobsters
