@@ -3641,3 +3641,8 @@ Religious Studies In Software Engineering,7,0,https://tombh.co.uk/religious-stud
 Announcing Rust 1.99.1,9,5,https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/,https://lobste.rs/s/ttcx5k,BD103,,2026-10-16 02:26:28,"['release', 'rust']",ttcx5k,hot,lobsters
 Forgejo v17.0 is available,19,0,https://forgejo.org/2026-10-release-v17-0/,https://lobste.rs/s/vemho2,hugoarnal,,2026-10-16 02:26:28,"['release', 'vcs']",vemho2,hot,lobsters
 Epic's EAC2 v2 seems fairly easily bypassable,6,2,https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/,https://lobste.rs/s/1iin5o,calvin,,2026-10-16 02:26:28,"['linux', 'security']",1iin5o,hot,lobsters
+Linus Torvalds on AI-assisted kernel contributions,37,56,https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/,https://lobste.rs/s/xiq59t,thang,,2026-10-16 10:23:43,"['linux', 'vibecoding']",xiq59t,hot,lobsters
+My self-hosted infrastructure with Incus OS,12,1,https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html,https://lobste.rs/s/q0wobg,ggpsv,,2026-10-16 10:23:43,"['devops', 'linux']",q0wobg,hot,lobsters
+Folders Esoteric Language,4,0,https://danieltemkin.com/esolangs/folders,https://lobste.rs/s/norjho,sjamaan,,2026-10-16 10:23:43,['plt'],norjho,hot,lobsters
+Where did WIN32_LEAN_AND_MEAN come from? (2009),8,0,https://devblogs.microsoft.com/oldnewthing/20091130-00/?p=15863/,https://lobste.rs/s/eqoieo,thombles,,2026-10-16 10:23:43,"['historical', 'windows']",eqoieo,hot,lobsters
+Writing stateful effect handlers in EYG,1,0,https://eyg.run/guides/advanced-effects,https://lobste.rs/s/shs3xv,crowdhailer,,2026-10-16 10:23:43,['programming'],shs3xv,hot,lobsters
