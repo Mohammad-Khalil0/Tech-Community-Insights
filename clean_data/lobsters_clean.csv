@@ -3671,3 +3671,8 @@ STAC-M3 Benchmark: L tick database 1.0 on Oxide OxVM w/ 128 vCPUs & 1.25 TiB of 
 Intuitive concurrent programming in any language,4,1,https://www.lf-lang.org/,https://lobste.rs/s/srao9u,mpweiher,,2026-10-17 14:43:20,['programming'],srao9u,hot,lobsters
 Ship Your Interpreter,1,0,https://www.basis.ai/blog/ship-your-interpreters/,https://lobste.rs/s/rtd5gq,edoput,,2026-10-17 14:43:20,"['formalmethods', 'vibecoding']",rtd5gq,hot,lobsters
 Claude reveals ECDSA curve origins,1,1,https://www.anthropic.com/research/ecdsa-curve-origins,https://lobste.rs/s/pflyed,timschumi,,2026-10-17 14:43:20,"['cryptography', 'vibecoding']",pflyed,hot,lobsters
+It took me nine years to hack my Xbox 360,9,0,https://kennedn.com/blog/posts/glitching/,https://lobste.rs/s/wceg2u,pushcx,,2026-10-17 19:54:03,"['hardware', 'reversing']",wceg2u,hot,lobsters
+Abolish AI! Manifesto,6,0,https://abolish-ai.net/abolish-ai-a-manifesto/,https://lobste.rs/s/1kesjm,janus,,2026-10-17 19:54:03,"['ai', 'culture']",1kesjm,hot,lobsters
+PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999),2,0,https://pwn.ai/blog/pwnescape,https://lobste.rs/s/np84oh,munksgaard,,2026-10-17 19:54:03,"['linux', 'security', 'virtualization']",np84oh,hot,lobsters
+Principles of Anchor Engineering,1,0,https://nappingtoheavymetal.com/post/2026-09-15-principles-of-anchor-engineering/,https://lobste.rs/s/iyquo7,hongminhee,,2026-10-17 19:54:03,"['practices', 'vibecoding']",iyquo7,hot,lobsters
+Future of Programming,1,1,https://www.youtube.com/watch?v=bISIgO4x49A,https://lobste.rs/s/cdb7fq,janus,,2026-10-17 19:54:03,"['formalmethods', 'scala', 'vibecoding', 'video']",cdb7fq,hot,lobsters
