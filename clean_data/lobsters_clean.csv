@@ -3668,3 +3668,6 @@ Developing for Debugging (2025),2,1,https://www.davepacheco.net/blog/2025/develo
 "orib: Bringing back the old Reddit interface, with a few new enhancements",1,2,https://github.com/rajtilakjee/orib,https://lobste.rs/s/pllfoa,rajtilakjee,,2026-10-17 09:56:20,"['release', 'vibecoding']",pllfoa,hot,lobsters
 Someone on Torrent Sites Kept Fucking With My Sonarr,13,3,https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup,https://lobste.rs/s/1zknyw,maximilian,,2026-10-17 09:56:20,"['rant', 'reversing', 'security']",1zknyw,hot,lobsters
 STAC-M3 Benchmark: L tick database 1.0 on Oxide OxVM w/ 128 vCPUs & 1.25 TiB of RAM,2,0,https://docs.stacresearch.com/M3-20261005a,https://lobste.rs/s/oh4yfc,veqq,,2026-10-17 09:56:20,"['apl', 'performance']",oh4yfc,hot,lobsters
+Intuitive concurrent programming in any language,4,1,https://www.lf-lang.org/,https://lobste.rs/s/srao9u,mpweiher,,2026-10-17 14:43:20,['programming'],srao9u,hot,lobsters
+Ship Your Interpreter,1,0,https://www.basis.ai/blog/ship-your-interpreters/,https://lobste.rs/s/rtd5gq,edoput,,2026-10-17 14:43:20,"['formalmethods', 'vibecoding']",rtd5gq,hot,lobsters
+Claude reveals ECDSA curve origins,1,1,https://www.anthropic.com/research/ecdsa-curve-origins,https://lobste.rs/s/pflyed,timschumi,,2026-10-17 14:43:20,"['cryptography', 'vibecoding']",pflyed,hot,lobsters
