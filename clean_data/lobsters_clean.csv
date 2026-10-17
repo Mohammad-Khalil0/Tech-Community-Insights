@@ -3659,3 +3659,7 @@ We're sunsetting Codeberg Pages v2,4,0,https://blog.codeberg.org/migrate-your-si
 Introducing GNOME OS Preview,3,0,https://blogs.gnome.org/adrianvovk/2026/10/16/gnome-os-preview/,https://lobste.rs/s/xwng6u,FedericoSchonborn,,2026-10-16 20:18:57,"['linux', 'release']",xwng6u,hot,lobsters
 Thirty Years of KDE,3,0,https://blog.cornelius-schumacher.de/2026/10/thirty-years-of-kde.html,https://lobste.rs/s/cgs07z,raymii,,2026-10-16 20:18:57,['linux'],cgs07z,hot,lobsters
 Getting Canceled,2,0,https://www.youtube.com/watch?v=5zIOfBLQ3U4,https://lobste.rs/s/tty7hm,hgrsd,,2026-10-16 20:18:57,"['video', 'zig']",tty7hm,hot,lobsters
+The NIST Elliptic Curves Seeds Bounty Has Been Claimed,47,10,https://words.filippo.io/seeds-solved/,https://lobste.rs/s/ddtqtn,FiloSottile,,2026-10-17 02:18:56,['cryptography'],ddtqtn,hot,lobsters
+Ubuntu 26.10 (Stonking Stingray) released,10,0,https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html,https://lobste.rs/s/61ujum,janus,,2026-10-17 02:18:56,"['linux', 'release']",61ujum,hot,lobsters
+There's never been a better time to go into math,4,4,https://www.youtube.com/watch?v=LKrwhjOI8Nc,https://lobste.rs/s/wzgadv,lilac,,2026-10-17 02:18:56,"['math', 'video']",wzgadv,hot,lobsters
+Interactive refactoring in gopls,2,0,https://go.dev/blog/interactive-refactoring,https://lobste.rs/s/wn293o,carlana,,2026-10-17 02:18:56,"['editors', 'go']",wn293o,hot,lobsters
