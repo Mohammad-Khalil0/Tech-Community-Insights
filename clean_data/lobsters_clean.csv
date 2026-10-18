@@ -3685,3 +3685,11 @@ A New Way to Think About Borrow Checking (In Reverse),4,1,https://verdagon.dev/b
 High performance policy routed IPsec mesh SD-WAN,2,0,https://ranet3.com/,https://lobste.rs/s/np6czp,ysun,,2026-10-18 15:09:07,['networking'],np6czp,hot,lobsters
 Algorithmic Sound Design with L-Systems and Granular Synthesis,5,0,https://nathanho.me/posts/evograin/,https://lobste.rs/s/kiq0si,chrisl,,2026-10-18 15:09:07,"['art', 'programming']",kiq0si,hot,lobsters
 Using timers to perform weekly tasks,1,0,https://mbork.pl/2026-10-17_Using_timers_to_perform_weekly_tasks,https://lobste.rs/s/u8vxmz,7tehdt3cnw6kir6o,,2026-10-18 15:09:07,['emacs'],u8vxmz,hot,lobsters
+Men in tech #YesAllMen,12,0,https://www.youtube.com/watch?v=WXL6K1lhvt0,https://lobste.rs/s/mp8qye,gmem,,2026-10-18 19:54:35,"['culture', 'video']",mp8qye,hot,lobsters
+My obituary for programming,7,0,https://dumbmatter.com/2026/10/programming-obituary/,https://lobste.rs/s/wtobpt,nolan,,2026-10-18 19:54:35,['vibecoding'],wtobpt,hot,lobsters
+Inside the Intel 8087 chip: floating-point addition and subtraction,6,0,https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html,https://lobste.rs/s/nbxnh7,asteroid,,2026-10-18 19:54:35,['hardware'],nbxnh7,hot,lobsters
+Ghidra + CBMC = Assembly Model Checker,5,1,https://www.philipzucker.com/asmc_cpp/,https://lobste.rs/s/br0hd7,asb,,2026-10-18 19:54:35,['formalmethods'],br0hd7,hot,lobsters
+QML for C & Zig,1,0,https://gist.github.com/rcalixte/d2de5c816fc1de3970cc501b5ae9706e,https://lobste.rs/s/izjf9o,rcalixte,,2026-10-18 19:54:35,"['c', 'zig']",izjf9o,hot,lobsters
+Outside the Scope of Our Support,1,0,https://fireborn.mataroa.blog/blog/outside-the-scope-of-our-support/,https://lobste.rs/s/brrnpm,7tehdt3cnw6kir6o,,2026-10-18 19:54:35,"['a11y', 'android']",brrnpm,hot,lobsters
+Real-time Software On Linux: How Hard Can It Be?,1,0,https://www.youtube.com/watch?v=-0D0rFdU6HY,https://lobste.rs/s/jp6tfb,leela,,2026-10-18 19:54:35,"['linux', 'video', 'zig']",jp6tfb,hot,lobsters
+The Problem with C++ Safety: Why “It Works” Isn’t Good Enough,1,0,https://www.modernescpp.com/index.php/cpp-and-memory-safety-part-1/,https://lobste.rs/s/koipdp,raymii,,2026-10-18 19:54:35,['c++'],koipdp,hot,lobsters
