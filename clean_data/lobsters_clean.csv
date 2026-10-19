@@ -3708,3 +3708,11 @@ What requirements don't you have?,7,3,https://www.seangoedecke.com/what-requirem
 Beginning of the Ende (a community Deno fork),4,0,https://blog.webb.page/WM-105,https://lobste.rs/s/8ejwsp,hongminhee,,2026-10-19 11:40:16,['javascript'],8ejwsp,hot,lobsters
 Efficient Extraction for Effectful E-graphs,4,1,https://ztatlock.net/pubs/2026-oopsla-eggcc/,https://lobste.rs/s/mhy9id,saulshanabrook,,2026-10-19 11:40:16,"['compilers', 'plt']",mhy9id,hot,lobsters
 A Bazel Bard,1,0,https://sluongng.substack.com/p/a-bazel-bard,https://lobste.rs/s/c1zbmq,sluongng,,2026-10-19 11:40:16,"['ai-tooling', 'devops']",c1zbmq,hot,lobsters
+Wine ported to OpenBSD,30,7,https://marc.info/?l=openbsd-ports&m=179236125692175,https://lobste.rs/s/gqepzd,nbyqvist,,2026-10-19 18:01:31,['openbsd'],gqepzd,hot,lobsters
+A5 v1.0,7,5,https://a5geo.org/blog/2026/10/14/a5-v1,https://lobste.rs/s/wtthju,pheelicks,,2026-10-19 18:01:31,"['compsci', 'math', 'rust', 'visualization']",wtthju,hot,lobsters
+One Hash Bloom Filters,9,1,https://www.calabro.io,https://lobste.rs/s/mpytbn,pushcx,,2026-10-19 18:01:31,"['compsci', 'databases']",mpytbn,hot,lobsters
+"Hanami, Why?: Model Citizens",6,0,https://aaronmallen.me/writing/hanami-why-model-citizens,https://lobste.rs/s/ygp18d,aaronmallen,,2026-10-19 18:01:31,['ruby'],ygp18d,hot,lobsters
+Making dns_erlang Fast: Binary Tricks for the BEAM,7,4,https://blog.dnsimple.com/2026/10/making-dns-erlang-fast/,https://lobste.rs/s/p3pruv,jparise,,2026-10-19 18:01:31,['erlang'],p3pruv,hot,lobsters
+Making all divisions slower to fix a bug in 0.000000000000000000542% of cases,5,0,https://futhark-lang.org/blog/2026-10-14-defining-division.html,https://lobste.rs/s/a9f6z1,NoahTheDuke,,2026-10-19 18:01:31,['plt'],a9f6z1,hot,lobsters
+Borrow Checking Zero-Cost Cyclic Mutability,6,0,https://antelang.org/blog/safe_cyclic_mutability/,https://lobste.rs/s/qo8flp,mrnossiom,,2026-10-19 18:01:31,['plt'],qo8flp,hot,lobsters
+Timestral: Mistral's time-series foundation models,6,1,https://mistral.ai/news/timestral/,https://lobste.rs/s/7r9dcc,mxey,,2026-10-19 18:01:31,"['ai', 'release']",7r9dcc,hot,lobsters
