@@ -3700,3 +3700,11 @@ Inline rendering with document.currentScript,2,0,https://leanrada.com/notes/inli
 Dynamic Packages,2,0,https://www.getlazarus.org/dynamic/,https://lobste.rs/s/dc2efo,veqq,,2026-10-19 02:34:04,"['editors', 'release']",dc2efo,hot,lobsters
 BBC Master Pi 1MHz Domesday,1,0,https://youtu.be/UAWSOCOTjIU,https://lobste.rs/s/82vulz,fanf,,2026-10-19 02:34:04,"['retrocomputing', 'video']",82vulz,hot,lobsters
 Speeding up code review with `small-change`,1,0,https://lethain.com/small-changes/,https://lobste.rs/s/opyxtm,carlana,,2026-10-19 02:34:04,"['practices', 'vibecoding']",opyxtm,hot,lobsters
+Programming Language Fundamentals in Agda,10,2,https://plfa.github.io/,https://lobste.rs/s/dtwbpu,solomon,,2026-10-19 11:40:16,"['math', 'plt']",dtwbpu,hot,lobsters
+What the heck is /pkg?,10,1,https://anderegg.ca/2026/10/18/what-the-heck-is-pkg,https://lobste.rs/s/w6xosj,trousers,,2026-10-19 11:40:16,"['mac', 'unix']",w6xosj,hot,lobsters
+Tor VPN Beta: What we've learned building our own VPN for Android from scratch,7,0,https://blog.torproject.org/tor-vpn-beta/,https://lobste.rs/s/s3w7hd,confusedalex,,2026-10-19 11:40:16,"['android', 'networking', 'security']",s3w7hd,hot,lobsters
+The 7.3 kernel has been released,6,0,https://lwn.net/Articles/1101143/,https://lobste.rs/s/4oz3sk,rajtilakjee,,2026-10-19 11:40:16,['linux'],4oz3sk,hot,lobsters
+What requirements don't you have?,7,3,https://www.seangoedecke.com/what-requirements-dont-you-have/,https://lobste.rs/s/nuepys,nolan,,2026-10-19 11:40:16,"['ai-tooling', 'practices']",nuepys,hot,lobsters
+Beginning of the Ende (a community Deno fork),4,0,https://blog.webb.page/WM-105,https://lobste.rs/s/8ejwsp,hongminhee,,2026-10-19 11:40:16,['javascript'],8ejwsp,hot,lobsters
+Efficient Extraction for Effectful E-graphs,4,1,https://ztatlock.net/pubs/2026-oopsla-eggcc/,https://lobste.rs/s/mhy9id,saulshanabrook,,2026-10-19 11:40:16,"['compilers', 'plt']",mhy9id,hot,lobsters
+A Bazel Bard,1,0,https://sluongng.substack.com/p/a-bazel-bard,https://lobste.rs/s/c1zbmq,sluongng,,2026-10-19 11:40:16,"['ai-tooling', 'devops']",c1zbmq,hot,lobsters
