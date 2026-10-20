@@ -3716,3 +3716,10 @@ Making dns_erlang Fast: Binary Tricks for the BEAM,7,4,https://blog.dnsimple.com
 Making all divisions slower to fix a bug in 0.000000000000000000542% of cases,5,0,https://futhark-lang.org/blog/2026-10-14-defining-division.html,https://lobste.rs/s/a9f6z1,NoahTheDuke,,2026-10-19 18:01:31,['plt'],a9f6z1,hot,lobsters
 Borrow Checking Zero-Cost Cyclic Mutability,6,0,https://antelang.org/blog/safe_cyclic_mutability/,https://lobste.rs/s/qo8flp,mrnossiom,,2026-10-19 18:01:31,['plt'],qo8flp,hot,lobsters
 Timestral: Mistral's time-series foundation models,6,1,https://mistral.ai/news/timestral/,https://lobste.rs/s/7r9dcc,mxey,,2026-10-19 18:01:31,"['ai', 'release']",7r9dcc,hot,lobsters
+2026 is an exciting year for the Rust compiler (and me),17,3,https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/,https://lobste.rs/s/c2ouz0,novedevo,,2026-10-20 02:46:41,"['compilers', 'rust']",c2ouz0,hot,lobsters
+OpenBSD 8.0,8,1,https://www.openbsd.org/80.html,https://lobste.rs/s/sqdhu7,dgv,,2026-10-20 02:46:41,"['openbsd', 'release']",sqdhu7,hot,lobsters
+In Context,14,6,https://www.youtube.com/watch?v=P5eO7BNyJao,https://lobste.rs/s/b36ixw,veqq,,2026-10-20 02:46:41,"['programming', 'video']",b36ixw,hot,lobsters
+Finding a home amidst the wreckage,28,3,https://blog.zerodogg.org/2026/10/18/finding-a-home-amidst-the-wreckage/,https://lobste.rs/s/mpdk1e,abnercoimbre,,2026-10-20 02:46:41,"['culture', 'linux']",mpdk1e,hot,lobsters
+The Netherlands is building its own Linux OS to break free from Microsoft,8,0,https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html,https://lobste.rs/s/nne5uh,pocket_walrus,,2026-10-20 02:46:41,"['linux', 'windows']",nne5uh,hot,lobsters
+Do web components have a future if nobody is writing them?,2,0,https://nolanlawson.com/2026/10/19/do-web-components-have-a-future-if-nobody-is-writing-them/,https://lobste.rs/s/dpjkzz,nolan,,2026-10-20 02:46:41,"['ai-tooling', 'web']",dpjkzz,hot,lobsters
+OpenBSD 8.0: released,2,0,https://marc.info/?l=openbsd-announce&m=179245843570316&w=2,https://lobste.rs/s/7qhwfi,bt,,2026-10-20 02:46:41,['openbsd'],7qhwfi,hot,lobsters
