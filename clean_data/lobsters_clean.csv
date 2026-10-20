@@ -3733,3 +3733,12 @@ Jepsen: Orkes Conductor 5.3.2,20,1,https://jepsen.io/analyses/orkes-conductor-5.
 NixOS is making me less afraid,14,6,https://entropicthoughts.com/nixos-is-making-me-less-afraid,https://lobste.rs/s/7d1swo,LolPython,,2026-10-20 16:05:11,['nix'],7d1swo,hot,lobsters
 Making a VGA Driver in SystemVerilog,2,0,https://lukaswerner.com/post/2026-10-20@bottom-up-vga,https://lobste.rs/s/mngelc,lukasmwerner,,2026-10-20 16:05:11,"['graphics', 'hardware']",mngelc,hot,lobsters
 CVE-2026-106173: FortiSIEM gRPC Path Traversal to RCE,1,0,https://horizon3.ai/attack-research/cve-2026-106173-deep-dive-fortisiem-grpc-path-traversal-file-write-rce/,https://lobste.rs/s/d0bbhd,buherator,,2026-10-20 16:05:11,['security'],d0bbhd,hot,lobsters
+How I got over 300 Tor exit nodes removed,20,0,https://kaba.cx/posts/20261020_Tor/,https://lobste.rs/s/9h14un,atmosx,,2026-10-20 21:03:10,"['privacy', 'security']",9h14un,hot,lobsters
+Mastodon 5.0: A closer look,12,2,https://blog.joinmastodon.org/2026/10/5.0-a-closer-look/,https://lobste.rs/s/dlbufy,dgv,,2026-10-20 21:03:10,"['design', 'release']",dlbufy,hot,lobsters
+Do minor curl vulnerabilities in the open,6,0,https://daniel.haxx.se/blog/2026/10/20/do-minor-curl-vulnerabilities-in-the-open/,https://lobste.rs/s/nryxzd,robalex,,2026-10-20 21:03:10,['security'],nryxzd,hot,lobsters
+Sign language to text,3,0,https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/,https://lobste.rs/s/0jsjaz,kaycebasques,,2026-10-20 21:03:10,['ai'],0jsjaz,hot,lobsters
+Why do we need ud2 when int 6 is right there?,2,0,https://devblogs.microsoft.com/oldnewthing/20261019-00/?p=112781/,https://lobste.rs/s/9u6gm0,abareplace,,2026-10-20 21:03:10,['assembly'],9u6gm0,hot,lobsters
+EDG is open source,2,0,https://edgcpp.org/,https://lobste.rs/s/nhiewb,jmmv,,2026-10-20 21:03:10,"['a11y', 'c++']",nhiewb,hot,lobsters
+Genera for the Initiated: Inside Symbolics Lisp Machines,2,0,https://www.youtube.com/watch?v=W2fGKjFoaOg,https://lobste.rs/s/staj2z,mepian,,2026-10-20 21:03:10,"['historical', 'lisp', 'retrocomputing', 'video']",staj2z,hot,lobsters
+Why I’m no longer updating this repository,1,0,https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository,https://lobste.rs/s/rejqgl,aaronmallen,,2026-10-20 21:03:10,['ai'],rejqgl,hot,lobsters
+thebroken Episode 1 (2003),1,0,https://www.youtube.com/watch?v=A_xTA-YAa9U&t=2m10s,https://lobste.rs/s/hypbid,janus,,2026-10-20 21:03:10,"['networking', 'security', 'video']",hypbid,hot,lobsters
