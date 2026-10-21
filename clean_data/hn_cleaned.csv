@@ -9164,3 +9164,22 @@ C# now beats Rust on WASM size,76,28,https://github.com/zion-sati/NetWasm,2026-1
 Setting Up SSH Keys on macOS with Touch ID,62,38,https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/,2026-10-21 10:54:06,hacker_news
 Four Years with Decker,42,6,https://beyondloom.com/blog/fouryearsdecker.html,2026-10-21 10:54:07,hacker_news
 Composite objects and C++26 the std:polymorphic type,28,29,https://mariusbancila.ro/blog/2026/10/18/composite-objects-and-cpp26-the-stdpolymorphic-type/,2026-10-21 10:54:07,hacker_news
+PHP 8.2.35,584,236,https://github.com/php/php-src/releases/tag/php-8.2.35,2026-10-21 16:21:57,hacker_news
+"Today's PHP Security Release, and How We're Strengthening PHP Security",45,8,https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/,2026-10-21 16:21:57,hacker_news
+DuckDB 2.0.0 LTS Cinnamon Teal,172,16,https://duckdb.org/2026/10/21/announcing-duckdb-200,2026-10-21 16:21:57,hacker_news
+Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor,94,43,https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/,2026-10-21 16:21:57,hacker_news
+Patch the Planet: global response coordination as agents uncover vulnerabilities,113,61,https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/,2026-10-21 16:21:57,hacker_news
+Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin,37,20,https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488,2026-10-21 16:21:57,hacker_news
+PHP2Shell: AI uncovers critical RCE in PHP,337,113,https://www.wiz.io/blog/php2shell-php-rce,2026-10-21 16:21:57,hacker_news
+The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck,316,229,https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/,2026-10-21 16:21:58,hacker_news
+Cloudflare deploys protections against php2shell vulnerability,26,2,https://blog.cloudflare.com/php-vulnerabilities-waf-protection/,2026-10-21 16:21:58,hacker_news
+Using thousands of AI agents to uncover new leads in biological data,39,10,https://openai.com/index/scaling-ai-research-for-complex-biological-data/,2026-10-21 16:21:58,hacker_news
+Launch HN: Alter (YC S25) – Access control for multi-user agents,9,9,https://alterauth.com/,2026-10-21 16:21:58,hacker_news
+C++ futures part 1: The mental model,29,6,https://devblogs.microsoft.com/oldnewthing/20261012-00/?p=112767/,2026-10-21 16:21:58,hacker_news
+Most advice is right for the person giving it,119,94,https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/,2026-10-21 16:21:58,hacker_news
+Qwen3-Coder writes less secure code when told it's for a US persona,219,108,https://www.hirundo.io/blog/qwen3-coder-vulnerabilities,2026-10-21 16:21:59,hacker_news
+LayerFS: The filesystem for AI coding agents,53,28,https://layerfs.ai/,2026-10-21 16:21:59,hacker_news
+Tiny possum and glider thought extinct for 6000 years found in remote West Papua,6,0,https://www.bbc.com/news/articles/cp814l80pw2o,2026-10-21 16:21:59,hacker_news
+Show HN: Sumi.css – CSS Framework,27,7,https://github.com/vladocar/Sumi.css,2026-10-21 16:21:59,hacker_news
+Delays for Pull Requests and Webhook deliveries,45,9,https://www.githubstatus.com/incidents/nms1dpzmh9d9,2026-10-21 16:21:59,hacker_news
+The Lucrative World of Literary Scams,46,4,https://www.thedial.world/articles/news/ai-book-scams,2026-10-21 16:22:00,hacker_news
