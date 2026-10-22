@@ -3767,3 +3767,8 @@ GitLab Critical Patch Release,9,2,https://docs.gitlab.com/releases/patches/patch
 Embedding EYG in Erlang programs,4,0,https://eyg.run/guides/embedding-eyg-in-erlang-programs,https://lobste.rs/s/deqmg0,crowdhailer,,2026-10-22 02:38:28,['erlang'],deqmg0,hot,lobsters
 Understanding Nix flakes,5,0,https://lwn.net/SubscriberLink/1094226/7bb13383b169d475/,https://lobste.rs/s/wno4h3,vinipsmaker,,2026-10-22 02:38:28,['nix'],wno4h3,hot,lobsters
 Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor,5,0,https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor,https://lobste.rs/s/2czsv4,atmosx,,2026-10-22 02:38:28,"['ai-tooling', 'security']",2czsv4,hot,lobsters
+examining the macOS gcc binary,16,2,https://zoey-on-github.github.io/blog/macgcc.html,https://lobste.rs/s/hplfis,juliethefoxcoon,,2026-10-22 10:54:25,"['mac', 'reversing']",hplfis,hot,lobsters
+Using a lookup-table to correct an approximation,11,1,https://www.corsix.org/content/using-a-lookup-table-to-correct-an-approximation,https://lobste.rs/s/os7brs,fanf,,2026-10-22 10:54:25,['performance'],os7brs,hot,lobsters
+Announcing DuckDB 2.0.0 LTS “Cinnamon Teal”,7,0,https://duckdb.org/2026/10/21/announcing-duckdb-200.html,https://lobste.rs/s/dcvs3u,pgr0ss,,2026-10-22 10:54:25,['databases'],dcvs3u,hot,lobsters
+Garmin Revamps and Opens Up Connect Developer API Program,2,0,https://www.dcrainmaker.com/2026/10/garmin-connect-api-revamps-connect-developer.html,https://lobste.rs/s/nbd1cs,pscanf,,2026-10-22 10:54:25,['api'],nbd1cs,hot,lobsters
+Three configurable prettyprinters (2023),1,0,https://reasonableapproximation.net/2023/08/10/three-configurable-prettyprinters.html,https://lobste.rs/s/was9lk,abhin4v,,2026-10-22 10:54:25,['haskell'],was9lk,hot,lobsters

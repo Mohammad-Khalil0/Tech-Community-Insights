@@ -9216,3 +9216,15 @@ PingCap TiDB Leaks,223,32,https://fulcrumsec.vg/pingcap/,2026-10-22 02:38:33,hac
 Beyond the &,12,0,https://lwn.net/Articles/1096028/,2026-10-22 02:38:34,hacker_news
 "Honey, I shrunk the TV",9,19,https://cakehonolulu.github.io/honey-i-shrunk-the-tv/,2026-10-22 02:38:34,hacker_news
 Κ = 0.003 for integer multiplication crossed,30,18,https://github.com/CrocSwap/integer-mult-bounds/pull/4441,2026-10-22 02:38:35,hacker_news
+CVE-2026-111943: Compromised Intermediate Certificate Authority,120,31,https://nvd.nist.gov/vuln/detail/cve-2026-111943,2026-10-22 10:54:29,hacker_news
+Faster than earcut: triangulating 3.7M map polygons in 489 ms,38,2,https://globus.software/blog/2026/10/16/cutting-map-polygons/,2026-10-22 10:54:29,hacker_news
+WorldTUI: I trained a 360M model to pretend to be a terminal,239,74,https://simedw.com/2026/10/21/world-model-terminal/,2026-10-22 10:54:29,hacker_news
+The recently proposed o(n log n) integer multiplication algorithm [pdf],213,144,https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf,2026-10-22 10:54:29,hacker_news
+Achieving AI-style reasoning without an LLM,35,12,https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/,2026-10-22 10:54:29,hacker_news
+Using LLM for confidence scoring is a bad idea,104,55,https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html,2026-10-22 10:54:30,hacker_news
+GitLab critical patch release,357,84,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/,2026-10-22 10:54:30,hacker_news
+OpenAI CLI,131,73,https://github.com/openai/openai-cli,2026-10-22 10:54:30,hacker_news
+The Robot I Didn't Expect to Build,13,7,https://spectrum.ieee.org/agility-robotics-digit-5-redesign,2026-10-22 10:54:30,hacker_news
+Startup taps underwater volcano as energy source in proof point test,6,0,https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/,2026-10-22 10:54:30,hacker_news
+What Is the Karakoram Anomaly?,37,8,https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real,2026-10-22 10:54:31,hacker_news
+"I can't use generic lambdas at compile-time, now what?",14,1,https://blog.ganets.ky/ClangGenericLambdas/,2026-10-22 10:54:31,hacker_news

@@ -15208,3 +15208,29 @@ Launch HN: Alter (YC S25) – Access control for multi-user agents,53,22,https:/
 PHP 8.2.35,977,536,https://github.com/php/php-src/releases/tag/php-8.2.35,2026-10-22 02:38:34.832779
 "Honey, I shrunk the TV",9,19,https://cakehonolulu.github.io/honey-i-shrunk-the-tv/,2026-10-22 02:38:34.930150
 Κ = 0.003 for integer multiplication crossed,30,18,https://github.com/CrocSwap/integer-mult-bounds/pull/4441,2026-10-22 02:38:35.034718
+CVE-2026-111943: Compromised Intermediate Certificate Authority,120,31,https://nvd.nist.gov/vuln/detail/cve-2026-111943,2026-10-22 10:54:29.153024
+Faster than earcut: triangulating 3.7M map polygons in 489 ms,38,2,https://globus.software/blog/2026/10/16/cutting-map-polygons/,2026-10-22 10:54:29.253472
+WorldTUI: I trained a 360M model to pretend to be a terminal,239,74,https://simedw.com/2026/10/21/world-model-terminal/,2026-10-22 10:54:29.386709
+The recently proposed o(n log n) integer multiplication algorithm [pdf],213,144,https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf,2026-10-22 10:54:29.481039
+Achieving AI-style reasoning without an LLM,35,12,https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/,2026-10-22 10:54:29.597705
+Security Disclosure,477,279,https://blog.railway.com/p/security-disclosure-wednesday-october-21st,2026-10-22 10:54:29.706156
+Claude Duet,398,364,https://claude.com/product/claude-duet,2026-10-22 10:54:29.857622
+No more icons in every menu by default,332,196,https://blog.jim-nielsen.com/2026/icons-in-every-menu/,2026-10-22 10:54:29.996329
+Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor,528,172,https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/,2026-10-22 10:54:30.155996
+Rust Style Guide,317,191,https://google.github.io/styleguide/rustguide.html,2026-10-22 10:54:30.249102
+Using LLM for confidence scoring is a bad idea,104,55,https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html,2026-10-22 10:54:30.349061
+GitLab critical patch release,357,84,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/,2026-10-22 10:54:30.480327
+OpenAI CLI,131,73,https://github.com/openai/openai-cli,2026-10-22 10:54:30.578763
+The Robot I Didn't Expect to Build,13,7,https://spectrum.ieee.org/agility-robotics-digit-5-redesign,2026-10-22 10:54:30.680404
+"Startup taps underwater volcano as energy source in ""proof point"" test",6,0,https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/,2026-10-22 10:54:30.774891
+PingCap TiDB Leaks,352,56,https://fulcrumsec.vg/pingcap/,2026-10-22 10:54:30.915586
+What Is the Karakoram Anomaly?,37,8,https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real,2026-10-22 10:54:31.016018
+Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case,576,330,https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html,2026-10-22 10:54:31.163556
+Tiny possum and glider thought extinct for 6000 years found in remote West Papua,222,51,https://www.bbc.com/news/articles/cp814l80pw2o,2026-10-22 10:54:31.269626
+Code is clay now,181,115,https://www.albertodenia.com/writing/code-is-clay-now,2026-10-22 10:54:31.365961
+mitmproxy adds --emudhra option,492,117,https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b,2026-10-22 10:54:31.516463
+OpenAI models are coming to Google Cloud,294,122,https://openai.com/index/openai-models-google-cloud/,2026-10-22 10:54:31.617900
+"I can't use generic lambdas at compile-time, now what?",14,1,https://blog.ganets.ky/ClangGenericLambdas/,2026-10-22 10:54:31.722698
+DuckDB 2.0.0 LTS “Cinnamon Teal”,424,56,https://duckdb.org/2026/10/21/announcing-duckdb-200,2026-10-22 10:54:31.818415
+Beyond the &,69,4,https://lwn.net/Articles/1096028/,2026-10-22 10:54:31.960331
+"Today's PHP security release, and how we're strengthening security",743,368,https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/,2026-10-22 10:54:32.058922
