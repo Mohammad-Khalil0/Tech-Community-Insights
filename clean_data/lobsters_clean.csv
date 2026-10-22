@@ -3777,3 +3777,6 @@ Tell your network to explain itself and then some,7,1,https://unixdigest.com/tut
 I built a garbage collector for Rust (2023),4,1,https://claytonwramsey.com/blog/dumpster/,https://lobste.rs/s/ju4q1u,abhin4v,,2026-10-22 16:21:24,['rust'],ju4q1u,hot,lobsters
 Script dependencies with Nix,4,1,https://entropicthoughts.com/python-dependencies-with-nix,https://lobste.rs/s/oeehgs,abhin4v,,2026-10-22 16:21:24,['nix'],oeehgs,hot,lobsters
 Header Accordions: QPACK amplification attacks against HTTP/3 servers,2,0,https://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers,https://lobste.rs/s/l2l50n,typesanitizer,,2026-10-22 16:21:24,['security'],l2l50n,hot,lobsters
+Expose only share links of a private service with caddy,12,3,https://dataswamp.org/~solene/2026-10-21-caddy-forward-auth-public-share-links.html,https://lobste.rs/s/tu5ynp,ggpsv,,2026-10-22 21:01:14,"['devops', 'security']",tu5ynp,hot,lobsters
+"Objects, attributes, maps, oh my",11,3,https://bernsteinbear.com/blog/object-shapes/,https://lobste.rs/s/8rkyrl,priime,,2026-10-22 21:01:14,['compilers'],8rkyrl,hot,lobsters
+Docker is weird,3,1,https://codeandcake.dev/posts/2026-10-22-docker-is-weird,https://lobste.rs/s/xsz9sc,nick4,,2026-10-22 21:01:14,['programming'],xsz9sc,hot,lobsters
