@@ -3762,3 +3762,8 @@ Don't throw it all away: Caching an immediate-mode UI,12,0,https://blickeditor.c
 Passkeys Attestation Trap,7,1,https://mjtsai.com/blog/2026/10/15/passkeys-attestation-trap/,https://lobste.rs/s/cdnepk,kaimac,,2026-10-21 21:04:21,"['security', 'web']",cdnepk,hot,lobsters
 "Flow Typing, A New Lens on Linearity",8,0,https://jaredforsyth.com/posts/papers-we-love-lens-on-linearity/,https://lobste.rs/s/cquwex,azhenley,,2026-10-21 21:04:21,['plt'],cquwex,hot,lobsters
 Google's Rust Style Guide,7,0,https://google.github.io/styleguide/rustguide.html,https://lobste.rs/s/9jgl3x,kaycebasques,,2026-10-21 21:04:21,['rust'],9jgl3x,hot,lobsters
+Railway Security Disclosure: Wednesday October 21st,9,1,https://blog.railway.com/p/security-disclosure-wednesday-october-21st,https://lobste.rs/s/wi4nnl,veverkap,,2026-10-22 02:38:28,"['devops', 'security']",wi4nnl,hot,lobsters
+GitLab Critical Patch Release,9,2,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/,https://lobste.rs/s/pnpcso,dzwdz,,2026-10-22 02:38:28,"['security', 'vcs']",pnpcso,hot,lobsters
+Embedding EYG in Erlang programs,4,0,https://eyg.run/guides/embedding-eyg-in-erlang-programs,https://lobste.rs/s/deqmg0,crowdhailer,,2026-10-22 02:38:28,['erlang'],deqmg0,hot,lobsters
+Understanding Nix flakes,5,0,https://lwn.net/SubscriberLink/1094226/7bb13383b169d475/,https://lobste.rs/s/wno4h3,vinipsmaker,,2026-10-22 02:38:28,['nix'],wno4h3,hot,lobsters
+Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor,5,0,https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor,https://lobste.rs/s/2czsv4,atmosx,,2026-10-22 02:38:28,"['ai-tooling', 'security']",2czsv4,hot,lobsters
