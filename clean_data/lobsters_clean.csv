@@ -3785,3 +3785,7 @@ Quad9 DNS Resolver to exit France,34,0,https://quad9.net/news/blog/au-revoir-fra
 Please don't mess with links,8,0,https://maurycyz.com/misc/real_links/,https://lobste.rs/s/mucay8,gavinmorrow,,2026-10-23 02:42:27,['web'],mucay8,hot,lobsters
 UUIDv7 doesn't have the properties you think it does,3,0,https://alexsci.com/blog/uuidv7-is-weird/,https://lobste.rs/s/kcyzco,robalex,,2026-10-23 02:42:27,"['distributed', 'python']",kcyzco,hot,lobsters
 We have Traits at Home,4,2,https://www.axelmagn.com/blog/202610-zig-traits/,https://lobste.rs/s/05xrj8,Defelo,,2026-10-23 02:42:27,['zig'],05xrj8,hot,lobsters
+Debunking Faster than Rust: Malicious Benchmarks in Tov,6,1,https://blog.fyralabs.com/debunking-faster-than-rust-malicious-benchmarks-in-tov/,https://lobste.rs/s/gajtrm,ettolrach,,2026-10-23 10:45:43,['performance'],gajtrm,hot,lobsters
+The Hibernate Origin Story (Outsider Edition),4,2,https://fishbowl.pastiche.org/2026/10/23/hibernate-origin-story,https://lobste.rs/s/ydmw6s,ubernostrum,,2026-10-23 10:45:43,"['databases', 'historical', 'java']",ydmw6s,hot,lobsters
+The Many Many Missed Opportunities of Sonic 06,6,0,https://isaacmarovitz.com/posts/sonic-06/,https://lobste.rs/s/nb7wkp,calvin,,2026-10-23 10:45:43,"['games', 'graphics', 'reversing']",nb7wkp,hot,lobsters
+Color Names,1,0,https://names.color.pizza/,https://lobste.rs/s/y3xp76,fs111,,2026-10-23 10:45:43,['design'],y3xp76,hot,lobsters
