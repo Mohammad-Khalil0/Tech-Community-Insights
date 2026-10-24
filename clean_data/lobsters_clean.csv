@@ -3806,3 +3806,7 @@ Attention people who think UB is fine,1,0,https://blog.habets.se/2026/10/Attenti
 Incremental Computation Graphs,3,3,https://dziban.net/posts/incremental-computation-graph/,https://lobste.rs/s/6utrvz,marcecoll,,2026-10-24 02:40:30,['programming'],6utrvz,hot,lobsters
 "Memory is slow, Disk is fast",3,2,https://www.bitflux.ai/blog/memory-is-slow-part3/,https://lobste.rs/s/pvfzhq,typesanitizer,,2026-10-24 02:40:30,['performance'],pvfzhq,hot,lobsters
 An Incremental Approach to JIT Construction,2,1,https://dl.acm.org/doi/pdf/10.1145/3830440.3832304,https://lobste.rs/s/hmtqfl,BD103,,2026-10-24 02:40:30,"['compilers', 'education', 'pdf']",hmtqfl,hot,lobsters
+Indian government sites are serving revoked eMudhra certificates,13,1,https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/,https://lobste.rs/s/zug8xv,adityaathalye,,2026-10-24 10:02:36,['security'],zug8xv,hot,lobsters
+Twelve years of distributed SQLite,4,0,https://philipotoole.com/twelve-years-of-distributed-sqlite/,https://lobste.rs/s/rqefcw,tomas,,2026-10-24 10:02:36,['databases'],rqefcw,hot,lobsters
+Emacs finally folds to my liking,1,0,https://jointhefreeworld.org/blog/articles/emacs/emacs-folding-kirigami/,https://lobste.rs/s/yczems,ehamberg,,2026-10-24 10:02:36,['emacs'],yczems,hot,lobsters
+Big Runtimes Make Efficient Programs,1,0,https://www.youtube.com/watch?v=vhDwy1eCXbs,https://lobste.rs/s/g5k2pc,BratishkaErik,,2026-10-24 10:02:36,"['compilers', 'java', 'performance', 'video']",g5k2pc,hot,lobsters
