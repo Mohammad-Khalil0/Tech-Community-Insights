@@ -3832,3 +3832,9 @@ SIMD-accelerated computer vision on a $2 microcontroller,2,0,https://shraiwi.com
 Partial Order Precedence,2,1,https://ziglang.org/devlog/2026/#2026-10-24,https://lobste.rs/s/kiivg2,liberty,,2026-10-25 15:19:40,['zig'],kiivg2,hot,lobsters
 When a glibc update accidentally breaks Chromium's audio (2021),7,2,https://refi64.dev/posts/chromium-audio-break.html,https://lobste.rs/s/5ullyu,seb,,2026-10-25 20:11:45,"['c', 'debugging', 'programming']",5ullyu,hot,lobsters
 Every Clojure Talk Ever (2018),1,1,https://www.youtube.com/watch?v=jlPaby7suOc,https://lobste.rs/s/mug4of,miro,,2026-10-25 20:11:45,"['clojure', 'satire', 'video']",mug4of,hot,lobsters
+Simple NetBSD webserver,9,2,https://bsandro.tech/posts/simple-netbsd-webserver/,https://lobste.rs/s/hzrmwz,bsandro,,2026-10-26 02:28:55,['netbsd'],hzrmwz,hot,lobsters
+The Goose Programming Language,7,3,https://aardappel.github.io/goose/,https://lobste.rs/s/dkoryq,mpweiher,,2026-10-26 02:28:55,['plt'],dkoryq,hot,lobsters
+Building Java ME Apps with Modern Tooling,8,2,https://voxelmanip.se/2026/10/24/building-java-me-apps-with-modern-tooling/,https://lobste.rs/s/ekwolo,mhd,,2026-10-26 02:28:55,"['java', 'retrocomputing']",ekwolo,hot,lobsters
+Reverse-Engineering Instruction Encodings (2001),3,0,https://www.usenix.org/legacy/events/usenix01/full_papers/hsieh/hsieh_html/,https://lobste.rs/s/1q1rc1,calvin,,2026-10-26 02:28:55,"['assembly', 'reversing']",1q1rc1,hot,lobsters
+“AI Skills” are worthless in 2026,2,0,https://fishbowl.pastiche.org/2026/10/26/ai-skills,https://lobste.rs/s/x1s5oq,ubernostrum,,2026-10-26 02:28:55,"['ai-tooling', 'practices']",x1s5oq,hot,lobsters
+Two musings on the design of compiler warnings (2020),1,1,https://quuxplusone.github.io/blog/2020/09/02/wparentheses/,https://lobste.rs/s/kfaimp,seb,,2026-10-26 02:28:55,['compilers'],kfaimp,hot,lobsters
