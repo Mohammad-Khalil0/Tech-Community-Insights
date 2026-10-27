@@ -3863,3 +3863,8 @@ The Exponential Time Hypothesis Is False [pdf],7,0,https://github.com/openai/mat
 (VCF Midwest 2026) Building a Living 90s Internet for Vintage Computers,3,0,https://www.youtube.com/watch?v=mZfJ-sulqQs,https://lobste.rs/s/uhfzlv,CursedSilicon,,2026-10-27 03:03:40,"['retrocomputing', 'video']",uhfzlv,hot,lobsters
 Our Response To The eMudhra Key Disclosure Incident,5,0,https://go.dev/blog/emudhra-incident,https://lobste.rs/s/cxdpiu,cgrinds,,2026-10-27 03:03:40,['go'],cxdpiu,hot,lobsters
 The result of the C++26 DIS ballot,8,1,https://train-it.eu/blog/cpp26-contracts-the-ballot-result/,https://lobste.rs/s/nxfown,fanf,,2026-10-27 03:03:40,['c++'],nxfown,hot,lobsters
+Python's experimental JIT to be removed,21,0,https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/,https://lobste.rs/s/cajuq6,val,,2026-10-27 11:19:15,['python'],cajuq6,hot,lobsters
+Keyless Entry: Hacking SwitchBot Smart Locks,3,1,https://neodyme.io/en/blog/switchbot,https://lobste.rs/s/n92yur,ema-pe,,2026-10-27 11:19:15,"['cryptography', 'reversing']",n92yur,hot,lobsters
+Full Haskell-like Type Class resolution in Java,2,0,https://garciat.com/posts/java-type-classes/,https://lobste.rs/s/beiiil,abhin4v,,2026-10-27 11:19:15,"['haskell', 'java', 'plt']",beiiil,hot,lobsters
+TypeScript and Haskell: Unions & Singletons (2024),2,0,https://garciat.com/posts/haskell-union-types/,https://lobste.rs/s/adprro,abhin4v,,2026-10-27 11:19:15,"['haskell', 'plt']",adprro,hot,lobsters
+Code.org's Excellent Beginner Programming Courses Gets Lost in the AI Hype,1,0,https://studio.code.org/courses/express-2025,https://lobste.rs/s/tyoboh,chkas,,2026-10-27 11:19:15,"['education', 'programming']",tyoboh,hot,lobsters
