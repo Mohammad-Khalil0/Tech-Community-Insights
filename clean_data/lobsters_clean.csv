@@ -3868,3 +3868,11 @@ Keyless Entry: Hacking SwitchBot Smart Locks,3,1,https://neodyme.io/en/blog/swit
 Full Haskell-like Type Class resolution in Java,2,0,https://garciat.com/posts/java-type-classes/,https://lobste.rs/s/beiiil,abhin4v,,2026-10-27 11:19:15,"['haskell', 'java', 'plt']",beiiil,hot,lobsters
 TypeScript and Haskell: Unions & Singletons (2024),2,0,https://garciat.com/posts/haskell-union-types/,https://lobste.rs/s/adprro,abhin4v,,2026-10-27 11:19:15,"['haskell', 'plt']",adprro,hot,lobsters
 Code.org's Excellent Beginner Programming Courses Gets Lost in the AI Hype,1,0,https://studio.code.org/courses/express-2025,https://lobste.rs/s/tyoboh,chkas,,2026-10-27 11:19:15,"['education', 'programming']",tyoboh,hot,lobsters
+A stackless floodfill automation (2023),7,1,https://t3x.org/files/floodfill.pdf,https://lobste.rs/s/tp0zlk,pushcx,,2026-10-27 17:06:29,"['compsci', 'pdf']",tp0zlk,hot,lobsters
+Compile-Time Dependent Types,4,0,https://thenumb.at/Syl-Intro/,https://lobste.rs/s/d09iy3,polywolf,,2026-10-27 17:06:29,"['ml', 'plt']",d09iy3,hot,lobsters
+A fast and secure tar parser for the Rust ecosystem,1,0,https://astral.sh/blog/tar-codec,https://lobste.rs/s/q7arzy,yossarian,,2026-10-27 17:06:29,"['python', 'rust']",q7arzy,hot,lobsters
+slughorn — GPU Vector Graphics,3,0,https://slughorn.io/,https://lobste.rs/s/en7rby,whereswaldon,,2026-10-27 17:06:29,['graphics'],en7rby,hot,lobsters
+Finding panics with Call Graph Analyzer,2,0,https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/,https://lobste.rs/s/opqtiv,icefox,,2026-10-27 17:06:29,"['compilers', 'rust']",opqtiv,hot,lobsters
+A select should tell you something,3,0,https://alfy.blog/2026/10/27/a-select-should-tell-you-something.html,https://lobste.rs/s/3mnrlw,abhin4v,,2026-10-27 17:06:29,['css'],3mnrlw,hot,lobsters
+"Filian, Fil-C binaries on Debian",1,1,https://cr.yp.to/2025/fil-c.html,https://lobste.rs/s/rs6ce2,lollipopman,,2026-10-27 17:06:29,"['c', 'linux']",rs6ce2,hot,lobsters
+Gforth 1.0,11,2,https://gforth.org/manual/1.0/NEWS.html,https://lobste.rs/s/bgpsuu,fanf,,2026-10-27 17:06:29,"['concatenative', 'release']",bgpsuu,hot,lobsters
