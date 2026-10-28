@@ -3901,3 +3901,5 @@ Forging a Microsoft Edge Full Chain with Logic Bugs Only,8,0,https://blog.orange
 Raspberry Pi Zero 3 W and Pi 4 Model A on the Way?,5,0,https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/,https://lobste.rs/s/hqcvyj,technetium,,2026-10-28 17:42:12,"['hardware', 'linux']",hqcvyj,hot,lobsters
 Making SIMD Code Scale to Any Vector Width,4,0,https://streamhpc.com/blog/2026-10-28/making-simd-code-scale-to-any-vector-width/,https://lobste.rs/s/3jyfg9,MyNameIsTrez,,2026-10-28 17:42:12,"['assembly', 'c++', 'graphics', 'performance']",3jyfg9,hot,lobsters
 Hoot 0.10.0 released,2,0,https://spritely.institute/news/hoot-0-10-0-released.html,https://lobste.rs/s/m3gsln,FedericoSchonborn,,2026-10-28 17:42:12,"['lisp', 'release']",m3gsln,hot,lobsters
+Why Is This Fingerprinting Script Creating Bioweapons?,5,0,https://nullpt.rs/fingerprinting-bioweapons,https://lobste.rs/s/gvy5gz,haze,,2026-10-28 22:02:27,"['ai', 'reversing']",gvy5gz,hot,lobsters
+Foundational Cryptography in SPARK,3,1,https://www.adacore.com/blog/foundational-cryptography-in-spark,https://lobste.rs/s/sd75mw,eatonphil,,2026-10-28 22:02:27,"['cryptography', 'formalmethods']",sd75mw,hot,lobsters
