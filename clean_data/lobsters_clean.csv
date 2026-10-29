@@ -3908,3 +3908,8 @@ EMACS turns 50,18,0,https://www.technologyreview.com/2026/10/20/1145399/emacs-tu
 The case of the 9 bit AES key,4,0,https://v12.sh/blog/the-case-of-the-9bit-aes-key,https://lobste.rs/s/dqexzg,riking,,2026-10-29 03:40:36,"['cryptography', 'reversing']",dqexzg,hot,lobsters
 Introducing the Accessible Components Library,4,0,https://tetralogical.com/blog/2026/10/14/accessible-components-library/,https://lobste.rs/s/ssp7ug,robalex,,2026-10-29 03:40:36,"['a11y', 'web']",ssp7ug,hot,lobsters
 Redox Ring Buffers Project Summary,3,0,https://www.redox-os.org/news/nlnet-rb-summary/,https://lobste.rs/s/brdwr2,rslabbert,,2026-10-29 03:40:36,['osdev'],brdwr2,hot,lobsters
+What the fox say?,16,4,https://entropicthoughts.com/what-the-fox-say,https://lobste.rs/s/7qaac6,kqr,,2026-10-29 12:00:37,['games'],7qaac6,hot,lobsters
+The Future Trait Has A Missing State,11,2,https://blog.yoshuawuyts.com/the-future-trait-has-a-missing-state,https://lobste.rs/s/jmbjlu,fanf,,2026-10-29 12:00:37,['rust'],jmbjlu,hot,lobsters
+"Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5",5,0,https://divagr.com/blog/qwenputer,https://lobste.rs/s/zftely,ndr,,2026-10-29 12:00:37,['ai'],zftely,hot,lobsters
+Go Empty Interface Explained & The Hidden Heap Allocation,1,0,https://www.youtube.com/watch?v=_BxdvkLLnDc,https://lobste.rs/s/1hbwvl,func25,,2026-10-29 12:00:37,['go'],1hbwvl,hot,lobsters
+Syrinx: A censorship-resistant communications platform,1,0,https://var0xyz.github.io/syrinx/,https://lobste.rs/s/25dapz,var0xyz,,2026-10-29 12:00:37,"['release', 'show']",25dapz,hot,lobsters
