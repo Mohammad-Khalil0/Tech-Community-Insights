@@ -3903,3 +3903,8 @@ Making SIMD Code Scale to Any Vector Width,4,0,https://streamhpc.com/blog/2026-1
 Hoot 0.10.0 released,2,0,https://spritely.institute/news/hoot-0-10-0-released.html,https://lobste.rs/s/m3gsln,FedericoSchonborn,,2026-10-28 17:42:12,"['lisp', 'release']",m3gsln,hot,lobsters
 Why Is This Fingerprinting Script Creating Bioweapons?,5,0,https://nullpt.rs/fingerprinting-bioweapons,https://lobste.rs/s/gvy5gz,haze,,2026-10-28 22:02:27,"['ai', 'reversing']",gvy5gz,hot,lobsters
 Foundational Cryptography in SPARK,3,1,https://www.adacore.com/blog/foundational-cryptography-in-spark,https://lobste.rs/s/sd75mw,eatonphil,,2026-10-28 22:02:27,"['cryptography', 'formalmethods']",sd75mw,hot,lobsters
+GitLab security incident: attempted exploitation of CVE-2026-97229,13,2,https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html,https://lobste.rs/s/2zsjwt,durrendal,,2026-10-29 03:40:36,"['linux', 'security']",2zsjwt,hot,lobsters
+EMACS turns 50,18,0,https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/,https://lobste.rs/s/uimyck,facundoolano,,2026-10-29 03:40:36,"['emacs', 'historical']",uimyck,hot,lobsters
+The case of the 9 bit AES key,4,0,https://v12.sh/blog/the-case-of-the-9bit-aes-key,https://lobste.rs/s/dqexzg,riking,,2026-10-29 03:40:36,"['cryptography', 'reversing']",dqexzg,hot,lobsters
+Introducing the Accessible Components Library,4,0,https://tetralogical.com/blog/2026/10/14/accessible-components-library/,https://lobste.rs/s/ssp7ug,robalex,,2026-10-29 03:40:36,"['a11y', 'web']",ssp7ug,hot,lobsters
+Redox Ring Buffers Project Summary,3,0,https://www.redox-os.org/news/nlnet-rb-summary/,https://lobste.rs/s/brdwr2,rslabbert,,2026-10-29 03:40:36,['osdev'],brdwr2,hot,lobsters
