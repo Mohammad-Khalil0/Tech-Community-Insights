@@ -3913,3 +3913,12 @@ The Future Trait Has A Missing State,11,2,https://blog.yoshuawuyts.com/the-futur
 "Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5",5,0,https://divagr.com/blog/qwenputer,https://lobste.rs/s/zftely,ndr,,2026-10-29 12:00:37,['ai'],zftely,hot,lobsters
 Go Empty Interface Explained & The Hidden Heap Allocation,1,0,https://www.youtube.com/watch?v=_BxdvkLLnDc,https://lobste.rs/s/1hbwvl,func25,,2026-10-29 12:00:37,['go'],1hbwvl,hot,lobsters
 Syrinx: A censorship-resistant communications platform,1,0,https://var0xyz.github.io/syrinx/,https://lobste.rs/s/25dapz,var0xyz,,2026-10-29 12:00:37,"['release', 'show']",25dapz,hot,lobsters
+NetBSD adds a new Emacs-like text editor called atto,24,14,https://mastodon.sdf.org/@netbsd/117518160563539748,https://lobste.rs/s/m6fw0x,luke8086,,2026-10-29 18:17:05,"['editors', 'netbsd']",m6fw0x,hot,lobsters
+Building NixOS using Nixtamal,5,3,https://nixtamal.toast.al/cookbook/nixos-using-nixtamal/,https://lobste.rs/s/4x3ten,toastal,,2026-10-29 18:17:05,['nix'],4x3ten,hot,lobsters
+My favourite PowerMac is a Nintendo Wii,7,0,https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/,https://lobste.rs/s/siebde,ninakali,,2026-10-29 18:17:05,"['retrocomputing', 'reversing']",siebde,hot,lobsters
+The Web Can't Afford a JavaScript Runtime Monoculture,2,3,https://redmonk.com/kholterhoff/2026/10/27/js-runtime-monoculture/,https://lobste.rs/s/x6n380,hongminhee,,2026-10-29 18:17:05,['javascript'],x6n380,hot,lobsters
+Extremely brief history of PDP computers,3,1,https://entropicthoughts.com/history-of-pdp-computers,https://lobste.rs/s/ldvd3n,icefox,,2026-10-29 18:17:05,"['hardware', 'historical']",ldvd3n,hot,lobsters
+Will Open Firmware Become the Next Big Trend in Electronic Music Gear?,4,0,https://www.synthtopia.com/content/2026/10/28/will-open-firmware-become-the-next-big-trend-in-electronic-music-gear/,https://lobste.rs/s/j4ntsz,snej,,2026-10-29 18:17:05,"['art', 'hardware']",j4ntsz,hot,lobsters
+Phorge,3,0,https://www.phorge.it/,https://lobste.rs/s/tw3rsp,miro,,2026-10-29 18:17:05,"['php', 'vcs']",tw3rsp,hot,lobsters
+Nim version 2.4.0 released,4,0,https://nim-lang.org/blog/2026/10/28/nim-240.html,https://lobste.rs/s/vfllme,durrendal,,2026-10-29 18:17:05,['programming'],vfllme,hot,lobsters
+"uji · A small, composable coding agent",1,0,https://uji.sh,https://lobste.rs/s/v7defp,dracarys_18,,2026-10-29 18:17:05,"['ai', 'lua', 'rust']",v7defp,hot,lobsters
