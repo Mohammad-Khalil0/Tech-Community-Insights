@@ -3939,3 +3939,8 @@ Shrinking NixOS Ram footprint and resource requirements to the bare minimum,4,0,
 Smart audio for the smart home (2021),3,1,https://computer.rip/2021-11-06-smart-audio-for-the-smart-home.html,https://lobste.rs/s/paqtgw,viraptor,,2026-10-30 17:30:40,['historical'],paqtgw,hot,lobsters
 Go 1.28's HTTP/2 Parking: Measuring Memory Savings,2,0,https://abdolirad.me/articles/go-1-28-http2-parking-memory/,https://lobste.rs/s/mhmqky,rcalixte,,2026-10-30 17:30:40,['go'],mhmqky,hot,lobsters
 Building fine-grained version control for agents with Rust and Durable Objects,0,0,https://delta.dev/blog/fine-grained-version-control-for-agents,https://lobste.rs/s/cctbcu,tomhoule,,2026-10-30 17:30:40,"['ai', 'vcs']",cctbcu,hot,lobsters
+The federated code forge,18,8,https://tangled.org/blog/forge/,https://lobste.rs/s/ukj8mm,novedevo,,2026-10-30 21:49:42,"['distributed', 'vcs']",ukj8mm,hot,lobsters
+Protecting against CVE-2026-98432,4,0,https://groups.google.com/g/golang-announce/c/PCoQcdxoScw,https://lobste.rs/s/mp8yqt,func25,,2026-10-30 21:49:42,"['go', 'security']",mp8yqt,hot,lobsters
+Getting Google Cast on my Soundbar,6,0,https://codon.org.uk/~mjg59/blog/p/getting-google-cast-on-my-soundbar/,https://lobste.rs/s/uyobll,untitaker,,2026-10-30 21:49:42,['reversing'],uyobll,hot,lobsters
+Switch lowering in GCC,5,0,https://xoranth.net/gcc-switch/,https://lobste.rs/s/ncclwy,jo3_l,,2026-10-30 21:49:42,"['compilers', 'performance']",ncclwy,hot,lobsters
+Defending the patch gap against automated attackers,1,0,https://blog.mozilla.org/en/firefox/privacy-security/defending-patch-gap/,https://lobste.rs/s/dtvr7y,alcortazzo,,2026-10-30 21:49:42,"['browsers', 'security']",dtvr7y,hot,lobsters
