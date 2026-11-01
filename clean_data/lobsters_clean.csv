@@ -3970,3 +3970,15 @@ Release 0.6.0 · buzz-language/buzz,1,0,https://buzz-lang.dev/0.6.0,https://lobs
 Non-Determinism and Overcount on Modern Hardware Performance Counter Implementations,2,0,https://web.eece.maine.edu/~vweaver/projects/deterministic/deterministic_counters.pdf,https://lobste.rs/s/pswl6z,typesanitizer,,2026-11-01 12:24:03,"['hardware', 'pdf', 'performance']",pswl6z,hot,lobsters
 "No AI, 52 min. Build all Linux Files utils in C by Hand",0,0,https://www.youtube.com/watch?v=gQRmSlcTq9c,https://lobste.rs/s/daouvo,anex9d,,2026-11-01 12:24:03,"['c', 'video']",daouvo,hot,lobsters
 A brief history of just-in-time (2003),2,0,https://dl.acm.org/doi/10.1145/857076.857077,https://lobste.rs/s/h6dt6e,fanf,,2026-11-01 12:24:03,"['compilers', 'historical', 'pdf']",h6dt6e,hot,lobsters
+An outsider's perspective on Scion and Mononoke,28,3,https://typesanitizer.com/blog/scion.html,https://lobste.rs/s/s2qeww,typesanitizer,,2026-11-01 21:31:21,['vcs'],s2qeww,hot,lobsters
+Pratt parsing is a black box,18,8,https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/,https://lobste.rs/s/bzazar,vinipsmaker,,2026-11-01 21:31:21,"['compilers', 'plt']",bzazar,hot,lobsters
+Work on GEFS (the Good Enough File System) for OpenBSD progresses,7,0,https://www.undeadly.org/cgi?action=article;sid=20261101115637,https://lobste.rs/s/zjjvbo,jbauer,,2026-11-01 21:31:21,['openbsd'],zjjvbo,hot,lobsters
+"groff/troff macros: ms, mm, me or mom",12,0,https://www.stephenlindholm.com/groff_macros.html,https://lobste.rs/s/dbwbvr,bediger4000,,2026-11-01 21:31:21,['unix'],dbwbvr,hot,lobsters
+Zig: From Beginner to Slightly Less Beginner,7,0,https://www.youtube.com/watch?v=jWCQXBVIyrY,https://lobste.rs/s/uhlnqx,rcalixte,,2026-11-01 21:31:21,"['video', 'zig']",uhlnqx,hot,lobsters
+so i guess everyone uses llms to think now,4,0,https://eva.ac/blog/llms,https://lobste.rs/s/ikfsgt,xyzeva,,2026-11-01 21:31:21,"['ai', 'culture']",ikfsgt,hot,lobsters
+Introduction to Programming in ATS,3,2,https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html,https://lobste.rs/s/oqj2zo,WilhelmVonWeiner,,2026-11-01 21:31:21,"['book', 'plt']",oqj2zo,hot,lobsters
+An easy way to try local AI with braindead-local-intelligence,3,0,https://dataswamp.org/~solene/2026-11-01-braindead-local-intelligence.html,https://lobste.rs/s/rlmrfy,msangi,,2026-11-01 21:31:21,['ai'],rlmrfy,hot,lobsters
+Spooky C++,4,0,https://www.nablag.com/spooky_cpp,https://lobste.rs/s/4yxx6f,raymii,,2026-11-01 21:31:21,['c++'],4yxx6f,hot,lobsters
+A Specialised Haskell Processor on FPGA,4,1,https://bathtub-01.github.io/technical/ouros-demo/,https://lobste.rs/s/8o9wus,veqq,,2026-11-01 21:31:21,"['hardware', 'haskell']",8o9wus,hot,lobsters
+Beating the compiler at signed 32-bit division,4,1,https://lemire.me/blog/2026/10/31/beating-the-compiler-at-signed-32-bit-division/,https://lobste.rs/s/ep5vsq,EvanHahn,,2026-11-01 21:31:21,"['compilers', 'performance']",ep5vsq,hot,lobsters
+Dead Internet theory,3,10,https://en.wikipedia.org/wiki/Dead_Internet_theory,https://lobste.rs/s/uia6c3,icefox,,2026-11-01 21:31:21,"['culture', 'philosophy']",uia6c3,hot,lobsters
