@@ -3987,3 +3987,11 @@ Understanding Org's LaTeX previews,4,0,https://karthinks.com/software/understand
 "The Problem with C++ Safety: Modern C++ Is a Mindset, Not a Standard",2,1,https://www.modernescpp.com/index.php/cpp-and-memory-safety-part-2/,https://lobste.rs/s/wq34n7,nrposner,,2026-11-02 03:38:36,['c++'],wq34n7,hot,lobsters
 A400000 Winners,1,0,https://oeis.org/wiki/A400K_Winners,https://lobste.rs/s/reerrq,dzwdz,,2026-11-02 03:38:36,['math'],reerrq,hot,lobsters
 The Beginning of BSD Unix,1,0,https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/,https://lobste.rs/s/3nasb5,jaypatelani,,2026-11-02 03:38:36,['unix'],3nasb5,hot,lobsters
+"Tyrtulia, a headless forum with no passwords, made for the terminal",4,18,https://en.andros.dev/blog/b5c8c6aa/i-built-a-forum-with-no-interface-no-passwords-made-for-the-terminal/,https://lobste.rs/s/caksp0,andros,,2026-11-02 14:19:33,"['linux', 'python', 'show']",caksp0,hot,lobsters
+My reflex of assuming our servers need ever-growing amounts of RAM,7,3,https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ServerRAMGrowthReflex,https://lobste.rs/s/saskzi,davidklassen,,2026-11-02 14:19:33,"['devops', 'hardware']",saskzi,hot,lobsters
+JPEG XS - Wikipedia,5,5,https://en.wikipedia.org/wiki/JPEG_XS,https://lobste.rs/s/xmu28l,HugoDaniel,,2026-11-02 14:19:33,['graphics'],xmu28l,hot,lobsters
+Program,2,0,https://schmud.de/posts/2026-11-02-program.html,https://lobste.rs/s/yv7udx,schmudde,,2026-11-02 14:19:33,['programming'],yv7udx,hot,lobsters
+Building a gemini server in python,5,0,https://www.willmunn.xyz/gemini/python/2026/10/16/we-have-lift-off.html,https://lobste.rs/s/yreydk,raoulmillais,,2026-11-02 14:19:33,['python'],yreydk,hot,lobsters
+the lost malloc(),6,0,https://napcakes.nekoweb.org/posts/malloc/,https://lobste.rs/s/ihqhia,spc476,,2026-11-02 14:19:33,"['c', 'historical', 'unix']",ihqhia,hot,lobsters
+gohawk | Resource-focused static analysis for Go,2,1,https://gohawk.dev,https://lobste.rs/s/xrqppo,mxey,,2026-11-02 14:19:33,['go'],xrqppo,hot,lobsters
+Union Types and Option Types,2,0,https://tibleiz.net/blog/2025-03-16-union-types-and-option-types.html,https://lobste.rs/s/mwqrct,nutmeg,,2026-11-02 14:19:33,['plt'],mwqrct,hot,lobsters
