@@ -4007,3 +4007,7 @@ The advantages of mobile Linux over AOSP,5,6,https://amosbbatto.wordpress.com/20
 An Introduction to Bε-trees and Write-Optimization,4,0,https://www.usenix.org/publications/login/oct15/bender,https://lobste.rs/s/0ec9yk,manuel,,2026-11-03 00:14:20,['databases'],0ec9yk,hot,lobsters
 Virtual Art Museum built with Three js,5,2,https://dostoynikov.bearblog.dev/virtual-museum-for-my-wifes-artworks/,https://lobste.rs/s/c8ayyw,dostoynikov,,2026-11-03 00:14:20,"['art', 'culture', 'javascript']",c8ayyw,hot,lobsters
 New Release: Tor Browser 16.0,6,0,https://blog.torproject.org/new-release-tor-browser-160/,https://lobste.rs/s/ifznly,demiguru,,2026-11-03 00:14:20,"['browsers', 'privacy']",ifznly,hot,lobsters
+Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights,30,4,https://rikiyat.github.io/blog/weight-space-programming/,https://lobste.rs/s/u7wdqj,timschumi,,2026-11-03 13:20:28,['ai'],u7wdqj,hot,lobsters
+git-loom 1.0,4,1,https://narnaud.github.io/git-loom/introduction.html,https://lobste.rs/s/bw6uqz,skade,,2026-11-03 13:20:28,['vcs'],bw6uqz,hot,lobsters
+Why we're moving our warehouse off DuckDB,3,3,https://posthog.com/blog/moving-off-duckdb,https://lobste.rs/s/wpahfd,arcatan,,2026-11-03 13:20:28,['databases'],wpahfd,hot,lobsters
+Firefox Security & Privacy Newsletter 2026 Q3,5,0,https://attackanddefense.dev/2026/11/02/firefox-security-and-privacy-newsletter-q3.html,https://lobste.rs/s/trqbi2,freddyb,,2026-11-03 13:20:28,"['browsers', 'privacy', 'security']",trqbi2,hot,lobsters
