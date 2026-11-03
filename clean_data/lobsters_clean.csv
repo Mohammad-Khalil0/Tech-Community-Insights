@@ -3995,3 +3995,15 @@ Building a gemini server in python,5,0,https://www.willmunn.xyz/gemini/python/20
 the lost malloc(),6,0,https://napcakes.nekoweb.org/posts/malloc/,https://lobste.rs/s/ihqhia,spc476,,2026-11-02 14:19:33,"['c', 'historical', 'unix']",ihqhia,hot,lobsters
 gohawk | Resource-focused static analysis for Go,2,1,https://gohawk.dev,https://lobste.rs/s/xrqppo,mxey,,2026-11-02 14:19:33,['go'],xrqppo,hot,lobsters
 Union Types and Option Types,2,0,https://tibleiz.net/blog/2025-03-16-union-types-and-option-types.html,https://lobste.rs/s/mwqrct,nutmeg,,2026-11-02 14:19:33,['plt'],mwqrct,hot,lobsters
+Jailbreaking my car's navigation system just so I can change the time,65,3,https://blog.nns.ee/2026/11/02/renault-hack/,https://lobste.rs/s/qvdatp,xx,,2026-11-03 00:14:20,"['linux', 'reversing', 'security']",qvdatp,hot,lobsters
+A Decade of Kill Bugs,14,2,https://alangrow.com/blog/a-decade-of-kill-bugs,https://lobste.rs/s/wgoato,acg,,2026-11-03 00:14:20,"['historical', 'linux', 'unix']",wgoato,hot,lobsters
+Stop Hardcoding Your Timeouts,17,2,https://alfy.blog/2026/04/23/stop-hardcoding-your-timeouts.html,https://lobste.rs/s/qa0owz,bahlo,,2026-11-03 00:14:20,"['a11y', 'practices']",qa0owz,hot,lobsters
+Polyend releases the Tracker firmware source code,19,6,https://backstage.polyend.com/t/tracker-the-biggest-update-yet/25120,https://lobste.rs/s/gu6yyl,jussi,,2026-11-03 00:14:20,"['art', 'release']",gu6yyl,hot,lobsters
+This background sound leaks your exact location,10,1,https://youtu.be/UytYrhYLOKI,https://lobste.rs/s/s1btqo,fanf,,2026-11-03 00:14:20,"['math', 'security', 'video']",s1btqo,hot,lobsters
+My favourite laptop,9,1,https://blog.jsbarretto.com/post/laptop,https://lobste.rs/s/ezg5mx,bahlo,,2026-11-03 00:14:20,['hardware'],ezg5mx,hot,lobsters
+SuperVote: 15 year retrospective on an app for sharing political endorsements,7,0,https://callejas.com/a/supervote/,https://lobste.rs/s/jo8vaj,augustocallejas,,2026-11-03 00:14:20,"['ios', 'java']",jo8vaj,hot,lobsters
+Recognizing Keystrokes Using WiFi Devices,8,2,https://ieeexplore.ieee.org/document/7875144,https://lobste.rs/s/8gsafe,Yogthos,,2026-11-03 00:14:20,['security'],8gsafe,hot,lobsters
+The advantages of mobile Linux over AOSP,5,6,https://amosbbatto.wordpress.com/2026/10/19/the-advantages-of-mobile-linux-over-aosp/,https://lobste.rs/s/ldwalv,brn,,2026-11-03 00:14:20,"['linux', 'mobile']",ldwalv,hot,lobsters
+An Introduction to Bε-trees and Write-Optimization,4,0,https://www.usenix.org/publications/login/oct15/bender,https://lobste.rs/s/0ec9yk,manuel,,2026-11-03 00:14:20,['databases'],0ec9yk,hot,lobsters
+Virtual Art Museum built with Three js,5,2,https://dostoynikov.bearblog.dev/virtual-museum-for-my-wifes-artworks/,https://lobste.rs/s/c8ayyw,dostoynikov,,2026-11-03 00:14:20,"['art', 'culture', 'javascript']",c8ayyw,hot,lobsters
+New Release: Tor Browser 16.0,6,0,https://blog.torproject.org/new-release-tor-browser-160/,https://lobste.rs/s/ifznly,demiguru,,2026-11-03 00:14:20,"['browsers', 'privacy']",ifznly,hot,lobsters
