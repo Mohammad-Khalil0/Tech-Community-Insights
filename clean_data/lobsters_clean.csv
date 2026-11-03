@@ -4011,3 +4011,15 @@ Sparks of Weight-Space Programming: LLMs can natively read & write neural networ
 git-loom 1.0,4,1,https://narnaud.github.io/git-loom/introduction.html,https://lobste.rs/s/bw6uqz,skade,,2026-11-03 13:20:28,['vcs'],bw6uqz,hot,lobsters
 Why we're moving our warehouse off DuckDB,3,3,https://posthog.com/blog/moving-off-duckdb,https://lobste.rs/s/wpahfd,arcatan,,2026-11-03 13:20:28,['databases'],wpahfd,hot,lobsters
 Firefox Security & Privacy Newsletter 2026 Q3,5,0,https://attackanddefense.dev/2026/11/02/firefox-security-and-privacy-newsletter-q3.html,https://lobste.rs/s/trqbi2,freddyb,,2026-11-03 13:20:28,"['browsers', 'privacy', 'security']",trqbi2,hot,lobsters
+Death comes for XSLT,57,50,https://dbushell.com/2026/11/03/xslt-rip/,https://lobste.rs/s/chypzr,nytpu,,2026-11-03 22:43:46,"['browsers', 'web']",chypzr,hot,lobsters
+The Ubuntu 26.04 Rust sudo is not compatible with standard sudo,48,25,https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible,https://lobste.rs/s/e201eb,twp,,2026-11-03 22:43:46,"['linux', 'rust']",e201eb,hot,lobsters
+Could a modern chess engine on a Pentium have defeated Kasparov in 1996?,30,6,https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html,https://lobste.rs/s/1gndxr,fanf,,2026-11-03 22:43:46,"['games', 'retrocomputing']",1gndxr,hot,lobsters
+kitty 0.50.0,13,0,https://sw.kovidgoyal.net/kitty/changelog/#id1,https://lobste.rs/s/gwyv50,fuzzypixelz,,2026-11-03 22:43:46,"['release', 'unix']",gwyv50,hot,lobsters
+Would you believe it's jank?,5,2,https://www.youtube.com/watch?v=tHgApFhevrQ,https://lobste.rs/s/xbmjlj,quantumish,,2026-11-03 22:43:46,"['c++', 'clojure', 'video']",xbmjlj,hot,lobsters
+Planning with open variable lists in Gecode,4,0,https://zayenz.se/blog/post/open-cp-in-gecode/,https://lobste.rs/s/rwlg3h,mzl,,2026-11-03 22:43:46,['programming'],rwlg3h,hot,lobsters
+A Second Futamura Projection,6,1,https://blog.veitheller.de/A_Second_Futamura_Projection.html,https://lobste.rs/s/ihvhfk,abhin4v,,2026-11-03 22:43:46,"['compilers', 'plt']",ihvhfk,hot,lobsters
+Common Beliefs About DNSSEC Put to the Test: An Invitation to Fact-Check Your Assumptions,4,1,https://circleid.com/posts/common-beliefs-about-dnssec-put-to-the-test-an-invitation-to-fact-check-your-assumptions,https://lobste.rs/s/qvpzfa,robalex,,2026-11-03 22:43:46,"['networking', 'security']",qvpzfa,hot,lobsters
+Ideas for social networks,11,10,https://raphaelkabo.com/blog/social-network-ideas,https://lobste.rs/s/yes2hc,robalex,,2026-11-03 22:43:46,['culture'],yes2hc,hot,lobsters
+mine,2,0,https://coalton-lang.github.io/mine/,https://lobste.rs/s/znbrpn,veqq,,2026-11-03 22:43:46,"['editors', 'lisp']",znbrpn,hot,lobsters
+Announcing NetBSD 11.1,1,0,https://www.netbsd.org/releases/formal-11/NetBSD-11.1.html,https://lobste.rs/s/siqsg7,FedericoSchonborn,,2026-11-03 22:43:46,"['netbsd', 'release']",siqsg7,hot,lobsters
+macOS 27 Golden Gate does not actually support CoreStorage volumes,1,0,https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/,https://lobste.rs/s/1zetje,junot,,2026-11-03 22:43:46,['mac'],1zetje,hot,lobsters
