@@ -4023,3 +4023,8 @@ Ideas for social networks,11,10,https://raphaelkabo.com/blog/social-network-idea
 mine,2,0,https://coalton-lang.github.io/mine/,https://lobste.rs/s/znbrpn,veqq,,2026-11-03 22:43:46,"['editors', 'lisp']",znbrpn,hot,lobsters
 Announcing NetBSD 11.1,1,0,https://www.netbsd.org/releases/formal-11/NetBSD-11.1.html,https://lobste.rs/s/siqsg7,FedericoSchonborn,,2026-11-03 22:43:46,"['netbsd', 'release']",siqsg7,hot,lobsters
 macOS 27 Golden Gate does not actually support CoreStorage volumes,1,0,https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/,https://lobste.rs/s/1zetje,junot,,2026-11-03 22:43:46,['mac'],1zetje,hot,lobsters
+Observations from Running stealmybitcoin.com,18,0,https://pavursec.com/blog/stealmybitcoin/,https://lobste.rs/s/fgucra,wezm,,2026-11-04 04:06:02,"['php', 'security']",fgucra,hot,lobsters
+The valley of webhooks,1,1,https://weli.dev/blog/the-valley-of-webhooks/,https://lobste.rs/s/in86vn,pushcx,,2026-11-04 04:06:02,['api'],in86vn,hot,lobsters
+Postgres 19 REPACK: Built-In Online Table Bloat Cleanup,3,0,https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/,https://lobste.rs/s/uutnr5,hongminhee,,2026-11-04 04:06:02,['databases'],uutnr5,hot,lobsters
+Gist of Go: Concurrency,2,0,https://antonz.org/go-concurrency/,https://lobste.rs/s/erkjnx,hartzell,,2026-11-04 04:06:02,['go'],erkjnx,hot,lobsters
+Mac at any scale,1,0,https://namespace.so/blog/mac-at-any-scale,https://lobste.rs/s/j1twhe,siddhartha_golu,,2026-11-04 04:06:02,"['hardware', 'networking']",j1twhe,hot,lobsters
