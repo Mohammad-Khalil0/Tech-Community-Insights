@@ -4036,3 +4036,13 @@ Introducing Adaptive Dark Mode,2,3,https://webkit.org/blog/18541/introducing-ada
 Fraction comparison trick revisited,5,0,https://www.johndcook.com/blog/2026/11/03/fraction-comparison-trick-revisited/,https://lobste.rs/s/fcfoqq,freetonik,,2026-11-04 13:31:42,['math'],fcfoqq,hot,lobsters
 How //go:embed Works: From Source Files to Binary,2,0,https://internals-for-interns.com/posts/how-go-embed-works/,https://lobste.rs/s/macxwd,func25,,2026-11-04 13:31:42,['go'],macxwd,hot,lobsters
 Pulling the right strings for RCE on a Puppet,3,0,https://neodyme.io/en/blog/puppet_rce,https://lobste.rs/s/sfzkeb,buherator,,2026-11-04 13:31:42,['security'],sfzkeb,hot,lobsters
+Shlemiel the Painter Is Back: How Zig’s libc Rewrite Made SQLite Slower,50,7,https://dennisforbes.ca/blog/microblog/2026/10/the_accidental_12000x_sqlite_slowdown/,https://lobste.rs/s/lh1j0e,ohrv,,2026-11-04 23:01:22,"['performance', 'rust', 'zig']",lh1j0e,hot,lobsters
+Your Cryptography Conspiracy Theory Is Wrong,41,3,https://soatok.blog/2026/10/29/your-cryptography-conspiracy-theory-is-wrong/,https://lobste.rs/s/bqllfe,fanf,,2026-11-04 23:01:22,['cryptography'],bqllfe,hot,lobsters
+Man-in-the-middle arbitrary code execution in Debian’s apt,23,2,https://lists.debian.org/debian-security-announce/2026/msg00526.html,https://lobste.rs/s/h7bvma,gnyeki,,2026-11-04 23:01:22,"['linux', 'security']",h7bvma,hot,lobsters
+A new Go API for JSON,12,3,https://go.dev/blog/jsonv2,https://lobste.rs/s/gfm0xn,binjip978,,2026-11-04 23:01:22,['go'],gfm0xn,hot,lobsters
+How to speed up the Rust compiler in November 2026,25,0,https://nnethercote.github.io/2026/11/04/how-to-speed-up-the-rust-compiler-in-november-2026.html,https://lobste.rs/s/ecrqpy,polywolf,,2026-11-04 23:01:22,"['compilers', 'rust']",ecrqpy,hot,lobsters
+Lorem Ipsum Dot Gov Dot UK,13,0,https://shkspr.mobi/blog/2026/11/lorem-ipsum-dot-gov-dot-uk/,https://lobste.rs/s/5xljpx,aggsol,,2026-11-04 23:01:22,"['testing', 'web']",5xljpx,hot,lobsters
+Gleam Programming Language Update October 2026,10,0,https://www.youtube.com/watch?v=Jm2HZhwreNs,https://lobste.rs/s/afjqpg,kamila,,2026-11-04 23:01:22,"['gleam', 'video']",afjqpg,hot,lobsters
+Burnt TOAST,6,0,https://www.pgedge.com/blog/burnt-toast,https://lobste.rs/s/dmpdid,fanf,,2026-11-04 23:01:22,['databases'],dmpdid,hot,lobsters
+Python on my wrist,6,0,https://tildeweb.nl/~michiel/python-on-my-wrist.html,https://lobste.rs/s/0vis9y,abnercoimbre,,2026-11-04 23:01:22,"['hardware', 'python']",0vis9y,hot,lobsters
+"Arrows to Arrows, Categories to Queries",4,0,https://reasonablypolymorphic.com/blog/arrows-to-arrows/,https://lobste.rs/s/gqis6q,priime,,2026-11-04 23:01:22,"['databases', 'haskell', 'plt']",gqis6q,hot,lobsters
