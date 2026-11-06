@@ -4070,3 +4070,7 @@ I Go to Olympics of 4KB Coding,3,1,https://inv.nadeko.net/watch?v=PeZNLvD4mds,ht
 Clojure Distilled,1,0,https://yogthos.net/ClojureDistilled.html,https://lobste.rs/s/dxno99,veqq,,2026-11-06 04:25:20,['lisp'],dxno99,hot,lobsters
 MCP Explained: how the Model Context Protocol works,1,0,https://mcp-explained.com/,https://lobste.rs/s/zamj0y,sp6370,,2026-11-06 04:25:20,['building-ai-tooling'],zamj0y,hot,lobsters
 How Windows Bootloader Starts the Kernel,1,0,https://www.youtube.com/watch?v=mxj7z6WqK14,https://lobste.rs/s/ml83td,juliethefoxcoon,,2026-11-06 04:25:20,"['osdev', 'video', 'windows']",ml83td,hot,lobsters
+Making musl and proprietary NVIDIA drivers work together,4,0,https://chimera-linux.org/news/2026/11/musl-nvidia.html,https://lobste.rs/s/hvxjbb,q66,,2026-11-06 13:30:07,['linux'],hvxjbb,hot,lobsters
+"Project 2027: An RFC for rebuilding the internet, the tech economy, and digital infrastructure",0,0,https://joinproject2027.org,https://lobste.rs/s/xpgmvt,maevyn,,2026-11-06 13:30:07,"['finance', 'linux', 'web']",xpgmvt,hot,lobsters
+GitHub Inbox unread count is missing digits,1,0,https://nlopes.dev/writing/i-need-the-missing-digits-github,https://lobste.rs/s/o5rebw,nlopes,,2026-11-06 13:30:07,"['browsers', 'design', 'rant', 'web']",o5rebw,hot,lobsters
+Practical guide on out of tree mitigations on Linux,3,0,https://clehaxze.tw/gemlog/2026/11-04-practical-guide-on-out-of-tree-mitigations-on-linux.gmi,https://lobste.rs/s/l6gu7r,morj,,2026-11-06 13:30:07,['security'],l6gu7r,hot,lobsters
