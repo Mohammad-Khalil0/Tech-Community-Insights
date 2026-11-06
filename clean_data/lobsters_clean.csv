@@ -4065,3 +4065,8 @@ Reflections on Rust in the LLM Age — Bryan Cantrill | Rust NYC,6,0,https://www
 "Why working with AI agents is so tiring (and what to do about it) – Tech, work, and what comes next",1,0,https://constantin.glez.de/posts/2026-07-16-why-working-with-ai-agents-is-so-tiring-and-what-to-do-about-it/,https://lobste.rs/s/xzmotx,thecloudlet,,2026-11-05 23:04:15,"['ai', 'practices']",xzmotx,hot,lobsters
 A Quick Guide to Go's Assembler,1,0,https://go.dev/doc/asm,https://lobste.rs/s/o0e2wj,juliethefoxcoon,,2026-11-05 23:04:15,"['assembly', 'compilers', 'go']",o0e2wj,hot,lobsters
 How Flink's Kafka connector commits offsets to Kafka,2,0,https://dalelane.co.uk/blog/?p=6161,https://lobste.rs/s/wfw32o,eatonphil,,2026-11-05 23:04:15,"['databases', 'distributed']",wfw32o,hot,lobsters
+X-87 - DOS 256 bytes,11,0,https://www.onirom.fr/wiki/codegolf/x-87/,https://lobste.rs/s/q0ld7f,dzwdz,,2026-11-06 04:25:20,"['art', 'assembly', 'concatenative']",q0ld7f,hot,lobsters
+I Go to Olympics of 4KB Coding,3,1,https://inv.nadeko.net/watch?v=PeZNLvD4mds,https://lobste.rs/s/vwkurz,bedrovelsen,,2026-11-06 04:25:20,"['assembly', 'hardware', 'practices']",vwkurz,hot,lobsters
+Clojure Distilled,1,0,https://yogthos.net/ClojureDistilled.html,https://lobste.rs/s/dxno99,veqq,,2026-11-06 04:25:20,['lisp'],dxno99,hot,lobsters
+MCP Explained: how the Model Context Protocol works,1,0,https://mcp-explained.com/,https://lobste.rs/s/zamj0y,sp6370,,2026-11-06 04:25:20,['building-ai-tooling'],zamj0y,hot,lobsters
+How Windows Bootloader Starts the Kernel,1,0,https://www.youtube.com/watch?v=mxj7z6WqK14,https://lobste.rs/s/ml83td,juliethefoxcoon,,2026-11-06 04:25:20,"['osdev', 'video', 'windows']",ml83td,hot,lobsters
