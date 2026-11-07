@@ -4090,3 +4090,10 @@ How hard could implementing DTLS 1.3 possibly be?,5,0,https://joturk.net/posts/d
 UploadYourRam.org,6,1,https://uploadyourram.org/,https://lobste.rs/s/miazwz,icefox,,2026-11-07 03:52:59,['satire'],miazwz,hot,lobsters
 Inform is a programming language for creating interactive fiction,1,0,https://ganelson.github.io/inform-website/,https://lobste.rs/s/immpvk,veqq,,2026-11-07 03:52:59,['plt'],immpvk,hot,lobsters
 A Maintainer's Advice on Contributing to Open Source in 2026,1,0,https://wasp.sh/blog/2026/08/13/advice-for-contributing-in-2026,https://lobste.rs/s/5mnquy,hp77,,2026-11-07 03:52:59,"['culture', 'practices']",5mnquy,hot,lobsters
+Scriptable GeoDNS: leaving AWS for Bunny,10,4,https://vincent.bernat.ch/en/blog/2026-bunny-geodns,https://lobste.rs/s/jsvlfm,vbernat,,2026-11-07 12:10:25,"['performance', 'web']",jsvlfm,hot,lobsters
+Meridian — an experimental web browser built on Servo and GPUI,13,2,https://op.tngl.io/meridian/,https://lobste.rs/s/j63dme,icy,,2026-11-07 12:10:25,"['browsers', 'rust']",j63dme,hot,lobsters
+Progress Report: Linux 7.3 - Asahi Linux,17,1,https://asahilinux.org/2026/11/progress-report-7-3/,https://lobste.rs/s/4qiair,signal-11,,2026-11-07 12:10:25,"['linux', 'mac']",4qiair,hot,lobsters
+Two Dimensional Version Control,3,0,https://www.redblobgames.com/blog/2026-09-27-jujutsu-experience/,https://lobste.rs/s/49o9f3,typesanitizer,,2026-11-07 12:10:25,['vcs'],49o9f3,hot,lobsters
+Exploring Janet and the httpf web framework,4,1,https://nick.gs/blog/2026-11/exploring-janet-and-the-httpf-web-framework/,https://lobste.rs/s/ydzlvp,veqq,,2026-11-07 12:10:25,"['lisp', 'web']",ydzlvp,hot,lobsters
+Amutable Foundations: A Technical Overview,1,0,https://amutable.com/blog/amutable-foundations-technical-overview,https://lobste.rs/s/soxqxp,diktomat,,2026-11-07 12:10:25,['linux'],soxqxp,hot,lobsters
+Forwarded Without Question: How Web Frameworks Overtrust the Forwarded Header,2,0,https://www.lkoskela.fi/blog/2026-11-05-forwarded-without-question/,https://lobste.rs/s/m5kism,cameron,,2026-11-07 12:10:25,['security'],m5kism,hot,lobsters
