@@ -4114,3 +4114,11 @@ Introducing Project Steadfast,2,3,https://noteflakes.com/articles/2026-11-07-int
 "Hacking the T-Mobile Sidekick, 20 Years Too Late",3,0,https://x86.cx/blog/redanger,https://lobste.rs/s/f1nsnm,robey,,2026-11-08 12:30:46,"['retrocomputing', 'reversing']",f1nsnm,hot,lobsters
 NetBSD 11 desktop on a Raspberry Pi 4,1,0,https://neongd.com/articles/netbsd11-rpi4.gmi,https://lobste.rs/s/rv1icj,jaypatelani,,2026-11-08 12:30:46,['netbsd'],rv1icj,hot,lobsters
 PHP2Shell — Deep Dive,2,1,https://djad04.github.io/php2shell-deep-dive/,https://lobste.rs/s/d8dgav,hoistbypetard,,2026-11-08 12:30:46,"['programming', 'security']",d8dgav,hot,lobsters
+systemd loves Rust,28,14,https://amutable.com/blog/systemd-loves-rust,https://lobste.rs/s/62loik,lorenzleutgeb,,2026-11-08 21:30:32,"['rust', 'systemd']",62loik,hot,lobsters
+A bit about email,24,4,https://maurycyz.com/misc/email/,https://lobste.rs/s/jnz4v5,robalex,,2026-11-08 21:30:32,['email'],jnz4v5,hot,lobsters
+Unattended reboots with encrypted disks,4,3,https://jmmv.dev/2026/11/zkeys-intro.html,https://lobste.rs/s/urg4yu,jmmv,,2026-11-08 21:30:32,"['freebsd', 'security']",urg4yu,hot,lobsters
+Playing with the STM32MP2,4,0,https://serd.es///2026/11/08/playing-with-stm32mp2.html,https://lobste.rs/s/cwmxea,fanf,,2026-11-08 21:30:32,['hardware'],cwmxea,hot,lobsters
+"How to prove equations using diagrams, part 3",2,0,https://www.epatters.org/post/e-graphs-3/,https://lobste.rs/s/dr5zrz,saulshanabrook,,2026-11-08 21:30:32,"['compilers', 'math', 'plt']",dr5zrz,hot,lobsters
+Following breadcrumbs in code - What accidentally committed Ad-Hoc logs reveal about developer comprehension,3,1,https://link.springer.com/article/10.1007/s10664-026-10988-z,https://lobste.rs/s/b6ebju,kngl,,2026-11-08 21:30:32,"['pdf', 'practices']",b6ebju,hot,lobsters
+"Virtualized Redox: from Virtio-FS to Cloud Hypervisor, and beyond",1,0,https://www.redox-os.org/news/virtualized-redox/,https://lobste.rs/s/zozcwa,hugoarnal,,2026-11-08 21:30:32,['osdev'],zozcwa,hot,lobsters
+SFLC.in Statement Regarding the Takedown Requests Against Its X Account and Posts,1,0,https://sflc.in/sflc-in-statement-regarding-the-takedown-requests-against-its-x-account-and-posts/,https://lobste.rs/s/smx0fn,robalex,,2026-11-08 21:30:32,['law'],smx0fn,hot,lobsters
