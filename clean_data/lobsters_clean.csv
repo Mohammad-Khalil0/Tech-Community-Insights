@@ -4105,3 +4105,7 @@ Catching prompt injections hidden in PDFs,1,0,https://tomclancy.info/joshua-judg
 Alpine Linux : openssh-server password authentication bypass,2,1,https://www.alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/,https://lobste.rs/s/7dbarm,hayalci,,2026-11-07 21:15:28,['security'],7dbarm,hot,lobsters
 "*sshole, or when are we finally going to get rid of C?",1,0,https://sunshowers.io/posts/sshole/,https://lobste.rs/s/owsnms,novedevo,,2026-11-07 21:15:28,['security'],owsnms,hot,lobsters
 Workflow dependency lockfiles,1,0,https://docs.github.com/en/actions/concepts/security/workflow-dependency-lockfiles,https://lobste.rs/s/nft1s2,kokada,,2026-11-07 21:15:28,['vcs'],nft1s2,hot,lobsters
+I’m not a fan of Deno’s security model (2024),11,1,https://goldstein.lol/posts/deno-security/,https://lobste.rs/s/sh62d1,ThinkChaos,,2026-11-08 03:36:36,['security'],sh62d1,hot,lobsters
+Dear Open Source Developers: It's OK not to embargo,5,1,https://opensourcesecurity.io/2026/10-embargo/,https://lobste.rs/s/lhovnm,liberty,,2026-11-08 03:36:36,['security'],lhovnm,hot,lobsters
+"How to prove equations using diagrams, part 1",1,0,https://www.epatters.org/post/e-graphs-1/,https://lobste.rs/s/jvicvb,saulshanabrook,,2026-11-08 03:36:36,"['compilers', 'math', 'plt']",jvicvb,hot,lobsters
+Container Windows in CoW,1,0,https://m.youtube.com/watch?v=UsYaSRhf6dw,https://lobste.rs/s/zdapj7,dvogel,,2026-11-08 03:36:36,"['linux', 'video']",zdapj7,hot,lobsters
