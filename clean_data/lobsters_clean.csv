@@ -4146,3 +4146,9 @@ The race to secure record-like information for domains,1,0,https://alexsci.com/b
 Two apps one process,1,0,https://andersmurphy.com/2026/11/09/two-apps-one-process.html,https://lobste.rs/s/sifkms,andersmurphy,,2026-11-10 01:00:18,['web'],sifkms,hot,lobsters
 "Docker has always used microVMs (well, since 2016)",1,1,https://dave.recoil.org/docker-has-always-used-microvms/,https://lobste.rs/s/drozos,typesanitizer,,2026-11-10 01:00:18,"['linux', 'osdev']",drozos,hot,lobsters
 Blunt Banhammer Blocks Basic Bots Ballistically,1,0,https://shkspr.mobi/blog/2026/11/blunt-banhammer-blocks-basic-bots-ballistically/,https://lobste.rs/s/bubqox,soulcutter,,2026-11-10 01:00:18,['web'],bubqox,hot,lobsters
+Open Graph images with Astro and Typst,11,4,https://eaj.no/posts/open-graph-images-with-typst/,https://lobste.rs/s/gj5obq,eaj,,2026-11-10 14:00:34,['web'],gj5obq,hot,lobsters
+You should try Gleam,23,4,https://nchagnet.eu/blog/you-should-try-gleam,https://lobste.rs/s/4yqgpu,trousers,,2026-11-10 14:00:34,['gleam'],4yqgpu,hot,lobsters
+Building a networking switch ASIC chip,9,1,https://essenceia.github.io/projects/expresso/,https://lobste.rs/s/n8reli,florianhartung,,2026-11-10 14:00:34,['hardware'],n8reli,hot,lobsters
+Next-Level Benchmarking Overfitting,4,0,http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html,https://lobste.rs/s/nuoce5,eatonphil,,2026-11-10 14:00:34,"['databases', 'performance']",nuoce5,hot,lobsters
+The hardest tarball,1,0,https://stoppels.ch/2026/11/07/the-hardest-tarball.html,https://lobste.rs/s/t7qkjb,stabbles,,2026-11-10 14:00:34,['unix'],t7qkjb,hot,lobsters
+Reverse engineering a vintage diode-transistor logic chip,7,0,http://www.righto.com/2026/11/signetics-st680a-dtl-nand.html,https://lobste.rs/s/jqvofw,calvin,,2026-11-10 14:00:34,"['hardware', 'historical', 'reversing']",jqvofw,hot,lobsters
