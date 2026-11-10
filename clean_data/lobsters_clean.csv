@@ -4152,3 +4152,12 @@ Building a networking switch ASIC chip,9,1,https://essenceia.github.io/projects/
 Next-Level Benchmarking Overfitting,4,0,http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html,https://lobste.rs/s/nuoce5,eatonphil,,2026-11-10 14:00:34,"['databases', 'performance']",nuoce5,hot,lobsters
 The hardest tarball,1,0,https://stoppels.ch/2026/11/07/the-hardest-tarball.html,https://lobste.rs/s/t7qkjb,stabbles,,2026-11-10 14:00:34,['unix'],t7qkjb,hot,lobsters
 Reverse engineering a vintage diode-transistor logic chip,7,0,http://www.righto.com/2026/11/signetics-st680a-dtl-nand.html,https://lobste.rs/s/jqvofw,calvin,,2026-11-10 14:00:34,"['hardware', 'historical', 'reversing']",jqvofw,hot,lobsters
+.name grandfathered,110,9,https://neil.fraser.name/news/2026/11/10/,https://lobste.rs/s/vkkbwo,classichasclass,,2026-11-10 22:41:00,['networking'],vkkbwo,hot,lobsters
+Synaptics patent claims stop work on DisplayLink drivers,22,11,https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/,https://lobste.rs/s/fdnic2,calvin,,2026-11-10 22:41:00,['law'],fdnic2,hot,lobsters
+Announcing .NET 11,18,1,https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/,https://lobste.rs/s/zingk1,runesoerensen,,2026-11-10 22:41:00,"['dotnet', 'release']",zingk1,hot,lobsters
+Weird licenses and the new open source,10,18,https://dustri.org/b/weird-licenses-and-the-new-open-source.html,https://lobste.rs/s/kqjcnb,ema-pe,,2026-11-10 22:41:00,['law'],kqjcnb,hot,lobsters
+A faster Easter date function,11,2,https://www.benjoffe.com/fast-easter,https://lobste.rs/s/alijyg,eatonphil,,2026-11-10 22:41:00,"['c++', 'performance']",alijyg,hot,lobsters
+I deleted all my SSH keys,4,2,https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/,https://lobste.rs/s/sdtcvv,pushcx,,2026-11-10 22:41:00,"['hardware', 'security']",sdtcvv,hot,lobsters
+Memory Safety Bugs in Rust Standard Library,4,0,https://forge-blog.github.io/posts/rust-std-memory-safety/,https://lobste.rs/s/plreds,expurple,,2026-11-10 22:41:00,['rust'],plreds,hot,lobsters
+Large-Scale Measurement and Real-World Mitigation of Web Browser Fingerprinting in the Wild,3,1,https://fingerprinting.study/,https://lobste.rs/s/zu8tdw,freddyb,,2026-11-10 22:41:00,"['browsers', 'privacy']",zu8tdw,hot,lobsters
+Finding a vulnerability in Star Wars Episode I: Racer,1,0,https://synacktiv.com/en/publications/star-wars-episode-i-racer,https://lobste.rs/s/rfacq5,hugoarnal,,2026-11-10 22:41:00,"['c', 'security']",rfacq5,hot,lobsters
