@@ -4165,3 +4165,7 @@ Finding a vulnerability in Star Wars Episode I: Racer,1,0,https://synacktiv.com/
 Go Turns 17,8,0,https://go.dev/blog/17years,https://lobste.rs/s/idktfu,cgrinds,,2026-11-11 03:55:08,['go'],idktfu,hot,lobsters
 Rendering in batches with glimmer and Datastar,2,3,https://yogthos.net/posts/2026-11-10-glimmer-datastar.html,https://lobste.rs/s/zi6dg1,Yogthos,,2026-11-11 03:55:08,"['clojure', 'programming', 'web']",zi6dg1,hot,lobsters
 What is Functional Programming?,3,1,https://www.youtube.com/watch?v=bQlH49krwbk,https://lobste.rs/s/k5oycn,veqq,,2026-11-11 03:55:08,"['apl', 'plt', 'video']",k5oycn,hot,lobsters
+Modding Linux to use SIGKILL on every process,8,0,https://vulpinecitrus.info/blog/what-if-you-could-handle-sigkill/,https://lobste.rs/s/5wrucm,WinnerWind,,2026-11-11 13:16:58,['linux'],5wrucm,hot,lobsters
+Performance evolution of route lookup on Linux,5,0,https://vincent.bernat.ch/en/blog/2026-linux-performance-ipv4-ipv6-route-lookup,https://lobste.rs/s/vzpcnd,maytha8,,2026-11-11 13:16:58,['linux'],vzpcnd,hot,lobsters
+Using voltage glitching to unleash the A100 in my mining card,2,0,https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/,https://lobste.rs/s/zy4p7f,wgx,,2026-11-11 13:16:58,['hardware'],zy4p7f,hot,lobsters
+Monads in Lean,1,1,https://eli.thegreenplace.net/2026/monads-in-lean/,https://lobste.rs/s/quicny,abhin4v,,2026-11-11 13:16:58,['programming'],quicny,hot,lobsters
