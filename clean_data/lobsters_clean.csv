@@ -4161,3 +4161,7 @@ I deleted all my SSH keys,4,2,https://blog.infected.systems/posts/2026-11-03-i-d
 Memory Safety Bugs in Rust Standard Library,4,0,https://forge-blog.github.io/posts/rust-std-memory-safety/,https://lobste.rs/s/plreds,expurple,,2026-11-10 22:41:00,['rust'],plreds,hot,lobsters
 Large-Scale Measurement and Real-World Mitigation of Web Browser Fingerprinting in the Wild,3,1,https://fingerprinting.study/,https://lobste.rs/s/zu8tdw,freddyb,,2026-11-10 22:41:00,"['browsers', 'privacy']",zu8tdw,hot,lobsters
 Finding a vulnerability in Star Wars Episode I: Racer,1,0,https://synacktiv.com/en/publications/star-wars-episode-i-racer,https://lobste.rs/s/rfacq5,hugoarnal,,2026-11-10 22:41:00,"['c', 'security']",rfacq5,hot,lobsters
+30 years of Internet transfers with curl,9,5,https://daniel.haxx.se/blog/2026/11/11/30-years-of-internet-transfers-with-curl/,https://lobste.rs/s/x4kaac,hugoarnal,,2026-11-11 03:55:08,['historical'],x4kaac,hot,lobsters
+Go Turns 17,8,0,https://go.dev/blog/17years,https://lobste.rs/s/idktfu,cgrinds,,2026-11-11 03:55:08,['go'],idktfu,hot,lobsters
+Rendering in batches with glimmer and Datastar,2,3,https://yogthos.net/posts/2026-11-10-glimmer-datastar.html,https://lobste.rs/s/zi6dg1,Yogthos,,2026-11-11 03:55:08,"['clojure', 'programming', 'web']",zi6dg1,hot,lobsters
+What is Functional Programming?,3,1,https://www.youtube.com/watch?v=bQlH49krwbk,https://lobste.rs/s/k5oycn,veqq,,2026-11-11 03:55:08,"['apl', 'plt', 'video']",k5oycn,hot,lobsters
