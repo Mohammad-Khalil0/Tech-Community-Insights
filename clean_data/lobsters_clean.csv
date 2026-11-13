@@ -4197,3 +4197,7 @@ FreeBSD Status Report Third Quarter 2026,7,0,https://www.freebsd.org/status/repo
 Dyalog Version 21.0,3,2,https://dyalog.com/dyalog/dyalog-versions/210.htm,https://lobste.rs/s/pbc1ke,veqq,,2026-11-12 23:00:39,"['apl', 'release']",pbc1ke,hot,lobsters
 Let’s Write a PostScript Interpreter,2,0,https://beyondloom.com/blog/postscript.html,https://lobste.rs/s/8kdcdd,janerik,,2026-11-12 23:00:39,['concatenative'],8kdcdd,hot,lobsters
 Secure Exclaves and Ambient Sensing,1,1,https://security.apple.com/blog/secure-exclaves/,https://lobste.rs/s/vnugiy,kevinc,,2026-11-12 23:00:39,['security'],vnugiy,hot,lobsters
+JIT bitmap text rendering for microcontrollers,4,1,https://linebender.org/blog/jit-bitmap-text/,https://lobste.rs/s/a3elxr,wezm,,2026-11-13 04:18:34,"['graphics', 'performance']",a3elxr,hot,lobsters
+Contra Glue work considered harmful,3,0,https://sunshowers.io/posts/glue-work/,https://lobste.rs/s/f6u0cg,nrposner,,2026-11-13 04:18:34,['practices'],f6u0cg,hot,lobsters
+Building my own ADS-B receiver,3,0,https://kew.edbn.me/blog/adsb-receiver/,https://lobste.rs/s/49c859,ni5arga,,2026-11-13 04:18:34,['hardware'],49c859,hot,lobsters
+Futhark-J Bridge,2,0,https://chen.cat/j/futhark/,https://lobste.rs/s/slkmnx,veqq,,2026-11-13 04:18:34,['apl'],slkmnx,hot,lobsters
