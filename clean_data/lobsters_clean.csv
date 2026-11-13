@@ -4210,3 +4210,11 @@ ML Modules for Mere Mortals,3,0,https://thunderseethe.dev/posts/ml-modules-for-m
 Running a law firm on Free software (2026 edition),3,0,https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/,https://lobste.rs/s/ezl1sa,FedericoSchonborn,,2026-11-13 13:41:34,['practices'],ezl1sa,hot,lobsters
 Announcing the GraphQL over HTTP specification,8,0,https://graphql.org/blog/2026-11-12-announcing-the-graphql-over-http-spec/,https://lobste.rs/s/klmtb1,sp6370,,2026-11-13 13:41:34,"['api', 'web']",klmtb1,hot,lobsters
 e-means: 10x faster k-means at equal loss,3,0,https://e-means.github.io/,https://lobste.rs/s/rnmylu,Mateon1,,2026-11-13 13:41:34,['ai'],rnmylu,hot,lobsters
+Probabilistic data structures in Go,22,6,https://antonz.org/probabilistic-data-structures/,https://lobste.rs/s/xca2qj,cgrinds,,2026-11-13 23:03:54,['go'],xca2qj,hot,lobsters
+Beating the frontier on NetHack,18,2,https://antithesis.com/blog/2026/nethack/,https://lobste.rs/s/kb3fs1,hwayne,,2026-11-13 23:03:54,"['games', 'testing']",kb3fs1,hot,lobsters
+Someone's impersonating this blog,10,0,https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/,https://lobste.rs/s/wqml56,classichasclass,,2026-11-13 23:03:54,['security'],wqml56,hot,lobsters
+A technical vision for the Haskell ecosystem,14,0,https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078,https://lobste.rs/s/xe0prv,janus,,2026-11-13 23:03:54,['haskell'],xe0prv,hot,lobsters
+Kildall's algorithm,4,0,https://bike.github.io/posts/kildall.html,https://lobste.rs/s/1nmzz6,veqq,,2026-11-13 23:03:54,"['compilers', 'lisp']",1nmzz6,hot,lobsters
+Pointer Provenance in Rust vs C++,4,0,https://sofiabelen.github.io/projects/pointer-provenance-in-rust-vs-cpp/,https://lobste.rs/s/xmtjzq,gignico,,2026-11-13 23:03:54,"['c++', 'rust']",xmtjzq,hot,lobsters
+Fixing a WebKit bug to see if promises are made of train tracks,5,0,https://alistair.sh/thenables,https://lobste.rs/s/yxvn7j,pushcx,,2026-11-13 23:03:54,"['browsers', 'javascript']",yxvn7j,hot,lobsters
+Link Previews and You,3,2,https://sable.moe/en/blog/link-previews-and-you/,https://lobste.rs/s/0rmq2f,JadedBlueEyes,,2026-11-13 23:03:54,"['privacy', 'web']",0rmq2f,hot,lobsters
