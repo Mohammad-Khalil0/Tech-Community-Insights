@@ -4201,3 +4201,12 @@ JIT bitmap text rendering for microcontrollers,4,1,https://linebender.org/blog/j
 Contra Glue work considered harmful,3,0,https://sunshowers.io/posts/glue-work/,https://lobste.rs/s/f6u0cg,nrposner,,2026-11-13 04:18:34,['practices'],f6u0cg,hot,lobsters
 Building my own ADS-B receiver,3,0,https://kew.edbn.me/blog/adsb-receiver/,https://lobste.rs/s/49c859,ni5arga,,2026-11-13 04:18:34,['hardware'],49c859,hot,lobsters
 Futhark-J Bridge,2,0,https://chen.cat/j/futhark/,https://lobste.rs/s/slkmnx,veqq,,2026-11-13 04:18:34,['apl'],slkmnx,hot,lobsters
+How Not to Build a Music Player,36,2,https://alichraghi.github.io/blog/how-not-to-build-a-music-player,https://lobste.rs/s/lh9pwf,alichraghi,,2026-11-13 13:41:34,"['person', 'zig']",lh9pwf,hot,lobsters
+Terminal borders that don't cost a cell,9,2,https://www.joshka.net/cell-borders/,https://lobste.rs/s/akdy9z,joshka,,2026-11-13 13:41:34,"['design', 'graphics', 'programming']",akdy9z,hot,lobsters
+The need for at least a third option,7,0,https://blog.ovalerio.net/archives/3359,https://lobste.rs/s/9oq6fr,dethos,,2026-11-13 13:41:34,"['android', 'ios', 'mobile']",9oq6fr,hot,lobsters
+“From digital mischief to outright destruction”,5,0,https://unsung.aresluna.org/from-digital-mischief-to-outright-destruction,https://lobste.rs/s/cjnwcg,calvin,,2026-11-13 13:41:34,"['art', 'historical', 'security']",cjnwcg,hot,lobsters
+SSA from bytecode: imperative pearl,6,0,https://bernsteinbear.com/blog/ssa-bytecode/,https://lobste.rs/s/x5uq91,asb,,2026-11-13 13:41:34,['compilers'],x5uq91,hot,lobsters
+ML Modules for Mere Mortals,3,0,https://thunderseethe.dev/posts/ml-modules-for-mere-mortals/intro/,https://lobste.rs/s/mgiv0i,abhin4v,,2026-11-13 13:41:34,"['ml', 'plt']",mgiv0i,hot,lobsters
+Running a law firm on Free software (2026 edition),3,0,https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/,https://lobste.rs/s/ezl1sa,FedericoSchonborn,,2026-11-13 13:41:34,['practices'],ezl1sa,hot,lobsters
+Announcing the GraphQL over HTTP specification,8,0,https://graphql.org/blog/2026-11-12-announcing-the-graphql-over-http-spec/,https://lobste.rs/s/klmtb1,sp6370,,2026-11-13 13:41:34,"['api', 'web']",klmtb1,hot,lobsters
+e-means: 10x faster k-means at equal loss,3,0,https://e-means.github.io/,https://lobste.rs/s/rnmylu,Mateon1,,2026-11-13 13:41:34,['ai'],rnmylu,hot,lobsters
