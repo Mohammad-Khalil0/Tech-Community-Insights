@@ -4231,3 +4231,9 @@ Let Me Let You Own Your Data,16,12,https://www.willett.io/posts/data/,https://lo
 Periodic-Oriented Programming for FIRST Robotics,4,0,https://bvisness.me/periodic-oriented-programming/,https://lobste.rs/s/bwjt1b,robalex,,2026-11-15 03:59:42,['programming'],bwjt1b,hot,lobsters
 Parsing nested lists in BQN,4,0,https://saltysylvi.github.io/blog/parsing-nested-lists-in-bqn.html,https://lobste.rs/s/nbjckz,veqq,,2026-11-15 03:59:42,['apl'],nbjckz,hot,lobsters
 Reintroducing Spaces,2,1,https://dholms.leaflet.pub/3mu3p3ldwrc26,https://lobste.rs/s/dwd6xu,carlana,,2026-11-15 03:59:42,['programming'],dwd6xu,hot,lobsters
+cursor:pointer on buttons,10,5,https://blog.kizu.dev/cursors/,https://lobste.rs/s/h8tghc,two,,2026-11-15 13:13:23,"['a11y', 'css', 'web']",h8tghc,hot,lobsters
+"Memory management in 40 major C projects, a survey",2,0,https://theconsensus.dev/p/2026/11/08/c-memory-management-survey.html,https://lobste.rs/s/vdxevp,eatonphil,,2026-11-15 13:13:23,['c'],vdxevp,hot,lobsters
+Anthropomorphic Software,12,5,https://aspiz.uk/wiki/AnthropomorphicSoftware,https://lobste.rs/s/ofic7z,abhin4v,,2026-11-15 13:13:23,['culture'],ofic7z,hot,lobsters
+FreeBSD bhyve Live Migration: Moving VMs Between Hosts,7,0,https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/,https://lobste.rs/s/hiayul,fuzzy,,2026-11-15 13:13:23,"['freebsd', 'virtualization']",hiayul,hot,lobsters
+Disk encryption on NetBSD achieving secrecy,4,0,https://netbsd.org/~nia/disk-encrypt/,https://lobste.rs/s/6ovrdg,jaypatelani,,2026-11-15 13:13:23,['netbsd'],6ovrdg,hot,lobsters
+A NES emulator written in Odin,0,0,https://lucypero.com/lucynes.html,https://lobste.rs/s/dtjgmc,heavyrain266,,2026-11-15 13:13:23,['retrocomputing'],dtjgmc,hot,lobsters
