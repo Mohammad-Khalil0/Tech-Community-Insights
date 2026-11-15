@@ -4237,3 +4237,10 @@ Anthropomorphic Software,12,5,https://aspiz.uk/wiki/AnthropomorphicSoftware,http
 FreeBSD bhyve Live Migration: Moving VMs Between Hosts,7,0,https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/,https://lobste.rs/s/hiayul,fuzzy,,2026-11-15 13:13:23,"['freebsd', 'virtualization']",hiayul,hot,lobsters
 Disk encryption on NetBSD achieving secrecy,4,0,https://netbsd.org/~nia/disk-encrypt/,https://lobste.rs/s/6ovrdg,jaypatelani,,2026-11-15 13:13:23,['netbsd'],6ovrdg,hot,lobsters
 A NES emulator written in Odin,0,0,https://lucypero.com/lucynes.html,https://lobste.rs/s/dtjgmc,heavyrain266,,2026-11-15 13:13:23,['retrocomputing'],dtjgmc,hot,lobsters
+All AI-generated code should be Open Source,23,9,https://jakub.jankiewicz.org/blog/ai-code-open-source/,https://lobste.rs/s/ek4fkg,Yogthos,,2026-11-15 22:19:05,['programming'],ek4fkg,hot,lobsters
+Blog: Preventing Cross-Service UDP Loops in QUIC,4,0,https://bughunters.google.com/blog/preventing-cross-service-udp-loops-in-quic,https://lobste.rs/s/om6v89,freddyb,,2026-11-15 22:19:05,"['networking', 'security']",om6v89,hot,lobsters
+clice v1.0 Released: Welcome to Modern C++,1,0,https://www.ykiko.me/en/articles/2105384023094834022/,https://lobste.rs/s/9haygb,jeaye,,2026-11-15 22:19:05,"['c++', 'compilers']",9haygb,hot,lobsters
+A Family Tree of Software Job Titles,3,0,https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/,https://lobste.rs/s/6tmcin,sp6370,,2026-11-15 22:19:05,['culture'],6tmcin,hot,lobsters
+Strata — memory is explicit I/O,0,0,https://yrashk.com/strata/,https://lobste.rs/s/ghijzd,yrashk,,2026-11-15 22:19:05,"['assembly', 'c', 'concatenative', 'hardware', 'osdev', 'show', 'wasm']",ghijzd,hot,lobsters
+"Rust Declarative Macros: Organization, Scoping, and Common Use-Cases",1,1,https://sigseis.dev/articles/2026/11/10,https://lobste.rs/s/snorgi,isuffix,,2026-11-15 22:19:05,['rust'],snorgi,hot,lobsters
+Some problems of recursive descent parsers (2009),1,0,https://eli.thegreenplace.net/2009/03/14/some-problems-of-recursive-descent-parsers,https://lobste.rs/s/ksmkzy,tomeraberbach,,2026-11-15 22:19:05,['compilers'],ksmkzy,hot,lobsters
