@@ -4251,3 +4251,13 @@ This Month in Redox - October 2026,5,0,https://www.redox-os.org/news/this-month-
 Nix: Using the eval-profiler,3,0,https://nix.dev/manual/nix/2.35/advanced-topics/eval-profiler,https://lobste.rs/s/7kt4yi,tomeraberbach,,2026-11-16 03:59:35,"['nix', 'performance']",7kt4yi,hot,lobsters
 Designing nextest's install scripts,2,0,https://sunshowers.io/posts/nextest-install-scripts/,https://lobste.rs/s/tbpfcn,soareschen,,2026-11-16 03:59:35,"['ai', 'programming', 'rust']",tbpfcn,hot,lobsters
 Paint in the memory of other programs,1,0,https://citrons.xyz/journal/2026-04-13,https://lobste.rs/s/thiekk,gavinmorrow,,2026-11-16 03:59:35,"['programming', 'visualization']",thiekk,hot,lobsters
+Migrating from GitHub to Codeberg,36,5,https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/,https://lobste.rs/s/rhoopo,yorickpeterse,,2026-11-16 14:22:47,"['programming', 'vcs']",rhoopo,hot,lobsters
+Universal XSS in uBlock Origin from website-driven element picker,21,0,https://iter.ca/post/ubo-uxss/,https://lobste.rs/s/x0ykkw,pgr0ss,,2026-11-16 14:22:47,"['browsers', 'security', 'web']",x0ykkw,hot,lobsters
+Announcing Hegel-clj,22,0,https://aphyr.com/posts/428-announcing-hegel-clj,https://lobste.rs/s/ydzo2o,abhin4v,,2026-11-16 14:22:47,"['clojure', 'release', 'testing']",ydzo2o,hot,lobsters
+you won't win at copyright,23,2,https://ingrids.space/posts/you-wont-win-at-copyright/,https://lobste.rs/s/emdfap,sjamaan,,2026-11-16 14:22:47,"['culture', 'law', 'philosophy']",emdfap,hot,lobsters
+Squircles,4,0,https://linebender.org/wiki/curves/squircle/,https://lobste.rs/s/iihw5u,pushcx,,2026-11-16 14:22:47,['graphics'],iihw5u,hot,lobsters
+Programming a language,5,0,https://nrinaudo.github.io/articles/pl.html,https://lobste.rs/s/aavjsr,abhin4v,,2026-11-16 14:22:47,['plt'],aavjsr,hot,lobsters
+NoisyTCP,4,0,https://www.openwall.com/lists/oss-security/2026/11/15/2,https://lobste.rs/s/uegnml,hanno,,2026-11-16 14:22:47,"['linux', 'security']",uegnml,hot,lobsters
+funkycache: a Python library to cache functions in SQLite,2,0,https://alexwlchan.net/2026/funkycache/,https://lobste.rs/s/lpqxqi,robalex,,2026-11-16 14:22:47,"['performance', 'python']",lpqxqi,hot,lobsters
+What is w2rt6byl5nf1opmc-a[.]com?,2,0,https://jack.cab/blog/siterate.html,https://lobste.rs/s/dgvb5g,robalex,,2026-11-16 14:22:47,['web'],dgvb5g,hot,lobsters
+TPC-H Benchmark in PicoLisp DB,1,0,https://picolisp.com/wiki/?tpc-h,https://lobste.rs/s/nclsyw,tankf33der,,2026-11-16 14:22:47,['lisp'],nclsyw,hot,lobsters
