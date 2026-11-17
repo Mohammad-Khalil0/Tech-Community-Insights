@@ -4261,3 +4261,12 @@ NoisyTCP,4,0,https://www.openwall.com/lists/oss-security/2026/11/15/2,https://lo
 funkycache: a Python library to cache functions in SQLite,2,0,https://alexwlchan.net/2026/funkycache/,https://lobste.rs/s/lpqxqi,robalex,,2026-11-16 14:22:47,"['performance', 'python']",lpqxqi,hot,lobsters
 What is w2rt6byl5nf1opmc-a[.]com?,2,0,https://jack.cab/blog/siterate.html,https://lobste.rs/s/dgvb5g,robalex,,2026-11-16 14:22:47,['web'],dgvb5g,hot,lobsters
 TPC-H Benchmark in PicoLisp DB,1,0,https://picolisp.com/wiki/?tpc-h,https://lobste.rs/s/nclsyw,tankf33der,,2026-11-16 14:22:47,['lisp'],nclsyw,hot,lobsters
+Janet Reno was talking about my friend Coolio (computer criminal),25,8,https://michael.bacarella.com/2026/11/16/janet-reno-vs-my-friend-coolio/,https://lobste.rs/s/urcrqe,scanner_brightly,,2026-11-17 01:20:09,"['culture', 'security']",urcrqe,hot,lobsters
+How Rust Changed Me As A Developer,14,2,https://blog.startifact.com/posts/how-rust-changed-me/,https://lobste.rs/s/s7mejx,faassen,,2026-11-17 01:20:09,"['performance', 'rust']",s7mejx,hot,lobsters
+On Leaving Swift for Rust,8,5,https://www.prux.org/posts/goodbye-swift-hello-rust/,https://lobste.rs/s/6t3oi4,marcprux,,2026-11-17 01:20:09,"['mobile', 'rust', 'swift']",6t3oi4,hot,lobsters
+"Quality IMAP, Part 1: Your Mailbox Is A Database",16,5,https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-1/,https://lobste.rs/s/gm4vao,gasche,,2026-11-17 01:20:09,"['email', 'testing']",gm4vao,hot,lobsters
+Enabling the parallel frontend on nightly,21,0,https://blog.rust-lang.org/2026/11/16/enabling-parallel-frontend-on-nightly/,https://lobste.rs/s/8eivbk,fanf,,2026-11-17 01:20:09,['rust'],8eivbk,hot,lobsters
+Improving the Wii U's Wii Mode,8,0,https://garyodernichts.blogspot.com/2026/11/improving-wii-us-wii-mode.html,https://lobste.rs/s/sz6o8w,calvin,,2026-11-17 01:20:09,"['graphics', 'hardware', 'reversing']",sz6o8w,hot,lobsters
+Local Mirror for FreeBSD pkgbase,6,2,https://blog.feld.me/posts/2026/11/local-mirror-for-freebsd-pkgbase/,https://lobste.rs/s/tebwei,fanf,,2026-11-17 01:20:09,['freebsd'],tebwei,hot,lobsters
+Maxanti - A logic puzzle,0,2,https://maxanti.com,https://lobste.rs/s/qeljxh,bronlund,,2026-11-17 01:20:09,['games'],qeljxh,hot,lobsters
+Safe Systems-programming with Mutable Value Semantics | Dave Abrahams,3,0,https://www.youtube.com/watch?v=op51SyyPJmw,https://lobste.rs/s/jwtvrw,trousers,,2026-11-17 01:20:09,"['programming', 'video']",jwtvrw,hot,lobsters
