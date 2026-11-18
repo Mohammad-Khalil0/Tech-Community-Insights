@@ -4279,3 +4279,14 @@ Program-as-Weights: A Programming Paradigm for Fuzzy Functions,3,0,https://arxiv
 Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry,1,1,https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html,https://lobste.rs/s/qmofba,dasm,,2026-11-17 15:14:59,['security'],qmofba,hot,lobsters
 "MySQL Development as it Happens, Part 2 -Vector Indexes",1,0,https://blogs.oracle.com/mysql/mysql-development-as-it-happens-part-2-vector-indexes,https://lobste.rs/s/kxoqww,eatonphil,,2026-11-17 15:14:59,['databases'],kxoqww,hot,lobsters
 Where did the ACK go?,6,0,https://yashgarg.dev/posts/where-did-the-ack-go/,https://lobste.rs/s/n5jtzr,yashgarg,,2026-11-17 15:14:59,"['networking', 'reversing']",n5jtzr,hot,lobsters
+"Java4Shell: Write once, RCE everywhere",23,13,https://calif.io/java4shell/,https://lobste.rs/s/g0bf9i,unlobito,,2026-11-18 00:16:58,"['java', 'security']",g0bf9i,hot,lobsters
+Phrack 73,32,1,https://phrack.org/issues/73/introduction_md.html,https://lobste.rs/s/xu4ajj,lattera,,2026-11-18 00:16:58,"['release', 'security']",xu4ajj,hot,lobsters
+Steve Jobs Core Animation demo from WWDC 2007,19,9,https://lucas.love/100/058,https://lobste.rs/s/yqmfzq,jeanthomas,,2026-11-18 00:16:58,"['graphics', 'mac', 'video']",yqmfzq,hot,lobsters
+How to Bypass Rust's Orphan Rule,18,7,https://edvong.com/bypass-orphan-rule/,https://lobste.rs/s/oj87qu,lyxia,,2026-11-18 00:16:58,['rust'],oj87qu,hot,lobsters
+Nimony: The next version of Nim,6,2,https://nimony.org/,https://lobste.rs/s/jm8vk1,Relax,,2026-11-18 00:16:58,"['compilers', 'programming']",jm8vk1,hot,lobsters
+C’s designated initializers give us named arguments,6,4,https://quuxplusone.github.io/blog/2026/11/16/named-arguments-in-c/,https://lobste.rs/s/kktn5b,nytpu,,2026-11-18 00:16:58,"['c', 'programming']",kktn5b,hot,lobsters
+Automatic Checking of Compiler Correctness with E-Graphs,7,0,https://stng.substack.com/p/automatic-checking-of-compiler-correctness,https://lobste.rs/s/hode45,saulshanabrook,,2026-11-18 00:16:58,"['compilers', 'formalmethods']",hode45,hot,lobsters
+Sarasa Gothic Mono,6,0,https://picaq.github.io/sarasa,https://lobste.rs/s/de02yg,dgv,,2026-11-18 00:16:58,"['design', 'programming']",de02yg,hot,lobsters
+Making Games in Go: Entity Component System (ECS),5,0,https://threedots.tech/post/making-games-in-go-ecs/,https://lobste.rs/s/zoarxd,rcalixte,,2026-11-18 00:16:58,"['games', 'go']",zoarxd,hot,lobsters
+Sexp Matrix,2,0,https://lisper.cc/ideas/entangle.html,https://lobste.rs/s/zqidnu,dkarvik,,2026-11-18 00:16:58,"['clojure', 'lisp']",zqidnu,hot,lobsters
+Vx32: Lightweight User-level Sandboxing on the x86 (2008),1,0,https://pdos.csail.mit.edu/papers/vx32:usenix08.pdf,https://lobste.rs/s/ov04jq,progrium,,2026-11-18 00:16:58,"['osdev', 'pdf', 'security']",ov04jq,hot,lobsters
