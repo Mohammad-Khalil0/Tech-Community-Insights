@@ -4290,3 +4290,12 @@ Sarasa Gothic Mono,6,0,https://picaq.github.io/sarasa,https://lobste.rs/s/de02yg
 Making Games in Go: Entity Component System (ECS),5,0,https://threedots.tech/post/making-games-in-go-ecs/,https://lobste.rs/s/zoarxd,rcalixte,,2026-11-18 00:16:58,"['games', 'go']",zoarxd,hot,lobsters
 Sexp Matrix,2,0,https://lisper.cc/ideas/entangle.html,https://lobste.rs/s/zqidnu,dkarvik,,2026-11-18 00:16:58,"['clojure', 'lisp']",zqidnu,hot,lobsters
 Vx32: Lightweight User-level Sandboxing on the x86 (2008),1,0,https://pdos.csail.mit.edu/papers/vx32:usenix08.pdf,https://lobste.rs/s/ov04jq,progrium,,2026-11-18 00:16:58,"['osdev', 'pdf', 'security']",ov04jq,hot,lobsters
+"Codeberg's domain suddenly disappeared from their account, site is unreachable",116,26,https://social.anoxinon.de/@Codeberg/117636454915265360,https://lobste.rs/s/spmgsd,mort,,2026-11-18 14:51:38,['vcs'],spmgsd,hot,lobsters
+Windows 11 collects data on which coding agents and dev tools you use,14,2,https://xusheng.dev/posts/windows-coding-agent-telemetry/,https://lobste.rs/s/cwxmdw,viccuad,,2026-11-18 14:51:38,"['practices', 'privacy', 'security']",cwxmdw,hot,lobsters
+FreeBSD GUS,21,1,https://gregoire.dev/writing/gus/,https://lobste.rs/s/bhfexs,rdmsr,,2026-11-18 14:51:38,"['freebsd', 'mac']",bhfexs,hot,lobsters
+Solid 2.0,10,3,https://www.solidjs.com/blog/solid-2-0-the-long-hold,https://lobste.rs/s/dpvrbv,bio,,2026-11-18 14:51:38,"['javascript', 'web']",dpvrbv,hot,lobsters
+Stacked diffs with Maiao,3,6,https://entropicthoughts.com/stacked-diffs-with-maiao,https://lobste.rs/s/bjmwt6,kqr,,2026-11-18 14:51:38,['vcs'],bjmwt6,hot,lobsters
+Java4Shell is a reason to use Java,2,0,https://mccue.dev/pages/11-18-26-java4shell,https://lobste.rs/s/a1uff5,emccue,,2026-11-18 14:51:38,"['java', 'security']",a1uff5,hot,lobsters
+LZ-RDO lands in ARM's astc-encoder,5,0,https://www.jonolick.com/home/lz-rdo-lands-in-arms-astc-encoder,https://lobste.rs/s/tso5wr,mikejsavage,,2026-11-18 14:51:38,['compsci'],tso5wr,hot,lobsters
+Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model,1,0,https://energy-based-reasoners.github.io/,https://lobste.rs/s/8mbnbd,xyproto,,2026-11-18 14:51:38,['ai'],8mbnbd,hot,lobsters
+jQuery 4.1.0 Released,5,1,https://blog.jquery.com/2026/11/17/jquery-4-1-0-and-3-8-0-released-passing-the-torch/,https://lobste.rs/s/tp2qnr,krinkle,,2026-11-18 14:51:38,"['javascript', 'web']",tp2qnr,hot,lobsters
