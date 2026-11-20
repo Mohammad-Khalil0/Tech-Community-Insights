@@ -4331,3 +4331,14 @@ Supporting FOSS projects to transition to memory safe tech,7,0,https://tweedegol
 Mercurius — A Zero-Trust Network‑Native Window System,5,2,https://mercurius.tebibyte.org/,https://lobste.rs/s/bkvpzd,lproven,,2026-11-20 00:03:36,"['distributed', 'networking']",bkvpzd,hot,lobsters
 Postel Awardee Dave Täht Made Every Millisecond Count,7,1,https://www.internetsociety.org/blog/2026/11/postel-awardee-dave-taht-made-every-millisecond-count/,https://lobste.rs/s/03qosm,robalex,,2026-11-20 00:03:36,['person'],03qosm,hot,lobsters
 OpenRun v1.0 - declarative deployments for internal tools on Docker or Kubernetes,1,0,https://openrun.dev/blog/openrun-1.0/,https://lobste.rs/s/t9wxzg,ajayvk,,2026-11-20 00:03:36,['devops'],t9wxzg,hot,lobsters
+Vim Classic 8.3.1 released,25,7,https://vim-classic.org/news/vim-8.3.1-released.html,https://lobste.rs/s/kkglbw,FedericoSchonborn,,2026-11-20 14:40:00,"['editors', 'release']",kkglbw,hot,lobsters
+Removing binder.c,17,0,https://lwn.net/Articles/1102982/,https://lobste.rs/s/vo5jve,fanf,,2026-11-20 14:40:00,"['android', 'linux', 'rust']",vo5jve,hot,lobsters
+Visited links are purple,13,2,https://dbushell.com/2026/11/16/visited-links/,https://lobste.rs/s/hcahbx,eaj,,2026-11-20 14:40:00,"['a11y', 'web']",hcahbx,hot,lobsters
+Garage Door Spam,16,3,https://blog.harrison.page/garage-door-spam/,https://lobste.rs/s/tr5ghf,zk,,2026-11-20 14:40:00,['hardware'],tr5ghf,hot,lobsters
+Jujutsu Primer,16,4,https://ethanlowman.com/posts/jj-primer/,https://lobste.rs/s/i6dn7g,Jrmurr,,2026-11-20 14:40:00,['vcs'],i6dn7g,hot,lobsters
+Announcing jj-musubi: live sync for Jujutsu,7,1,https://www.serpentine.com/posts/2026/announcing-jj-musubi/,https://lobste.rs/s/tj1j4b,Picnoir,,2026-11-20 14:40:00,"['release', 'vcs']",tj1j4b,hot,lobsters
+"Farcall, a terminal-ready Rust PC+DOS emulator",10,1,https://www.dialup.net/farcall/,https://lobste.rs/s/lq9xuw,classichasclass,,2026-11-20 14:40:00,"['retrocomputing', 'virtualization']",lq9xuw,hot,lobsters
+Lisp Game Jam devlog: Polydraw,3,0,https://spritely.institute/news/lisp-game-jam-devlog-polydraw.html,https://lobste.rs/s/irqtic,FedericoSchonborn,,2026-11-20 14:40:00,"['games', 'lisp']",irqtic,hot,lobsters
+DreamCoder: coding harness and IDE from the author of Mastering Emacs,2,0,https://www.masteringemacs.org/article/announcing-dreamcoder,https://lobste.rs/s/ocdhli,facundoolano,,2026-11-20 14:40:00,"['building-ai-tooling', 'emacs', 'historical']",ocdhli,hot,lobsters
+Persistent incrementality in Rust,3,0,https://rust-glancer.github.io/blog/persistent-incrementality-in-rust/,https://lobste.rs/s/9bvpac,vi_mi,,2026-11-20 14:40:00,['rust'],9bvpac,hot,lobsters
+Crafting Targeted MP4 Fuzzers,1,0,https://atredis.com/blog/2026/11/16/crafting-targeted-mp4-fuzzers/,https://lobste.rs/s/yd2dkh,cameron,,2026-11-20 14:40:00,['security'],yd2dkh,hot,lobsters
