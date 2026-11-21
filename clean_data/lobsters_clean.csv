@@ -4346,3 +4346,7 @@ Levent Alpoge Claims Proof of Riemann Hypothesis,65,29,https://alpo.ge/remark.pd
 Alice v0.6.0,11,3,https://www.alicecaml.org/blog/alice-v0-6-0/,https://lobste.rs/s/18c0lq,olex,,2026-11-20 23:30:57,"['ml', 'release']",18c0lq,hot,lobsters
 Internet Archive Staffers Are Unionizing,24,3,https://cwa-union.org/news/releases/internet-archive-workers-launch-union-campaign-communications-workers-america,https://lobste.rs/s/o5coeq,skalnik,,2026-11-20 23:30:57,['culture'],o5coeq,hot,lobsters
 Verifying formal models of Raft implementations,3,0,https://antithesis.com/blog/2026/verifying-formal-models/,https://lobste.rs/s/4qcr3k,a4j,,2026-11-20 23:30:57,['formalmethods'],4qcr3k,hot,lobsters
+From Skiplists to B+ Trees: Making Valkey Sorted Sets More Memory Efficient,1,0,https://valkey.io/blog/from-skiplist-to-b+tree/,https://lobste.rs/s/ixhrac,kana,,2026-11-21 04:56:16,"['compsci', 'databases', 'performance']",ixhrac,hot,lobsters
+Scaling Git horizontally: how we moved beyond Multi-Raft,1,0,https://enroute.sh/blog/scaling-horizontally-how-we-moved-beyond-multi-raft,https://lobste.rs/s/79x708,pksunkara,,2026-11-21 04:56:16,['vcs'],79x708,hot,lobsters
+Slopstrap: Make your site look hastily vibecoded,3,3,https://slopstrap.mikelacher.com/l,https://lobste.rs/s/1n8fzn,skycam,,2026-11-21 04:56:16,"['css', 'satire', 'web']",1n8fzn,hot,lobsters
+DNS Stamps Specification,1,0,https://dnscrypt.info/stamps-specifications/,https://lobste.rs/s/1qkbmq,zk,,2026-11-21 04:56:16,['networking'],1qkbmq,hot,lobsters
