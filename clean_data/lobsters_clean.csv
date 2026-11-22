@@ -4364,3 +4364,4 @@ Advice for the next 100 Rust GUIs,10,2,https://linebender.org/blog/next-100-guis
 port scanning for mojang,11,0,https://sipacid.com/blog/port-scanning-for-mojang/,https://lobste.rs/s/et5q0q,lina_sh,,2026-11-22 04:16:02,['rant'],et5q0q,hot,lobsters
 Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced,2,1,https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/,https://lobste.rs/s/32rhzb,itamarst,,2026-11-22 04:16:02,"['ai', 'security']",32rhzb,hot,lobsters
 GhostScript CVE 2026-125396: Upload2Shell,2,1,https://pwn.ai/upload2shell/research.html,https://lobste.rs/s/n5i1ds,hoistbypetard,,2026-11-22 04:16:02,['security'],n5i1ds,hot,lobsters
+"Fixing Google’s Feedburner problem, and caching that half works",2,0,https://joshua.hu/fixing-google-feedburner-cache-problem-atom-rss,https://lobste.rs/s/nbtm5j,mtlynch,,2026-11-22 13:50:15,['web'],nbtm5j,hot,lobsters
