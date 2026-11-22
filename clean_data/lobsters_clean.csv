@@ -4365,3 +4365,10 @@ port scanning for mojang,11,0,https://sipacid.com/blog/port-scanning-for-mojang/
 Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced,2,1,https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/,https://lobste.rs/s/32rhzb,itamarst,,2026-11-22 04:16:02,"['ai', 'security']",32rhzb,hot,lobsters
 GhostScript CVE 2026-125396: Upload2Shell,2,1,https://pwn.ai/upload2shell/research.html,https://lobste.rs/s/n5i1ds,hoistbypetard,,2026-11-22 04:16:02,['security'],n5i1ds,hot,lobsters
 "Fixing Google’s Feedburner problem, and caching that half works",2,0,https://joshua.hu/fixing-google-feedburner-cache-problem-atom-rss,https://lobste.rs/s/nbtm5j,mtlynch,,2026-11-22 13:50:15,['web'],nbtm5j,hot,lobsters
+GitHub Actions accepts invalid YAML,16,0,https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/,https://lobste.rs/s/leqwqu,yossarian,,2026-11-22 23:01:01,['programming'],leqwqu,hot,lobsters
+Falsehoods Programmers Believe About ATProto,23,1,https://reiver.link/atproto/falsehoods-programmers-believe/,https://lobste.rs/s/bjoete,jacky,,2026-11-22 23:01:01,['api'],bjoete,hot,lobsters
+Gliver completes the Guix desktop,12,2,https://dustycloud.org/blog/gliver-completes-the-guix-desktop/,https://lobste.rs/s/wc8fla,eBPF,,2026-11-22 23:01:01,['linux'],wc8fla,hot,lobsters
+Calculate radio link placement and node amount for your city's mesh network,5,3,https://meshcoveragecalculator.lalala.ing/,https://lobste.rs/s/e89tey,l4l4l4l4,,2026-11-22 23:01:01,['hardware'],e89tey,hot,lobsters
+What If Netscape Did SSL the HTTP Way?,8,11,https://owl.billpg.com/what-if-netscape-did-ssl-the-http-way/,https://lobste.rs/s/yhl0jk,cript0nauta,,2026-11-22 23:01:01,"['cryptography', 'web']",yhl0jk,hot,lobsters
+scriptura: a cozy corner for your scripts,8,0,https://alanpearce.eu/post/scriptura/,https://lobste.rs/s/oeamed,winter,,2026-11-22 23:01:01,['programming'],oeamed,hot,lobsters
+Testing Terraform with AWS Emulator,1,0,https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/,https://lobste.rs/s/g5msf2,winter,,2026-11-22 23:01:01,['programming'],g5msf2,hot,lobsters
