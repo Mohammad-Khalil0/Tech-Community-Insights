@@ -4451,3 +4451,10 @@ Taking Email Back,14,1,http://www.linux-magazine.com/Online/Features/Taking-Emai
 The need for a formally verifiable mainstream programming language,8,2,https://blainehansen.me/post/mainstream-verifiable-language/,https://lobste.rs/s/byfdgn,florianhartung,,2026-11-27 01:20:39,"['ai', 'building-ai-tooling', 'formalmethods', 'plt']",byfdgn,hot,lobsters
 Ambiguous Errors Are the Mind Killer,1,0,https://amit.prasad.me/blog/ambiguous-errors,https://lobste.rs/s/wfkkh4,amit,,2026-11-27 01:20:39,['api'],wfkkh4,hot,lobsters
 Hints and hazards: pg_plan_advice in PG19,4,1,https://clickhouse.com/blog/pg-plan-advice-postgresql-19,https://lobste.rs/s/nfce9x,eatonphil,,2026-11-27 01:20:39,['databases'],nfce9x,hot,lobsters
+Tiny Hat: a new Linux distro dedicated to retro gamedev,25,2,https://roboticoverlords.org/tinyhat,https://lobste.rs/s/mbm7xw,xyproto,,2026-11-27 15:53:34,"['games', 'linux', 'retrocomputing']",mbm7xw,hot,lobsters
+Pimalaya goes stable,8,7,https://blog.pimalaya.org/pimalaya-goes-stable/,https://lobste.rs/s/kaj037,kngl,,2026-11-27 15:53:34,"['email', 'release', 'rust']",kaj037,hot,lobsters
+Exception Best Practices,5,1,https://www.well-typed.com/blog/2026/11/exception-best-practices/,https://lobste.rs/s/tgihkm,ettolrach,,2026-11-27 15:53:34,['haskell'],tgihkm,hot,lobsters
+AI made self-hosting fun again,12,6,https://janlukas.blog/posts/ai-self-hosting,https://lobste.rs/s/xsjwvi,andyc,,2026-11-27 15:53:34,"['ai', 'devops']",xsjwvi,hot,lobsters
+Company Culture = Slack Emoji ÷ sqrt(Headcount),26,8,https://lia.mg/posts/measuring-company-culture-with-slack-emoji/,https://lobste.rs/s/fin7at,ducdetronquito,,2026-11-27 15:53:34,"['culture', 'satire']",fin7at,hot,lobsters
+Curb impacts of AI on programming to maintain EU sovereignty,5,2,https://www.draketo.de/software/curb-ai-impact,https://lobste.rs/s/lmxpfo,aggsol,,2026-11-27 15:53:34,['ai'],lmxpfo,hot,lobsters
+An Overview of Go's Tooling: Version 2,1,0,https://www.alexedwards.net/blog/an-overview-of-go-tooling-v2,https://lobste.rs/s/twxtcq,telemachus,,2026-11-27 15:53:34,['go'],twxtcq,hot,lobsters
