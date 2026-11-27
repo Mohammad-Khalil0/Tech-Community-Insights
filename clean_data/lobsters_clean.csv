@@ -4447,3 +4447,7 @@ Understanding You are not expected to understand this.,6,0,https://www.taniwha.c
 Qualcomm’s Oryon 3 Reaches the Top,5,1,https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top,https://lobste.rs/s/2kwjb4,fanf,,2026-11-26 16:05:29,['hardware'],2kwjb4,hot,lobsters
 In defense of lock poisoning in Rust,4,1,https://sunshowers.io/posts/on-poisoning/,https://lobste.rs/s/wpylec,m0th,,2026-11-26 16:05:29,['rust'],wpylec,hot,lobsters
 Jiffies : The Heartbeat of the Linux Operating System (2024),1,0,https://blogs.oracle.com/linux/jiffies-the-heartbeat-of-the-linux-operating-system,https://lobste.rs/s/iqi9wp,AccidentallyInvited,,2026-11-26 16:05:29,['linux'],iqi9wp,hot,lobsters
+Taking Email Back,14,1,http://www.linux-magazine.com/Online/Features/Taking-Email-Back,https://lobste.rs/s/afxeri,lim,,2026-11-27 01:20:39,['email'],afxeri,hot,lobsters
+The need for a formally verifiable mainstream programming language,8,2,https://blainehansen.me/post/mainstream-verifiable-language/,https://lobste.rs/s/byfdgn,florianhartung,,2026-11-27 01:20:39,"['ai', 'building-ai-tooling', 'formalmethods', 'plt']",byfdgn,hot,lobsters
+Ambiguous Errors Are the Mind Killer,1,0,https://amit.prasad.me/blog/ambiguous-errors,https://lobste.rs/s/wfkkh4,amit,,2026-11-27 01:20:39,['api'],wfkkh4,hot,lobsters
+Hints and hazards: pg_plan_advice in PG19,4,1,https://clickhouse.com/blog/pg-plan-advice-postgresql-19,https://lobste.rs/s/nfce9x,eatonphil,,2026-11-27 01:20:39,['databases'],nfce9x,hot,lobsters
